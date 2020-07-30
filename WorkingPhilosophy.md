@@ -98,15 +98,28 @@ To get what you want, deserve what you want - Charlie Munger
 
 “Not enough to think or say the right things, you have to act on them” - Shane Parish
 
-Stop thinking about what a good person is/does and be one
-Can get substantial improvement by deciding to be a better person. Look around and see what traits you admire in others and then copy them. Can lead to lasting, significant improvement.  - Warren Buffet
+Stop thinking about what a good person is/does and be one.
+
+"Can get substantial improvement by deciding to be a better person. 
+Look around and see what traits you admire in others and then copy them. 
+Can lead to lasting, significant improvement."  - Warren Buffet
+
 Want some good ? Get it for yourself.  To have a good day, do good things
-Ideology is viral, Pragmatism is functional. Pragmatism is what needs to be embraced in order to do.  Always look for the pragmatic over the Ideological 
+
+Ideology is viral, Pragmatism is functional. 
+Pragmatism is what needs to be embraced in order to do.  
+Always look for the pragmatic over the Ideological 
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
 Need to embrace what happens
-You don't control what happens externally to you You are only responsible for you choices/actions. No need to get emotional about these external events. They, the external events, don't care about you. You need to respond to the situation that has presented itself. Emotional Reactions only add your suffering and limit the scope of your response. Use glimpses/mindfulness to catch/mute the reaction. 
+
+You don't control what happens externally to you You are only responsible for you choices/actions. 
+No need to get emotional about these external events. 
+They, the external events, don't care about you. 
+You need to respond to the situation that has presented itself. 
+Emotional Reactions only add your suffering and limit the scope of your response. 
+Use glimpses/mindfulness to catch/mute the reaction. 
 
 
 
