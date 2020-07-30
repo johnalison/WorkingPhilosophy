@@ -90,13 +90,10 @@ Poor Richards Almanac:
 - “The great end of life is not knowledge, but action” - Thomas Huxley
 
 - “Only thing that matters is doing the right thing right now. 
-
-      Past cannot be changed
-
-      Future is no assured 
-
-      The action in the present should be “right”
-
+   > Past cannot be changed
+   > Future is no assured 
+   > The action in the present should be “right”
+   
 - “The used key is always bright” - Poor Richard
 
 - “Not enough to think or say the right things, you have to act on them” - Shane Parish
@@ -115,24 +112,24 @@ Poor Richards Almanac:
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
-Need to embrace what happens
+Need to embrace what happens.
 
 You don't control what happens externally to you You are only responsible for you choices/actions. 
 No need to get emotional about these external events. 
 They, the external events, don't care about you. 
 You need to respond to the situation that has presented itself. 
-Emotional Reactions only add your suffering and limit the scope of your response. 
+Emotional reactions only add your suffering and limit the scope of your response. 
 Use glimpses/mindfulness to catch/mute the reaction. 
-
 
 
 # Memento Mori: All we have is time; lack of attention throws it away
 
 Death always with us, dying moment at a time.
 Important that death and its possibility color your life.
+
 Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
 
-Alive time vs Dead time
+## Alive time vs Dead time
 You don't own anything! Anything you think you own goes away when you die, and you don't know when that is going to happen. Could be tomorrow or tonight. The only one thing that is yours , that you cant be taken away from you is time.  Guard and Value it with the respect it deserves.  It's all you have...
 
 Time is constantly running out, don't know how much you got
