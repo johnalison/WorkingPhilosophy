@@ -115,14 +115,14 @@ Poor Richards Almanac:
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
-Need to embrace what happens.
+- Need to embrace what happens.
 
-You don't control what happens externally to you You are only responsible for you choices/actions. 
-No need to get emotional about these external events. 
-They, the external events, don't care about you. 
-You need to respond to the situation that has presented itself. 
-Emotional reactions only add your suffering and limit the scope of your response. 
-Use glimpses/mindfulness to catch/mute the reaction. 
+- You don't control what happens externally to you. You are only responsible for you choices/actions. 
+  No need to get emotional about these external events. 
+  They, the external events, don't care about you. 
+  You need to respond to the situation that has presented itself. 
+  Emotional reactions only add your suffering and limit the scope of your response. 
+  Use glimpses/mindfulness to catch/mute the reaction. 
 
 
 # Memento Mori: All we have is time; lack of attention throws it away
@@ -153,9 +153,10 @@ Use glimpses/mindfulness to catch/mute the reaction.
 
 # Respond, don't React (Stoic Test Strategy) 
 
-Anger/ Losing temper is never good, never improves the situation. Always best to “observe” the anger, Reflect then respond. Response always superior to reaction. Reaction is the embodiment of anger
-Poor Richards Almanac: 
-  “He who can compose himself is wiser than he who composes books”
+- Anger/ Losing temper is never good, never improves the situation. Always best to “observe” the anger, Reflect then respond. Response always superior to reaction. Reaction is the embodiment of anger
+
+- Poor Richards Almanac: “He who can compose himself is wiser than he who composes books”
+  
 
 # Systems Not Goals
 
@@ -189,15 +190,15 @@ If you deal with failure well and persist, you have a high probability of being 
 
 - If you want to do something, make a habit of it
 
-Systems and Habits
-Sleep 8 yrs/night
-Low carb
-Time restricted Feeding
-Meditate
-Exercise
-Stuff capture / Next action
-Journaling
-Read
+      - Systems and Habits
+      - Sleep 8 yrs/night
+      - Low carb
+      - Time restricted Feeding
+      - Meditate
+      - Exercise
+      - Stuff capture / Next action
+      - Journaling
+      - Read
 
 # Perfection Not required, effective self-improvement critical 
 
