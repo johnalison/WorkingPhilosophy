@@ -92,7 +92,9 @@ Poor Richards Almanac:
 - “Only thing that matters is doing the right thing right now. 
 
    > Past cannot be changed
+
    > Future is no assured 
+
    > The action in the present should be “right”
    
 - “The used key is always bright” - Poor Richard
@@ -137,9 +139,10 @@ Use glimpses/mindfulness to catch/mute the reaction.
 - Time is constantly running out, don't know how much you got
 
 - **Attention:**
-> Attention is a finite resource 
-> Is the bricks and mortar of our life
-> Amazing how easily we let it be stolen from us
+
+   > Attention is a finite resource 
+   > Is the bricks and mortar of our life
+   > Amazing how easily we let it be stolen from us
 
 - Should live more as if you had been diagnosed with some terminal disease and were going to die soon.  In fact we all have a terminal disease: “The cause of death is birth” and we don't know how much longer we have to live. 
 
