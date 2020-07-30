@@ -34,8 +34,7 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
 - Learn how to learn from those you disagree with  or even offend you. See if you can find the   
     “truth” in what they believe.  - Kevin Kelly
 - “When you fall, pick something up”
-
-We are all biased even when/if we don't think we are.
+- We are all biased even when/if we don't think we are.
  Eg: 
  Q: Who is the best/smartest person you work with?
  A: “The one who agrees with me most often is X”
