@@ -4,17 +4,17 @@
 
 
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
-   2) You are what you think, but with practice, you can change what you think
-   3) Strict with yourself, Lenient with others
-   4) You can only control what you can control
-   5) Dont Lie!
-   6) Be the good. (Intelligent ACTION is power)
-   7) Amor Fati (What happens couldn't be otherwise)
-   8) Memento Mori
-   9) Respond, don't React
-   10) Systems not Goals.
-   11) Perfection Not required, effective self-improvement critical
-   12) Do not let your happiness (well-being) depend on things you cannot control
+   2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think,-but-with-practice,-you-can-change-what-you-think)
+   3) [Strict with yourself, Lenient with others](#)
+   4) [You can only control what you can control](#)
+   5) [Dont Lie!](#)
+   6) [Be the good. (Intelligent ACTION is power)](#)
+   7) [Amor Fati (What happens couldn't be otherwise)](#)
+   8) [Memento Mori](#)
+   9) [Respond, don't React](#)
+   10) Systems not Goals.](#)
+   11) Perfection Not required, effective self-improvement critical](#)
+   12) Do not let your happiness (well-being) depend on things you cannot control](#)
 
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
@@ -46,7 +46,8 @@ Try to use EQ/BQ to see where/when I have gut reaction to something, can check t
  - Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
 
 
-You are what you think, but with practice, you can change what you think
+# You are what you think, but with practice, you can change what you think
+
 - Perfection not required
 - Begin Again
 - Important truth that most people dont know/realize 
