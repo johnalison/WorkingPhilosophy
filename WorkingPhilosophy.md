@@ -124,21 +124,20 @@ Use glimpses/mindfulness to catch/mute the reaction.
 
 # Memento Mori: All we have is time; lack of attention throws it away
 
-Death always with us, dying moment at a time.
-Important that death and its possibility color your life.
+- Death always with us, dying moment at a time.
+ Important that death and its possibility color your life.
 
-Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
+- Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
 
-#### Alive time vs Dead time
------
+#### Alive time vs Dead time:
 You don't own anything! Anything you think you own goes away when you die, and you don't know when that is going to happen. Could be tomorrow or tonight. The only one thing that is yours , that you cant be taken away from you is time.  Guard and Value it with the respect it deserves.  It's all you have...
 
-Time is constantly running out, don't know how much you got
+- Time is constantly running out, don't know how much you got
 
-   Attention: 
-       Attention is a finite resource 
-       Is the bricks and mortar of our life
-       Amazing how easily we let it be stolen from us
+#### Attention: 
+> Attention is a finite resource 
+> Is the bricks and mortar of our life
+> Amazing how easily we let it be stolen from us
 
 - Should live more as if you had been diagnosed with some terminal disease and were going to die soon.  In fact we all have a terminal disease: “The cause of death is birth” and we don't know how much longer we have to live. 
 
