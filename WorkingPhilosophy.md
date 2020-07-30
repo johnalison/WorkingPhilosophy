@@ -19,6 +19,8 @@ How to live with stress and not be stressed out is a major goal of Philosophy
 
 Purpose of philosophy not to achieve some perfect ideal, btu to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
 
+[Random Interesting thoughts](Random-Interesting-thoughts)
+
 # Moral duty to become more rational.
 
 - Learn from others mistakes
@@ -203,7 +205,8 @@ Headless way: Focusing on 1st person perspective
 Study 
 Work
 
-Interesting thoughts: 
+# Random Interesting thoughts
+
    - Can tell where we dont really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
    -  Do what is essential. 
        - Richard Heart “If youve been doing something for a while and it doesnt change your life (ie: what you do/think/believe), Why are you doing it ?”...Go do push-ups
