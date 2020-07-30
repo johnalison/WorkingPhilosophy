@@ -1,10 +1,8 @@
 # Core Tenets of Personal Philosophy: 
 
-[click on this lin](#systems-not-goals)
-
 
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
-   2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think,-but-with-practice,-you-can-change-what-you-think)
+   2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
    3) [Strict with yourself, Lenient with others](#)
    4) [You can only control what you can control](#)
    5) [Dont Lie!](#)
@@ -12,9 +10,9 @@
    7) [Amor Fati (What happens couldn't be otherwise)](#)
    8) [Memento Mori](#)
    9) [Respond, don't React](#)
-   10) Systems not Goals.](#)
-   11) Perfection Not required, effective self-improvement critical](#)
-   12) Do not let your happiness (well-being) depend on things you cannot control](#)
+   10) [Systems not Goals](#)
+   11) [Perfection Not required, effective self-improvement critical](#)
+   12) [Do not let your happiness (well-being) depend on things you cannot control](#)
 
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
@@ -60,20 +58,22 @@ What is it like right now?
 - We are our habitual thoughts
 
 
- Strict with yourself, Lenient with others
+# Strict with yourself, Lenient with others
+
 Poor Richard: Neglect kills injuries, Revenge increases them
 Need more forgiveness -> forgiveness is transcendence (transcends human nature) 
    (Good for mind / Good for future self)
 
 
-You can only control what you can control
+# You can only control what you can control
+
 - Respond dont react
 - I am the only one whose opinion really matters. I am the one who sets the standard. Use criticism/praise for what its worth, but dont look too much into it.
 - Happiness, peace, stillness, well-being come from within.
 - Only your choices are good or evil. Everything else just happens.
 - No point being upset with what happens.  Dont take it personally. Remove emotional coloring. 
 
-Dont Lie!
+# Dont Lie!
 Poor Richards Almanac: 
   “Keep conscience clean, then never fear”
 
@@ -83,7 +83,7 @@ Poor Richards Almanac:
 
 
 
-Be the good: Intelligent ACTION is power
+# Be the good: Intelligent ACTION is power
 To get what you want, deserve what you want - Charlie Munger
 “The great end of life is not knowledge, but action” - Thomas Huxley
 “Only thing that matters is doing the right think right now. 
