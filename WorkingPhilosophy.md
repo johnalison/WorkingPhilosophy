@@ -17,7 +17,7 @@
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
 
-Purpose of philosophy not to achieve some perfect ideal, btu to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
+Purpose of philosophy not to achieve some perfect ideal, btu to keep becoming more complete, more happy, more “X and happy” where x = {sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
 
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
@@ -34,8 +34,7 @@ Purpose of philosophy not to achieve some perfect ideal, btu to keep becoming mo
 - Learn how to learn from those you disagree with  or even offend you. See if you can find the   
     “truth” in what they believe.  - Kevin Kelly
 - “When you fall, pick something up”
-
-We are all biased even when/if we dont think we are.
+- We are all biased even when/if we dont think we are.
  Eg: 
  Q: Who is the best/smartest person you work with?
  A: “The one who agrees with me most often is X”
