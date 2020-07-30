@@ -7,12 +7,12 @@
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
    5) [Dont Lie!](#Dont-Lie)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
-   7) [Amor Fati (What happens couldn't be otherwise)](#)
-   8) [Memento Mori](#)
-   9) [Respond, don't React](#)
-   10) [Systems not Goals](#)
-   11) [Perfection Not required, effective self-improvement critical](#)
-   12) [Do not let your happiness (well-being) depend on things you cannot control](#)
+   7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldn't-have-been-otherwise)
+   8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
+   9) [Respond, don't React](#Respond-don't-React-Stoic-Test-Strategy)
+   10) [Systems not Goals](#Systems-Not-Goals)
+   11) [Perfection Not required, effective self-improvement critical](#Perfection-Not-required-effective-self-improvement-critical)
+   12) [Do not let your happiness (well-being) depend on things you cannot control](#Do-not-let-your-happiness-well-being-depend-on-things-you-cannot-control)
 
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
@@ -98,13 +98,15 @@ Can get substantial improvement by deciding to be a better person. Look around a
 Want some good ? Get it for yourself.  To have a good day, do good things
 Ideology is viral, Pragmatism is functional. Pragmatism is what needs to be embraced in order to do.  Always look for the pragmatic over the Ideological 
 
-Amor Fati: Embrace what happens, it couldn't have been otherwise.
+# Amor Fati: Embrace what happens, it couldn't have been otherwise.
+
 Need to embrace what happens
 You dont control what happens externally to you You are only responsible for you choices/actions. No need to get emotional about these external events. They, the external events, dont care about you. You need to respond to the situation that has presented itself. Emotional Reactions only add your suffering and limit the scope of your response. Use glimpses/mindfulness to catch/mute the reaction. 
 
 
 
-Memento Mori: All we have is time; lack of attention throws it away
+# Memento Mori: All we have is time; lack of attention throws it away
+
 Death always with us, dying moment at a time.
 Important that death and its possibility color your life.
 Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
@@ -126,7 +128,8 @@ Time is constantly running out, dont know how much you got
   Put everything that takes time or attention, costs money, or takes sacrifice through this filter.  
 
 
-Respond, don't React (Stoic Test Strategy) 
+# Respond, don't React (Stoic Test Strategy) 
+
 Anger/ Losing temper is never good, never improves the situation. Always best to “observe” the anger, Reflect then respond. Response always superiour to reaction. Reaction is the embodiment of anger
 Poor Richards Almanac: 
   “He who can compose himself is wiser than he who composes books”
@@ -173,7 +176,8 @@ Stuff capture / Next action
 Journaling
 Read
 
-Perfection Not required, effective self-improvement critical 
+# Perfection Not required, effective self-improvement critical 
+
 Seek out feedback loops: these give an easy path to self-improvement. However its important that the noise is low (eg: poker not for decision theory). Would like to put this to use with glimpses/mindfulness.
 
 If you need to specialize,  should specialie in being the best version of yourself. Much better/more-productive than some esoterica or politics or sports trivia.  Positive feedback loop
@@ -187,7 +191,8 @@ Get better at getting better.
 
 Think of life as one long training/learning period.  Use life as a “sparing partner” that we are using to improve. It is important to be clearminded and respond to what is happening, but no need to take it personally. 
 
-Do not let your happiness (well-being) depend on things you cannot control
+# Do not let your happiness (well-being) depend on things you cannot control
+
 Explains how people can be well-off an miserable or poor and happy
 Make Well-being depend only on things you can control
 Focus more on wanting what you have  
