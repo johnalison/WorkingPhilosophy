@@ -4,9 +4,9 @@
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
    3) [Strict with yourself, Lenient with others](#Strict-with-yourself-Lenient-with-others)
-   4) [You can only control what you can control](#)
-   5) [Dont Lie!](#)
-   6) [Be the good. (Intelligent ACTION is power)](#)
+   4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
+   5) [Dont Lie!](#Dont-Lie)
+   6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#)
    8) [Memento Mori](#)
    9) [Respond, don't React](#)
@@ -84,6 +84,7 @@ Poor Richards Almanac:
 
 
 # Be the good: Intelligent ACTION is power
+
 To get what you want, deserve what you want - Charlie Munger
 “The great end of life is not knowledge, but action” - Thomas Huxley
 “Only thing that matters is doing the right think right now. 
