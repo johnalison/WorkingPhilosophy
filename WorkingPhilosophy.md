@@ -3,7 +3,7 @@
 
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
-   3) [Strict with yourself, Lenient with others](#)
+   3) [Strict with yourself, Lenient with others](#Strict-with-yourself-Lenient-with-others)
    4) [You can only control what you can control](#)
    5) [Dont Lie!](#)
    6) [Be the good. (Intelligent ACTION is power)](#)
