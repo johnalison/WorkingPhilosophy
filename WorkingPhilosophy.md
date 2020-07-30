@@ -35,13 +35,12 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
     “truth” in what they believe.  - Kevin Kelly
 - “When you fall, pick something up”
 - We are all biased even when/if we don't think we are.
- Eg: 
- Q: Who is the best/smartest person you work with?
- A: “The one who agrees with me most often is X”
-Most people unlikely to think highly of anyone whose view opposes your own. 
-Strive to recognize and reduce this bias.
-Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
-
+> Eg: 
+> Q: Who is the best/smartest person you work with?
+> A: “The one who agrees with me most often is X”
+> Most people unlikely to think highly of anyone whose view opposes your own. 
+> Strive to recognize and reduce this bias.
+> Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
  - Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
 
 
@@ -90,10 +89,10 @@ To get what you want, deserve what you want - Charlie Munger
 
 “The great end of life is not knowledge, but action” - Thomas Huxley
 
-“Only thing that matters is doing the right think right now. 
-     Past cannot be changed
-     Future is no assured 
-     The action in the present should be “right”
+“Only thing that matters is doing the right thing right now. 
+>     Past cannot be changed
+>     Future is no assured 
+>     The action in the present should be “right”
 
 “The used key is always bright” - Poor Richard
 
