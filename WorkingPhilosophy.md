@@ -85,30 +85,30 @@ Poor Richards Almanac:
 
 # Be the good: Intelligent ACTION is power
 
-To get what you want, deserve what you want - Charlie Munger
+- To get what you want, deserve what you want - Charlie Munger
 
-“The great end of life is not knowledge, but action” - Thomas Huxley
+- “The great end of life is not knowledge, but action” - Thomas Huxley
 
-“Only thing that matters is doing the right thing right now. 
->     Past cannot be changed
->     Future is no assured 
->     The action in the present should be “right”
+- “Only thing that matters is doing the right thing right now. 
+    >     Past cannot be changed
+    >     Future is no assured 
+    >     The action in the present should be “right”
 
-“The used key is always bright” - Poor Richard
+- “The used key is always bright” - Poor Richard
 
-“Not enough to think or say the right things, you have to act on them” - Shane Parish
+- “Not enough to think or say the right things, you have to act on them” - Shane Parish
 
-Stop thinking about what a good person is/does and be one.
+- Stop thinking about what a good person is/does and be one.
 
-"Can get substantial improvement by deciding to be a better person. 
-Look around and see what traits you admire in others and then copy them. 
-Can lead to lasting, significant improvement."  - Warren Buffet
+- "Can get substantial improvement by deciding to be a better person. 
+   Look around and see what traits you admire in others and then copy them. 
+   Can lead to lasting, significant improvement."  - Warren Buffet
 
-Want some good ? Get it for yourself.  To have a good day, do good things
+- Want some good ? Get it for yourself.  To have a good day, do good things
 
-Ideology is viral, Pragmatism is functional. 
-Pragmatism is what needs to be embraced in order to do.  
-Always look for the pragmatic over the Ideological 
+- Ideology is viral, Pragmatism is functional. 
+  Pragmatism is what needs to be embraced in order to do.  
+  Always look for the pragmatic over the Ideological 
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
