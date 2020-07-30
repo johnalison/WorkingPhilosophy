@@ -7,7 +7,7 @@
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
    5) [Dont Lie!](#Dont-Lie)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
-   7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldn't-have-been-otherwise)
+   7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
    9) [Respond, don't React](#Respond-don't-React-Stoic-Test-Strategy)
    10) [Systems not Goals](#Systems-Not-Goals)
