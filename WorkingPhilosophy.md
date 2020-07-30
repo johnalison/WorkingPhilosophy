@@ -1,6 +1,9 @@
 # Core Tenets of Personal Philosophy: 
 
-   1) Moral duty to become more rational.
+[click on this lin](#systems-not-goals)
+
+
+   1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
    2) You are what you think, but with practice, you can change what you think
    3) Strict with yourself, Lenient with others
    4) You can only control what you can control
@@ -13,15 +16,13 @@
    11) Perfection Not required, effective self-improvement critical
    12) Do not let your happiness (well-being) depend on things you cannot control
 
-[click on this lin](#systems-not-goals)
-
-# Foo
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
 
 Purpose of philosophy not to achieve some perfect ideal, btu to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
 
-Moral duty to become more rational.
+# Moral duty to become more rational.
+
 - Learn from others mistakes
 - Critical to look at things from as many different angles as possible.
     Good things: think about what could have gone differently. What was luck ? What good 
