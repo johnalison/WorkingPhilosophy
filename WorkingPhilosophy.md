@@ -129,7 +129,7 @@ Important that death and its possibility color your life.
 
 Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
 
-## Alive time vs Dead time
+#### Alive time vs Dead time
 You don't own anything! Anything you think you own goes away when you die, and you don't know when that is going to happen. Could be tomorrow or tonight. The only one thing that is yours , that you cant be taken away from you is time.  Guard and Value it with the respect it deserves.  It's all you have...
 
 Time is constantly running out, don't know how much you got
