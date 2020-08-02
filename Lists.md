@@ -3,8 +3,7 @@
 - [Things Ive changed my mind on                                       ](#Things-Ive-changed-my-mind-on                                         )
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
 - [Things where experts disagree                                       ](#Things-where-experts-disagree                                         )
-- [Numbers                                                             ](#Numbers                                                         	)
-<!-- - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )-->
+- [Numbers                                                             ](#Numbers                                                         	) 
 - [Quotations                                                          ](#Quotations                                                            )
 - [Mental Models                                                       ](#Mental-Models                                                         )
 - [Protocols                                                           ](#Protocols                                                             )
@@ -15,6 +14,7 @@
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
+<!-- - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )-->
 
 
 # Things Ive changed my mind on
@@ -62,8 +62,6 @@
 # Numbers
 
 - 100 billion neurons in the brain
-
-# Things Ive looked up
 
 # Quotations 
 
