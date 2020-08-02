@@ -19,20 +19,20 @@
 
 # Things Ive changed my mind on
 
-- benefits of agriculture revolution
-- Worth it to fund AMS 
-- Lying 
-- Meditation
-- Gun control 
-- Crypto 
-- Immigration 
-- Calories vs Carbs
-- sleeping
-- longevity 
-- electric cars
-- going to mars
-- cryonics
-- Never talk to the cops
+   - benefits of agriculture revolution
+   - Worth it to fund AMS 
+   - Lying 
+   - Meditation
+   - Gun control 
+   - Crypto 
+   - Immigration 
+   - Calories vs Carbs
+   - sleeping
+   - longevity 
+   - electric cars
+   - going to mars
+   - cryonics
+   - Never talk to the cops
 
 # Why Now is interesting
 
@@ -64,3 +64,5 @@ Atomic weapons
 # People I look up to (North stars)
 
 # Paradoxes                                                             
+
+   - Paradox of the Mind: When we look, mind seems totally insubstantial, yet everything we experience is a modification of the mind. 
