@@ -47,7 +47,13 @@
 
 # Quotations 
 
+- “We are what we repeatedly do,” Aristotle said, “therefore excellence is not an act, but a habit.”
+
 # Mental Models
+
+- Bias Variance Trade off
+- Lepton Fake Factor
+- Closure Test
 
 # Protocols
 
@@ -62,7 +68,11 @@
 
 # What important truth do very few people agree with you on?
 
-Atomic weapons
+- Cryonics could be the most important thing you do. 
+- Value in Crypto
+- Can only eat once a day
+- Power of meditation / Stoic challenge
+- Atomic weapons are currently our number one problem
 
 # Montras
 
