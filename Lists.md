@@ -4,7 +4,7 @@
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
 - [Things where experts disagree                                       ](#Things-where-experts-disagree                                         )
 - [Numbers                                                             ](#Numbers                                                         	)
-- [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )
+% - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )
 - [Quotations                                                          ](#Quotations                                                            )
 - [Mental Models                                                       ](#Mental-Models                                                         )
 - [Protocols                                                           ](#Protocols                                                             )
