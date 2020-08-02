@@ -9,7 +9,7 @@
 - [Mental Models                                                       ](#Mental-Models                                                         )
 - [Protocols                                                           ](#Protocols                                                             )
 - [What do you we do now that will be totally replaced in 100 years?   ](#What-do-you-we-do-now-that-will-be-totally-replaced-in-100-years      )
-- [What important truth do very few people agree with you on?          ](#What-important-truth-do-very-few-people-agree-with-you-on x            )
+- [What important truth do very few people agree with you on?          ](#What-important-truth-do-very-few-people-agree-with-you-on             )
 - [Montras                                                             ](#Montras                                                         	)
 - [Things Ive started and stopped                                      ](#Things-Ive-started-and-stopped                                  	)
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                     )
