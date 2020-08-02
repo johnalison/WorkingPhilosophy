@@ -53,11 +53,25 @@
 
 # What do you we do now that will be totally replaced in 100 years?
 
+- Combustion Engines
+- Charcoal Grills
+- Driving
+- Eating insance amounts of sugar
+- War on drugs
+
+
 # What important truth do very few people agree with you on?
 
 Atomic weapons
 
 # Montras
+
+-) Is this essential ?
+-) What is this ?
+-) What if there are no problems, problems to who ?
+-) Will this help be get what I want ?
+-) Where is the truth in this ?
+-) Will this matter in a month ?
 
 # Things Ive started and stopped
 
