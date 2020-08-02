@@ -14,7 +14,7 @@
 - [Things Ive started and stopped                                      ](#Things-Ive-started-and-stopped                                  	)
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
-- [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-right-wrong-in-future                            )
+- [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
 
 
 # Things Ive changed my mind on
