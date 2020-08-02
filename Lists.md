@@ -48,7 +48,20 @@
 
 # Things where experts disagree
 
+- Interpretations of QM
+- Fermi Paradox
+- Future of AI / AGI
+- Future of Brain-Machine-Interface
+- Hierarchy Problem
+- CC 
+- Universe as Simulation
+- Free will ? 
+- Consensus 
+- Cryonics
+
 # Numbers
+
+- 100 billion neurons in the brain
 
 # Things Ive looked up
 
