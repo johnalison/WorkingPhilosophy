@@ -36,7 +36,14 @@
 
 # Why Now is interesting
 
-  Atomic weapons 
+- Multi-Planetary Species
+- AI revolutions
+- Brain-Machine Interface 
+- Longevity
+- Ability to kill all of humanity (nukes / bio) 
+- Genetic Reengineering 
+- Close to last generation that uses sex to reproduce
+- The precipus
   
 
 # Things where experts disagree
