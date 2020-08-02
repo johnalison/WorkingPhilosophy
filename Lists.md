@@ -12,9 +12,9 @@
 - [What important truth do very few people agree with you on?          ](#What-important-truth-do-very-few-people-agree-with-you-on             )
 - [Montras                                                             ](#Montras                                                         	)
 - [Things Ive started and stopped                                      ](#Things-Ive-started-and-stopped                                  	)
-- [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                     )
+- [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
-
+- [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-right-wrong-in-future                            )
 
 
 # Things Ive changed my mind on
@@ -61,8 +61,44 @@ Atomic weapons
 
 # Things Ive started and stopped
 
+- Going through solid state physics course
+- Going through electronics textbook
+
 # People I look up to (North stars)
+
+- Charlie Munger
+- Joe Kroll
+- Elliot Lipeles
+- Sam Harris
+- Dominick Olivito
+- Daniel Froideveux
+- Karol Krizka
+- Patrick Bryant
+- Elon Musk
+- Stoics
+- Jocko W
+- Bertrand Russel
+- Steven Pinker
+- Jamie Saxon
+- Tom of Tom and Deb
+- John McCain
+- Rob 
+- Yuval
+- Mike Hance
+- Mel
+- Henry 
+- Jim 
+- Beate
+- Fabiola 
 
 # Paradoxes                                                             
 
-   - Paradox of the Mind: When we look, mind seems totally insubstantial, yet everything we experience is a modification of the mind. 
+- Paradox of the Mind: When we look, mind seems totally insubstantial, yet everything we experience is a modification of the mind. 
+
+# What will be seen as right/wrong in future
+
+- Cryonics (Right)
+- Social Media (Wrong)
+- Driving (Wrong)
+- Sugar Consumption 
+- Meditation
