@@ -221,7 +221,7 @@ If you deal with failure well and persist, you have a high probability of being 
        * Choose from whats left
 
 - What are my values?
-   - Done Lie
+   - Dont Lie
    - Look for lasting change (systems not goals) 
    - Golden rule (vail of ignorance) 
    - Strict with self/lenient with other
