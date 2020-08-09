@@ -211,10 +211,11 @@ If you deal with failure well and persist, you have a high probability of being 
 
 - How to act; how to figure out what to do. 
   Two simple (but not easy) steps: 
-    -) Dont get upset 
+
+    -1 Dont get upset 
         - Removes bias 
 	- What happened had to, given what came before.
-    -) Remember your values: principle and purpose
+    -2 Remember your values: principle and purpose
         - Eliminates the obviously wrong options/choices. 
 	- Choose from whats left.  
 
