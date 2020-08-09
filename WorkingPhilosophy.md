@@ -1,6 +1,5 @@
 # Core Tenets of Personal Philosophy: 
 
-
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
    3) [Strict with yourself, Lenient with others](#Strict-with-yourself-Lenient-with-others)
@@ -56,7 +55,7 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
   stream of consciousness?
 What is it like right now?
 - We are our habitual thoughts
-
+- Being mindful of thinking and emotion is the gateway to psycological well-being. (via Sam Harris) 
 
 # Strict with yourself, Lenient with others
 
@@ -72,6 +71,7 @@ Need more forgiveness -> forgiveness is transcendence (transcends human nature)
 - Happiness, peace, stillness, well-being come from within.
 - Only your choices are good or evil. Everything else just happens.
 - No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
+
 
 # Don't Lie!
 Poor Richards Almanac: 
@@ -113,6 +113,9 @@ Poor Richards Almanac:
   Pragmatism is what needs to be embraced in order to do.  
   Always look for the pragmatic over the Ideological 
 
+- Today is the day, now is the time. THis is when/how progess gets made. Live by doing. Do by focusing fully on the current task at hand.
+   (See Standard Operating System)
+
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
 - Need to embrace what happens.
@@ -138,6 +141,10 @@ Poor Richards Almanac:
 
 - Time is constantly running out, don't know how much you got
 
+- Dont worry/think about things you dont like. No point looking down on someone or something that you dont like or find interesting. Move on, drop it. There is only so much time and energy (via Joe Rogan)
+
+- Time is all you have. No one can take it from you. But you can throw it away from lack of attention if you are careless / not mindful. 
+
 - **Attention:**
 
    > Attention is a finite resource 
@@ -157,6 +164,8 @@ Poor Richards Almanac:
 
 - Poor Richards Almanac: “He who can compose himself is wiser than he who composes books”
   
+- Getting angry nevery makes things better. To deal with stress need to get prespective (zoom way in or zoom way out). Return to the present moment. Accept the obstacle. (via Marcus Arelius)  
+
 
 # Systems Not Goals
 
@@ -200,20 +209,41 @@ If you deal with failure well and persist, you have a high probability of being 
       - Journaling
       - Read
 
+- How to act; how to figure out what to do. 
+  Two simple (but not easy) steps: 
+    -) Dont get upset 
+        - Removes bias 
+	- What happened had to, given what came before.
+    -) Remember your values: principle and purpose
+        - Eliminates the obviously wrong options/choices. 
+	- Choose from whats left.  
+
+- What are my values?
+   - Done Lie
+   - Look for lasting change (systems not goals) 
+   - Golden rule (vail of ignorance) 
+   - Strict with self/lenient with other
+   - Increace freedom/liberty when possible
+   - Equality of oppurtunity
+   - ...
+
+
 # Perfection Not required, effective self-improvement critical 
 
-Seek out feedback loops: these give an easy path to self-improvement. However its important that the noise is low (eg: poker not for decision theory). Would like to put this to use with glimpses/mindfulness.
+- Seek out feedback loops: these give an easy path to self-improvement. However its important that the noise is low (eg: poker not for decision theory). Would like to put this to use with glimpses/mindfulness.
 
-If you need to specialize,  should specialize in being the best version of yourself. Much better/more-productive than some esoteric or politics or sports trivia.  Positive feedback loop
+- If you need to specialize,  should specialize in being the best version of yourself. Much better/more-productive than some esoteric or politics or sports trivia.  Positive feedback loop
 
-Inch-by-inch progress is made. 
+- Inch-by-inch progress is made. 
 “Well-being is realized by small steps, but it is no small thing” - Zeno
 Related is concept of compounding interest
 Get better at getting better. 
 
-“Begin Again” - Important skill that is underappreciated, Under-utilized. Useful as a mantra anytime there is a daunting task.
+- “Begin Again” - Important skill that is underappreciated, Under-utilized. Useful as a mantra anytime there is a daunting task.
 
-Think of life as one long training/learning period.  Use life as a “sparing partner” that we are using to improve. It is important to be clear minded and respond to what is happening, but no need to take it personally. 
+- Think of life as one long training/learning period.  Use life as a “sparing partner” that we are using to improve. It is important to be clear minded and respond to what is happening, but no need to take it personally. 
+
+- Example: The American experiment. Country far from perfect when started (deeply flawed) with time the notion of citizen improved/expanded to be "more perfect".
 
 # Do not let your happiness (well-being) depend on things you cannot control
 
@@ -226,8 +256,19 @@ Meditation: Observing the mind
 Headless way: Focusing on 1st person perspective
 Study 
 Work
+- Stop caring what other people think. Focus on what you think is good, is just ect. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
+   Meaning must come from within. 
 
 # Random Interesting thoughts
+
+- "Tool worship is not art" Richard Heart 
+   People often focus too much on the quality of the tools and less on what you make with them.
+
+- "Only the tail events matter"
+   Heard this in the context of investing: "99% of the economy in with +/- 2 sigma of the models/expectation and only the 1% on the tails matter"
+   People sweating what 0.5% raise in interest rate would do and all of the sudden we get slammed with 20% unemployment. 
+
+- You get what you reward for. (Big lesson from Biology) 
 
    - Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
    -  Do what is essential. 
@@ -291,6 +332,22 @@ Work week - Interesting that in period 1870-1940 work week changed several times
 Difference between stress and being stressed-out.
 How to live with stress and not be stressed out is a major goal of Philosophy 
 
+"How you do everything is how you do anythign"  
+Counter point: Some problems are more important than others.  Resources Time/Energy finite. Need to triage. Allocate resources according to importance
+Goal: First prioritize then bring the correct quantity/quality of resources to bear.n
+Counter-counter point: I notice gut feeling when I cut corners (BQ!). Telling me I have probably not prioritized properly
+Standard Operating system applies here (Literally HOW I do everything) 
+Another pro-point: What you are currently doing could be the last thing you ever do!
+On more thought, this actually seems like it cuts both ways, Do you really care how well you hung that photo if you are going to be nuked in 30s ?
+
+Standard Operating system: 
+- Getting things done: art of stress-free productivity.  (David Allen) 
+- Same method avocated by Zen Habits
+- Basically: Write everything down, make a list, triage, focus entirely on one thing at a time.
+
+What is Wisdom? 
+"Noticiing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
+- Sam Harris) 
 
 
 Some AI thoughts
@@ -321,3 +378,4 @@ Sometimes get excited and open to many new threads
 
 North Stars 
 Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
+"How you do everything is how you do anythign"  

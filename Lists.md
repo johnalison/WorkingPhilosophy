@@ -100,6 +100,7 @@
 - Will this help be get what I want ?
 - Where is the truth in this ?
 - Will this matter in a month ?
+- Am I suffering? Is this necessary?
 
 # Things Ive started and stopped
 
