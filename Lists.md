@@ -14,6 +14,7 @@
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
+- [Meditations                                                         ](#Meditations                             )
 <!-- - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )-->
 
 
@@ -112,11 +113,9 @@
 - Charlie Munger
 - Joe Kroll
 - Elliot Lipeles
-- Sam Harris
 - Dominick Olivito
 - Daniel Froideveux
 - Karol Krizka
-- Patrick Bryant
 - Elon Musk
 - Stoics
 - Jocko W
@@ -133,6 +132,13 @@
 - Jim 
 - Beate
 - Fabiola 
+- Sam Harris: All around
+- Joe Rogan: Ablility to relate to people
+- Mark: Business focus.
+- Richard Heart : Insights 
+- Patrick Bryant : Reading / Insights
+- Tanmay - Breath of knowladge
+- Roy+Markus+Reinhard - Physics teaching.
 
 # Paradoxes                                                             
 
@@ -145,3 +151,7 @@
 - Driving (Wrong)
 - Sugar Consumption 
 - Meditation
+
+# Meditations 
+
+- Focus on the breath, look for the point where the focus is coming from, focus on that like it is the breath.

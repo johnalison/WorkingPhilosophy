@@ -42,6 +42,7 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
 > Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
  - Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
 
+- No  whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
 
 # You are what you think, but with practice, you can change what you think
 
@@ -55,7 +56,9 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
   stream of consciousness?
 What is it like right now?
 - We are our habitual thoughts
-- Being mindful of thinking and emotion is the gateway to psycological well-being. (via Sam Harris) 
+- Being mindful of thinking and emotion is the gateway to psychological well-being. (via Sam Harris) 
+- "Where is the self if every sign of it is appearing in consciousness?" (via waking up)
+   > Self is supposed to be the thing that is conscious. However only sign of the self is in consciousness.
 
 # Strict with yourself, Lenient with others
 
@@ -74,12 +77,17 @@ Need more forgiveness -> forgiveness is transcendence (transcends human nature)
 
 
 # Don't Lie!
+
 Poor Richards Almanac: 
   “Keep conscience clean, then never fear”
 
 “The foundation of morality is to have done away, once and for all, with lying”
                - Thomas Huxley
 
+"Be Reliable": Unreliability will cancel out all other virtues.  
+How can can I be more reliable ? 
+Say what you mean, mean what you say.
+Say what you do, do what you say.
 
 
 
@@ -113,8 +121,12 @@ Poor Richards Almanac:
   Pragmatism is what needs to be embraced in order to do.  
   Always look for the pragmatic over the Ideological 
 
-- Today is the day, now is the time. THis is when/how progess gets made. Live by doing. Do by focusing fully on the current task at hand.
+- Today is the day, now is the time. This is when/how progress gets made. Live by doing. Do by focusing fully on the current task at hand.
    (See Standard Operating System)
+
+- "Blow your own nose!" 
+   You can sit there praying your nose wont run or wait for someone else to come along and wipe it. 
+   Or you can blow your own nose, thats what you have hands for.
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -164,7 +176,7 @@ Poor Richards Almanac:
 
 - Poor Richards Almanac: “He who can compose himself is wiser than he who composes books”
   
-- Getting angry nevery makes things better. To deal with stress need to get prespective (zoom way in or zoom way out). Return to the present moment. Accept the obstacle. (via Marcus Arelius)  
+- Getting angry never makes things better. To deal with stress need to get perspective (zoom way in or zoom way out). Return to the present moment. Accept the obstacle. (via Marcus Aurelius)  
 
 
 # Systems Not Goals
@@ -223,12 +235,18 @@ If you deal with failure well and persist, you have a high probability of being 
 - What are my values?
    - Dont Lie
    - Look for lasting change (systems not goals) 
-   - Golden rule (vail of ignorance) 
+   - Golden rule (veil of ignorance) 
    - Strict with self/lenient with other
-   - Increace freedom/liberty when possible
-   - Equality of oppurtunity
+   - Increase freedom/liberty when possible
+   - Equality of opportunity
    - ...
 
+- "Coming back to a habit is the most powerful habit of all"
+  > Having the right habits are critical: Having habit to form/continue habits. Habit of self-improvement. (these are like wishes for more wishes)
+  
+- Ideas for daily habits:
+   - Single-tasking session: work on something for XX minutes with no distractions. 
+   - Daily gratitude: What have you done well ? What love about yourself/others ? 
 
 # Perfection Not required, effective self-improvement critical 
 
@@ -247,6 +265,14 @@ Get better at getting better.
 
 - Example: The American experiment. Country far from perfect when started (deeply flawed) with time the notion of citizen improved/expanded to be "more perfect".
 
+- Anti-fragility:
+Something is fragile if it easly breaks, robust if it does not break understress, and anti-fragile if it gets stronger or improves understress. 
+Lots of stoic thoughts about how to improve understress. 
+Important to be able to try many low cost experiments and iterate. 
+Think about what makes you anti-fragile. and where and how you can fail. 
+How can you optimize worse case scenerios? 
+
+
 # Do not let your happiness (well-being) depend on things you cannot control
 
 Explains how people can be well-off an miserable or poor and happy
@@ -262,6 +288,12 @@ Work
    Meaning must come from within. 
 
 # Random Interesting thoughts
+
+- Importance of finding clarity:  
+   Need clarity on:
+     -  meaning/mission of life. 
+     -  what your building to day-in/day-out
+     - How to improve relationships
 
 - "Tool worship is not art" Richard Heart 
    People often focus too much on the quality of the tools and less on what you make with them.
@@ -334,7 +366,7 @@ Work week - Interesting that in period 1870-1940 work week changed several times
 Difference between stress and being stressed-out.
 How to live with stress and not be stressed out is a major goal of Philosophy 
 
-"How you do everything is how you do anythign"  
+"How you do everything is how you do anything"  
 Counter point: Some problems are more important than others.  Resources Time/Energy finite. Need to triage. Allocate resources according to importance
 Goal: First prioritize then bring the correct quantity/quality of resources to bear.n
 Counter-counter point: I notice gut feeling when I cut corners (BQ!). Telling me I have probably not prioritized properly
@@ -344,12 +376,13 @@ On more thought, this actually seems like it cuts both ways, Do you really care 
 
 Standard Operating system: 
 - Getting things done: art of stress-free productivity.  (David Allen) 
-- Same method avocated by Zen Habits
+- Same method advocated by Zen Habits
 - Basically: Write everything down, make a list, triage, focus entirely on one thing at a time.
 
 What is Wisdom? 
-"Noticiing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
+"Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
 - Sam Harris) 
+
 
 
 Some AI thoughts
@@ -378,6 +411,17 @@ Sometimes get excited and open to many new threads
 
 
 
-North Stars 
+
+North Stars : 
 Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
-"How you do everything is how you do anythign"  
+"How you do everything is how you do anything"  
+
+
+
+Mental models:
+
+"The map is not the territory" 
+  - Understand the limits/inherent simplifications in the model
+  - Need different maps of the same territory to convey different relevent information
+  - Maps/models are tools, decisions should ultimately reflect the reality of the situation/territory.
+  - Physics Exampels: EFTs
