@@ -102,6 +102,7 @@
 - Where is the truth in this ?
 - Will this matter in a month ?
 - Am I suffering? Is this necessary?
+- Is this reason (ally) ? or is this my mind (enemy) ?
 
 # Things Ive started and stopped
 
@@ -139,6 +140,7 @@
 - Patrick Bryant : Reading / Insights
 - Tanmay - Breath of knowladge
 - Roy+Markus+Reinhard - Physics teaching.
+- Wes Baker: Honesty, loyalty.  Someone that can be depended upon.
 
 # Paradoxes                                                             
 
@@ -155,3 +157,12 @@
 # Meditations 
 
 - Focus on the breath, look for the point where the focus is coming from, focus on that like it is the breath.
+
+
+# Things I want to learn 
+
+- Brazilian Jiu-Jitzu 
+- CPR
+- How to swim
+- How to punch
+- How to shoot a gun

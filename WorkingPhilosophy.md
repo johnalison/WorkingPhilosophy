@@ -59,6 +59,12 @@ What is it like right now?
 - Being mindful of thinking and emotion is the gateway to psychological well-being. (via Sam Harris) 
 - "Where is the self if every sign of it is appearing in consciousness?" (via waking up)
    > Self is supposed to be the thing that is conscious. However only sign of the self is in consciousness.
+- Emotion is the enemy, do whatever you can to take emotion out of the equation. 
+- Mind as an enemy
+   - Used to thinking of our minds as our allies
+   - However in reality, minds are prone to laziness/want to believe a good story/dont want to be challenged/ etc
+   - It is *reason* that is our ally and is needed to keep our minds in check/unbiased.  
+
 
 # Strict with yourself, Lenient with others
 
@@ -126,7 +132,7 @@ Say what you do, do what you say.
 
 - "Blow your own nose!" 
    You can sit there praying your nose wont run or wait for someone else to come along and wipe it. 
-   Or you can blow your own nose, thats what you have hands for.
+   Or you can blow your own nose, that's what you have hands for.
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -248,6 +254,10 @@ If you deal with failure well and persist, you have a high probability of being 
    - Single-tasking session: work on something for XX minutes with no distractions. 
    - Daily gratitude: What have you done well ? What love about yourself/others ? 
 
+- Progress does not come from one big show of force.  
+  Real, true, lasting progress comes from grinding things out. 
+
+
 # Perfection Not required, effective self-improvement critical 
 
 - Seek out feedback loops: these give an easy path to self-improvement. However its important that the noise is low (eg: poker not for decision theory). Would like to put this to use with glimpses/mindfulness.
@@ -266,12 +276,17 @@ Get better at getting better.
 - Example: The American experiment. Country far from perfect when started (deeply flawed) with time the notion of citizen improved/expanded to be "more perfect".
 
 - Anti-fragility:
-Something is fragile if it easly breaks, robust if it does not break understress, and anti-fragile if it gets stronger or improves understress. 
-Lots of stoic thoughts about how to improve understress. 
+Something is fragile if it easily breaks, robust if it does not break under stress, and anti-fragile if it gets stronger or improves under stress. 
+Lots of stoic thoughts about how to improve under stress. 
 Important to be able to try many low cost experiments and iterate. 
 Think about what makes you anti-fragile. and where and how you can fail. 
-How can you optimize worse case scenerios? 
+How can you optimize worse case scenarios? 
 
+- Law of diminishing returns 
+   - Example of 80/20 
+   - Get the low hanging fruit
+   - Acquire breath of knowledge at the 80/20 level. 
+   - Then choose what long sloughs to fith. 
 
 # Do not let your happiness (well-being) depend on things you cannot control
 
@@ -287,7 +302,28 @@ Work
 - Stop caring what other people think. Focus on what you think is good, is just ect. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
    Meaning must come from within. 
 
+# Leadership is a skill that can be taught/learned
+
+- How do you become a better leader ? 
+   >   - Listen to people
+   >   - Avoid ideology 
+
+- Leadership Tactic: Detach
+  
+   - Can often see correct path forward with some distance.
+   - *Big Question* How do you remember to detach ? 
+       > Partial Answer: Use body signals to measure monitor when you are caught up. 
+       > eg: when you are getting angry/emotional clenching your jaw/fists (BQ!)
+       > This indicates you are caught up in a probable/overly focused.
+   - To detach, consciously send signals to you body: Lift head/chip up. Scan room from left to right. Breath. 
+   - Gives you perspective/space to think.
+
+
 # Random Interesting thoughts
+
+
+- "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.
+
 
 - Importance of finding clarity:  
    Need clarity on:
@@ -420,8 +456,14 @@ Karol Krizka: has the nature that when something comes up (no matter how big or 
 
 Mental models:
 
-"The map is not the territory" 
+### "The map is not the territory" 
   - Understand the limits/inherent simplifications in the model
-  - Need different maps of the same territory to convey different relevent information
+  - Need different maps of the same territory to convey different relevant information
   - Maps/models are tools, decisions should ultimately reflect the reality of the situation/territory.
-  - Physics Exampels: EFTs
+  - Physics Examples: EFTs
+
+### Law of diminishing returns
+   - Example of 80/20 
+   - Get the low hanging fruit
+   - Acquire breath of knowledge at the 80/20 level. 
+   - Then choose what long sloughs to fith. 
