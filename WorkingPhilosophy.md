@@ -42,7 +42,20 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
 > Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
  - Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
 
-- No  whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
+- whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
+
+- See the role model in everyone.
+  Important to try to emulate you want to be. 
+  Role models can be amagamations of people.
+  Look for qualities that you want to emulate in other people, even if you dont want to be like the person.
+
+- Make yourself dependable. 
+  Deserve the things you want. 
+  Its more important to deserve the things you wan than to have them.
+
+- Try to maintain objectivity
+> Automate good techinques: use check lists/protocols ect
+
 
 # You are what you think, but with practice, you can change what you think
 
@@ -64,6 +77,12 @@ What is it like right now?
    - Used to thinking of our minds as our allies
    - However in reality, minds are prone to laziness/want to believe a good story/dont want to be challenged/ etc
    - It is *reason* that is our ally and is needed to keep our minds in check/unbiased.  
+- "Fear is the bodies preparation for action. 
+  Fear does things behind the scenes to get you physically ready. 
+  Knowing that this is happening and feeling it work, can help prepare the mind, prevent it from startling" 
+  (From Pscycology of the fighting man)
+
+
 
 
 # Strict with yourself, Lenient with others
@@ -80,6 +99,7 @@ Need more forgiveness -> forgiveness is transcendence (transcends human nature)
 - Happiness, peace, stillness, well-being come from within.
 - Only your choices are good or evil. Everything else just happens.
 - No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
+
 
 
 # Don't Lie!
@@ -184,6 +204,9 @@ Say what you do, do what you say.
   
 - Getting angry never makes things better. To deal with stress need to get perspective (zoom way in or zoom way out). Return to the present moment. Accept the obstacle. (via Marcus Aurelius)  
 
+- Dont make things worse: When you find yourself in a hole, stop digging. 
+  Practically means that anger, action without plan (aka reaction) doesnt help, it hurts. 
+  Remove emotion and make a plan (aka respond)
 
 # Systems Not Goals
 
@@ -436,6 +459,8 @@ Related to above: How much smarter than humans can something get ? With narrow i
 AI is a tragedy of the commons: Globally want to take our time with AI (huge potential downside). Personally, (without radical longevity) I want to accelerate AU b/c the downside of not getting AI and dying is (almost certainly) the same as getting bad AI.
 
 Like Elons response: Try to become the AI. Requires increasing bandwidth via neurallink.
+
+
 
 
 Thoughts about truth: 

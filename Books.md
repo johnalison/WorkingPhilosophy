@@ -1,4 +1,4 @@
-# Road to Reality by Roger Penrose
+# The Road to Reality (Roger Penrose)
 
    - "3 mysteries of reality" (biggest take away) 
       Idea: the physical world can be described by (is contained in) the mathematical world. 
@@ -13,3 +13,6 @@
 
    - Good take on problems with QM
 
+
+
+# Fight Club (Cluck Palahniuk)

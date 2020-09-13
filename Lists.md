@@ -73,8 +73,19 @@
 - Bias Variance Trade off
 - Lepton Fake Factor
 - Closure Test
+- Circle of Competencies
+   > Understand/be aware of what you dont know and what you are not an expert it.
+   > Probe to find where the limits of "experts" are
+- First principles thinking
+  > 
 
 # Protocols
+
+- Steph mad at me
+- H getting on my nerves
+- Meetings
+- Reading papers
+- Reading booksg
 
 # What do you we do now that will be totally replaced in 100 years?
 
@@ -97,12 +108,17 @@
 
 - Is this essential ?
 - What is this ?
+- What if this is it ?
+- Where is the self ?
 - What if there are no problems, problems to who ?
 - Will this help be get what I want ?
 - Where is the truth in this ?
 - Will this matter in a month ?
 - Am I suffering? Is this necessary?
 - Is this reason (ally) ? or is this my mind (enemy) ?
+- What if nothing needs to be changed ?
+
+
 
 # Things Ive started and stopped
 
@@ -141,6 +157,8 @@
 - Tanmay - Breath of knowladge
 - Roy+Markus+Reinhard - Physics teaching.
 - Wes Baker: Honesty, loyalty.  Someone that can be depended upon.
+- Dad 
+- Mom
 
 # Paradoxes                                                             
 
