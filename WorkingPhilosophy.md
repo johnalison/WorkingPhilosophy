@@ -4,7 +4,7 @@
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
    3) [Strict with yourself, Lenient with others](#Strict-with-yourself-Lenient-with-others)
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
-   5) [Don't Lie!](#Dont-Lie)
+   5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
@@ -106,7 +106,7 @@ What is it like right now?
 
 
 
-# Don't Lie!
+# Don't Lie! (Evil only possible through lies)
 
 Poor Richards Almanac: 
   “Keep conscience clean, then never fear”
@@ -169,6 +169,8 @@ Say what you do, do what you say.
   Emotional reactions only add your suffering and limit the scope of your response. 
   Use glimpses/mindfulness to catch/mute the reaction. 
 
+- Be the calm. Calm is contagious. 
+  > Need to do more thinking before speaking.
 
 # Memento Mori: All we have is time; lack of attention throws it away
 
@@ -298,6 +300,10 @@ If you deal with failure well and persist, you have a high probability of being 
   Whey you dont get the promotion ... "Good"
   "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.
 
+- **Focus on the present** Easy to get bogged down by the big picture. 
+  This is really where __the operating system__ comes in. 
+  Map out the big picture (ie: Zoom out), then focus on what the *next steps are* (ie: Zoom in). 
+  Then readdress the Big picture as needed.
 
 # Perfection Not required, effective self-improvement critical 
 
@@ -479,7 +485,11 @@ AI is a tragedy of the commons: Globally want to take our time with AI (huge pot
 
 Like Elons response: Try to become the AI. Requires increasing bandwidth via neurallink.
 
+Natural sources of exessential threat are essentially negligible compared to the human create ones.
 
+Interesting idea: Gene sequence any medical cases where there is illness but we cannot make a diagonosis. Would allow us to catch potential problems sooner.
+
+Reason for optimism: We have had a radical change in our relationship/outlook toward the enviroment since the 60s. Might be able to do something similar for exessential risk.
 
 
 Thoughts about truth: 
