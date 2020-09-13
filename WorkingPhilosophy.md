@@ -257,6 +257,11 @@ If you deal with failure well and persist, you have a high probability of being 
 - Progress does not come from one big show of force.  
   Real, true, lasting progress comes from grinding things out. 
 
+- When things are going bad Bad ... "Good"
+  When things arent going as expected ... "Good"
+  Whey you dont get the promotion ... "Good"
+  "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.
+
 
 # Perfection Not required, effective self-improvement critical 
 
