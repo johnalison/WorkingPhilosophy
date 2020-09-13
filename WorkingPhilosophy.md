@@ -442,6 +442,12 @@ Standard Operating system:
 - Getting things done: art of stress-free productivity.  (David Allen) 
 - Same method advocated by Zen Habits
 - Basically: Write everything down, make a list, triage, focus entirely on one thing at a time.
+- More detail
+  > Start of the day: scan projects, come up with next actions
+  
+  > work mode: Pull from next actions 
+  
+  > Suff list: as thing occur to me write them in inbox. 
 
 What is Wisdom? 
 "Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"

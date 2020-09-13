@@ -16,3 +16,11 @@
 
 
 # Fight Club (Cluck Palahniuk)
+
+  - Story about awakening.
+
+  - Character study of an person going insane
+
+  - Paraphrasing: "Life starts when you know you are going to die."
+
+  - Explicit connections: w/Budishhm some connections with Stocism
