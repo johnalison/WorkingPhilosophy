@@ -42,12 +42,12 @@
 - Brain-Machine Interface 
 - Longevity
 - Ability to kill all of humanity (nukes / bio) 
-- Genetic Reengineering 
+- Genetic Re-engineering 
 - Close to last generation that uses sex to reproduce
 - The precipice:
-  > Claim that we now posess the ability to destroy ourselves without the wisdom to avoid doing so.
+  > Claim that we now possess the ability to destroy ourselves without the wisdom to avoid doing so.
   > => high probability this will happen. 
-  > If we can avoid total desctruction in next couple 100 years, we will have  the ability to "live forever" 
+  > If we can avoid total destruction in next couple 100 years, we will have  the ability to "live forever" 
   
 
 # Things where experts disagree
@@ -84,6 +84,17 @@
   > Look for moving parts, knowns/unknowns and see how things fit together.  
   > Ignore the stories that you cant understand. 
   > Doubt everything that you cant get to from axioms.
+- The map is not the territory
+  > Understand the limits/inherent simplifications in the model
+  > Need different maps of the same territory to convey different relevant information
+  > Maps/models are tools, decisions should ultimately reflect the reality of the situation/territory.
+  > Physics Examples: EFTs
+- Law of diminishing returns
+   > Example of 80/20 
+   > Get the low hanging fruit
+   > Acquire breath of knowledge at the 80/20 level. 
+   > Then choose what long sloughs to fith. 
+
 
 # Protocols
 
@@ -93,14 +104,14 @@
 - H getting on my nerves
 - Meetings
 - Reading papers
-- Reading booksg
+- Reading books
 
 # What do you we do now that will be totally replaced in 100 years?
 
 - Combustion Engines
 - Charcoal Grills
 - Driving
-- Eating insance amounts of sugar
+- Eating insane amounts of sugar
 - War on drugs
 
 
@@ -128,7 +139,7 @@
 
 
 
-# Things Ive started and stopped
+# Things I've started and stopped
 
 - Going through solid state physics course
 - Going through electronics textbook

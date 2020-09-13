@@ -38,3 +38,9 @@
 - "Seems like the only kind of job an American can get these days is committing suicide in some way"
 - I wont know myself until I find out whether life is serious or not"
 
+
+
+# Poor Richards Almanac (Ben Franklin)
+- "No ugly lovers, no handsome prisons"
+- "Speak with contempt of non, from slave to king. The smallest bee has, (and will use) a sting"
+  

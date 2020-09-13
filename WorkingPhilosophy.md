@@ -20,6 +20,10 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
 
 Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
 
+What is Wisdom? 
+"Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
+- Sam Harris) 
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
 # Moral duty to become more rational.
@@ -58,6 +62,12 @@ Worth spending time and energy developing a plan to minimize emotional harm from
 - Try to maintain objectivity
 > Automate good techinques: use check lists/protocols ect
 
+- Need to tolerate both types of errors: 
+    Type1 : “letting the bad in”
+     Type2: “kicking the good out”  
+  You are unlikely to be optimal unless you have some tolerance of both
+
+
 
 # You are what you think, but with practice, you can change what you think
 
@@ -84,7 +94,10 @@ What is it like right now?
   Knowing that this is happening and feeling it work, can help prepare the mind, prevent it from startling" 
   (From Pscycology of the fighting man)
 
+- Can satiate desire by thinking-about  or being-aware-of desire. Don't necessarily have to indulge the desire. 
 
+- How do you know you're not a brain in a vat?  Turns outs, you are a brain in a vat! 
+  Everything you are, think, see, feel is electrical signals.  - Elon Musk
 
 
 # Strict with yourself, Lenient with others
@@ -157,6 +170,11 @@ Say what you do, do what you say.
 - "Blow your own nose!" 
    You can sit there praying your nose wont run or wait for someone else to come along and wipe it. 
    Or you can blow your own nose, that's what you have hands for.
+
+-  Do what is essential. 
+    - Richard Heart “If you've been doing something for a while and it docent change your life (ie: what you do/think/believe), Why are you doing it ?”...Go do push-ups
+
+- “Whats the next action?” Philosophy seems to be practical/effective and clarifying. 
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -313,6 +331,19 @@ If you deal with failure well and persist, you have a high probability of being 
   Map out the big picture (ie: Zoom out), then focus on what the *next steps are* (ie: Zoom in). 
   Then readdress the Big picture as needed.
 
+## Standard Operating system: 
+- Getting things done: art of stress-free productivity.  (David Allen) 
+- Same method advocated by Zen Habits
+- Basically: Write everything down, make a list, triage, focus entirely on one thing at a time.
+- More detail
+  > Start of the day: scan projects, come up with next actions
+  
+  > work mode: Pull from next actions 
+  
+  > Suff list: as thing occur to me write them in inbox. 
+
+
+
 # Perfection Not required, effective self-improvement critical 
 
 - Seek out feedback loops: these give an easy path to self-improvement. However its important that the noise is low (eg: poker not for decision theory). Would like to put this to use with glimpses/mindfulness.
@@ -374,11 +405,9 @@ Work
    - Gives you perspective/space to think.
 
 
-# Random Interesting thoughts
-
-
 - "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.
 
+# Random Interesting thoughts
 
 - Importance of finding clarity:  
    Need clarity on:
@@ -395,17 +424,11 @@ Work
 
 - You get what you reward for. (Big lesson from Biology) 
 
-   - Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
-   -  Do what is essential. 
-       - Richard Heart “If youse been doing something for a while and it docent change your life (ie: what you do/think/believe), Why are you doing it ?”...Go do push-ups
+- Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
 
 “Waste no time or Energy on grudges” Churchill 
 
-“Whats the next action?” Philosophy seems to be practical/effective and clarifying. 
-
 Power of thinking about diminishing returns not respected by enough democrats/liberals. Worth getting problems 90% solved; the extra 10% is often not worth the cost, politically
-
-Can satiate desire by thinking-about  or being-aware-of desire. Don't necessarily have to indulge the desire. 
 
 Mathematics used to have long standing unsolved problems ~100 years ago
    Riemann Hyp/ Fermat's Last theorem/ Continuum Hyphothese / Four color problem
@@ -415,29 +438,18 @@ Monster group: has as many elements as there are particles in Jupiter!! Whats it
 
 Potential in capitalism at the local level (eg: apparently now illegal for regular people to invest in start-ups, Reasons to think this could change (knowledge project #??) Could have huge impact on income inequality. 
 
-Poor Richards Almanac: 
-   “No ugly lovers, no handsome prisons” 
-   “Speak with contempt of non, from slave to king
-    The smallest bee has, (and will use) a sting”
-
 Socialism for needs, Capitalism for wants. 
    Especially now, critical to push hard on both of these.  Seems like the right has forgot   
     the former, and the left has forgot the latter.
-
-Need to tolerate both types of errors: 
-    Type1 : “letting the bad in”
-     Type2: “kicking the good out”  
-  You are unlikely to be optimal unless you have some tolerance of both
 
 What makes a good life ? What is the goal? 
 Not hedonic happiness (HH): shouldn't expect this to be the goal. We were not selected for it.  HH is a tracer for what we were selected for. But not end in itself
 If not happiness then what ?  (living according to a philosophy … ?)
 
 Cryonics could be the most important thing you do. 
+Cryonics could serve some similar function to belief in heaven for an atheist. 
 
 Death is a puzzle to solve not some inevitable outcome to submit to.
-
-Cryonics could serve some similar function to belief in heaven for an atheist. 
 
 QM is or brings, in a sense, the end of reduction-ism via entanglement.  In an entangled system, no way to reduce it to just the action of one of the spins.
 
@@ -448,9 +460,6 @@ Someone asked Watson (or Deepmind) what the purpose/meaning of life is, it repli
 Gene-level - immortality is the only goal
 Human Instinct - gut reactions about avoiding death
 Longevity Movement - rationally fighting against death
-
-How do you know you're not a brain in a vat?  Turns outs, you are a brain in a vat! 
-Everything you are, think, see, feel is electrical signals.  - Elon Musk
 
 Work week - Interesting that in period 1870-1940 work week changed several times 12->10->8 hrs per day.  6->5 days per week.  No change in standard since.
 
@@ -464,22 +473,6 @@ Counter-counter point: I notice gut feeling when I cut corners (BQ!). Telling me
 Standard Operating system applies here (Literally HOW I do everything) 
 Another pro-point: What you are currently doing could be the last thing you ever do!
 On more thought, this actually seems like it cuts both ways, Do you really care how well you hung that photo if you are going to be nuked in 30s ?
-
-Standard Operating system: 
-- Getting things done: art of stress-free productivity.  (David Allen) 
-- Same method advocated by Zen Habits
-- Basically: Write everything down, make a list, triage, focus entirely on one thing at a time.
-- More detail
-  > Start of the day: scan projects, come up with next actions
-  
-  > work mode: Pull from next actions 
-  
-  > Suff list: as thing occur to me write them in inbox. 
-
-What is Wisdom? 
-"Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
-- Sam Harris) 
-
 
 
 Some AI thoughts
@@ -499,8 +492,6 @@ Interesting idea: Gene sequence any medical cases where there is illness but we 
 
 Reason for optimism: We have had a radical change in our relationship/outlook toward the enviroment since the 60s. Might be able to do something similar for exessential risk.
 
-
-
 Thoughts about truth: 
 Truth - reality / objective 
 tribal truth - What your group agrees is true
@@ -513,25 +504,11 @@ Initial reactions to new things often biased negatively
 Some people I dislike for no apparent reason
 Sometimes get excited and open to many new threads
 
-
-
-
 North Stars : 
 Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
 "How you do everything is how you do anything"  
 
 
 
-Mental models:
 
-### "The map is not the territory" 
-  - Understand the limits/inherent simplifications in the model
-  - Need different maps of the same territory to convey different relevant information
-  - Maps/models are tools, decisions should ultimately reflect the reality of the situation/territory.
-  - Physics Examples: EFTs
 
-### Law of diminishing returns
-   - Example of 80/20 
-   - Get the low hanging fruit
-   - Acquire breath of knowledge at the 80/20 level. 
-   - Then choose what long sloughs to fith. 
