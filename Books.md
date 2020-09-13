@@ -2,13 +2,13 @@
 
    - "3 mysteries of reality" (biggest take away) 
       Idea: the physical world can be described by (is contained in) the mathematical world. 
-      The mathematical world can be entrely discovered (?) (understood) by the mental world.
+      The mathematical world can be entirely discovered (?) (understood) by the mental world.
       The  mental world (consciousness) is entirely a product of the physical world. 
       Nested loop. 
 
-   - Interesting take on particle physics "zig-zag" model of electorn interactions.
+   - Interesting take on particle physics "zig-zag" model of electron interactions.
  
-   - Interesting discussion of Cantor's threory of the infinite and Godels incompleteness theorm.
+   - Interesting discussion of Cantor's theory of the infinite and Godel's incompleteness theorem.
        (Want to read the emperors new mind
 
    - Good take on problems with QM
@@ -23,10 +23,18 @@
   - Paraphrasing: "Life starts when you know you are going to die."
   - "On a long enough timeline, the survival rate for everyone drops to zero."
   - "This is your life and its ending one minute at a time."
-  - Explicit connections: w/Budishhm some connections with Stocism
+  - Explicit connections: w/Buddhism some connections with Stoicism
   - Keeping personal burial money on hand (Monento Mori)
 
 # Rise and Fall of American Growth (Robert Gordon)
-  - Point that a log of growth has come from things that can only happen once: install plumbing / cure infectuous deseases / ect.
+  - Point that a log of growth has come from things that can only happen once: install plumbing / cure infectious diseases / ect.
   - Now in position where growth really only happening in one, small sector (IT)
-  - Points out a lot of problems that will slow groth in next decades: Inequality / Education / Grov. Debt / Income Inequality
+  - Points out a lot of problems that will slow growth in next decades: Inequality / Education / Grov. Debt / Income Inequality
+
+# Breakfast of Champions (Kurt Vonnegut)
+- Didn't really get it. Was obviously a lot of cleaver stuff going on, most of it was over my head. 
+- "I thank those lusts (of gold and seeing little girls underpants) for being so ridiculous for they taught us that it was possible for a human being to believe anything"
+- "Ideas on earth were badges of friendship. Friends agreed with friends to express friendliness. Enemies disagreed with  enemies in order to express enmity."
+- "Seems like the only kind of job an American can get these days is committing suicide in some way"
+- I wont know myself until I find out whether life is serious or not"
+

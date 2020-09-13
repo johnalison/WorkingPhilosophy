@@ -8,7 +8,7 @@
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
-   9) [Respond, don't React (Stoic Test Strategy)](#Respond-dont-React-Stoic-Test-Strategy)
+   9) [Respond, don't React (Employ Stoic Test Strategy)](#Respond-dont-React-Stoic-Test-Strategy)
    10) [Systems not Goals](#Systems-Not-Goals)
    11) [Perfection Not required, effective self-improvement critical](#Perfection-Not-required-effective-self-improvement-critical)
    12) [Do not let your happiness (well-being) depend on things you cannot control](#Do-not-let-your-happiness-well-being-depend-on-things-you-cannot-control)
@@ -119,7 +119,7 @@ How can can I be more reliable ?
 Say what you mean, mean what you say.
 Say what you do, do what you say.
 
-
+- Dont cheat, dont mislead, dont talk behind others backs, dont act sneaky, dont avoid doing things you should or need to do
 
 # Be the good: Intelligent ACTION is power
 
@@ -202,7 +202,7 @@ Say what you do, do what you say.
   Put everything that takes time or attention, costs money, or takes sacrifice through this filter.  
 
 
-# Respond, don't React (Stoic Test Strategy) 
+# Respond, don't React (Employ Stoic Test Strategy) 
 
 - Anger/ Losing temper is never good, never improves the situation. Always best to “observe” the anger, Reflect then respond. Response always superior to reaction. Reaction is the embodiment of anger
 
@@ -214,14 +214,22 @@ Say what you do, do what you say.
   Practically means that anger, action without plan (aka reaction) doesnt help, it hurts. 
   Remove emotion and make a plan (aka respond)
 
-### Stoic Test Challenge 
+### Stoic Test Strategy 
    > Set backs can be reframed as challenges to test our strength of character. 
    > Reframing turns negative situation into positive oppurtunity to prove yourself worthy.
    > We control how we frame situation we experience"
    > Reframing helps us control our Response, allows up to be nice/decent to one another.
    > "We are bad men living among bad men, one thing that can calm us down is to be easy on each other"
    > Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
+ 
+ - We are fundamentally a divided self:  Mind vs Body. Conscious (rational) vs unconscious/emotions (automate/base) 
+   Note: unconscious emotions are important. There is a lot that is easy at an intuitive level that is hard to rationalize ("gut feelings"). Often correct.
+   Can use mindfulness/BQ has a hack to tap into these acient algorithms
 
+ - To succeed in a Stoic Test Challenge need 1) plan effective workarounds 2) avoid getting caught in negative emotions. 
+
+ - Can remove/silence/mute susb-conscious from loop by treating setback as *Sotic Test*.  (See "Disengage/Step back")
+   Prevents emotions from coming online. Lowers "cost" of setback. Improves change of sucess.
 
 # Systems Not Goals
 
@@ -490,6 +498,7 @@ Natural sources of exessential threat are essentially negligible compared to the
 Interesting idea: Gene sequence any medical cases where there is illness but we cannot make a diagonosis. Would allow us to catch potential problems sooner.
 
 Reason for optimism: We have had a radical change in our relationship/outlook toward the enviroment since the 60s. Might be able to do something similar for exessential risk.
+
 
 
 Thoughts about truth: 
