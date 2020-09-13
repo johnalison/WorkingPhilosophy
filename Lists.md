@@ -44,7 +44,10 @@
 - Ability to kill all of humanity (nukes / bio) 
 - Genetic Reengineering 
 - Close to last generation that uses sex to reproduce
-- The precipus
+- The precipice:
+  > Claim that we now posess the ability to destroy ourselves without the wisdom to avoid doing so.
+  > => high probability this will happen. 
+  > If we can avoid total desctruction in next couple 100 years, we will have  the ability to "live forever" 
   
 
 # Things where experts disagree
@@ -84,7 +87,8 @@
 
 # Protocols
 
-- *Stoic Test Challenge*
+- **Stoic Test Challenge**
+- When things are bad...__*"GOOD"*__
 - Steph mad at me
 - H getting on my nerves
 - Meetings

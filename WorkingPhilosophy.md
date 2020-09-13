@@ -18,6 +18,8 @@ How to live with stress and not be stressed out is a major goal of Philosophy
 
 Purpose of philosophy not to achieve some perfect ideal, but to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
 
+Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
 # Moral duty to become more rational.
@@ -210,6 +212,15 @@ Say what you do, do what you say.
   Practically means that anger, action without plan (aka reaction) doesnt help, it hurts. 
   Remove emotion and make a plan (aka respond)
 
+### Stoic Test Challenge 
+   > Set backs can be reframed as challenges to test our strength of character. 
+   > Reframing turns negative situation into positive oppurtunity to prove yourself worthy.
+   > We control how we frame situation we experience"
+   > Reframing helps us control our Response, allows up to be nice/decent to one another.
+   > "We are bad men living among bad men, one thing that can calm us down is to be easy on each other"
+   > Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
+
+
 # Systems Not Goals
 
 - Habits compound interest of self improvement
@@ -287,12 +298,6 @@ If you deal with failure well and persist, you have a high probability of being 
   Whey you dont get the promotion ... "Good"
   "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.
 
-## Stoic Test Challenge 
-   - Set backs can be reframed as challenges to test our strength of character. 
-   - Reframing turns negative situation into positive oppurtunity to prove yourself worthy.
-   - We control how we frame situation we experience"
-   - Reframing helps us control our Response, allows up to be nice/decent to one another.
-   - "We are bad men living among bad men, one thing that can calm us down is to be easy on each other"
 
 # Perfection Not required, effective self-improvement critical 
 
