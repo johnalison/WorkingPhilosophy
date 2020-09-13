@@ -77,7 +77,10 @@
    > Understand/be aware of what you dont know and what you are not an expert it.
    > Probe to find where the limits of "experts" are
 - First principles thinking
-  > 
+  > Exactly what physics trains for. 
+  > Look for moving parts, knowns/unknowns and see how things fit together.  
+  > Ignore the stories that you cant understand. 
+  > Doubt everything that you cant get to from axioms.
 
 # Protocols
 
