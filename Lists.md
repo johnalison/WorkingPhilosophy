@@ -84,6 +84,7 @@
 
 # Protocols
 
+- *Stoic Test Challenge*
 - Steph mad at me
 - H getting on my nerves
 - Meetings

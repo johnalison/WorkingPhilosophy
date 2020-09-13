@@ -87,10 +87,12 @@ What is it like right now?
 
 # Strict with yourself, Lenient with others
 
-Poor Richard: Neglect kills injuries, Revenge increases them
-Need more forgiveness -> forgiveness is transcendence (transcends human nature) 
+- Poor Richard: Neglect kills injuries, Revenge increases them
+
+- Need more forgiveness -> forgiveness is transcendence (transcends human nature) 
    (Good for mind / Good for future self)
 
+- "We are bad men living among bad men, one thing that can calm us down is to be easy on each other" - William Irvine
 
 # You can only control what you can control
 
@@ -285,6 +287,12 @@ If you deal with failure well and persist, you have a high probability of being 
   Whey you dont get the promotion ... "Good"
   "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.
 
+## Stoic Test Challenge 
+   - Set backs can be reframed as challenges to test our strength of character. 
+   - Reframing turns negative situation into positive oppurtunity to prove yourself worthy.
+   - We control how we frame situation we experience"
+   - Reframing helps us control our Response, allows up to be nice/decent to one another.
+   - "We are bad men living among bad men, one thing that can calm us down is to be easy on each other"
 
 # Perfection Not required, effective self-improvement critical 
 
