@@ -8,7 +8,7 @@
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
-   9) [Respond, don't React (Employ Stoic Test Strategy)](#Respond-dont-React-Stoic-Test-Strategy)
+   9) [Respond, don't React (Employ Stoic Test Strategy)](#Respond-dont-React-employ-Stoic-Test-Strategy)
    10) [Systems not Goals](#Systems-Not-Goals)
    11) [Perfection Not required, effective self-improvement critical](#Perfection-Not-required-effective-self-improvement-critical)
    12) [Do not let your happiness (well-being) depend on things you cannot control](#Do-not-let-your-happiness-well-being-depend-on-things-you-cannot-control)
@@ -179,6 +179,8 @@ Say what you do, do what you say.
 - "Do whats essential" Most of what we do or say is not essential. If we can eliminate something that we do or say, there will be more time/energy and tranquility to do what is needed. 
   > Always ask "Is this necessary? "
 
+- Dont count on motivation for long-term results. Count on discipline. Know  what to do and make yourself do it! 
+
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
 - Need to embrace what happens.
@@ -249,6 +251,10 @@ Say what you do, do what you say.
 
  - To succeed in a Stoic Test Challenge need 1) plan effective workarounds 2) avoid getting caught in negative emotions. 
 
+  > **1st grade:** is how well I searched for a work-around. (Consider options ? / 2nd order thinking ? / Pick best option?)
+
+  > **2nd grade:** (much more important) what was my emotional response ?
+
  - Can remove/silence/mute susb-conscious from loop by treating setback as *Sotic Test*.  (See "Disengage/Step back")
    Prevents emotions from coming online. Lowers "cost" of setback. Improves change of sucess.
 
@@ -270,8 +276,16 @@ Say what you do, do what you say.
 
   > Shatter any tranquility we may have had
 
-  > Shatter any tranquility we may have had
+  > Cloud our thinkging on how to over come
 
+- 1st response to setback should always be to prevent the onset of negative emotions. (More improvement needed here!!!)
+
+  > Negative emotions: unproductive and often do more harm than the setback
+
+- Our brains are powerful computers but with arcane operating systemas. Stoics hacked the system. Our tendency to blame setbacks on others and get mad at the situation can be shutdown/short-circuted. If we act quickly.
+
+- Another framing exercise: Cast "have to" into "get to". There will always be a potential future position from which what you "have to do" now would seem like a dream come true. 
+  When you are annoyed that there is something that you "have to" do. Image it as the luxury of the future self.
 
 # Systems Not Goals
 
@@ -354,6 +368,18 @@ If you deal with failure well and persist, you have a high probability of being 
   This is really where __the operating system__ comes in. 
   Map out the big picture (ie: Zoom out), then focus on what the *next steps are* (ie: Zoom in). 
   Then readdress the Big picture as needed.
+
+- Education and Soticism are ongoing processes. Wisdom is pursued; it is not conferred/obtained/received.  You have not graduated. School is for life. 
+
+- "Going through the motions" is a trick that allowys you to overcome weakness on day when you are "not feeling it".
+
+- How to push yourself (via Jocko)
+  Need to balance emotion and logic to get more from yourself. When emotions are telling you to quit analyze them rationally (where do they come from ? Algorithms for ancient environment)  
+  When logic is telling you to stop trying, turn-on emotion. 
+
+- "Biggest generator of long-term results is learning to do things when you dont feel like doing them" - Shane parish
+
+- Slow is smooth, smooth is fast. 
 
 ## Standard Operating system: 
 - Getting things done: art of stress-free productivity.  (David Allen) 
@@ -534,5 +560,14 @@ _Slippery Slope_ problems can almost always be solved by reasonable practical ju
  > Yet we have a speed limit that is not 0 or infinity
  Should question all slippery slope arguments. 
 
+Most important thing to learn is: We have so much to learn.  Realize this and open your mind.
 
+Nuclear Safety
 
+ > By far biggest problem of our time. Crazy we dont think/talk about it more. 
+ > Biggest risk is accedental launch. Destroys Civilization. 
+ > "All vs Nothing" approch to reductions is **wrong** way to think (but easy to get trapped by) 
+ > Can make real progress by being pragmatic. 
+ > eg: get rid of ICBMs - only 1st strike weapon. (and liability b/c costly  and they will be target of first strike) 
+ >  get rid of presidential sole authorization - president cant go to way, but can destroy the planet) 
+ > get rid of first strike

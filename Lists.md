@@ -214,3 +214,8 @@
 
 Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
 "How you do everything is how you do anything"  
+
+
+# Who/what are we:
+- Our brains are powerful computers but with arcane operating systemas 
+- Algorithms

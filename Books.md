@@ -1,3 +1,5 @@
+**2020**
+
 # The Road to Reality (Roger Penrose)
 
    - "3 mysteries of reality" (biggest take away) 
@@ -44,3 +46,15 @@
 - "No ugly lovers, no handsome prisons"
 - "Speak with contempt of non, from slave to king. The smallest bee has, (and will use) a sting"
   
+
+# Stoic Test Challenge (William Ivine)
+- Great Book!
+- Definetly changed my life for the better. 
+- Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
+- Now w/after life, but about time on earth.
+- All about stoic tests (see Respond, don't React (Employ Stoic Test Strategy))
+- What up sets people is not the setbacks in themselves, but there judgements of them. 
+
+# Fumble Rules (guide to grammar and usage)
+- Overly clever, not enough actionable informaiton.
+- Some of it: kill "with regaurd to", "with reference to", "on account of", "by means of", "as regaurds", "with the exception of"
