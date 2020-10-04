@@ -250,7 +250,9 @@ Say what you do, do what you say.
    Prevents emotions from coming online. Lowers "cost" of setback. Improves change of sucess.
 
 - Several differnet possible frams for setbacks
+
 > **Blame frame** sub-conscious default mode
+
 > **Competing Obligations** sub-conscious default mode
 
 
