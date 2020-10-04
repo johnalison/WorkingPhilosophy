@@ -4,7 +4,7 @@
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
    3) [Strict with yourself, Lenient with others](#Strict-with-yourself-Lenient-with-others)
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
-   5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie)
+   5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie-evil-only-possible-through-lies)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
