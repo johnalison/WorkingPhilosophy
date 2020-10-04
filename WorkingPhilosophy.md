@@ -24,6 +24,8 @@ What is Wisdom?
 "Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
 - Sam Harris) 
 
+Building character is one of the only important projects in life
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
 # Moral duty to become more rational.
@@ -134,6 +136,10 @@ Say what you do, do what you say.
 
 - Dont cheat, dont mislead, dont talk behind others backs, dont act sneaky, dont avoid doing things you should or need to do
 
+- Character is the only thing that matters. Character determines your fate. Character can never be taken away from you. 
+  Building character is one of the only important projects in life
+  Focus on character and the rest will fall into place. 
+
 # Be the good: Intelligent ACTION is power
 
 - To get what you want, deserve what you want - Charlie Munger
@@ -180,6 +186,20 @@ Say what you do, do what you say.
   > Always ask "Is this necessary? "
 
 - Dont count on motivation for long-term results. Count on discipline. Know  what to do and make yourself do it! 
+
+- The Donts
+
+  > Actions: Dont procrastinate
+
+  > Conversations: Dont confuse
+
+  > Thoughts: Dont wonder (focus)
+
+  > Soul: Dont be Passive or Agressive (moderation) 
+
+  > Life: Dont be all about bussiness (Not sure)
+
+- Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -571,3 +591,7 @@ Nuclear Safety
  > eg: get rid of ICBMs - only 1st strike weapon. (and liability b/c costly  and they will be target of first strike) 
  >  get rid of presidential sole authorization - president cant go to way, but can destroy the planet) 
  > get rid of first strike
+
+- "Minute to learn, lifetime to master" John Mayer re: guitar
+
+- Bee sting: bodies response to the action worse than the inital attack. 

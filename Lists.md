@@ -16,6 +16,7 @@
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
 - [Meditations                                                         ](#Meditations                             )
 - [North Stars                                                         ](#NorthStars                             )
+- [North Stars                                                         ](#NorthStars                             )
 <!-- - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )-->
 
 
@@ -126,6 +127,7 @@
 - Can only eat once a day
 - Power of meditation / Stoic challenge
 - Atomic weapons are currently our number one problem
+- Dentistry ill founded. food we eat now root cause of misaligned teeth.  
 
 # Montras
 
@@ -155,7 +157,6 @@
 - Elliot Lipeles
 - Dominick Olivito
 - Daniel Froideveux
-- Karol Krizka
 - Elon Musk
 - Stoics
 - Jocko W
@@ -182,6 +183,10 @@
 - Wes Baker: Honesty, loyalty.  Someone that can be depended upon.
 - Dad 
 - Mom
+- Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
+"How you do everything is how you do anything"  
+
+
 
 # Paradoxes                                                             
 
@@ -209,13 +214,8 @@
 - How to shoot a gun
 
 
-
-# North Stars : 
-
-Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
-"How you do everything is how you do anything"  
-
-
 # Who/what are we:
 - Our brains are powerful computers but with arcane operating systemas 
-- Algorithms
+- Emotions (Algorithms) very fast efficient, but often used out of context.
+- Quickly becoming gods (or racing to event new ones (AI)) without wisdom. 
+- Animals with rationality - the tool that may allow us to transend our situation
