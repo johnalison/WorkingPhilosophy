@@ -251,9 +251,9 @@ Say what you do, do what you say.
 
 - Several differnet possible frams for setbacks
 
-> **Blame frame** sub-conscious default mode
+  > **Blame frame** sub-conscious default mode
 
-> **Competing Obligations** sub-conscious default mode
+  > **Competing Obligations** sub-conscious default mode
 
 
 # Systems Not Goals
