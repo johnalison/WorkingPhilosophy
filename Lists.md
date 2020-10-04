@@ -78,8 +78,8 @@
 - Lepton Fake Factor
 - Closure Test
 - Circle of Competencies
-   > Understand/be aware of what you dont know and what you are not an expert it.
-   > Probe to find where the limits of "experts" are
+  > Understand/be aware of what you dont know and what you are not an expert it.
+  > Probe to find where the limits of "experts" are
 - First principles thinking
   > Exactly what physics trains for. 
   > Look for moving parts, knowns/unknowns and see how things fit together.  
@@ -91,14 +91,14 @@
   > Maps/models are tools, decisions should ultimately reflect the reality of the situation/territory.
   > Physics Examples: EFTs
 - Law of diminishing returns
-   > Example of 80/20 
-   > Get the low hanging fruit
-   > Acquire breath of knowledge at the 80/20 level. 
-   > Then choose what long sloughs to fith. 
+  > Example of 80/20 
+  > Get the low hanging fruit
+  > Acquire breath of knowledge at the 80/20 level. 
+  > Then choose what long sloughs to fith. 
 - 2nd order thinking
   > Consider the consequences of the consequences of your action
   > Obviously want to to as high an order as possible
-  > Developing trust is a great example (Be reliable !)
+  > Developing trust is a great example (Be reliable ! See dont lie and be the good) 
 
 # Protocols
 

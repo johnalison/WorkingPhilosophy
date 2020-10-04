@@ -249,6 +249,10 @@ Say what you do, do what you say.
  - Can remove/silence/mute susb-conscious from loop by treating setback as *Sotic Test*.  (See "Disengage/Step back")
    Prevents emotions from coming online. Lowers "cost" of setback. Improves change of sucess.
 
+- Several differnet possible frams for setbacks
+_Blame frame_ sub-conscious default mode
+
+
 # Systems Not Goals
 
 - Habits compound interest of self improvement
@@ -504,7 +508,11 @@ Initial reactions to new things often biased negatively
 Some people I dislike for no apparent reason
 Sometimes get excited and open to many new threads
 
-
+Interesting Point: 
+_Slippery Slope_ problems can almost always be solved by reasonable practical judgement. 
+ > Raising the speed limit by 1 mph is a slippery slope until too high, too much death. 
+ > Yet we have a speed limit that is not 0 or infinity
+ Should question all slippery slope arguments. 
 
 
 
