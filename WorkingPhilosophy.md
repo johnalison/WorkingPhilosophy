@@ -176,6 +176,9 @@ Say what you do, do what you say.
 
 - “Whats the next action?” Philosophy seems to be practical/effective and clarifying. 
 
+- "Do whats essential" Most of what we do or say is not essential. If we can eliminate something that we do or say, there will be more time/energy and tranquility to do what is needed. 
+  > Always ask "Is this necessary? "
+
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
 - Need to embrace what happens.
@@ -249,11 +252,25 @@ Say what you do, do what you say.
  - Can remove/silence/mute susb-conscious from loop by treating setback as *Sotic Test*.  (See "Disengage/Step back")
    Prevents emotions from coming online. Lowers "cost" of setback. Improves change of sucess.
 
-- Several differnet possible frams for setbacks
+- Several different possible frames for setbacks
 
-  > **Blame frame** sub-conscious default mode
+  > **Blame frame:** sub-conscious default mode
 
-  > **Competing Obligations** sub-conscious default mode
+  > **Competing Obligations:** what would've had to be given up for me to get my way ?
+
+  > **Incompetence frame:** mal-intent was not the aim, people involved are just simply incompetent
+
+  > **Story-telling frame:** think of what a great story this will be when its over. Can also be an example just for yourself (or your journal!) of how to deal with setbacks
+
+  > **Comedic Frame:** look at the humor in the situation. Think that you are part of a sit com. 
+
+  > **Game/Stoic-Test Frames:** what the whole stoic test challenge is all about!
+
+- Emotions are bad for handling setbacks
+
+  > Shatter any tranquility we may have had
+
+  > Shatter any tranquility we may have had
 
 
 # Systems Not Goals
