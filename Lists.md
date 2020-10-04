@@ -96,9 +96,9 @@
    > Acquire breath of knowledge at the 80/20 level. 
    > Then choose what long sloughs to fith. 
 - 2nd order thinking
- > Consider the consequences of the consequences of your action
- > Obviously want to to as high an order as possible
- > Developing trust is a great example (Be reliable !)
+  > Consider the consequences of the consequences of your action
+  > Obviously want to to as high an order as possible
+  > Developing trust is a great example (Be reliable !)
 
 # Protocols
 
