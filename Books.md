@@ -67,12 +67,19 @@
 - Does our understanding of what we experience derive from objective reality or from cognitive limitations with us ? (Is language window or cage?)
 - Do we have real existence outside of what we do/say/perceive? Are these really under our control? 
 - Infinite Jest: 
+
   > Are we choosing what to love carefully enough ?
+
   > "Generation too afraid to say what it meant, and so in danger of fretting it had anything to say. 
+
   > Suddenly, for Wallace, sincerity was a virtue and saying what you meant a calling.
+
   > "One of the points of Infinite Jets is that the center is empty" (inside Hal theres pretty much nothing at all, he knows)
+
 - This is water
+
   > The trick is keeping the truth up front in daily conscious"
+
   > Learning how to think really means being aware enough to choose what you pay attention to and to **choose** how you construct meaning from experience
 
 # Breath: the new science of a lost art
@@ -81,8 +88,11 @@
 - molecules you breath in build your bones, (we "eat air") 
 - o2 produces 16x the energy than c02
 - Two ways body makes energy from air/food
+
   > w/o2 aerobic - after warm up body switches to aerobic during workout
+
   > w/o o2 anaerobic - uses glucose quick easy inefficient, can be toxic. What 1st min of intense exercise sucks
+
 - Interior of nose blanketed with erectile tissue. 
 - Mouth breathing #1 cause of cavities
 - Greatest indicator of life-span is lung capacity
@@ -123,3 +133,21 @@
 - Thera - Possibly Atlantis. Mianoan island that sufferent volcanic eruption.
 - Olduvai goerge - The key to human evolution. Most distant human relitives
 - Tomb of 10k warriors - Key to understanding how China unified. 
+
+# Extreme Ownership (Jocko Wilnick) 
+- Very good
+- Overly wordy, but many good points
+- Extreme Ownership: 
+
+  > requires looking at reality objectively. Without emotional attachment, agenda, or plans
+
+  > requires leader to set aside ego/accept responsibility for failure
+
+ - There are no bad teams, only bad leaders
+ - Leadership is the single greatest factor in any teams performance
+ - Ego clouds/discrupts everything (most difficult ego to deal with is your own) 
+ - *Cover and Move*: "The most fundamental tactic, perhaps the only tactic"
+ - "Relax, look around and make a call" (Detach)
+ - For any team, it is essential to develop standardized planning process
+ - *Commanders Intent* most important part of brief
+ - Giving front-line troops ownership of even small piece of plan gets buy-in
