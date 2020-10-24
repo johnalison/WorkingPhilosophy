@@ -2,7 +2,7 @@
 
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
-   3) [Strict with yourself, Lenient with others](#Strict-with-yourself-Lenient-with-others)
+   3) [Strict with yourself, Lenient with others (Extreme Ownership)](#Strict-with-yourself-Lenient-with-others-extreme-ownership)
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
    5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie-evil-only-possible-through-lies)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
@@ -102,7 +102,7 @@ What is it like right now?
   Everything you are, think, see, feel is electrical signals.  - Elon Musk
 
 
-# Strict with yourself, Lenient with others
+# Strict with yourself, Lenient with others (Extreme Ownership)
 
 - Poor Richard: Neglect kills injuries, Revenge increases them
 
@@ -146,8 +146,11 @@ Say what you do, do what you say.
 - “The great end of life is not knowledge, but action” - Thomas Huxley
 - “Only thing that matters is doing the right thing right now. 
    > Past cannot be changed
+
    > Future is no assured 
+
    > The action in the present should be “right”
+
 - “The used key is always bright” - Poor Richard
 - “Not enough to think or say the right things, you have to act on them” - Shane Parish
 - Stop thinking about what a good person is/does and be one.
@@ -182,7 +185,7 @@ Say what you do, do what you say.
   > Life: Dont be all about bussiness (Not sure)
 
 - Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
-
+- "Best time to plant a tree is 20 years ago, second best time is today"
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
