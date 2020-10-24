@@ -170,11 +170,17 @@ Say what you do, do what you say.
   > Always ask "Is this necessary? "
 - Dont count on motivation for long-term results. Count on discipline. Know  what to do and make yourself do it! 
 - The Donts
+
   > Actions: Dont procrastinate
+
   > Conversations: Dont confuse
+
   > Thoughts: Dont wonder (focus)
+
   > Soul: Dont be Passive or Agressive (moderation) 
+
   > Life: Dont be all about bussiness (Not sure)
+
 - Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
 
 
