@@ -1,4 +1,4 @@
-# Core Tenets of Personal Philosophy: 
+ Core Tenets of Personal Philosophy: 
 
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
@@ -143,63 +143,40 @@ Say what you do, do what you say.
 # Be the good: Intelligent ACTION is power
 
 - To get what you want, deserve what you want - Charlie Munger
-
 - “The great end of life is not knowledge, but action” - Thomas Huxley
-
 - “Only thing that matters is doing the right thing right now. 
-
    > Past cannot be changed
-
    > Future is no assured 
-
    > The action in the present should be “right”
-   
 - “The used key is always bright” - Poor Richard
-
 - “Not enough to think or say the right things, you have to act on them” - Shane Parish
-
 - Stop thinking about what a good person is/does and be one.
-
 - "Can get substantial improvement by deciding to be a better person. 
    Look around and see what traits you admire in others and then copy them. 
    Can lead to lasting, significant improvement."  - Warren Buffet
-
 - Want some good ? Get it for yourself.  To have a good day, do good things
-
 - Ideology is viral, Pragmatism is functional. 
   Pragmatism is what needs to be embraced in order to do.  
   Always look for the pragmatic over the Ideological 
-
 - Today is the day, now is the time. This is when/how progress gets made. Live by doing. Do by focusing fully on the current task at hand.
    (See Standard Operating System)
-
 - "Blow your own nose!" 
    You can sit there praying your nose wont run or wait for someone else to come along and wipe it. 
    Or you can blow your own nose, that's what you have hands for.
-
 -  Do what is essential. 
     - Richard Heart “If you've been doing something for a while and it docent change your life (ie: what you do/think/believe), Why are you doing it ?”...Go do push-ups
-
 - “Whats the next action?” Philosophy seems to be practical/effective and clarifying. 
-
 - "Do whats essential" Most of what we do or say is not essential. If we can eliminate something that we do or say, there will be more time/energy and tranquility to do what is needed. 
   > Always ask "Is this necessary? "
-
 - Dont count on motivation for long-term results. Count on discipline. Know  what to do and make yourself do it! 
-
 - The Donts
-
   > Actions: Dont procrastinate
-
   > Conversations: Dont confuse
-
   > Thoughts: Dont wonder (focus)
-
   > Soul: Dont be Passive or Agressive (moderation) 
-
   > Life: Dont be all about bussiness (Not sure)
-
 - Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
+
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -471,8 +448,15 @@ Work
        > Partial Answer: Use body signals to measure monitor when you are caught up. 
        > eg: when you are getting angry/emotional clenching your jaw/fists (BQ!)
        > This indicates you are caught up in a probable/overly focused.
+       > Feeling Strong emotions
+       > Is your ego getting involved? (Jealosy a big sign of ego!)
+       > Chaos that your getting swept up into
    - To detach, consciously send signals to you body: Lift head/chip up. Scan room from left to right. Breath. 
    - Gives you perspective/space to think.
+   - Important to detach, see yourself in wider context. What are you doing ? Waht are you feeling?
+   - Detachment provides position to make good/effective decisions
+   - Whole challenge is recognizing/remmebering when to detach.
+   - Dont walk around detached all the time. Need cues/clues to detach
 
 
 - "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.

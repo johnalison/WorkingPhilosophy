@@ -100,6 +100,20 @@
   > Consider the consequences of the consequences of your action
   > Obviously want to to as high an order as possible
   > Developing trust is a great example (Be reliable ! See dont lie and be the good) 
+- Inversion 
+  > "Invert, always invert" - Jacobi
+  > Avoiding stupidity often easier than seeking brilliance
+  > Index funds (Vangaurd) can be seen as form on inversion
+     > Easy to avoid poor returns 
+     > Easy to lower known fees
+     > Together these outperform almost everything
+  > Inversion Steps: 
+     > 1) Identify Problem, 
+     > 2) Define Objective, 
+     > 3) Identify forces that support change toward objective, 
+     > 4) Identify forces that impede change toward objective, 
+     > 5) Strategize. Add forces in 3) and remove from 4) 
+  > Most people stop at 3), Inversion is all about finding problems that make things worse, and avoid doing them.
 
 # Protocols
 
@@ -110,6 +124,7 @@
 - Meetings
 - Reading papers
 - Reading books
+- WHen feeling jealous of someone ask: "What can I learn from this person?"
 
 # What do you we do now that will be totally replaced in 100 years?
 
@@ -142,7 +157,8 @@
 - Am I suffering? Is this necessary?
 - Is this reason (ally) ? or is this my mind (enemy) ?
 - What if nothing needs to be changed ?
-
+- What are the relevant priors? 
+- What would have to be true for this to be right ?
 
 
 # Things I've started and stopped
