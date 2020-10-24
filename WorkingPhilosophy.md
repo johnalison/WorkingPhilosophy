@@ -118,7 +118,7 @@ What is it like right now?
 - Happiness, peace, stillness, well-being come from within.
 - Only your choices are good or evil. Everything else just happens.
 - No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
-
+- Some Stoicism: Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
 
 
 # Don't Lie! (Evil only possible through lies)

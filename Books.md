@@ -110,3 +110,16 @@
 - Mouthbreathing causes body to lose 40% more water during sleep
 - Mouthbreathing also make you urinate more. Pituitary gland in base of brane sacretes hormones that controls vasopressin, which communicates to cells to store more H20.
 - If not in deep sleep (eg from chronic sleep apnea) vasopressin wont release and we will have to urinate more. 
+
+
+# Ten Discoveries that Rewrote History (Patrick Hunt)
+- Rosetta Stone - key to egyptian writting: hyerogliphs
+- Troy - Dicipline of archeaelogy started here. Soil and whats in it also can be read like books. Established truth behind homeric poems.
+- Nineveh Library - Collection of 20k tablets form 1st military empire: Assyrians. Known for cruelty. Capital city burned. 
+- Machu Picchu - Spectacular natual beauty. Hidden city of Incas Peru. 
+- King tuts tomb - Superstar in modern world, barely relevant to ancient Egypt. Riches in minor tomb staggering even to modern standards. 
+- Pompee - Eyewitness record of eruption. City well-preserved, mid existence. Tells us much about ancient Roman life. ("More Important than Rome")
+- Dead Sea Scrolls - Oldest biblical documents. Odd history of being kipt from public.
+- Thera - Possibly Atlantis. Mianoan island that sufferent volcanic eruption.
+- Olduvai goerge - The key to human evolution. Most distant human relitives
+- Tomb of 10k warriors - Key to understanding how China unified. 
