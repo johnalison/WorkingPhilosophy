@@ -186,6 +186,7 @@ Say what you do, do what you say.
 
 - Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
 - "Best time to plant a tree is 20 years ago, second best time is today"
+- "Those who will not risk, cannot win" - John Paul Jones
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 

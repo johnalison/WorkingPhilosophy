@@ -124,7 +124,13 @@
 - Meetings
 - Reading papers
 - Reading books
-- WHen feeling jealous of someone ask: "What can I learn from this person?"
+- When feeling jealous of someone ask: "What can I learn from this person?"
+- When you (as a leader) have someone stepping up and taking charge and you start to feel intimidated. Ask: 
+    > "Why am I intimidated by this situation? "
+
+    > Its probably your ego. You are being a weak leader. 
+ - When you are too embarrassed to ask for help: Thats a little knock at the door saying "You're insecure!"
+
 
 # What do you we do now that will be totally replaced in 100 years?
 
