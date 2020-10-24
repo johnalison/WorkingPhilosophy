@@ -97,9 +97,9 @@ What is it like right now?
   (From Pscycology of the fighting man)
 
 - Can satiate desire by thinking-about  or being-aware-of desire. Don't necessarily have to indulge the desire. 
-
 - How do you know you're not a brain in a vat?  Turns outs, you are a brain in a vat! 
   Everything you are, think, see, feel is electrical signals.  - Elon Musk
+- Notie your emotions, dont necessarily act on them. (EQ)  
 
 
 # Strict with yourself, Lenient with others (Extreme Ownership)
@@ -119,7 +119,7 @@ What is it like right now?
 - Only your choices are good or evil. Everything else just happens.
 - No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
 - Some Stoicism: Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
-
+- Nothing can prevent you from getting better, becoming wiser. The obstacle is the way.
 
 # Don't Lie! (Evil only possible through lies)
 
@@ -187,6 +187,18 @@ Say what you do, do what you say.
 - Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
 - "Best time to plant a tree is 20 years ago, second best time is today"
 - "Those who will not risk, cannot win" - John Paul Jones
+- "Often injustice lies in what your not doing"  - Shane Parrish
+- Man who saved the world (Vasili Arkhipov) 
+  > Sub officier who was sinavertiantly udner attack during the Cuban missle crisis. 
+  > Bombs exploded to get teh subs to surface. 
+  > Vasili's sub was not notified this was happening and assumed he was at war. But refused to launch nuclear war head.
+- Make due with how things ARE.  Do not wait until thie perfect moment/mood/ 
+  > "A good plan now is better than a perfect plan later" Patton
+- If you can, do it now. (Seneca)
+- "Do what nature demands of you. Get right to if its possible. Dont look around to see if people will know about it. Dont wait for profection, be satisfied with any small progress, but push for more" Markus Aurelius
+- Do not become trapped by idealism. 
+  > Begin where the world is. Useless to delay action because things arent pefect or the plan is not the best it could possibly be.
+
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -203,6 +215,8 @@ Say what you do, do what you say.
   > Need to do more thinking before speaking.
 
 # Memento Mori: All we have is time; lack of attention throws it away
+
+- "Now we florish as bbefore others did. And soon others will whose children we shall never see."
 
 - Death always with us, dying moment at a time.
  Important that death and its possibility color your life.
@@ -231,6 +245,9 @@ Say what you do, do what you say.
      Markus Aurelius
   Put everything that takes time or attention, costs money, or takes sacrifice through this filter.  
 
+- Time is one think in negotiations or decision making that you can cant go bback on. Cant undo. Time gives no mercy. 
+  No amount of negotiation can recover lost time. its gone when its gone. 
+  Time is one thing to pay attention to above all. How you use *your* time.
 
 # Respond, don't React (Employ Stoic Test Strategy) 
 
@@ -243,6 +260,11 @@ Say what you do, do what you say.
 - Dont make things worse: When you find yourself in a hole, stop digging. 
   Practically means that anger, action without plan (aka reaction) doesnt help, it hurts. 
   Remove emotion and make a plan (aka respond)
+
+- Value time more than possesions. (Seneca)
+
+- Be ruthless to things that dont matter.
+
 
 ### Stoic Test Strategy 
    > Set backs can be reframed as challenges to test our strength of character. 
@@ -388,6 +410,18 @@ If you deal with failure well and persist, you have a high probability of being 
 
 - Slow is smooth, smooth is fast. 
 
+- Plan to decisive Points
+  > interesting strategy in military planning. 
+  > Do not plan to achieve the objective directly. 
+  > Plan to the "decisive point" which is the point after which you have a decisive advantage and clear path to victory.
+  > eg: if your a strong grappler in a fight, your decisive point would be to get on the ground.
+
+- Once the situation is upon you its too late.
+  > you have to be prepared in advance. 
+  > You need to know already who you are and what you believe. 
+  > Not whatyou organization believes, not what your peers believe.
+  > They way to do it is by working through issues of morality/mortality/ and honor for YOURSELF. 
+
 ## Standard Operating system: 
 - Getting things done: art of stress-free productivity.  (David Allen) 
 - Same method advocated by Zen Habits
@@ -431,19 +465,23 @@ How can you optimize worse case scenarios?
    - Acquire breath of knowledge at the 80/20 level. 
    - Then choose what long sloughs to fith. 
 
+- "Put your day up for review" (Seneca)
+
 # Do not let your happiness (well-being) depend on things you cannot control
 
-Explains how people can be well-off an miserable or poor and happy
-Make Well-being depend only on things you can control
-Focus more on wanting what you have  
-Rejoice in your actions that lead to good outcomes
-Escape within: Possible way to derive happiness. 
-Meditation: Observing the mind
-Headless way: Focusing on 1st person perspective
-Study 
-Work
+- Explains how people can be well-off an miserable or poor and happy
+- Make Well-being depend only on things you can control
+- Focus more on wanting what you have  
+- Rejoice in your actions that lead to good outcomes
+- Escape within: Possible way to derive happiness. 
+- Meditation: Observing the mind
+- Headless way: Focusing on 1st person perspective
+- Study 
+- Work
 - Stop caring what other people think. Focus on what you think is good, is just ect. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
    Meaning must come from within. 
+- To chase external approval and validation is to chase an illusion. A chimera constructed (for good reason) by Biology and Culture.  
+
 
 # Leadership is a skill that can be taught/learned
 
@@ -456,10 +494,15 @@ Work
    - Can often see correct path forward with some distance.
    - *Big Question* How do you remember to detach ? 
        > Partial Answer: Use body signals to measure monitor when you are caught up. 
+
        > eg: when you are getting angry/emotional clenching your jaw/fists (BQ!)
+
        > This indicates you are caught up in a probable/overly focused.
+
        > Feeling Strong emotions
+
        > Is your ego getting involved? (Jealosy a big sign of ego!)
+
        > Chaos that your getting swept up into
    - To detach, consciously send signals to you body: Lift head/chip up. Scan room from left to right. Breath. 
    - Gives you perspective/space to think.
@@ -467,7 +510,10 @@ Work
    - Detachment provides position to make good/effective decisions
    - Whole challenge is recognizing/remmebering when to detach.
    - Dont walk around detached all the time. Need cues/clues to detach
-
+   - How to detach: 
+      > Relinquish Reaction by simply noticiing
+      > Hard. Simple not easy. Drop all the second and higher order processing of inputs. 
+      > And jsut notice them as they are. Can detect bugs (biases) in the lower-level processing of stimuli.
 
 - "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.
 
@@ -589,3 +635,13 @@ Nuclear Safety
 - "Minute to learn, lifetime to master" John Mayer re: guitar
 
 - Bee sting: bodies response to the action worse than the inital attack. 
+
+- Intersting fact: Hebrew only example of a language that died out, was dead for thousands of years then came back and now is the 1st language of millions of people.
+   
+- One of the best ways of talking to yourself is to talk with other people. And its important to talk to yourself to know what you think.
+
+- Interesting Point: Assimilation  is Anhiliation as far as culture is concerned. 
+
+- Facts about Hitler: 
+   > Used to have regular mustache, trimmed version was something WWI so thier gas masks sealed properly. 
+   > Keeping the trimmed mustache was a signal to his audiance that he was a warrior and that the was still being faught.

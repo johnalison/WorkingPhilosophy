@@ -194,3 +194,23 @@
  - The worst thing you can do if you make a mistake is to avoid taking blame for it
  - Build Trust: Do what you say and say what you do. 
  - When you are too embarrassed to ask for help: Thats a little knock at the door saying "You're insecure!"
+
+
+# Mental Models Part 1 (The knowledge project)
+  - See mental models section
+
+# Hacking Darwin (Metzl) 
+  - Average. Good start, very repetitive, lot of fluff (could have been 1/2 as long) 
+  - 3.8B years ago single cell organisms emerged.
+  - Sex invented 1.3B years ago (accelerated evolution) 
+  - Claim: Now the principles of Darwinian evolution are evolving 
+  - Will soon see conception through sex as unnecessarily dangerous
+  - Humans have about 21k genes, 3.2B base pairs
+  - epigenetics regulates how our DNA is expressed
+  - "Worlds most valuable resource no longer oil, but data"
+  - Generalized Medicine (based on populaiton averages) will be seen to be the equivalent of leaches. 
+  - Wont need complete understanding (of healthcare or genetivs) to deploy growing knowladge w/confidence.
+  - 500B sperm cells for men vs 400 total eggs for women. 
+  - sperm and eggs have been generate from skin cells and used to give birth to healthy mice. 
+  - Scientists already viable offsplring from two male mice. 
+  - Wild chicken: 1egg/ month  Domesticated 30/month (Only 8k years to change without "Bio Tech")
