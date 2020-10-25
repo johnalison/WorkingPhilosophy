@@ -105,10 +105,8 @@ What is it like right now?
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
 - Poor Richard: Neglect kills injuries, Revenge increases them
-
 - Need more forgiveness -> forgiveness is transcendence (transcends human nature) 
    (Good for mind / Good for future self)
-
 - "We are bad men living among bad men, one thing that can calm us down is to be easy on each other" - William Irvine
 
 # You can only control what you can control
@@ -123,22 +121,18 @@ What is it like right now?
 
 # Don't Lie! (Evil only possible through lies)
 
-Poor Richards Almanac: 
+- Poor Richards Almanac: 
   “Keep conscience clean, then never fear”
-
-“The foundation of morality is to have done away, once and for all, with lying”
+- “The foundation of morality is to have done away, once and for all, with lying”
                - Thomas Huxley
-
-"Be Reliable": Unreliability will cancel out all other virtues.  
-How can can I be more reliable ? 
-Say what you mean, mean what you say.
-Say what you do, do what you say.
-
+- "Be Reliable": Unreliability will cancel out all other virtues.  
+- How can can I be more reliable ? 
+  > Say what you mean, mean what you say.
+  > Say what you do, do what you say.
 - Dont cheat, dont mislead, dont talk behind others backs, dont act sneaky, dont avoid doing things you should or need to do
-
 - Character is the only thing that matters. Character determines your fate. Character can never be taken away from you. 
-  Building character is one of the only important projects in life
-  Focus on character and the rest will fall into place. 
+  > Building character is one of the only important projects in life
+  > Focus on character and the rest will fall into place. 
 
 # Be the good: Intelligent ACTION is power
 
