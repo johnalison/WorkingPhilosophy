@@ -30,26 +30,26 @@
   - Points out a lot of problems that will slow growth in next decades: Inequality / Education / Grov. Debt / Income Inequality
 
 # Breakfast of Champions (Kurt Vonnegut)
-- Didn't really get it. Was obviously a lot of cleaver stuff going on, most of it was over my head. 
-- "I thank those lusts (of gold and seeing little girls underpants) for being so ridiculous for they taught us that it was possible for a human being to believe anything"
-- "Ideas on earth were badges of friendship. Friends agreed with friends to express friendliness. Enemies disagreed with  enemies in order to express enmity."
-- "Seems like the only kind of job an American can get these days is committing suicide in some way"
-- I wont know myself until I find out whether life is serious or not"
+ - Didn't really get it. Was obviously a lot of cleaver stuff going on, most of it was over my head. 
+ - "I thank those lusts (of gold and seeing little girls underpants) for being so ridiculous for they taught us that it was possible for a human being to believe anything"
+ - "Ideas on earth were badges of friendship. Friends agreed with friends to express friendliness. Enemies disagreed with  enemies in order to express enmity."
+ - "Seems like the only kind of job an American can get these days is committing suicide in some way"
+ - I wont know myself until I find out whether life is serious or not"
 
 
 
 # Poor Richards Almanac (Ben Franklin)
-- "No ugly lovers, no handsome prisons"
-- "Speak with contempt of non, from slave to king. The smallest bee has, (and will use) a sting"
+ - "No ugly lovers, no handsome prisons"
+ - "Speak with contempt of non, from slave to king. The smallest bee has, (and will use) a sting"
   
 
 # Stoic Test Challenge (William Ivine)
-- Great Book!
-- Definetly changed my life for the better. 
-- Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
-- Now w/after life, but about time on earth.
-- All about stoic tests (see Respond, don't React (Employ Stoic Test Strategy))
-- What up sets people is not the setbacks in themselves, but there judgements of them. 
+ - Great Book!
+ - Definetly changed my life for the better. 
+ - Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
+ - Now w/after life, but about time on earth.
+ - All about stoic tests (see Respond, don't React (Employ Stoic Test Strategy))
+ - What up sets people is not the setbacks in themselves, but there judgements of them. 
 
 # Fumble Rules (guide to grammar and usage)
 - Overly clever, not enough actionable informaiton.
