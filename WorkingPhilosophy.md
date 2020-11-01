@@ -26,7 +26,16 @@ What is Wisdom?
 
 Building character is one of the only important projects in life
 
+"Philosophy isn’t a parlor trick or made for show. 
+It’s not concerned with words, but with facts. 
+It’s not employed for some pleasure before the day is spent, or to relieve the uneasiness of our leisure. 
+It shapes and builds up the soul, it gives order to life, guides action, shows what should and shouldn’t be done—it sits at the rudder steering our course as we vacillate in uncertainties. 
+Without it, no one can live without fear or free from care. 
+Countless things happen every hour that require advice, and such advice is to be sought out in philosophy.”  - Seneca Moral Letters 1.6.3
+
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
+
 
 # Moral duty to become more rational.
 
@@ -192,7 +201,19 @@ What is it like right now?
 - "Do what nature demands of you. Get right to if its possible. Dont look around to see if people will know about it. Dont wait for profection, be satisfied with any small progress, but push for more" Markus Aurelius
 - Do not become trapped by idealism. 
   > Begin where the world is. Useless to delay action because things arent pefect or the plan is not the best it could possibly be.
+- Pefection is the enemy of action. 
+- Real philosophers aren't concerned with authorshop recognition, only with what actually works. 
+  > What is said matters less than what is done.
+- Lessons from the game theory strategy of tit-for-tat
+  > It pays to go positivie and to go first
+  
+  > People makes mistakes, it pays to forgive. (see hard with self, lenient with others) 
 
+  > It is hard to forgive.
+
+- Become what you want to be in the world and it will be so
+
+- Small changes in your actions change your world
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -242,6 +263,9 @@ What is it like right now?
 - Time is one think in negotiations or decision making that you can cant go bback on. Cant undo. Time gives no mercy. 
   No amount of negotiation can recover lost time. its gone when its gone. 
   Time is one thing to pay attention to above all. How you use *your* time.
+
+- Ones whole life is a succession of moment after moment. 
+  > "Attention is the brick and mortar of our lives". Important to gaurd your time the respect it deserves. 
 
 # Respond, don't React (Employ Stoic Test Strategy) 
 
@@ -334,8 +358,11 @@ What is it like right now?
 
 - Role of Failure:  (Bill Ackmann)
  > Success is not a straight line
+
  > Successful people have to deal with hardship
+
  > How successful you are is a function of how you deal with failure.
+
  > If you deal with failure well and persist, you have a high probability of being successful
 
 - If you want to do something, make a habit of it
@@ -425,6 +452,15 @@ What is it like right now?
   
   > Suff list: as thing occur to me write them in inbox. 
 
+- Daily routine: 
+  > List of 3 main thngs to do and 2-3 minor things
+
+  > Focus entirely on one of the top 3 until finished/stalled
+  
+  > Move on to the next until done
+
+  > Select from next actions list
+
 
 
 # Perfection Not required, effective self-improvement critical 
@@ -450,6 +486,8 @@ Lots of stoic thoughts about how to improve under stress.
 Important to be able to try many low cost experiments and iterate. 
 Think about what makes you anti-fragile. and where and how you can fail. 
 How can you optimize worse case scenarios? 
+
+Example of Anti-fragility (Jocko): Stresses (eg: not sleeping enough) acutually makes him a better performer. More allert, more responsive, emotionally engaged. 
 
 - Law of diminishing returns 
    - Example of 80/20 
@@ -637,3 +675,6 @@ Nuclear Safety
 - Facts about Hitler: 
    > Used to have regular mustache, trimmed version was something WWI so thier gas masks sealed properly. 
    > Keeping the trimmed mustache was a signal to his audiance that he was a warrior and that the was still being faught.
+
+- The holocaust is essentially/almost like a religious event. 
+   > Happened seemingly out of nowhere/ taboos agianst asking why/how.  

@@ -43,7 +43,7 @@
  - "Speak with contempt of non, from slave to king. The smallest bee has, (and will use) a sting"
   
 
-# Stoic Test Challenge (William Ivine)
+# Stoic Test Challenge (William Irvine)
  - Great Book!
  - Definetly changed my life for the better. 
  - Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
@@ -53,13 +53,13 @@
 
 # Fumble Rules (guide to grammar and usage)
  - Overly clever, not enough actionable informaiton.
- - Some of it: kill "with regaurd to", "with reference to", "on account of", "by means of", "as regaurds", "with the exception of"
+ - Some of it: kill "with regard to", "with reference to", "on account of", "by means of", "as regards", "with the exception of"
 
 # David Foster Wallace Bio ("Every Love Story Is a Ghost Story")
   - Good 
   - Serous mental problems, Big pot and alcohol problems, big into AA.
   - Interested in Buddhism
-  - "There world is everything that is the case" (Tractatus. Walace though one of the best opening lines in western it.)
+  - "There world is everything that is the case" (Tractatus. Wallace though one of the best opening lines in western it.)
   - Does our understanding of what we experience derive from objective reality or from cognitive limitations with us ? (Is language window or cage?)
   - Do we have real existence outside of what we do/say/perceive? Are these really under our control? 
   - Infinite Jest: 
@@ -70,7 +70,7 @@
   
     > Suddenly, for Wallace, sincerity was a virtue and saying what you meant a calling.
   
-    > "One of the points of Infinite Jets is that the center is empty" (inside Hal theres pretty much nothing at all, he knows)
+    > "One of the points of Infinite Jets is that the center is empty" (inside Hal there's pretty much nothing at all, he knows)
   
   - This is water
   
@@ -95,7 +95,7 @@
  - Internal organs are malleable
  - We have 100x more c02 in our bodies than o2.
  - We exhale more than we breath in, 85% of fat loss through CO2
- - CO2 si the chief hormone in the body, only one that is produced by every tissue and acts on every organ.
+ - CO2 is the chief hormone in the body, only one that is produced by every tissue and acts on every organ.
  - Lungs absorb only about 1/4 of the available o2
  - Prayer heals, esp when its practiced at 5.5. breaths/min
  - Just as we've been a culture of over eaters, we've also become a culture of over breathers
@@ -107,27 +107,27 @@
  - Lungs connected to nerves in parasympathetic in lower lobes. Why long/slow breaths are relaxing.
  - Sympathetic nerves located on the top of the lungs
  - Vegas nerve turns organs on and off in response to stress
- - Amygdala the alarm circut of fear
- - Chemoreceptors in brainstem monitor changes in CO2 and alarm the brain 
- - Chemoreceptor flexibalitiy is part of what distinguishes good and great atheletes
- - Breathing slow, less and through the nose balances the level of resiratory gases in teh body and send max O2 to max tissues for max electron reactivity.
- - "If I had to lmit my advice on healthier living to one tip it would be to simply learn how to breath beter"
+ - Amygdala the alarm circuit of fear
+ - Chemo-receptors in brain-stem monitor changes in CO2 and alarm the brain 
+ - Chemo-receptor flexibility is part of what distinguishes good and great athletes
+ - Breathing slow, less and through the nose balances the level of respiratory gases in the body and send max O2 to max tissues for max electron reactivity.
+ - "If I had to limit my advice on healthier living to one tip it would be to simply learn how to breath beater"
  - humming increases the release of nitric oxide in the nasal passage. 
- - Mouthbreathing causes body to lose 40% more water during sleep
- - Mouthbreathing also make you urinate more. Pituitary gland in base of brane sacretes hormones that controls vasopressin, which communicates to cells to store more H20.
+ - Mouth-breathing causes body to lose 40% more water during sleep
+ - Mouth-breathing also make you urinate more. Pituitary gland in base of brain secretes hormones that controls vasopressin, which communicates to cells to store more H20.
  - If not in deep sleep (eg from chronic sleep apnea) vasopressin wont release and we will have to urinate more. 
 
 
 # Ten Discoveries that Rewrote History (Patrick Hunt)
- - Rosetta Stone - key to egyptian writting: hyerogliphs
- - Troy - Dicipline of archeaelogy started here. Soil and whats in it also can be read like books. Established truth behind homeric poems.
+ - Rosetta Stone - key to Egyptian writing: hieroglyphs
+ - Troy - Discipline of archaeology started here. Soil and whats in it also can be read like books. Established truth behind Homeric poems.
  - Nineveh Library - Collection of 20k tablets form 1st military empire: Assyrians. Known for cruelty. Capital city burned. 
- - Machu Picchu - Spectacular natual beauty. Hidden city of Incas Peru. 
+ - Machu Picchu - Spectacular natural beauty. Hidden city of Incas Peru. 
  - King tuts tomb - Superstar in modern world, barely relevant to ancient Egypt. Riches in minor tomb staggering even to modern standards. 
- - Pompee - Eyewitness record of eruption. City well-preserved, mid existence. Tells us much about ancient Roman life. ("More Important than Rome")
- - Dead Sea Scrolls - Oldest biblical documents. Odd history of being kipt from public.
- - Thera - Possibly Atlantis. Mianoan island that sufferent volcanic eruption.
- - Olduvai goerge - The key to human evolution. Most distant human relitives
+ - Pompeii - Eyewitness record of eruption. City well-preserved, mid existence. Tells us much about ancient Roman life. ("More Important than Rome")
+ - Dead Sea Scrolls - Oldest biblical documents. Odd history of being kept from public.
+ - Thera - Possibly Atlantis. Minoan island that different volcanic eruption.
+ - Olduvai gorge - The key to human evolution. Most distant human relatives
  - Tomb of 10k warriors - Key to understanding how China unified. 
 
 # Extreme Ownership (Jocko Wilnick) 
@@ -141,23 +141,23 @@
 
  - There are no bad teams, only bad leaders
  - Leadership is the single greatest factor in any teams performance
- - Ego clouds/discrupts everything (most difficult ego to deal with is your own) 
+ - Ego clouds/disrupts everything (most difficult ego to deal with is your own) 
  - *Cover and Move*: "The most fundamental tactic, perhaps the only tactic"
  - "Relax, look around and make a call" (Detach)
  - For any team, it is essential to develop standardized planning process
  - *Commanders Intent* most important part of brief
  - Giving front-line troops ownership of even small piece of plan gets buy-in
  - Best teams employ constant analysis of tactics and measure effectiveness to adapt
-   > Done through post-operational debried. What went right ? wrong ? more effective ?
- - Pramount that senior leaders explain to jr leaders thier role and how it fits the big picture
+   > Done through post-operational debrief. What went right ? wrong ? more effective ?
+ - Paramount that senior leaders explain to jr leaders their role and how it fits the big picture
  - One of the most important jobs of any leader is to support your Boss. 
  - Factors for leadership (leading up and down the chain of command)
    > Take responsibility for everyone in your world: subordinates and superiors
 
-   > If someone isnt doing what you want/need, determiune what you can do to enable
+   > If someone isn't doing what you want/need, determine what you can do to enable
 
    > Dont ask your lead what you should do, tell them what you are going to do
- - Dichotomy of Leadership (see 80/20 and diminshing returns)
+ - Dichotomy of Leadership (see 80/20 and diminishing returns)
    > Confident not cocky 
    
    > Leader and follower
@@ -172,9 +172,9 @@
 
    > attentive but not obsessed by detail
 
-   > agressive not over-bearing
+   > aggressive not over-bearing
 
-   > Extreme Ownershop vs Decentralized Command
+   > Extreme Ownership vs Decentralized Command
  - This is simple, not easy: Be Honest. Show Integrity. Take ownership.
  - Dont do the leadership "comb-over"
  - Good performance comes from Rehearsal
@@ -183,13 +183,13 @@
 
     > Its probably your ego. You are being a weak leader. 
  -  IF you have a weak leader: LUCKY YOU! 
-    > Have an oppurtunity to take advantage and LEAD
+    > Have an opportunity to take advantage and LEAD
     
     > Do what you want. Motivate yourself ! Take charge. Take advantage. 
- - Start with micromanagment and morph into de-centralized command.
+ - Start with micromanagement and morph into de-centralized command.
  - The worst thing you can do if you make a mistake is to avoid taking blame for it
  - Build Trust: Do what you say and say what you do. 
- - When you are too embarrassed to ask for help: Thats a little knock at the door saying "You're insecure!"
+ - When you are too embarrassed to ask for help: That's a little knock at the door saying "You're insecure!"
 
 
 # Mental Models Part 1 (The knowledge project)
@@ -204,9 +204,25 @@
   - Humans have about 21k genes, 3.2B base pairs
   - epigenetics regulates how our DNA is expressed
   - "Worlds most valuable resource no longer oil, but data"
-  - Generalized Medicine (based on populaiton averages) will be seen to be the equivalent of leaches. 
-  - Wont need complete understanding (of healthcare or genetivs) to deploy growing knowladge w/confidence.
+  - Generalized Medicine (based on population averages) will be seen to be the equivalent of leaches. 
+  - Wont need complete understanding (of healthcare or genetics) to deploy growing knowledge w/confidence.
   - 500B sperm cells for men vs 400 total eggs for women. 
   - sperm and eggs have been generate from skin cells and used to give birth to healthy mice. 
-  - Scientists already viable offsplring from two male mice. 
+  - Scientists already viable offspring from two male mice. 
   - Wild chicken: 1egg/ month  Domesticated 30/month (Only 8k years to change without "Bio Tech")
+  - Most cells in your body turn over every two years (on average) 
+  - 28 years for humans to pass a generation 6 months for chickens
+  - Breeding preimplented embryos with each other can accelerate the turn over in humanss. 
+  - Artcic apples can be sliced and left out with out browning b/c scientists have used CRISPER to silence genes controlling browning
+  - 37 genes are in the mitochondria. 
+  - Aging is probably a combination of many different systems in the body all decaying at different rates
+  - Aging is the leading cause of death among humans (diseases that kill us most are from aging. Curing any one will not help much) 
+  - Eliminating cancer will buy us 3 years
+  - "Ive only had one wrinkle in my life, and Im sitting on it" - Jean Calment (122) 
+  - Lifestyle choices significantly impact the epigenetic instructions 
+  - "Nature is clumsy, wasteful, blundering, low, and horribly cruel" - Darwin
+  - We will never have perfect knowladge of the genome just like we never had perfect knowladge of fire before we started harnessing it, cancer before we started treating it,  or domesticated crops before we started eating them
+  - Optimism and hubris is built into our operating systems 
+  - Bostrom's "Reversal Test" - If some people feel that making a change in one direction is bad, they should articulate why doing the opposite (actively) would be justified. 
+  - Euginics 60k Americans were sterilized without acquiescence / Nazis did 400k Germans
+  - Diversity has been and remains sole survival strategy of our species

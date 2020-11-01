@@ -16,7 +16,8 @@
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
 - [Meditations                                                         ](#Meditations                             )
 - [North Stars                                                         ](#NorthStars                             )
-- [North Stars                                                         ](#NorthStars                             )
+- [Things I want to learn                                                         ](#thingsIwanttolearn                             )
+- [Who/what are we                                                     ](#whowhatarewe                             )
 <!-- - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )-->
 
 
@@ -256,3 +257,4 @@
 - Emotions (Algorithms) very fast efficient, but often used out of context.
 - Quickly becoming gods (or racing to event new ones (AI)) without wisdom. 
 - Animals with rationality - the tool that may allow us to transend our situation
+- Optimism and hubris is built into our operating systems 
