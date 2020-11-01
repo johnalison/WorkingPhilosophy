@@ -63,7 +63,7 @@ Countless things happen every hour that require advice, and such advice is to be
 
 - See the role model in everyone.
   Important to try to emulate you want to be. 
-  Role models can be amagamations of people.
+  Role models can be amalgamations of people.
   Look for qualities that you want to emulate in other people, even if you dont want to be like the person.
 
 - Make yourself dependable. 
@@ -71,13 +71,15 @@ Countless things happen every hour that require advice, and such advice is to be
   Its more important to deserve the things you wan than to have them.
 
 - Try to maintain objectivity
-> Automate good techinques: use check lists/protocols ect
+> Automate good techniques: use check lists/protocols ect
 
 - Need to tolerate both types of errors: 
     Type1 : “letting the bad in”
      Type2: “kicking the good out”  
   You are unlikely to be optimal unless you have some tolerance of both
 
+- Want to be a learn-it-all not a know-it-all
+  > Humility is the key to growth and leadership.  Stay humble and see what you can learn.
 
 
 # You are what you think, but with practice, you can change what you think
@@ -103,13 +105,17 @@ What is it like right now?
 - "Fear is the bodies preparation for action. 
   Fear does things behind the scenes to get you physically ready. 
   Knowing that this is happening and feeling it work, can help prepare the mind, prevent it from startling" 
-  (From Pscycology of the fighting man)
+  (From Psychology of the fighting man)
 
 - Can satiate desire by thinking-about  or being-aware-of desire. Don't necessarily have to indulge the desire. 
 - How do you know you're not a brain in a vat?  Turns outs, you are a brain in a vat! 
   Everything you are, think, see, feel is electrical signals.  - Elon Musk
-- Notie your emotions, dont necessarily act on them. (EQ)  
-
+- Notice your emotions, dont necessarily act on them. (EQ)  
+- Practicing mediation has the intention to be happier and to be better placed to make others happier. 
+  To suffer less and to be a better place to let other suffer less.
+- The goal (system) here is Wisdom. 
+  The wisdom that comes from recognizing how things already are in each moment. 
+  From stepping out of the fantasy life born of having a mind that is constantly/perpetually distracted.
 
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
@@ -127,6 +133,12 @@ What is it like right now?
 - No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
 - Some Stoicism: Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
 - Nothing can prevent you from getting better, becoming wiser. The obstacle is the way.
+- Vast majority of our words/actions are unnecessary
+  > Corralling them will create an abundance of leisure and tranquility
+
+  > Shouldn't forget each moment to ask: "Is this one of the unnecessary things?"
+
+  > Should kill both unnecessary thought and actions; unnecessary thoughts lead to unnecessary actions.
 
 # Don't Lie! (Evil only possible through lies)
 
@@ -183,29 +195,29 @@ What is it like right now?
 
   > Thoughts: Dont wonder (focus)
 
-  > Soul: Dont be Passive or Agressive (moderation) 
+  > Soul: Dont be Passive or Aggressive (moderation) 
 
-  > Life: Dont be all about bussiness (Not sure)
+  > Life: Dont be all about business (Not sure)
 
-- Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do thinkg you know are wrong.
+- Do the right thing because it is the right thing to do.  Dont need any other reason for doing something you know is right. Only need justification to do think you know are wrong.
 - "Best time to plant a tree is 20 years ago, second best time is today"
 - "Those who will not risk, cannot win" - John Paul Jones
 - "Often injustice lies in what your not doing"  - Shane Parrish
 - Man who saved the world (Vasili Arkhipov) 
-  > Sub officier who was sinavertiantly udner attack during the Cuban missle crisis. 
-  > Bombs exploded to get teh subs to surface. 
+  > Sub officer who was sinavertiantly under attack during the Cuban missile crisis. 
+  > Bombs exploded to get the subs to surface. 
   > Vasili's sub was not notified this was happening and assumed he was at war. But refused to launch nuclear war head.
 - Make due with how things ARE.  Do not wait until thie perfect moment/mood/ 
   > "A good plan now is better than a perfect plan later" Patton
 - If you can, do it now. (Seneca)
-- "Do what nature demands of you. Get right to if its possible. Dont look around to see if people will know about it. Dont wait for profection, be satisfied with any small progress, but push for more" Markus Aurelius
+- "Do what nature demands of you. Get right to if its possible. Dont look around to see if people will know about it. Dont wait for perfection, be satisfied with any small progress, but push for more" Markus Aurelius
 - Do not become trapped by idealism. 
-  > Begin where the world is. Useless to delay action because things arent pefect or the plan is not the best it could possibly be.
-- Pefection is the enemy of action. 
-- Real philosophers aren't concerned with authorshop recognition, only with what actually works. 
+  > Begin where the world is. Useless to delay action because things aren't perfect or the plan is not the best it could possibly be.
+- Perfection is the enemy of action. 
+- Real philosophers aren't concerned with authorship recognition, only with what actually works. 
   > What is said matters less than what is done.
 - Lessons from the game theory strategy of tit-for-tat
-  > It pays to go positivie and to go first
+  > It pays to go positive and to go first
   
   > People makes mistakes, it pays to forgive. (see hard with self, lenient with others) 
 
@@ -231,7 +243,7 @@ What is it like right now?
 
 # Memento Mori: All we have is time; lack of attention throws it away
 
-- "Now we florish as bbefore others did. And soon others will whose children we shall never see."
+- "Now we flourish as before others did. And soon others will whose children we shall never see."
 
 - Death always with us, dying moment at a time.
  Important that death and its possibility color your life.
@@ -260,12 +272,12 @@ What is it like right now?
      Markus Aurelius
   Put everything that takes time or attention, costs money, or takes sacrifice through this filter.  
 
-- Time is one think in negotiations or decision making that you can cant go bback on. Cant undo. Time gives no mercy. 
+- Time is one think in negotiations or decision making that you can cant go back on. Cant undo. Time gives no mercy. 
   No amount of negotiation can recover lost time. its gone when its gone. 
   Time is one thing to pay attention to above all. How you use *your* time.
 
 - Ones whole life is a succession of moment after moment. 
-  > "Attention is the brick and mortar of our lives". Important to gaurd your time the respect it deserves. 
+  > "Attention is the brick and mortar of our lives". Important to guard your time the respect it deserves. 
 
 # Respond, don't React (Employ Stoic Test Strategy) 
 
@@ -276,25 +288,25 @@ What is it like right now?
 - Getting angry never makes things better. To deal with stress need to get perspective (zoom way in or zoom way out). Return to the present moment. Accept the obstacle. (via Marcus Aurelius)  
 
 - Dont make things worse: When you find yourself in a hole, stop digging. 
-  Practically means that anger, action without plan (aka reaction) doesnt help, it hurts. 
+  Practically means that anger, action without plan (aka reaction) doesn't help, it hurts. 
   Remove emotion and make a plan (aka respond)
 
-- Value time more than possesions. (Seneca)
+- Value time more than possessions. (Seneca)
 
 - Be ruthless to things that dont matter.
 
 
 ### Stoic Test Strategy 
-   > Set backs can be reframed as challenges to test our strength of character. 
-   > Reframing turns negative situation into positive oppurtunity to prove yourself worthy.
+   > Set backs can be re-framed as challenges to test our strength of character. 
+   > Re-framing turns negative situation into positive opportunity to prove yourself worthy.
    > We control how we frame situation we experience"
-   > Reframing helps us control our Response, allows up to be nice/decent to one another.
+   > Re-framing helps us control our Response, allows up to be nice/decent to one another.
    > "We are bad men living among bad men, one thing that can calm us down is to be easy on each other"
    > Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
  
  - We are fundamentally a divided self:  Mind vs Body. Conscious (rational) vs unconscious/emotions (automate/base) 
    Note: unconscious emotions are important. There is a lot that is easy at an intuitive level that is hard to rationalize ("gut feelings"). Often correct.
-   Can use mindfulness/BQ has a hack to tap into these acient algorithms
+   Can use mindfulness/BQ has a hack to tap into these ancient algorithms
 
  - To succeed in a Stoic Test Challenge need 1) plan effective workarounds 2) avoid getting caught in negative emotions. 
 
@@ -302,8 +314,8 @@ What is it like right now?
 
   > **2nd grade:** (much more important) what was my emotional response ?
 
- - Can remove/silence/mute susb-conscious from loop by treating setback as *Sotic Test*.  (See "Disengage/Step back")
-   Prevents emotions from coming online. Lowers "cost" of setback. Improves change of sucess.
+ - Can remove/silence/mute sub-conscious from loop by treating setback as *Stoic Test*.  (See "Disengage/Step back")
+   Prevents emotions from coming online. Lowers "cost" of setback. Improves change of success.
 
 - Several different possible frames for setbacks
 
@@ -323,13 +335,13 @@ What is it like right now?
 
   > Shatter any tranquility we may have had
 
-  > Cloud our thinkging on how to over come
+  > Cloud our thinking on how to over come
 
 - 1st response to setback should always be to prevent the onset of negative emotions. (More improvement needed here!!!)
 
   > Negative emotions: unproductive and often do more harm than the setback
 
-- Our brains are powerful computers but with arcane operating systemas. Stoics hacked the system. Our tendency to blame setbacks on others and get mad at the situation can be shutdown/short-circuted. If we act quickly.
+- Our brains are powerful computers but with arcane operating systems. Stoics hacked the system. Our tendency to blame setbacks on others and get mad at the situation can be shutdown/short-circuited. If we act quickly.
 
 - Another framing exercise: Cast "have to" into "get to". There will always be a potential future position from which what you "have to do" now would seem like a dream come true. 
   When you are annoyed that there is something that you "have to" do. Image it as the luxury of the future self.
@@ -408,7 +420,7 @@ What is it like right now?
   Real, true, lasting progress comes from grinding things out. 
 
 - When things are going bad Bad ... "Good"
-  When things arent going as expected ... "Good"
+  When things aren't going as expected ... "Good"
   Whey you dont get the promotion ... "Good"
   "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.
 
@@ -417,9 +429,9 @@ What is it like right now?
   Map out the big picture (ie: Zoom out), then focus on what the *next steps are* (ie: Zoom in). 
   Then readdress the Big picture as needed.
 
-- Education and Soticism are ongoing processes. Wisdom is pursued; it is not conferred/obtained/received.  You have not graduated. School is for life. 
+- Education and Stoicism are ongoing processes. Wisdom is pursued; it is not conferred/obtained/received.  You have not graduated. School is for life. 
 
-- "Going through the motions" is a trick that allowys you to overcome weakness on day when you are "not feeling it".
+- "Going through the motions" is a trick that allows you to overcome weakness on day when you are "not feeling it".
 
 - How to push yourself (via Jocko)
   Need to balance emotion and logic to get more from yourself. When emotions are telling you to quit analyze them rationally (where do they come from ? Algorithms for ancient environment)  
@@ -438,7 +450,7 @@ What is it like right now?
 - Once the situation is upon you its too late.
   > you have to be prepared in advance. 
   > You need to know already who you are and what you believe. 
-  > Not whatyou organization believes, not what your peers believe.
+  > Not what you organization believes, not what your peers believe.
   > They way to do it is by working through issues of morality/mortality/ and honor for YOURSELF. 
 
 ## Standard Operating system: 
@@ -450,10 +462,10 @@ What is it like right now?
   
   > work mode: Pull from next actions 
   
-  > Suff list: as thing occur to me write them in inbox. 
+  > Stuff list: as thing occur to me write them in inbox. 
 
 - Daily routine: 
-  > List of 3 main thngs to do and 2-3 minor things
+  > List of 3 main things to do and 2-3 minor things
 
   > Focus entirely on one of the top 3 until finished/stalled
   
@@ -487,7 +499,7 @@ Important to be able to try many low cost experiments and iterate.
 Think about what makes you anti-fragile. and where and how you can fail. 
 How can you optimize worse case scenarios? 
 
-Example of Anti-fragility (Jocko): Stresses (eg: not sleeping enough) acutually makes him a better performer. More allert, more responsive, emotionally engaged. 
+Example of Anti-fragility (Jocko): Stresses (eg: not sleeping enough) actually makes him a better performer. More alert, more responsive, emotionally engaged. 
 
 - Law of diminishing returns 
    - Example of 80/20 
@@ -508,7 +520,7 @@ Example of Anti-fragility (Jocko): Stresses (eg: not sleeping enough) acutually 
 - Headless way: Focusing on 1st person perspective
 - Study 
 - Work
-- Stop caring what other people think. Focus on what you think is good, is just ect. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
+- Stop caring what other people think. Focus on what you think is good, is just etc. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
    Meaning must come from within. 
 - To chase external approval and validation is to chase an illusion. A chimera constructed (for good reason) by Biology and Culture.  
 
@@ -531,19 +543,19 @@ Example of Anti-fragility (Jocko): Stresses (eg: not sleeping enough) acutually 
 
        > Feeling Strong emotions
 
-       > Is your ego getting involved? (Jealosy a big sign of ego!)
+       > Is your ego getting involved? (Jealousy a big sign of ego!)
 
        > Chaos that your getting swept up into
    - To detach, consciously send signals to you body: Lift head/chip up. Scan room from left to right. Breath. 
    - Gives you perspective/space to think.
-   - Important to detach, see yourself in wider context. What are you doing ? Waht are you feeling?
+   - Important to detach, see yourself in wider context. What are you doing ? What are you feeling?
    - Detachment provides position to make good/effective decisions
-   - Whole challenge is recognizing/remmebering when to detach.
+   - Whole challenge is recognizing/remembering when to detach.
    - Dont walk around detached all the time. Need cues/clues to detach
    - How to detach: 
-      > Relinquish Reaction by simply noticiing
+      > Relinquish Reaction by simply noticing
       > Hard. Simple not easy. Drop all the second and higher order processing of inputs. 
-      > And jsut notice them as they are. Can detect bugs (biases) in the lower-level processing of stimuli.
+      > And just notice them as they are. Can detect bugs (biases) in the lower-level processing of stimuli.
 
 - "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.
 
@@ -595,7 +607,7 @@ QM is or brings, in a sense, the end of reduction-ism via entanglement.  In an e
 
 “Avoid boring people, Avoid Boring you” James Watson
 
-Someone asked Watson (or Deepmind) what the purpose/meaning of life is, it replied
+Someone asked Watson (or Deep-mind) what the purpose/meaning of life is, it replied
 “To live forever”
 Gene-level - immortality is the only goal
 Human Instinct - gut reactions about avoiding death
@@ -624,13 +636,13 @@ Related to above: How much smarter than humans can something get ? With narrow i
 
 AI is a tragedy of the commons: Globally want to take our time with AI (huge potential downside). Personally, (without radical longevity) I want to accelerate AU b/c the downside of not getting AI and dying is (almost certainly) the same as getting bad AI.
 
-Like Elons response: Try to become the AI. Requires increasing bandwidth via neurallink.
+Like Elons response: Try to become the AI. Requires increasing bandwidth via neural-link.
 
 Natural sources of exessential threat are essentially negligible compared to the human create ones.
 
-Interesting idea: Gene sequence any medical cases where there is illness but we cannot make a diagonosis. Would allow us to catch potential problems sooner.
+Interesting idea: Gene sequence any medical cases where there is illness but we cannot make a diagnosis. Would allow us to catch potential problems sooner.
 
-Reason for optimism: We have had a radical change in our relationship/outlook toward the enviroment since the 60s. Might be able to do something similar for exessential risk.
+Reason for optimism: We have had a radical change in our relationship/outlook toward the environment since the 60s. Might be able to do something similar for exessential risk.
 
 Thoughts about truth: 
 Truth - reality / objective 
@@ -655,8 +667,8 @@ Most important thing to learn is: We have so much to learn.  Realize this and op
 Nuclear Safety
 
  > By far biggest problem of our time. Crazy we dont think/talk about it more. 
- > Biggest risk is accedental launch. Destroys Civilization. 
- > "All vs Nothing" approch to reductions is **wrong** way to think (but easy to get trapped by) 
+ > Biggest risk is accidental launch. Destroys Civilization. 
+ > "All vs Nothing" approach to reductions is **wrong** way to think (but easy to get trapped by) 
  > Can make real progress by being pragmatic. 
  > eg: get rid of ICBMs - only 1st strike weapon. (and liability b/c costly  and they will be target of first strike) 
  >  get rid of presidential sole authorization - president cant go to way, but can destroy the planet) 
@@ -664,17 +676,51 @@ Nuclear Safety
 
 - "Minute to learn, lifetime to master" John Mayer re: guitar
 
-- Bee sting: bodies response to the action worse than the inital attack. 
+- Bee sting: bodies response to the action worse than the initial attack. 
 
-- Intersting fact: Hebrew only example of a language that died out, was dead for thousands of years then came back and now is the 1st language of millions of people.
+- Interesting fact: Hebrew only example of a language that died out, was dead for thousands of years then came back and now is the 1st language of millions of people.
    
 - One of the best ways of talking to yourself is to talk with other people. And its important to talk to yourself to know what you think.
 
-- Interesting Point: Assimilation  is Anhiliation as far as culture is concerned. 
+- Interesting Point: Assimilation  is Annihilation as far as culture is concerned. 
 
 - Facts about Hitler: 
-   > Used to have regular mustache, trimmed version was something WWI so thier gas masks sealed properly. 
-   > Keeping the trimmed mustache was a signal to his audiance that he was a warrior and that the was still being faught.
+   > Used to have regular mustache, trimmed version was something WWI so their gas masks sealed properly. 
+   > Keeping the trimmed mustache was a signal to his audience that he was a warrior and that the was still being fought.
 
 - The holocaust is essentially/almost like a religious event. 
-   > Happened seemingly out of nowhere/ taboos agianst asking why/how.  
+   > Happened seemingly out of nowhere/ taboos against asking why/how.  
+
+- Thoughts on hiring (Jocko) 
+   > Hire for capacity/raw talent NOT experience. 
+   
+   > Generalized skills almost always superior to specialized.
+
+   > When recruiting for special forces, no one has experience
+
+   > Personnel selection is Art not science
+   
+   > Q: "What if we train them and they leave ?" A: "What if we dont and they stay?"
+
+   > Personnel is your biggest asset.
+
+   > Personnel development should be your primary mission
+
+   > "I'm just providing cover fire for my team"
+
+   
+- Thought on how to be "a man" (Jocko) 
+
+  > Do things (Fix things/get out in nature/ etc) 
+
+  > Learn things (Read books / develop skills) 
+
+  > Work out (Get strong)
+
+  > Learn how to fight (ju jitsu) 
+
+
+- Humans take evolutionary path such that a lot of development happens after birth. New borns are essentially still fetuses. "Worms" that only really eat defecate, sleep and cry) 
+
+- Cultural-level sublimation: Socially unacceptable impulses are substitute for symbolic acts. eg: head-hunting replaces ritual cannibalism replaces casual cannibalism.  
+  Pinker argues  that manners and rules of high-society has a similar "taming" effect.

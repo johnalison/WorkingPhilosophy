@@ -179,7 +179,7 @@
 - What if nothing needs to be changed ?
 - What are the relevant priors? 
 - What would have to be true for this to be right ?
-
+> Is this one of the unnecessary things?
 
 # Things I've started and stopped
 
