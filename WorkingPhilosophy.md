@@ -82,6 +82,16 @@ Countless things happen every hour that require advice, and such advice is to be
   > Humility is the key to growth and leadership.  Stay humble and see what you can learn.
 
 
+- "Dont sweat the small stuff" good Stoic advice. 
+   When you spend time and energy on things that dont matter, you are making them matter. 
+   This changes how you live your life, who your are. 
+   You are what you repeatedly do. 
+   Dont be something you dont want to be.
+
+- Pillage from all sources 
+  "Never be ashamed to quote a bad writer with a good saying" -Seneca
+  Look for wisdom independent of where it comes from. 
+
 # You are what you think, but with practice, you can change what you think
 
 - Perfection not required
@@ -117,6 +127,19 @@ What is it like right now?
   The wisdom that comes from recognizing how things already are in each moment. 
   From stepping out of the fantasy life born of having a mind that is constantly/perpetually distracted.
 
+ - Why meditate? "If you want to understand your mind, simply sit down and observe it"
+  Simple, no rituals/ceremonies, nothing to join. 
+  Understanding ourselves is possible. 
+  Meditation is a pragmatic methodology for doing it. 
+  In meditating ourselves, begin to see what creates suffering in ourselves and what brings greater happiness and peace. 
+  When we see that we can make wiser choices. 
+  As we make wiser choices we become happier; as we become happier we make wiser choices.
+  Leads to a spiral of greater fulfilment and ease.
+  
+- What is enlightenment?  Is the mind free from the patterns/forces that cause suffering ? 
+  2 forms/options: Are the patterns/forces uprooted ? Or, in the moment of their arising are the patterns/forces seen through?
+
+
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
 - Poor Richard: Neglect kills injuries, Revenge increases them
@@ -139,6 +162,13 @@ What is it like right now?
   > Shouldn't forget each moment to ask: "Is this one of the unnecessary things?"
 
   > Should kill both unnecessary thought and actions; unnecessary thoughts lead to unnecessary actions.
+
+- Skillful speech
+   > Is it Moral ?
+
+   > Is it Useful ?
+
+   > Is it Productive ?
 
 # Don't Lie! (Evil only possible through lies)
 
@@ -724,3 +754,16 @@ Nuclear Safety
 
 - Cultural-level sublimation: Socially unacceptable impulses are substitute for symbolic acts. eg: head-hunting replaces ritual cannibalism replaces casual cannibalism.  
   Pinker argues  that manners and rules of high-society has a similar "taming" effect.
+
+- Leviathan: "Pre-state" societies probably much more egalitarian. If you dont like how your being treated you can pick up and leave. 
+
+- Original Thinking: "Ill surely take the older well-worn path, but if I find a shorter, smoother way, Ill blaze a trail there. 
+  The ones who  pioneered these paths are our guides, not our masters. Truth is open to everyone" - Seneca
+  Todays conservative ideas where once controversial, cutting-edge, and innovative.
+
+- Alexander the Great: ATG probably just as bad as Hitler. 
+  At lease Hitler thought we was doing good. 
+  ATG just doing it for his glory. 
+  Will we come to see Hitler as we see ATG in 1000y ? 
+
+- Police Violence: Police should be allowed to use choke holds. Much safer than tasers (where head can hit ground) and much more effective if you know what your doing.

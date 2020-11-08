@@ -1,8 +1,4 @@
 # Questions
-- What things are truly in my control ?
-- What am I learning and studying for ?
-- What can I say no to so I can say yes to things that matter?
-- Am I seeing clearly ? Acting generously? Accepting what I cant change ?
 - What is my purpose in life?
 - Who am I and what do I stand for ?
 - How can I keep my mind clear from pollution?
@@ -65,3 +61,9 @@
 - Have I confused schooling and EDUCATION?
 - How can I treat my greedy vices? how can I heal my sickness?
 - What philisophical lessons can I find in ordinary things?
+
+
+- What things are truly in my control ?
+- What am I learning and studying for ?
+- What can I say no to so I can say yes to things that matter?
+- Am I seeing clearly ? Acting generously? Accepting what I cant change ?
