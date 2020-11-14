@@ -92,6 +92,13 @@ Countless things happen every hour that require advice, and such advice is to be
   "Never be ashamed to quote a bad writer with a good saying" -Seneca
   Look for wisdom independent of where it comes from. 
 
+- The art of having no opinion
+  > Mechanism for suppressing innate bias
+  > Most opinions are reactionary and unrelated to whats really happening
+  > Definitely true of todays politics. Differnet sides ahve opinions that are really reactions based on thier current stance/posture.
+  > Becoming and independent/orthogonal rational thinker requires suppression of reactinoary positions/thoughts  
+
+
 # You are what you think, but with practice, you can change what you think
 
 - Perfection not required
@@ -170,6 +177,14 @@ What is it like right now?
 
    > Is it Productive ?
 
+- No one can have everything that they want, but than CAN not want what they dont have and then happily put to use what they do have
+  (Wanting less is a short cut to being rich)
+
+- When doing good deeds on the right things, who cares about the priase you recieve? 
+  The praise shouldnt be why you do whats right or why you help someone out.
+  You do it b/c you control it and its they right/honest thing to do.
+
+
 # Don't Lie! (Evil only possible through lies)
 
 - Poor Richards Almanac: 
@@ -184,6 +199,8 @@ What is it like right now?
 - Character is the only thing that matters. Character determines your fate. Character can never be taken away from you. 
   > Building character is one of the only important projects in life
   > Focus on character and the rest will fall into place. 
+
+
 
 # Be the good: Intelligent ACTION is power
 
@@ -309,6 +326,13 @@ What is it like right now?
 - Ones whole life is a succession of moment after moment. 
   > "Attention is the brick and mortar of our lives". Important to guard your time the respect it deserves. 
 
+- How to be present and Alive in the moment:  Shift from doing to being: more present, joyful, appreciative. 
+  > Practice pouring yourself into every act (being fully in all/everything you do)
+  
+  > Feel emotion
+
+  > See the good around you, in the people you interact with 
+
 # Respond, don't React (Employ Stoic Test Strategy) 
 
 - Anger/ Losing temper is never good, never improves the situation. Always best to “observe” the anger, Reflect then respond. Response always superior to reaction. Reaction is the embodiment of anger
@@ -324,6 +348,9 @@ What is it like right now?
 - Value time more than possessions. (Seneca)
 
 - Be ruthless to things that dont matter.
+
+- What is the thing you should be the most focused on ?
+   A: Staying calm/steadying your nerves.  Emotional, uncontrolled responses only ever make things worse.
 
 
 ### Stoic Test Strategy 
@@ -482,6 +509,8 @@ What is it like right now?
   > You need to know already who you are and what you believe. 
   > Not what you organization believes, not what your peers believe.
   > They way to do it is by working through issues of morality/mortality/ and honor for YOURSELF. 
+
+
 
 ## Standard Operating system: 
 - Getting things done: art of stress-free productivity.  (David Allen) 
@@ -749,21 +778,13 @@ Nuclear Safety
 
   > Learn how to fight (ju jitsu) 
 
-
 - Humans take evolutionary path such that a lot of development happens after birth. New borns are essentially still fetuses. "Worms" that only really eat defecate, sleep and cry) 
 
 - Cultural-level sublimation: Socially unacceptable impulses are substitute for symbolic acts. eg: head-hunting replaces ritual cannibalism replaces casual cannibalism.  
   Pinker argues  that manners and rules of high-society has a similar "taming" effect.
 
-- Leviathan: "Pre-state" societies probably much more egalitarian. If you dont like how your being treated you can pick up and leave. 
-
 - Original Thinking: "Ill surely take the older well-worn path, but if I find a shorter, smoother way, Ill blaze a trail there. 
   The ones who  pioneered these paths are our guides, not our masters. Truth is open to everyone" - Seneca
   Todays conservative ideas where once controversial, cutting-edge, and innovative.
-
-- Alexander the Great: ATG probably just as bad as Hitler. 
-  At lease Hitler thought we was doing good. 
-  ATG just doing it for his glory. 
-  Will we come to see Hitler as we see ATG in 1000y ? 
 
 - Police Violence: Police should be allowed to use choke holds. Much safer than tasers (where head can hit ground) and much more effective if you know what your doing.

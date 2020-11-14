@@ -246,3 +246,16 @@
   - "if you convince a person logically that he has nothing to cry about, he'll stop crying." Response: "Life would be too easy if that were true"
   - "Nothing is harder than speaking the truth and nothing is easier than flattering. If there is a 1/100 part of false note in speaking the truth it leads to discord. But if all is false in flattery it is just as agreeable"
   - "The fear of appearances is the first symptom of impotence"
+
+# The Art of Worldly Wisdom (Baltasar Gracian) 
+  - Great work!
+  - Mix a little mystery with everything
+  - A resolution declared in sever highly thought of, it only leaves room for criticism. 
+  - Knowledge without courage is sterile (See Be the good) 
+  - Create a feeling of dependence: Mores is to be got from dependence than from courtesy.
+  - There is no rule higher than that over oneself, over ones impulses
+  - Cultivate those who can teach you.  Reap applause for what you say, gain instruction from what you hear.
+  - A ban manner spoils everything, even reason and justice
+  - Be spotless. A single cloud can hide the whole of the sun.
+  - Know how to take a hint. The truths which concern us most can only be half spoken, but with attention we can grasp then whole meaning. When you hear something favorable be skeptical. When you hear something unfavorable follow up.
+  
