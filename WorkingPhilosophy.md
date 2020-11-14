@@ -33,6 +33,7 @@ It shapes and builds up the soul, it gives order to life, guides action, shows w
 Without it, no one can live without fear or free from care. 
 Countless things happen every hour that require advice, and such advice is to be sought out in philosophy.”  - Seneca Moral Letters 1.6.3
 
+Seeking wisdom and self-improvement is not a part-time job
 
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
@@ -510,6 +511,13 @@ What is it like right now?
   > Not what you organization believes, not what your peers believe.
   > They way to do it is by working through issues of morality/mortality/ and honor for YOURSELF. 
 
+- Habbit Dip: 
+  > You'll always hit a dip in energy/motivation (Thats the bad news) 
+  > The good news: Dips are temporary, provide and oppurtunity to learn.
+
+  > "Learn the Dip" Learn how to face difficulty, let go of the ideal, deal with frustration. 
+
+  > Critical to come into dip with learning mindset. Less idealistic, more curiosity. USE MINDFULNESS!
 
 
 ## Standard Operating system: 

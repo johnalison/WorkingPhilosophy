@@ -258,4 +258,29 @@
   - A ban manner spoils everything, even reason and justice
   - Be spotless. A single cloud can hide the whole of the sun.
   - Know how to take a hint. The truths which concern us most can only be half spoken, but with attention we can grasp then whole meaning. When you hear something favorable be skeptical. When you hear something unfavorable follow up.
+  - Excellence in quality not quantity, much lowers value. Those who attempt to be at home everywhere are so nowhere. 
+  - The smallest of current trump beats the the ace of trumps last hand. 
+  - Know your strongest points, your preeminent gift. Cultivate that and the rest will follow. 
+  - Think things over, most over the most important. The wise man thinks over everything, but more profoundly where there is profound difficulty and thinks that perhaps there is more it it that he thinks. 
+  - Recognize when things are ripe, and enjoy them.
+  - Never exaggerate, its a branch of lying
+  - Think with the few, speak with the many.
+  - The wise man retires into silence and if he comes out of it he does so in the shade and before few and fit people.
+  - Be thorough (Deserve the things you want)
+  - Let your own standard of truth and righteousness be the standard.
+  - Know hot to choose well.
+  - First you must be master over yourself if you would be master over others
+  - Excel in what is excellent.
+  - Neither give nor take bad news if unless you can't help it.
+  - Elevate Taste: You can train taste like the intellect. Full knowledge whets desire, increases enjoyment.
+  - Most things are not obtained simply because they are not attempted (See Be the good)
+  - Self knowledge is the beginning of self-improvement
+  - Know how to refuse: its as important to know how to consent.  A gilded no is more satisfactory than a dreary yes.
+  - Bad execution of your designs does less harm than irresolution in forming them
+  - Choose a heroic ideal: have a hero, not so much to follow as to spur you on into action. 
+  - Notice men's moods and adapt yourself to each. 
+  - Pushed to the extreme right becomes wrong. (Diminishing (negative) returns)
+  - Wise men get more use from their enemies than fools get from their friends. Their enemies ill-will often levels mountains.
+  - Let your behavioud be fine and nobel: Most things must be left unnoticed among friends, relatives and even enemies.
+  - Know yourself: In talents and capacity, in judgement and inclination. There are mirrors for the face, but none for the mind. Let careful thought (meditation)  and discussion among friends serve as a substitute. 
   

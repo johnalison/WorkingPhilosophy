@@ -1,5 +1,4 @@
 # Questions
-- What is my purpose in life?
 - Who am I and what do I stand for ?
 - How can I keep my mind clear from pollution?
 - What am I addicted to?
@@ -67,3 +66,4 @@
 - What am I learning and studying for ?
 - What can I say no to so I can say yes to things that matter?
 - Am I seeing clearly ? Acting generously? Accepting what I cant change ?
+- What is my purpose in life?
