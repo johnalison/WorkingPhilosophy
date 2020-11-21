@@ -1,14 +1,15 @@
 "History is Philosophy taught with examples"
 
+"Character is destiny 
 
-- Bonze Age Collapse: 
-  > Great mystery. 
-  > Something/Someone destroyed many (most all) the great bronze age civilisations 
-  > Happened extremely suddenly, not sure what caused it. 
-  > Almost unparralleled in histogry (Collapse of the Roman empire comes close) 
-  > Utterly changed (degraded) life for the peoples of the time
-  > Ushered in a dark ages (far darker/longer) than "the dark ages" (After the fall of the Roman empire)
-  > Cautionary tale for us today. Great/Advanced civilisations can be easily, and quickly, obliterated.
+Bonze Age Collapse: 
+  - Great mystery. 
+  - Something/Someone destroyed many (most all) the great bronze age civilisations 
+  - Happened extremely suddenly, not sure what caused it. 
+  - Almost unparralleled in histogry (Collapse of the Roman empire comes close) 
+  - Utterly changed (degraded) life for the peoples of the time
+  - Ushered in a dark ages (far darker/longer) than "the dark ages" (After the fall of the Roman empire)
+  - Cautionary tale for us today. Great/Advanced civilisations can be easily, and quickly, obliterated.
 
 - "Steppe People"
   > Critical role throughout history.
@@ -54,3 +55,13 @@
 
 
 - Leviathan: "Pre-state" societies probably much more egalitarian. If you dont like how your being treated you can pick up and leave. 
+
+Punic Wars:
+ - Lots of analogies to WWI and WWII
+ - Hannibal crosses the Alps and wreaks havoc on Rome.
+ - Fabien strategy: waiting it out, avoidance.
+ - Death of Archimedes during Siege of Syracuse
+ - Scippio Africanis great general fighting Hannibal
+ - Carthaginian genocide by Romans 
+ - Turned Rome from regional power to the main player.
+

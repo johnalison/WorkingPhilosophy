@@ -281,6 +281,20 @@
   - Notice men's moods and adapt yourself to each. 
   - Pushed to the extreme right becomes wrong. (Diminishing (negative) returns)
   - Wise men get more use from their enemies than fools get from their friends. Their enemies ill-will often levels mountains.
-  - Let your behavioud be fine and nobel: Most things must be left unnoticed among friends, relatives and even enemies.
+  - Let your behaviour be fine and noble: Most things must be left unnoticed among friends, relatives and even enemies.
   - Know yourself: In talents and capacity, in judgement and inclination. There are mirrors for the face, but none for the mind. Let careful thought (meditation)  and discussion among friends serve as a substitute. 
-  
+  - Dont not let your fortune on a single cast of the die. (Systems not Goals)
+  - Obtain and preserve a reputation. 
+  - Dignity: True kingship lies in spotless rectitude and he need to envy greatness who can serve as a model for it. Prefer to share in the the qualities of royalty rather than take part in mere ceremony.
+  - Good things when short are twice as good. (Well said is soon said) 
+  - By joining extremes the more effective middle way is found.
+  - Only act with honourable men. Dis-honorable ones are not constrained by virtue
+  - Acquire the reputation of Courtesy: It is enough to make you liked. Politeness is the main ingredient in culture - a kind of witchery that wins the regard of all as surely as discourtesy gain their disfavor and opposition. It costs little and helps much. Everyone is honored who gives honor. Politeness and honor have the advantage that they stay with those who give them to others. 
+  - It is preposterous to take to heart that which should ignore. Much that would be something has become nothing by being left alone, and what was nothing has become of consequence by being made much of. Often the remedy causes the disease. It is my no means the least of life's rules: to let things alone.
+  - He is twice great who ahs all the perfections in the opinion of all except himself.  He attains applause by two opposite paths.
+  - Learn to forget: (See perfection not requried, especially in others)
+  - Never Complain:  to complain always brings discredit.
+  - Do and be seen doing: things do not pass for what they are but for what they seem. The observant are far fewer in number than the easily decieved by apperances.  A good exterior is the best recommendation for inner perfection. 
+  - Revise your judgements (See feedback loop critical)
+  - Do not noursish the spirt of contradiction. Finding problems in everythign shows you're clever, but marks you a fool. Do not make war out of pleasant conversation. 
+  - Find the good in a thing at once: There is nothing that has no good in it. Better to sieze upon a single beauty out of 1000 defects.

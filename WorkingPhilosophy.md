@@ -132,7 +132,7 @@ What is it like right now?
 - Practicing mediation has the intention to be happier and to be better placed to make others happier. 
   To suffer less and to be a better place to let other suffer less.
 - The goal (system) here is Wisdom. 
-  The wisdom that comes from recognizing how things already are in each moment. 
+  The wisdom that comes om recognizing how things already are in each moment. 
   From stepping out of the fantasy life born of having a mind that is constantly/perpetually distracted.
 
  - Why meditate? "If you want to understand your mind, simply sit down and observe it"
@@ -147,6 +147,28 @@ What is it like right now?
 - What is enlightenment?  Is the mind free from the patterns/forces that cause suffering ? 
   2 forms/options: Are the patterns/forces uprooted ? Or, in the moment of their arising are the patterns/forces seen through?
 
+- Why would one want to meditate ? 
+   Mind is the basis for everything you experience in life, for any contribution you can make to others.
+   Given this it makes sense to train it. (We know what it is like to have an untrained mind).  
+   An untrained mind allows us to be unhappy despite things being about as good as they can possibly be. 
+   Even when everything is fine many of us are consumed by stress. Most of our time is spent thinking of things we need/want to do, or wish we hadn't done.
+   We spend very little time truly content and focused on the present.  
+   Because of this we often fail to really connect with people around us. 
+   Understanding our minds through meditation is the best way to correct this. 
+   Spend most of our lives seeking to Become Happy. 
+   However we can only truly Be Happy in the present. 
+   Very few of us can come to rest in the present and experience the peace and fulfillment available there. 
+   The luckiest people in the world still live on the treadmill. They reach thier goals only to find each was a kind of mirage. 
+   Getting what you want out of life is not quite good enough. 
+   Conversely, its also true that you can be happy in an emergency.
+   It is a fact of the human mind that genuine well-being is available even in periods of intense physical stress.
+   Meditation (paying closer attention to the nature of your own mind) is the most direct way to discover that. 
+
+-  Why use an App to meditate ? Is using an App a cop out ? 
+   Some can make progress in silence (Rare.) 
+   There is an enourmous differnce between having good and bad (or no) information.
+   Even professional atheletes have coaches and trainers. 
+   Even experts can continually refine thier practice. 
 
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
@@ -403,6 +425,8 @@ What is it like right now?
 
 - Another framing exercise: Cast "have to" into "get to". There will always be a potential future position from which what you "have to do" now would seem like a dream come true. 
   When you are annoyed that there is something that you "have to" do. Image it as the luxury of the future self.
+
+- Its OK to get mad, not to be angry. Getting mad is a reaction, instinctive, beyond control.  Becoming angry is a state of mind. Something that clouds later judgements. When mad make conscious decision not to get angry. 
 
 # Systems Not Goals
 
