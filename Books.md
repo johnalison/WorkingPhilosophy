@@ -312,3 +312,25 @@
   - Be more careful not to miss once than to hit 1000 times. ("Dont give a bad talk") No one looks at the blazing sun, all gaze when he is eclipsed.
   - Many would be wise if they did not think themselves wise. The oracles of wisdom are rare, they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
   - Trust your heart. Never deny it a hearing. It is a kind of oracle that often foretells the most important.
+  - Be a solid man: "Only truth can give a true reputation"
+  - You must moderate your opinion of others so you dont fear them.  (Many appear great untel you know them personally)
+  - Do not hold your views too firmly. Every fool is fully convinced and every fully persuaded is a fool. Steadfastness should be for the will not the mind.
+  - Do not be ceremonious: Its right to demand respect, but not to be seen as master of ceremonies. "He cannot be great who is great at such little things"
+  - Do pleasant things yourself, do unpleasent things through others. A great man takes more pleasure in doing a favor than in recieving one.
+  - Be the bearer of praise: This shows we have learned what is excellent. Gives material for conversation.
+  - Know how to appreciate: Wise men appreciate all men, for they see the good in each and know how hard it is to make anything good.
+  - Find a proper place by merit, not presumption. "Deserve what you want"
+  - Attempt easy tasks as if they were difficult, difficult tasks as if they were easy (Systems, not goals)
+  - Be Moderate: Moderation serves as a counter point to the impusles of passions (emotions) especially in sudden emergencies. Much thought is needed to prevent emotion from taking over. 
+  - Do not turn one blunder into two. The worst of a bad case is having to fight it.
+  - Be expressive: without cleverness the children of the mind (thought and judgements) cannot be brought into the world.
+  - Never act form stubbornness but from knowledge. All stubbornness is an outgrowth of the mind, a grandchild of emotion which never did do anything right. There are people that make war out of everything. Dont do that. 
+  - Sincerity should not degrade into simplicity, nor sagacity into cunning.
+  - Never take anything against the grain. Everything has a smooth or a seamy side. Many things cause pain which should cause pleasure if you regaurded their advantages. 
+  - Do not be the slave of first impressions. Dont satisify your will with the first object nor your mind with the first preopostion. Wait for the 3rd or 4th edition of the news.
+  - Plan your life wisely, with predence and foresight. 
+  - The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
+  - Know a little more, live a little less. To be at ease is better than to be at business. All we have is time. It is unfortunate to waste your precious life in both mechanical or important work. 
+  - Most men do not esteem what they understand and venerate what they do not. Many praise a thing without being able to say why if asked.
+  - Few can do us good, almost any can do us harm. 
+  - Be able to forget: Memory is unruly and stupid. It leaves us in lurch whdn needed and puts its nose into places its not wanted. Cultivate good habits of memory, it can make life heaven or hell.

@@ -41,6 +41,8 @@ Philosophy is a calling not a profession, Not something you forget about after w
 
 The oracles of wisdom are rare and they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
 
+The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
 
@@ -212,6 +214,9 @@ The oracles of wisdom are rare and they are rarely used. To seek advice does not
   The praise shouldnt be why you do whats right or why you help someone out.
   You do it b/c you control it and its they right/honest thing to do.
 
+- "Never be overheard complaining, even to yourself" Markus Aurelius
+   Things could not have been otherwise. Dont get upset about what happens, repond. 
+   Can use complaints as a barometer or flag for when your too attached. 
 
 # Don't Lie! (Evil only possible through lies)
 
@@ -346,6 +351,7 @@ Some thoughts on time management:
    > Attention is a finite resource 
    > Is the bricks and mortar of our life
    > Amazing how easily we let it be stolen from us
+
 
 - Should live more as if you had been diagnosed with some terminal disease and were going to die soon.  In fact we all have a terminal disease: “The cause of death is birth” and we don't know how much longer we have to live. 
 
@@ -831,3 +837,12 @@ Nuclear Safety
   Todays conservative ideas where once controversial, cutting-edge, and innovative.
 
 - Police Violence: Police should be allowed to use choke holds. Much safer than tasers (where head can hit ground) and much more effective if you know what your doing.
+
+- Social media (From Social Dilema) 
+   > Lies and captures our attention for profit.
+   > Creating systems that people (or goverements) can use to manipulate mass populations
+   > Claim: This is excessential threat
+   > Claim: Example of where AI is already in charge
+
+
+Words that are always true and meaningful; "This too, shall pass."
