@@ -291,10 +291,24 @@
   - Only act with honourable men. Dis-honorable ones are not constrained by virtue
   - Acquire the reputation of Courtesy: It is enough to make you liked. Politeness is the main ingredient in culture - a kind of witchery that wins the regard of all as surely as discourtesy gain their disfavor and opposition. It costs little and helps much. Everyone is honored who gives honor. Politeness and honor have the advantage that they stay with those who give them to others. 
   - It is preposterous to take to heart that which should ignore. Much that would be something has become nothing by being left alone, and what was nothing has become of consequence by being made much of. Often the remedy causes the disease. It is my no means the least of life's rules: to let things alone.
-  - He is twice great who ahs all the perfections in the opinion of all except himself.  He attains applause by two opposite paths.
-  - Learn to forget: (See perfection not requried, especially in others)
+  - He is twice great who has all the perfections in the opinion of all except himself.  He attains applause by two opposite paths.
+  - Learn to forget: (See perfection not required, especially in others)
   - Never Complain:  to complain always brings discredit.
-  - Do and be seen doing: things do not pass for what they are but for what they seem. The observant are far fewer in number than the easily decieved by apperances.  A good exterior is the best recommendation for inner perfection. 
+  - Do and be seen doing: things do not pass for what they are but for what they seem. The observant are far fewer in number than the easily deceived by appearances.  A good exterior is the best recommendation for inner perfection. 
   - Revise your judgements (See feedback loop critical)
-  - Do not noursish the spirt of contradiction. Finding problems in everythign shows you're clever, but marks you a fool. Do not make war out of pleasant conversation. 
-  - Find the good in a thing at once: There is nothing that has no good in it. Better to sieze upon a single beauty out of 1000 defects.
+  - Do not nourish the spirit of contradiction. Finding problems in everything shows you're clever, but marks you a fool. Do not make war out of pleasant conversation. 
+  - Find the good in a thing at once: There is nothing that has no good in it. Better to seize upon a single beauty out of 1000 defects.
+  - Never from Obstinacy take the wrong side because your opponent has anticipated you in taking the right one. The sage never places himself on the side of passion but exposes the cause of right. 
+  - Never become paradoxical in order to avoid the trite. (DFW!) Both extremes damage our reputation. Every undertaking which differs from the reasonable approaches foolishness.
+  - Do not show your wounded finger. Ill will searches for wounds to irritate. 
+  - Have the art of conversation. No act in life requires more attention.  You must either lose or gain by it. If it needs care to write a letter (which is after all just deliberate conversation) how much more for ordinary conversation in which there is occasion for a prompt display of intelligence.
+  - Think before hand. Better to sleep on something before than to lie away about it after.
+  - The whole of life should be one course of thought how not to miss the right path.  Rumination and foresight enable one to determine the lie of life.
+  - The art of NOT getting into a passion: The first step to getting into a passion is to announce that you are in a passion.  It is great proof of wisdom to remain clear-sighted during paroxysms of rage. Every excess of passion is a digression from rational conduct. To keep control of passion one must hold firm the reins of attention.
+  - Select your friends. Intelligence brings friends to some, chance to most. 
+  - Dont make mistakes of/about character. "Better to be cheated on the price than in the quality of the goods"
+  - Be careful in speaking. There is always time to add a word, never to withdrawal one. Talk as if you were making your will, the fewer words the less litigation.
+  - All deformity of mind is more obnoxious than that of body because it contravenes a higher beauty.
+  - Be more careful not to miss once than to hit 1000 times. ("Dont give a bad talk") No one looks at the blazing sun, all gaze when he is eclipsed.
+  - Many would be wise if they did not think themselves wise. The oracles of wisdom are rare, they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
+  - Trust your heart. Never deny it a hearing. It is a kind of oracle that often foretells the most important.

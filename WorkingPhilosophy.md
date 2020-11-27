@@ -35,6 +35,12 @@ Countless things happen every hour that require advice, and such advice is to be
 
 Seeking wisdom and self-improvement is not a part-time job
 
+Philosophy is a calling not a profession, Not something you forget about after work or on the weekends.
+
+"The whole of life should be one course of thought how not to miss the right path.  Rumination and foresight enable one to determine the lie of life."
+
+The oracles of wisdom are rare and they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
 
@@ -107,10 +113,10 @@ Seeking wisdom and self-improvement is not a part-time job
 - Important truth that most people don't know/realize 
 - Take the day a moment at a time. No need to rush into it, to rush to the next moment. The day will arrive anyway all on its own.
 - Meditation:
--  Fundamentally empirical exercise. 
-- Asks; What is the mind like when it is doing nothing but noticing whatever is in the 
-  stream of consciousness?
-What is it like right now?
+    Fundamentally empirical exercise. 
+    Asks; What is the mind like when it is doing nothing but noticing whatever is in the 
+    stream of consciousness?
+    What is it like right now?
 - We are our habitual thoughts
 - Being mindful of thinking and emotion is the gateway to psychological well-being. (via Sam Harris) 
 - "Where is the self if every sign of it is appearing in consciousness?" (via waking up)
@@ -130,16 +136,16 @@ What is it like right now?
   Everything you are, think, see, feel is electrical signals.  - Elon Musk
 - Notice your emotions, dont necessarily act on them. (EQ)  
 - Practicing mediation has the intention to be happier and to be better placed to make others happier. 
-  To suffer less and to be a better place to let other suffer less.
+  To suffer less and to be a better placed to let other suffer less.
 - The goal (system) here is Wisdom. 
-  The wisdom that comes om recognizing how things already are in each moment. 
+  The wisdom that comes from recognizing how things already are in each moment. 
   From stepping out of the fantasy life born of having a mind that is constantly/perpetually distracted.
 
- - Why meditate? "If you want to understand your mind, simply sit down and observe it"
+ - Why meditate? "If you want to understand your mind, simply sit down and observe it".
   Simple, no rituals/ceremonies, nothing to join. 
   Understanding ourselves is possible. 
   Meditation is a pragmatic methodology for doing it. 
-  In meditating ourselves, begin to see what creates suffering in ourselves and what brings greater happiness and peace. 
+  In meditating, we begin to see what creates suffering in ourselves and what brings greater happiness and peace. 
   When we see that we can make wiser choices. 
   As we make wiser choices we become happier; as we become happier we make wiser choices.
   Leads to a spiral of greater fulfilment and ease.
@@ -152,13 +158,12 @@ What is it like right now?
    Given this it makes sense to train it. (We know what it is like to have an untrained mind).  
    An untrained mind allows us to be unhappy despite things being about as good as they can possibly be. 
    Even when everything is fine many of us are consumed by stress. Most of our time is spent thinking of things we need/want to do, or wish we hadn't done.
-   We spend very little time truly content and focused on the present.  
-   Because of this we often fail to really connect with people around us. 
+   We spend very little time truly content and focused on the present. Because of this we often fail to really connect with people around us. 
    Understanding our minds through meditation is the best way to correct this. 
    Spend most of our lives seeking to Become Happy. 
    However we can only truly Be Happy in the present. 
    Very few of us can come to rest in the present and experience the peace and fulfillment available there. 
-   The luckiest people in the world still live on the treadmill. They reach thier goals only to find each was a kind of mirage. 
+   The luckiest people in the world still live on the treadmill. They reach their goals only to find each was a kind of mirage. 
    Getting what you want out of life is not quite good enough. 
    Conversely, its also true that you can be happy in an emergency.
    It is a fact of the human mind that genuine well-being is available even in periods of intense physical stress.
@@ -166,9 +171,9 @@ What is it like right now?
 
 -  Why use an App to meditate ? Is using an App a cop out ? 
    Some can make progress in silence (Rare.) 
-   There is an enourmous differnce between having good and bad (or no) information.
-   Even professional atheletes have coaches and trainers. 
-   Even experts can continually refine thier practice. 
+   There is an enormous difference between having good and bad (or no) information.
+   Even professional athletes have coaches and trainers. 
+   Even experts can continually refine their practice. 
 
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
@@ -329,6 +334,12 @@ What is it like right now?
 - Dont worry/think about things you dont like. No point looking down on someone or something that you dont like or find interesting. Move on, drop it. There is only so much time and energy (via Joe Rogan)
 
 - Time is all you have. No one can take it from you. But you can throw it away from lack of attention if you are careless / not mindful. 
+
+Some thoughts on time management:
+  - Your time is limited. Reflect on death.
+  - There are too many things you could do, need a way to decide which. (See the system) 
+  - Get clear on what matters. 
+  - Get good at focusing. (Use mindfulness to feel when you are pulling away, then lean back in)
 
 - **Attention:**
 
