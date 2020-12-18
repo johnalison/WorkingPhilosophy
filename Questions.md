@@ -1,16 +1,4 @@
 # Questions
-- Who am I and what do I stand for ?
-- How can I keep my mind clear from pollution?
-- What am I addicted to?
-- If I dont control what happens to me, what is left?
-- Where can I find steadiness ?
-- What are sources of unsteadiness in my life?
-- Where is the path to serenity ?
-- What can I put outside my circle of control?
-- What jerks me around ?
-- Am I doing work that matters ?
-- Can I find grace and harmony in places others overlooked?
-- Good or bad, high or low, do I still have choices?
 - How can I rekindle my principles and start living today ?
 - What am I getting out of my journaling ritual?
 - Waht do I truly prize?
@@ -67,3 +55,15 @@
 - What can I say no to so I can say yes to things that matter?
 - Am I seeing clearly ? Acting generously? Accepting what I cant change ?
 - What is my purpose in life?
+- Who am I and what do I stand for ?
+- How can I keep my mind clear from pollution?
+- What am I addicted to?
+- If I dont control what happens to me, what is left?
+- Where can I find steadiness ?
+- What are sources of unsteadiness in my life?
+- Where is the path to serenity ?
+- What can I put outside my circle of control?
+- What jerks me around ?
+- Am I doing work that matters ?
+- Can I find grace and harmony in places others overlooked?
+- Good or bad, high or low, do I still have choices?
