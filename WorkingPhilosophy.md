@@ -1,3 +1,4 @@
+
  Core Tenets of Personal Philosophy: 
 
    1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
@@ -104,8 +105,8 @@ The very wise are generally easily deceived, for while they know esoterica they 
 - The art of having no opinion
   > Mechanism for suppressing innate bias
   > Most opinions are reactionary and unrelated to whats really happening
-  > Definitely true of todays politics. Differnet sides ahve opinions that are really reactions based on thier current stance/posture.
-  > Becoming and independent/orthogonal rational thinker requires suppression of reactinoary positions/thoughts  
+  > Definitely true of today's politics. Different sides have opinions that are really reactions based on their current stance/posture.
+  > Becoming and independent/orthogonal rational thinker requires suppression of reactionary positions/thoughts  
 
 
 # You are what you think, but with practice, you can change what you think
@@ -177,12 +178,52 @@ The very wise are generally easily deceived, for while they know esoterica they 
    Even professional athletes have coaches and trainers. 
    Even experts can continually refine their practice. 
 
+"Important to find the profound in the ordinary" - waking up
+  - Seems to be what "enlightened" people have found
+  - Enjoy/Marvel at the moment for what it is, NOW. 
+
+- Meditation is the art of realizing your are already fulfilled before you do/chase the next thing.
+
+- Moods: We tend to coarse grain how we feel ow what our moods are. 
+  In reality things are constantly changing. 
+  Noticing that can help break-up the apparent coarse graining. 
+  The coarse graining is not accurate and can lead to suffering.
+
+- Two ways mind-fullness greatly improves your life.
+  -) Give you space to reflect if something or some action is worth doing. 
+  If the results of some action are likely to be good for you or good for the world. 
+  It can allow for some wisdom to emerge that considers the big picture. 
+
+  -) It can make even unavoidable and unpleasant experiences the source of psychological freedom. 
+  By paying attention to you resistance and aversion you can watch these states of mind unravel and disappear.
+
+- Only way to live without regret is to pay attention.
+
+- Think about what you are going to do: 
+  - Necessary and Enjoyable ?  --> Do it
+  - Unnecessary ? -> Dont do it.
+  - Necessary and Unenjoyable ? -> Use as a source of meditation. Feel aversion. 
+
+- Two Steps to having a good life:
+  -1) Be a good person (Be the good)
+  -2) Pay attention  
+
+- Accept life as it is. Do this whenever you can. The next moment is as good a time as you are likely to get. 
+
+- Mediation is Quite unlike not meditating. Revolutionary thing to do. To be aware of liking and not liking an experience is a separable concept of the experience. 
+  Need not always, in every case, be taken in by it (the liking or not liking).  
+  This is a remarkable insight into the nature of consciousness. 
+  Mindfulness can shown that which is away of unpleasant sensation is the same and feels the same as that which is aware of pleasant sensation. 
+  There really is a kind of equanimity to consciousness, which is liberating.
+
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
 - Poor Richard: Neglect kills injuries, Revenge increases them
 - Need more forgiveness -> forgiveness is transcendence (transcends human nature) 
    (Good for mind / Good for future self)
 - "We are bad men living among bad men, one thing that can calm us down is to be easy on each other" - William Irvine
+- Ask your people "What do you need to get your job done?" Then go out and get that.
+
 
 # You can only control what you can control
 
@@ -210,12 +251,12 @@ The very wise are generally easily deceived, for while they know esoterica they 
 - No one can have everything that they want, but than CAN not want what they dont have and then happily put to use what they do have
   (Wanting less is a short cut to being rich)
 
-- When doing good deeds on the right things, who cares about the priase you recieve? 
-  The praise shouldnt be why you do whats right or why you help someone out.
+- When doing good deeds on the right things, who cares about the praise you receive? 
+  The praise shouldn't be why you do whats right or why you help someone out.
   You do it b/c you control it and its they right/honest thing to do.
 
 - "Never be overheard complaining, even to yourself" Markus Aurelius
-   Things could not have been otherwise. Dont get upset about what happens, repond. 
+   Things could not have been otherwise. Dont get upset about what happens, respond. 
    Can use complaints as a barometer or flag for when your too attached. 
 
 # Don't Lie! (Evil only possible through lies)
@@ -287,7 +328,7 @@ The very wise are generally easily deceived, for while they know esoterica they 
   > Sub officer who was sinavertiantly under attack during the Cuban missile crisis. 
   > Bombs exploded to get the subs to surface. 
   > Vasili's sub was not notified this was happening and assumed he was at war. But refused to launch nuclear war head.
-- Make due with how things ARE.  Do not wait until thie perfect moment/mood/ 
+- Make due with how things ARE.  Do not wait until the perfect moment/mood/ 
   > "A good plan now is better than a perfect plan later" Patton
 - If you can, do it now. (Seneca)
 - "Do what nature demands of you. Get right to if its possible. Dont look around to see if people will know about it. Dont wait for perfection, be satisfied with any small progress, but push for more" Markus Aurelius
@@ -306,6 +347,9 @@ The very wise are generally easily deceived, for while they know esoterica they 
 - Become what you want to be in the world and it will be so
 
 - Small changes in your actions change your world
+
+- "If its not right, Dont do it"
+  "If its not true, dont say it" - Markus Aurelius
 
 # Amor Fati: Embrace what happens, it couldn't have been otherwise.
 
@@ -554,7 +598,7 @@ Some thoughts on time management:
 
 - Habbit Dip: 
   > You'll always hit a dip in energy/motivation (Thats the bad news) 
-  > The good news: Dips are temporary, provide and oppurtunity to learn.
+  > The good news: Dips are temporary, provide and opportunity to learn.
 
   > "Learn the Dip" Learn how to face difficulty, let go of the ideal, deal with frustration. 
 
@@ -631,7 +675,8 @@ Example of Anti-fragility (Jocko): Stresses (eg: not sleeping enough) actually m
 - Stop caring what other people think. Focus on what you think is good, is just etc. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
    Meaning must come from within. 
 - To chase external approval and validation is to chase an illusion. A chimera constructed (for good reason) by Biology and Culture.  
-
+- Stoic way to pray: Instead of asking/hoping for something to happen, ask for the strength to overcome it when it doesn't happen.
+- Dont need a reason to be happy or tranquil. You know what its like to be in that state, just do it. If you still need a reason: You're not dead yet, still in the game.
 
 # Leadership is a skill that can be taught/learned
 
@@ -746,16 +791,16 @@ AI is a tragedy of the commons: Globally want to take our time with AI (huge pot
 
 Like Elons response: Try to become the AI. Requires increasing bandwidth via neural-link.
 
-Natural sources of exessential threat are essentially negligible compared to the human create ones.
+Natural sources of existential threat are essentially negligible compared to the human create ones.
 
 Interesting idea: Gene sequence any medical cases where there is illness but we cannot make a diagnosis. Would allow us to catch potential problems sooner.
 
-Reason for optimism: We have had a radical change in our relationship/outlook toward the environment since the 60s. Might be able to do something similar for exessential risk.
+Reason for optimism: We have had a radical change in our relationship/outlook toward the environment since the 60s. Might be able to do something similar for existential risk.
 
 Thoughts about truth: 
 Truth - reality / objective 
 tribal truth - What your group agrees is true
-Iterative truth - “git-lab” truth asymptotes to Truth
+Iterative truth - “git-lab” truth asymptotic to Truth
 
 Negative Qualities:
 Times when I act like I know something when I really don't
@@ -834,15 +879,50 @@ Nuclear Safety
 
 - Original Thinking: "Ill surely take the older well-worn path, but if I find a shorter, smoother way, Ill blaze a trail there. 
   The ones who  pioneered these paths are our guides, not our masters. Truth is open to everyone" - Seneca
-  Todays conservative ideas where once controversial, cutting-edge, and innovative.
+  Today's conservative ideas where once controversial, cutting-edge, and innovative.
 
 - Police Violence: Police should be allowed to use choke holds. Much safer than tasers (where head can hit ground) and much more effective if you know what your doing.
 
-- Social media (From Social Dilema) 
+- Social media (From Social Dilemma) 
    > Lies and captures our attention for profit.
-   > Creating systems that people (or goverements) can use to manipulate mass populations
-   > Claim: This is excessential threat
+   > Creating systems that people (or governments) can use to manipulate mass populations
+   > Claim: This is existential threat
    > Claim: Example of where AI is already in charge
 
 
 Words that are always true and meaningful; "This too, shall pass."
+
+- "Diversity is protection against ignorance" Diversification not good/stupid if you know what your doing. 'Just put all your money in the best companies" -Buffet. 
+   Diversity is an effective hedge if you dont know whats going on, a good way to get average performance.
+
+
+Compassion: (Claim) Being compassionate is good for your health. At the same level of exercising and eating right. (Skeptical)
+
+Importance of Filtering. (Especially in today's world) Knowing what, when and how to filter is critical to being productive. Knowing what to believe, seeing truth.
+
+Julius Caesar felt like he hadn't accomplished much (40) compared to Alexander (32)
+
+Human Intelligence is incredibly useful, but doesn't prevent you from having false beliefs. 
+That's not what intelligence is for. Intelligence is associated with coming up with more convincing bullshit and with being better liars/. 
+Not the ability to recognize our own bias.  
+Event worse: There is selection pressure  to be unpredictable. A great (easy) way to be unpredictable is to not know yourself. 
+Evolution shields us from self-knowledge.  Minds shrouded in darkness.
+
+Strange that the American libertarian 2nd Amendment "fire wall" types that are out to protect the constitution have aligned with the candidate that is the biggest threat to the democracy.
+
+Markus Aurelius on Anger: Not manly to get angry. Not natural either. Better to be calm and controlled. Better to treat people with kindness. Dont go around expecting Plato's republic.  There are obstacles in the path ? Go around them. Why get angry ? Do you thing the world would notice ? or care ?
+
+Strange how much money is in collecting data, but how little data we collect about ourselves. 
+
+Deep Fakes: 
+ - Claim: Now have better quality A/V production than Hollywood
+ - How will we be able to tell whats true and false?
+    - Could use high-fidelity lie detector tests. (Not clear if this is feasible/being looked into)
+    - ML can try to authenticate (leads to arms race)
+    - Some form of "water-marking" to guarantee authenticity
+ My thoughts: Did similar issues arise with other media ? eg: faking  quotes in print ? 
+   Will probably fall to content providers/eye-witnesses.
+
+How smart/plugged-in do you need to be to properly participate in democracy? And how do these requirements change with time?
+Claim: (Dan Carlin) the fraction of people that are informed enough to participate today is lower than anytime in the past.
+

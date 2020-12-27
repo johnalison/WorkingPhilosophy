@@ -53,6 +53,8 @@
   > If we can avoid total destruction in next couple 100 years, we will have  the ability to "live forever" 
 - Now the principles of Darwinian evolution are evolving. 
   > conception through sex disappearing
+- We are living through a revolution: Information revolution. We have internalize it so dont think about it so much. With our current political situation: Could we be "paying the tab" for all the great 21st century tech? This information age revolution is different because a core principle is the perpetually accelerating innovation. Society does not have time to "catch up" with the new world order and adapt.
+
 
 # Crazy things scientist used to believe
 - Sperm is little homunculus
@@ -110,7 +112,7 @@
 
   > Avoiding stupidity often easier than seeking brilliance
 
-  > Index funds (Vangaurd) can be seen as form on inversion
+  > Index funds (Vanguard) can be seen as form on inversion
      > Easy to avoid poor returns 
      > Easy to lower known fees
      > Together these outperform almost everything
@@ -189,9 +191,9 @@
 # People I look up to (North stars)
 
 - Charlie Munger
-- Joe Kroll
+- Joe Kroll: Understands what he works on deeply. Great mentor to students: Physics and (HEP) politics. Doesn't take himself too seriously (others often think he does). Commands respect. Good memory. Dependable/reliable.  Family first.
 - Elliot Lipeles
-- Dominick Olivito
+- Dominick Olivito: Reliable, Sensible, Honest, Realistic, Can execute, quiet. Radiates confidence, emotional detachment.
 - Daniel Froideveux
 - Elon Musk
 - Stoics
@@ -222,13 +224,24 @@
 - Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
 "How you do everything is how you do anything"  
 - Ira and Roy: often know how to get to the point, clarify
-- Markus: very knowladgeeable, good points
+- Markus: very knowledgeable, good points
 - Jeff: Also very insightful
 - Barry: very professional
+- Dan Carlin: Nice takes on History.  
+  - History more than facts, there are lessons to draw from. 
+  - People of the past just as smart as we are. 
+  - Now could be different. (This generation not abused as children. Manage to make ware obsolete?)
+  - Highlights when worlds collide.
+  - Highlights when people look back at much more impressive and destroyed civilisations/cities. eg Xenephon and the Assyrians.
+  - Thinks about how history will look back on us.
+  - Lots of analogies to more current affairs.
+- Roger Penrose: Orthogonal thinker. Genius. Good Physics taste. Clearly an outside in the field.  (Despite the noble prize!)
 
 # Paradoxes                                                             
 
 - Paradox of the Mind: When we look, mind seems totally insubstantial, yet everything we experience is a modification of the mind. 
+- We spend most of our time trying to change What Is into What Should Be.  Turns out that this change is often easiest after we truly accept what is.
+- We are identical with one of the greatest mysteries in the Universe. In a sense its the only thing we know, can know. In another, it is one of the last great unknowns (to science).
 
 # What will be seen as right/wrong in future
 
@@ -253,8 +266,16 @@
 
 
 # Who/what are we:
-- Our brains are powerful computers but with arcane operating systemas 
+- Our brains are powerful computers but with arcane operating systems 
 - Emotions (Algorithms) very fast efficient, but often used out of context.
 - Quickly becoming gods (or racing to event new ones (AI)) without wisdom. 
-- Animals with rationality - the tool that may allow us to transend our situation
+- Animals with rationality - the tool that may allow us to transcend our situation
 - Optimism and hubris is built into our operating systems 
+
+# What we should be teaching kids:
+- Importance of Filtering. (Especially in today's world) Knowing what, when and how to filter is critical to being productive. Knowing what to believe, seeing truth.
+- How to google. 
+- Meditation/controlling your emotions. 
+- Self-motivation 
+- Self-improvement. 
+- Game theory

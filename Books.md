@@ -45,14 +45,14 @@
 
 # Stoic Test Challenge (William Irvine)
  - Great Book!
- - Definetly changed my life for the better. 
+ - Definitely changed my life for the better. 
  - Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
  - Now w/after life, but about time on earth.
  - All about stoic tests (see Respond, don't React (Employ Stoic Test Strategy))
  - What up sets people is not the setbacks in themselves, but there judgements of them. 
 
 # Fumble Rules (guide to grammar and usage)
- - Overly clever, not enough actionable informaiton.
+ - Overly clever, not enough actionable information.
  - Some of it: kill "with regard to", "with reference to", "on account of", "by means of", "as regards", "with the exception of"
 
 # David Foster Wallace Bio ("Every Love Story Is a Ghost Story")
@@ -213,18 +213,18 @@
   - Most cells in your body turn over every two years (on average) 
   - 28 years for humans to pass a generation 6 months for chickens
   - Breeding preimplented embryos with each other can accelerate the turn over in humanss. 
-  - Artcic apples can be sliced and left out with out browning b/c scientists have used CRISPER to silence genes controlling browning
+  - Arctic apples can be sliced and left out with out browning b/c scientists have used CRISPER to silence genes controlling browning
   - 37 genes are in the mitochondria. 
   - Aging is probably a combination of many different systems in the body all decaying at different rates
   - Aging is the leading cause of death among humans (diseases that kill us most are from aging. Curing any one will not help much) 
   - Eliminating cancer will buy us 3 years
-  - "Ive only had one wrinkle in my life, and Im sitting on it" - Jean Calment (122) 
+  - "I've only had one wrinkle in my life, and I'm sitting on it" - Jean Calment (122) 
   - Lifestyle choices significantly impact the epigenetic instructions 
   - "Nature is clumsy, wasteful, blundering, low, and horribly cruel" - Darwin
-  - We will never have perfect knowladge of the genome just like we never had perfect knowladge of fire before we started harnessing it, cancer before we started treating it,  or domesticated crops before we started eating them
+  - We will never have perfect knowledge of the genome just like we never had perfect knowledge of fire before we started harnessing it, cancer before we started treating it,  or domesticated crops before we started eating them
   - Optimism and hubris is built into our operating systems 
   - Bostrom's "Reversal Test" - If some people feel that making a change in one direction is bad, they should articulate why doing the opposite (actively) would be justified. 
-  - Euginics 60k Americans were sterilized without acquiescence / Nazis did 400k Germans
+  - Eugenics 60k Americans were sterilized without acquiescence / Nazis did 400k Germans
   - Diversity has been and remains sole survival strategy of our species
 
 
@@ -313,24 +313,54 @@
   - Many would be wise if they did not think themselves wise. The oracles of wisdom are rare, they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
   - Trust your heart. Never deny it a hearing. It is a kind of oracle that often foretells the most important.
   - Be a solid man: "Only truth can give a true reputation"
-  - You must moderate your opinion of others so you dont fear them.  (Many appear great untel you know them personally)
+  - You must moderate your opinion of others so you dont fear them.  (Many appear great until you know them personally)
   - Do not hold your views too firmly. Every fool is fully convinced and every fully persuaded is a fool. Steadfastness should be for the will not the mind.
   - Do not be ceremonious: Its right to demand respect, but not to be seen as master of ceremonies. "He cannot be great who is great at such little things"
-  - Do pleasant things yourself, do unpleasent things through others. A great man takes more pleasure in doing a favor than in recieving one.
+  - Do pleasant things yourself, do unpleasant things through others. A great man takes more pleasure in doing a favor than in receiving one.
   - Be the bearer of praise: This shows we have learned what is excellent. Gives material for conversation.
   - Know how to appreciate: Wise men appreciate all men, for they see the good in each and know how hard it is to make anything good.
   - Find a proper place by merit, not presumption. "Deserve what you want"
   - Attempt easy tasks as if they were difficult, difficult tasks as if they were easy (Systems, not goals)
-  - Be Moderate: Moderation serves as a counter point to the impusles of passions (emotions) especially in sudden emergencies. Much thought is needed to prevent emotion from taking over. 
+  - Be Moderate: Moderation serves as a counter point to the impulses of passions (emotions) especially in sudden emergencies. Much thought is needed to prevent emotion from taking over. 
   - Do not turn one blunder into two. The worst of a bad case is having to fight it.
   - Be expressive: without cleverness the children of the mind (thought and judgements) cannot be brought into the world.
   - Never act form stubbornness but from knowledge. All stubbornness is an outgrowth of the mind, a grandchild of emotion which never did do anything right. There are people that make war out of everything. Dont do that. 
   - Sincerity should not degrade into simplicity, nor sagacity into cunning.
-  - Never take anything against the grain. Everything has a smooth or a seamy side. Many things cause pain which should cause pleasure if you regaurded their advantages. 
-  - Do not be the slave of first impressions. Dont satisify your will with the first object nor your mind with the first preopostion. Wait for the 3rd or 4th edition of the news.
-  - Plan your life wisely, with predence and foresight. 
+  - Never take anything against the grain. Everything has a smooth or a seamy side. Many things cause pain which should cause pleasure if you regarded their advantages. 
+  - Do not be the slave of first impressions. Dont satisfy your will with the first object nor your mind with the first preposition. Wait for the 3rd or 4th edition of the news.
+  - Plan your life wisely, with prudence and foresight. 
   - The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
   - Know a little more, live a little less. To be at ease is better than to be at business. All we have is time. It is unfortunate to waste your precious life in both mechanical or important work. 
-  - Most men do not esteem what they understand and venerate what they do not. Many praise a thing without being able to say why if asked.
+  - Many men do not esteem what they understand and venerate what they do not see.  Many praise a thing without being able to say why if asked. 
   - Few can do us good, almost any can do us harm. 
-  - Be able to forget: Memory is unruly and stupid. It leaves us in lurch whdn needed and puts its nose into places its not wanted. Cultivate good habits of memory, it can make life heaven or hell.
+  - Be able to forget: Memory is unruly and stupid. It leaves us in lurch when needed and puts its nose into places its not wanted. Cultivate good habits of memory, it can make life heaven or hell. 
+  - Have a touch of the trader: The very wise are generally easily deceived, for while why exotica, they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
+  - Do not condemn alone that which pleases all. There must be good in a thing that pleases so many. If you cannot find the good look. Bad taste springs from want of knowledge. 
+  - In all things if you know little, stick to the safest. To know little and seek danger is to seek ruin. "Security is schrewder than singularity".	 
+  - Beware of the gossip; He is either a blabber or a spy.
+  - Find favor with men of sense: The tepid yes of remarkable men is worth more than all the applause of the vulgar. Even monarchs need authors and fear their pens more than ugly women the camera.
+  - Never act from emotion: If you do all is lost. You cannot act for yourself if you are not yourself. Emotion/Passion drives out reason. You need to interpose a prudent go-between who keeps cool. As soon as you notice you are losing your temper, beat a wise retreat.
+  - Live for the moment, not  by certain fixed rules, except those of cardinal virtues. The wise man knows that prudence lies in steering by the wind. (BJJ)
+  - More important to know men than to know minerals.
+  - Aspire to be a hero than merely appear to be one.
+  - Always act as if you were seen.
+
+
+# My Journey to the Nuclear Brink" (W. Perry)
+  - Average overall. More of a memoir than anything.
+  - During the Cuban missile crisis an American ICBM was launched. It was a routine test that no one thought to reschedule.
+  - After missing a bid for a Govt. contract, start-up company went out and loaned their employees to other companies that had gotten the contract as a way to keep their talent in house.
+  - "Megaton to Megawatts" project blended down Soviet uranium in old bombs for use in commercial power reactors in the US.
+  - Upward progress in human violence and global political trends hopeful, but nuclear conflict could in blink be the ultimate reversal.
+  - Our chief peril is poised nuclear doom, too far out of global public consciousness.
+  - "Our problems are man-made, therefore, they can be solved by man" JFK
+  - The problem is not how long it will take governments to reduce nukes to zero, but that governments now aren't moving at all. 
+  - Key to constructive action to prevent nuclear weapons being used is education of the public.
+
+
+# Blood Meridian (Cormack McCarthy)
+  - Good. Entertaining (A lot probably went over my head). Very gory. 
+  - Dont actually have much that I took away.
+  - "People see what they want to see".  "Then how come I ant seeing it now? I sure as want to."
+  - "Books lie", "God dont lie", No said the judge, He does not and these are his words (holds up a chunk of rock) "He speaks in stones, trees, the bones of things"
+  
