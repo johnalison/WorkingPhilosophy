@@ -259,9 +259,9 @@
   - Be spotless. A single cloud can hide the whole of the sun.
   - Know how to take a hint. The truths which concern us most can only be half spoken, but with attention we can grasp then whole meaning. When you hear something favorable be skeptical. When you hear something unfavorable follow up.
   - Excellence in quality not quantity, much lowers value. Those who attempt to be at home everywhere are so nowhere. 
-  - The smallest of current trump beats the the ace of trumps last hand. 
+  - The smallest of current trump beats the ace of trumps last hand. 
   - Know your strongest points, your preeminent gift. Cultivate that and the rest will follow. 
-  - Think things over, most over the most important. The wise man thinks over everything, but more profoundly where there is profound difficulty and thinks that perhaps there is more it it that he thinks. 
+  - Think things over, most over the most important. The wise man thinks over everything, but more profoundly where there is profound difficulty and thinks that perhaps there is more to it than he thinks. 
   - Recognize when things are ripe, and enjoy them.
   - Never exaggerate, its a branch of lying
   - Think with the few, speak with the many.
@@ -285,7 +285,7 @@
   - Know yourself: In talents and capacity, in judgement and inclination. There are mirrors for the face, but none for the mind. Let careful thought (meditation)  and discussion among friends serve as a substitute. 
   - Dont not let your fortune on a single cast of the die. (Systems not Goals)
   - Obtain and preserve a reputation. 
-  - Dignity: True kingship lies in spotless rectitude and he need to envy greatness who can serve as a model for it. Prefer to share in the the qualities of royalty rather than take part in mere ceremony.
+  - Dignity: True kingship lies in spotless rectitude and he need to envy greatness who can serve as a model for it. Prefer to share in the qualities of royalty rather than take part in mere ceremony.
   - Good things when short are twice as good. (Well said is soon said) 
   - By joining extremes the more effective middle way is found.
   - Only act with honourable men. Dis-honorable ones are not constrained by virtue

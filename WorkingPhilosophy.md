@@ -266,7 +266,7 @@ The very wise are generally easily deceived, for while they know esoterica they 
 - “The foundation of morality is to have done away, once and for all, with lying”
                - Thomas Huxley
 - "Be Reliable": Unreliability will cancel out all other virtues.  
-- How can can I be more reliable ? 
+- How can I be more reliable ? 
   > Say what you mean, mean what you say.
   > Say what you do, do what you say.
 - Dont cheat, dont mislead, dont talk behind others backs, dont act sneaky, dont avoid doing things you should or need to do
@@ -562,7 +562,7 @@ Some thoughts on time management:
 - Progress does not come from one big show of force.  
   Real, true, lasting progress comes from grinding things out. 
 
-- When things are going bad Bad ... "Good"
+- When things are going bad ... "Good"
   When things aren't going as expected ... "Good"
   Whey you dont get the promotion ... "Good"
   "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.

@@ -105,7 +105,7 @@
   > Then choose what long sloughs to fight. 
 - 2nd order thinking
   > Consider the consequences of the consequences of your action.
-  > Obviously want to to as high an order as possible.
+  > Obviously want to think to as high an order as possible.
   > Developing trust is a great example (Be reliable ! See dont lie and be the good).
 - Inversion 
   > "Invert, always invert" - Jacobi
