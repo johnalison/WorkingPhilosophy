@@ -11,7 +11,7 @@
 
 - No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
 
-- Some Stoicism: Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
+- Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
 
 - Nothing can prevent you from getting better, becoming wiser. The obstacle is the way.
 
@@ -30,9 +30,10 @@
    > Wanting less is a short cut to being rich.
 
 - When doing good deeds on the right things, who cares about the praise you receive? 
-  The praise shouldn't be why you do whats right or why you help someone out.
-  You do it b/c you control it and its they right/honest thing to do.
+  > The praise shouldn't be why you do whats right or why you help someone out.
+  > You do it b/c you control it and its they right/honest thing to do.
 
 - "Never be overheard complaining, even to yourself" Markus Aurelius
-   Things could not have been otherwise. Dont get upset about what happens, respond. 
-   Can use complaints as a barometer or flag for when your too attached. 
+
+   > Things could not have been otherwise. Dont get upset about what happens, respond. 
+   > Can use complaints as a barometer or flag for when your too attached. 
