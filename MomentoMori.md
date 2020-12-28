@@ -6,19 +6,28 @@
 - Death always with us, dying moment at a time.
  Important that death and its possibility color your life.
 
-- Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
+- "You always have a gun to your head: Need to make decisions have personal interactions with this in mind." - Fight Club
 
 - **Alive time vs Dead time:**
   
-   > You don't own anything! Anything you think you own goes away when you die, and you don't know when that is going to happen. Could be tomorrow or tonight. The only one thing that is yours , that you cant be taken away from you is time.  Guard and Value it with the respect it deserves.  It's all you have...
+   > You don't own anything! Anything you think you own goes away when
+     you die, and you don't know when that is going to happen. Could
+     be tomorrow or tonight. The only one thing that is yours , that
+     you cant be taken away from you is time.  Guard and Value it with
+     the respect it deserves.  It's all you have...
 
 - Time is constantly running out, don't know how much you got
 
-- Dont worry/think about things you dont like. No point looking down on someone or something that you dont like or find interesting. Move on, drop it. There is only so much time and energy (via Joe Rogan)
+- Dont worry/think about things you dont like.
+
+  > No point looking down on someone or something that you dont like
+    or find interesting. Move on, drop it. There is only so much time
+    and energy (via Joe Rogan)
 
 - Time is all you have. No one can take it from you. But you can throw it away from lack of attention if you are careless / not mindful. 
 
-Some thoughts on time management:
+- Some thoughts on time management:
+
   - Your time is limited. Reflect on death.
   - There are too many things you could do, need a way to decide which. (See the system) 
   - Get clear on what matters. 
