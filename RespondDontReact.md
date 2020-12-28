@@ -112,3 +112,11 @@ setbacks.
   > Things will go wrong. Thinkgs will not go as expected. Dont let
     chaos reign. Recognize the situation and detach. When you lose the
     beat, gather yourself and get back into the beat.
+
+
+- Not manly to get angry. 
+
+  > Not natural either. Better to be calm and controlled. Better to
+    treat people with kindness. Dont go around expecting Plato's
+    republic.  There are obstacles in the path ? Go around them. Why
+    get angry ? Do you thing the world would notice ? or care ?

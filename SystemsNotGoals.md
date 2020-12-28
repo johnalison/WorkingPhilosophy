@@ -151,3 +151,8 @@
 - "Put your day up for review" - Seneca
 
 - git commit -am "Perfrection Not Required"
+
+- Importance of Filtering.
+
+  > Especially in today's world) Knowing what, when and how to filter is
+  critical to being productive. Knowing what to believe, seeing truth.

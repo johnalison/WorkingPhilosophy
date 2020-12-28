@@ -167,7 +167,7 @@ The very wise are generally easily deceived, for while they know esoterica they 
   > infinity Should question all slippery slope arguments.
 
 
-Nuclear Safety
+- Nuclear Safety
 
    > By far biggest problem of our time. Crazy we dont think/talk about it more. 
    > Biggest risk is accidental launch. Destroys Civilization. 
@@ -181,57 +181,55 @@ Nuclear Safety
 
 - Bee sting: bodies response to the action worse than the initial attack. 
 
-- Interesting fact: Hebrew only example of a language that died out, was dead for thousands of years then came back and now is the 1st language of millions of people.
+- Hebrew only example of a language that died out, was dead for thousands of years then came back and now is the 1st language of millions of people.
    
 - One of the best ways of talking to yourself is to talk with other people. And its important to talk to yourself to know what you think.
 
-- Interesting Point: Assimilation  is Annihilation as far as culture is concerned. 
+- Assimilation  is Annihilation as far as culture is concerned. 
 
 - Facts about Hitler: 
-   > Used to have regular mustache, trimmed version was something WWI so their gas masks sealed properly. 
-   > Keeping the trimmed mustache was a signal to his audience that he was a warrior and that the was still being fought.
+   - Used to have regular mustache, trimmed version was something WWI so their gas masks sealed properly. 
+   - Keeping the trimmed mustache was a signal to his audience that he was a warrior and that the was still being fought.
 
 - The holocaust is essentially/almost like a religious event. 
-   > Happened seemingly out of nowhere/ taboos against asking why/how.  
+   - Happened seemingly out of nowhere/ taboos against asking why/how.  
 
 - Thoughts on hiring (Jocko) 
-   > Hire for capacity/raw talent NOT experience. 
-   
-   > Generalized skills almost always superior to specialized.
 
-   > When recruiting for special forces, no one has experience
-
-   > Personnel selection is Art not science
-   
-   > Q: "What if we train them and they leave ?" A: "What if we dont and they stay?"
-
-   > Personnel is your biggest asset.
-
-   > Personnel development should be your primary mission
-
-   > "I'm just providing cover fire for my team"
+   - Hire for capacity/raw talent NOT experience. 
+   - Generalized skills almost always superior to specialized.
+   - When recruiting for special forces, no one has experience
+   - Personnel selection is Art not science
+   - Q: "What if we train them and they leave ?" A: "What if we dont and they stay?"
+   - Personnel is your biggest asset.
+   - Personnel development should be your primary mission
+   - "I'm just providing cover fire for my team"
 
    
 - Thought on how to be "a man" (Jocko) 
 
-  > Do things (Fix things/get out in nature/ etc) 
+  - Do things (Fix things/get out in nature/ etc) 
+  - Learn things (Read books / develop skills) 
+  - Work out (Get strong)
+  - Learn how to fight (ju jitsu) 
 
-  > Learn things (Read books / develop skills) 
+- Humans take evolutionary path such that a lot of development happens after birth. New borns are essentially still fetuses. "Worms" that only really eat defecate, sleep and cry.
 
-  > Work out (Get strong)
+- Cultural-level sublimation: 
 
-  > Learn how to fight (ju jitsu) 
+  > Socially unacceptable impulses are substitute for symbolic
+  acts. eg: head-hunting replaces ritual cannibalism replaces casual
+  cannibalism.  Pinker argues that manners and rules of high-society
+  has a similar "taming" effect.
 
-- Humans take evolutionary path such that a lot of development happens after birth. New borns are essentially still fetuses. "Worms" that only really eat defecate, sleep and cry) 
+- Original Thinking: 
+  
+  > "Ill surely take the older well-worn path, but if I find a
+  shorter, smoother way, Ill blaze a trail there.  The ones who
+  pioneered these paths are our guides, not our masters. Truth is open
+  to everyone" - Seneca Today's conservative ideas where once
+  controversial, cutting-edge, and innovative.
 
-- Cultural-level sublimation: Socially unacceptable impulses are substitute for symbolic acts. eg: head-hunting replaces ritual cannibalism replaces casual cannibalism.  
-  Pinker argues  that manners and rules of high-society has a similar "taming" effect.
-
-- Original Thinking: "Ill surely take the older well-worn path, but if I find a shorter, smoother way, Ill blaze a trail there. 
-  The ones who  pioneered these paths are our guides, not our masters. Truth is open to everyone" - Seneca
-  Today's conservative ideas where once controversial, cutting-edge, and innovative.
-
-- Police Violence: Police should be allowed to use choke holds. Much safer than tasers (where head can hit ground) and much more effective if you know what your doing.
 
 - Social media (From Social Dilemma) 
    > Lies and captures our attention for profit.
@@ -240,41 +238,40 @@ Nuclear Safety
    > Claim: Example of where AI is already in charge
 
 
-Words that are always true and meaningful; "This too, shall pass."
+- Words that are always true and meaningful: "This too, shall pass."
 
-- "Diversity is protection against ignorance" Diversification not good/stupid if you know what your doing. 'Just put all your money in the best companies" -Buffet. 
-   Diversity is an effective hedge if you dont know whats going on, a good way to get average performance.
+- "Diversity is protection against ignorance" 
+
+  > Diversification not good/stupid if you know what your doing. 'Just
+  > put all your money in the best companies" -Buffet.  Diversity is
+  > an effective hedge if you dont know whats going on, a good way to
+  > get average performance.
 
 
-Compassion: (Claim) Being compassionate is good for your health. At the same level of exercising and eating right. (Skeptical)
+- Compassion:
+  > (Claim) Being compassionate is good for your health. At the same level of exercising and eating right. (Skeptical)
 
-Importance of Filtering. (Especially in today's world) Knowing what, when and how to filter is critical to being productive. Knowing what to believe, seeing truth.
 
-Julius Caesar felt like he hadn't accomplished much (40) compared to Alexander (32)
+- Human Intelligence is incredibly useful, but doesn't prevent you from having false beliefs. 
 
-Human Intelligence is incredibly useful, but doesn't prevent you from having false beliefs. 
-That's not what intelligence is for. Intelligence is associated with coming up with more convincing bullshit and with being better liars/. 
-Not the ability to recognize our own bias.  
-Event worse: There is selection pressure  to be unpredictable. A great (easy) way to be unpredictable is to not know yourself. 
-Evolution shields us from self-knowledge.  Minds shrouded in darkness.
+  > That's not what intelligence is for. Intelligence is associated
+  with coming up with more convincing bullshit and with being better
+  liars/.  Not the ability to recognize our own bias.  Event worse:
+  There is selection pressure to be unpredictable. A great (easy) way
+  to be unpredictable is to not know yourself.  Evolution shields us
+  from self-knowledge.  Minds shrouded in darkness.
 
-Strange that the American libertarian 2nd Amendment "fire wall" types that are out to protect the constitution have aligned with the candidate that is the biggest threat to the democracy.
+- Strange how much money is in collecting data, but how little data we collect about ourselves. 
 
-Markus Aurelius on Anger: Not manly to get angry. Not natural either. Better to be calm and controlled. Better to treat people with kindness. Dont go around expecting Plato's republic.  There are obstacles in the path ? Go around them. Why get angry ? Do you thing the world would notice ? or care ?
-
-Strange how much money is in collecting data, but how little data we collect about ourselves. 
-
-Deep Fakes: 
+- Deep Fakes: 
  - Claim: Now have better quality A/V production than Hollywood
  - How will we be able to tell whats true and false?
     - Could use high-fidelity lie detector tests. (Not clear if this is feasible/being looked into)
     - ML can try to authenticate (leads to arms race)
     - Some form of "water-marking" to guarantee authenticity
- My thoughts: Did similar issues arise with other media ? eg: faking  quotes in print ? 
+ - My thoughts: Did similar issues arise with other media ? eg: faking  quotes in print ? 
    Will probably fall to content providers/eye-witnesses.
 
-How smart/plugged-in do you need to be to properly participate in democracy? And how do these requirements change with time?
-Claim: (Dan Carlin) the fraction of people that are informed enough to participate today is lower than anytime in the past.
 
 "Ends justify the means" vs "How you play the game"
 Claim: Not in our interest to have a federal policy on torture. (Even if effects, although seems it is not)

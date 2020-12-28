@@ -62,3 +62,5 @@
   - Carthaginian genocide by Romans 
   - Turned Rome from regional power to the main player.
 
+
+- Julius Caesar felt like he hadn't accomplished much (40) compared to Alexander (32)
