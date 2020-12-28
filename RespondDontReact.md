@@ -41,18 +41,24 @@ easy on each other" Worth spending time and energy developing a
 plan to minimize emotional harm from unexpected (and inevitable)
 setbacks.
  
- - We are fundamentally a divided self:  Mind vs Body. Conscious (rational) vs unconscious/emotions (automate/base) 
-   Note: unconscious emotions are important. There is a lot that is easy at an intuitive level that is hard to rationalize ("gut feelings"). Often correct.
-   Can use mindfulness/BQ has a hack to tap into these ancient algorithms
+- We are fundamentally a divided self: Mind vs Body.
 
- - To succeed in a Stoic Test Challenge need 1) plan effective workarounds 2) avoid getting caught in negative emotions. 
+  > Conscious (rational) vs unconscious/emotions (automate/base) Note:
+  unconscious emotions are important. There is a lot that is easy at
+  an intuitive level that is hard to rationalize ("gut
+  feelings"). Often correct.  Can use mindfulness/BQ has a hack to tap
+  into these ancient algorithms
 
-  > **1st grade:** is how well I searched for a work-around. (Consider options ? / 2nd order thinking ? / Pick best option?)
+- To succeed in a Stoic Test Challenge need
+   1) plan effective workarounds 
+   2) avoid getting caught in negative emotions. 
 
-  > **2nd grade:** (much more important) what was my emotional response ?
+ > **1st grade:** is how well I searched for a work-around. (Consider options ? / 2nd order thinking ? / Pick best option?)
 
- - Can remove/silence/mute sub-conscious from loop by treating setback as *Stoic Test*.  (See "Disengage/Step back")
-   Prevents emotions from coming online. Lowers "cost" of setback. Improves change of success.
+ > **2nd grade:** (much more important) what was my emotional response ?
+
+- Can remove/silence/mute sub-conscious from loop by treating setback as *Stoic Test*.  (See "Disengage/Step back")
+  Prevents emotions from coming online. Lowers "cost" of setback. Improves change of success.
 
 - Several different possible frames for setbacks
 
