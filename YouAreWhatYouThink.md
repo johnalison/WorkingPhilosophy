@@ -106,15 +106,17 @@
 
 "Important to find the profound in the ordinary" - waking up
 
-  >  Seems to be what "enlightened" people have found
-  >  Enjoy/Marvel at the moment for what it is, NOW. 
+   >  Seems to be what "enlightened" people have found.
+   >  Enjoy/Marvel at the moment for what it is, NOW. 
 
 - Meditation is the art of realizing your are already fulfilled before you do/chase the next thing.
 
-- Moods: We tend to coarse grain how we feel ow what our moods are. 
-  In reality things are constantly changing. 
-  Noticing that can help break-up the apparent coarse graining. 
-  The coarse graining is not accurate and can lead to suffering.
+- Moods:
+   
+   > We tend to coarse grain how we feel ow what our moods are.  In
+   > reality things are constantly changing.  Noticing that can help
+   > break-up the apparent coarse graining.  The coarse graining is
+   > not accurate and can lead to suffering.
 
 - Two ways mind-fullness greatly improves your life.
   -) Give you space to reflect if something or some action is worth doing. 
