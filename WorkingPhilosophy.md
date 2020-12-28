@@ -8,7 +8,7 @@
    5) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
    6) [Be the good. (Intelligent ACTION is power)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BeTheGood.md)
    7) [Amor Fati (What happens couldn't be otherwise)](https://github.com/johnalison/WorkingPhilosophy/blob/master/AmorFati.md)
-   8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
+   8) [Memento Mori: All we have is time; lack of attention throws it away](https://github.com/johnalison/WorkingPhilosophy/blob/master/MomentoMori.md)
    9) [Respond, don't React (Employ Stoic Test Strategy)](#Respond-dont-React-employ-Stoic-Test-Strategy)
    10) [Systems not Goals](#Systems-Not-Goals)
    11) [Perfection Not required, effective self-improvement critical](#Perfection-Not-required-effective-self-improvement-critical)
@@ -51,58 +51,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 
-
-# Memento Mori: All we have is time; lack of attention throws it away
-
-- "Now we flourish as before others did. And soon others will whose children we shall never see."
-
-- Death always with us, dying moment at a time.
- Important that death and its possibility color your life.
-
-- Fight Club:  You always have a gun to your head: Need to make decisions have personal interactions with this in mind.
-
-- **Alive time vs Dead time:**
-  
-   > You don't own anything! Anything you think you own goes away when you die, and you don't know when that is going to happen. Could be tomorrow or tonight. The only one thing that is yours , that you cant be taken away from you is time.  Guard and Value it with the respect it deserves.  It's all you have...
-
-- Time is constantly running out, don't know how much you got
-
-- Dont worry/think about things you dont like. No point looking down on someone or something that you dont like or find interesting. Move on, drop it. There is only so much time and energy (via Joe Rogan)
-
-- Time is all you have. No one can take it from you. But you can throw it away from lack of attention if you are careless / not mindful. 
-
-Some thoughts on time management:
-  - Your time is limited. Reflect on death.
-  - There are too many things you could do, need a way to decide which. (See the system) 
-  - Get clear on what matters. 
-  - Get good at focusing. (Use mindfulness to feel when you are pulling away, then lean back in)
-
-- **Attention:**
-
-   > Attention is a finite resource 
-   > Is the bricks and mortar of our life
-   > Amazing how easily we let it be stolen from us
-
-
-- Should live more as if you had been diagnosed with some terminal disease and were going to die soon.  In fact we all have a terminal disease: “The cause of death is birth” and we don't know how much longer we have to live. 
-
-- “You could leave life right now. Let that determine what you do and say and think”
-     Markus Aurelius
-  Put everything that takes time or attention, costs money, or takes sacrifice through this filter.  
-
-- Time is one think in negotiations or decision making that you can cant go back on. Cant undo. Time gives no mercy. 
-  No amount of negotiation can recover lost time. its gone when its gone. 
-  Time is one thing to pay attention to above all. How you use *your* time.
-
-- Ones whole life is a succession of moment after moment. 
-  > "Attention is the brick and mortar of our lives". Important to guard your time the respect it deserves. 
-
-- How to be present and Alive in the moment:  Shift from doing to being: more present, joyful, appreciative. 
-  > Practice pouring yourself into every act (being fully in all/everything you do)
-  
-  > Feel emotion
-
-  > See the good around you, in the people you interact with 
 
 # Respond, don't React (Employ Stoic Test Strategy) 
 
