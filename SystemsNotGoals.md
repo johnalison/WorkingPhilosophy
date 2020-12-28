@@ -149,3 +149,5 @@
 ---
 
 - "Put your day up for review" - Seneca
+
+- git commit -am "Perfrection Not Required"

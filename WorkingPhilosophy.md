@@ -12,7 +12,7 @@
    9) [Respond, don't React (Employ Stoic Test Strategy)](https://github.com/johnalison/WorkingPhilosophy/blob/master/RespondDontReact.md)
    10) [Systems not Goals](https://github.com/johnalison/WorkingPhilosophy/blob/master/SystemsNotGoals.md)
    11) [Perfection Not required, effective self-improvement critical](https://github.com/johnalison/WorkingPhilosophy/blob/master/PerfectionNotRequired.md)
-   12) [Do not let your happiness (well-being) depend on things you cannot control](#Do-not-let-your-happiness-well-being-depend-on-things-you-cannot-control)
+   12) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
 
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
@@ -63,23 +63,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 
-
-# Do not let your happiness (well-being) depend on things you cannot control
-
-- Explains how people can be well-off an miserable or poor and happy
-- Make Well-being depend only on things you can control
-- Focus more on wanting what you have  
-- Rejoice in your actions that lead to good outcomes
-- Escape within: Possible way to derive happiness. 
-- Meditation: Observing the mind
-- Headless way: Focusing on 1st person perspective
-- Study 
-- Work
-- Stop caring what other people think. Focus on what you think is good, is just etc. Cant let other peoples opinion of you ( acceptance of your work)  validate or bring you meaning. 
-   Meaning must come from within. 
-- To chase external approval and validation is to chase an illusion. A chimera constructed (for good reason) by Biology and Culture.  
-- Stoic way to pray: Instead of asking/hoping for something to happen, ask for the strength to overcome it when it doesn't happen.
-- Dont need a reason to be happy or tranquil. You know what its like to be in that state, just do it. If you still need a reason: You're not dead yet, still in the game.
 
 # Leadership is a skill that can be taught/learned
 
