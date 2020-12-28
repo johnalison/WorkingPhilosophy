@@ -1,10 +1,9 @@
 # Don't Lie! (Evil only possible through lies)
 
-- “Keep conscience clean, then never fear” 
-  > Poor Richards Almanac
+- “Keep conscience clean, then never fear”  - Poor Richards Almanac
 
 - “The foundation of morality is to have done away, once and for all, with lying”
-  > Thomas Huxley
+   - Thomas Huxley
 
 - "Be Reliable": Unreliability will cancel out all other virtues.  
 
