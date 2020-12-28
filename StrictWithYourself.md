@@ -9,3 +9,5 @@
 - "We are bad men living among bad men, one thing that can calm us down is to be easy on each other" - William Irvine
 
 - Ask your people "What do you need to get your job done?" Then go out and get that.
+
+- Most important thing to learn is: We have so much to learn.  Realize this and open your mind.

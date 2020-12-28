@@ -141,42 +141,41 @@ The very wise are generally easily deceived, for while they know esoterica they 
   nuked in 30s ?
 
 
+- Natural sources of existential threat are essentially negligible compared to the human create ones.
 
-Natural sources of existential threat are essentially negligible compared to the human create ones.
+- Gene sequence any medical cases where there is illness but we cannot make a diagnosis. Would allow us to catch potential problems sooner.
 
-Interesting idea: Gene sequence any medical cases where there is illness but we cannot make a diagnosis. Would allow us to catch potential problems sooner.
+- Reason for optimism: We have had a radical change in our relationship/outlook toward the environment since the 60s. Might be able to do something similar for existential risk.
 
-Reason for optimism: We have had a radical change in our relationship/outlook toward the environment since the 60s. Might be able to do something similar for existential risk.
+- Thoughts about truth: 
+   - Truth - reality / objective 
+   - tribal truth - What your group agrees is true
+   - Iterative truth - “git-lab” truth asymptotic to Truth
 
-Thoughts about truth: 
-Truth - reality / objective 
-tribal truth - What your group agrees is true
-Iterative truth - “git-lab” truth asymptotic to Truth
+- Negative Qualities:
 
-Negative Qualities:
-Times when I act like I know something when I really don't
-Forget what I already learned
-Initial reactions to new things often biased negatively
-Some people I dislike for no apparent reason
-Sometimes get excited and open to many new threads
+  - Times when I act like I know something when I really don't.
+  - Forget what I already learned.
+  - Initial reactions to new things often biased negatively.
+  - Some people I dislike for no apparent reason.
+  - Sometimes get excited and open to many new threads.
 
-Interesting Point: 
-_Slippery Slope_ problems can almost always be solved by reasonable practical judgement. 
- > Raising the speed limit by 1 mph is a slippery slope until too high, too much death. 
- > Yet we have a speed limit that is not 0 or infinity
- Should question all slippery slope arguments. 
+- _Slippery Slope_ problems can almost always be solved by reasonable practical judgement. 
 
-Most important thing to learn is: We have so much to learn.  Realize this and open your mind.
+  > Raising the speed limit by 1 mph is a slippery slope until too
+  > high, too much death.  Yet we have a speed limit that is not 0 or
+  > infinity Should question all slippery slope arguments.
+
 
 Nuclear Safety
 
- > By far biggest problem of our time. Crazy we dont think/talk about it more. 
- > Biggest risk is accidental launch. Destroys Civilization. 
- > "All vs Nothing" approach to reductions is **wrong** way to think (but easy to get trapped by) 
- > Can make real progress by being pragmatic. 
- > eg: get rid of ICBMs - only 1st strike weapon. (and liability b/c costly  and they will be target of first strike) 
- >  get rid of presidential sole authorization - president cant go to way, but can destroy the planet) 
- > get rid of first strike
+   > By far biggest problem of our time. Crazy we dont think/talk about it more. 
+   > Biggest risk is accidental launch. Destroys Civilization. 
+   > "All vs Nothing" approach to reductions is **wrong** way to think (but easy to get trapped by) 
+   > Can make real progress by being pragmatic. 
+   > eg: get rid of ICBMs - only 1st strike weapon. (and liability b/c costly  and they will be target of first strike) 
+   >  get rid of presidential sole authorization - president cant go to way, but can destroy the planet) 
+   > get rid of first strike
 
 - "Minute to learn, lifetime to master" John Mayer re: guitar
 
