@@ -31,7 +31,7 @@
 
 ### Stoic Test Strategy 
 
-   > Set backs can be re-framed as challenges to test our strength of
+    Set backs can be re-framed as challenges to test our strength of
     character.  Re-framing turns negative situation into positive
     opportunity to prove yourself worthy.  We control how we frame
     situation we experience" Re-framing helps us control our Response,
