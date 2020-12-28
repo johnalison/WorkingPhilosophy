@@ -7,7 +7,7 @@
    4) [You can only control what you can control](https://github.com/johnalison/WorkingPhilosophy/blob/master/CanOnlyControlWhatYouCan.md)
    5) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
    6) [Be the good. (Intelligent ACTION is power)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BeTheGood.md)
-   7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
+   7) [Amor Fati (What happens couldn't be otherwise)](https://github.com/johnalison/WorkingPhilosophy/blob/master/AmorFati.md)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
    9) [Respond, don't React (Employ Stoic Test Strategy)](#Respond-dont-React-employ-Stoic-Test-Strategy)
    10) [Systems not Goals](#Systems-Not-Goals)
@@ -51,23 +51,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 
-
-
-
-
-# Amor Fati: Embrace what happens, it couldn't have been otherwise.
-
-- Need to embrace what happens.
-
-- You don't control what happens externally to you. You are only responsible for you choices/actions. 
-  No need to get emotional about these external events. 
-  They, the external events, don't care about you. 
-  You need to respond to the situation that has presented itself. 
-  Emotional reactions only add your suffering and limit the scope of your response. 
-  Use glimpses/mindfulness to catch/mute the reaction. 
-
-- Be the calm. Calm is contagious. 
-  > Need to do more thinking before speaking.
 
 # Memento Mori: All we have is time; lack of attention throws it away
 

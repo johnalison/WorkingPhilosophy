@@ -6,7 +6,7 @@
 
 - “Only thing that matters is doing the right thing right now. 
    > Past cannot be changed.
-   > Future is no assured. 
+   > Future is not assured. 
    > The action in the present should be “right”.
 
 - “The used key is always bright” - Poor Richard
