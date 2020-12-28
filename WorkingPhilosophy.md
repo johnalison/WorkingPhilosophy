@@ -1,5 +1,5 @@
 
- Core Tenets of Personal Philosophy: 
+# Core Tenets of Personal Philosophy: 
 
    1) [Moral duty to become more rational.](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md)
    2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
