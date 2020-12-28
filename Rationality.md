@@ -8,18 +8,20 @@
    Bad things: Think how much worse it could have been. What was luck ? What bad Planning?
    
                            
-- Look at desires for what they are: A response of an algorithm trained 50k years ago in a   
-  different environment. 
+- Look at desires for what they are: A response of an algorithm trained 50k years ago in a different environment. 
+  
 - Learn how to learn from those you disagree with  or even offend you. See if you can find the   
     “truth” in what they believe.  - Kevin Kelly
 - “When you fall, pick something up”
 - We are all biased even when/if we don't think we are.
-> Eg: 
-> Q: Who is the best/smartest person you work with?
-> A: “The one who agrees with me most often is X”
-> Most people unlikely to think highly of anyone whose view opposes your own. 
-> Strive to recognize and reduce this bias.
-> Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
+
+   > Eg: 
+   > Q: Who is the best/smartest person you work with?
+   > A: “The one who agrees with me most often is X”
+   > Most people unlikely to think highly of anyone whose view opposes your own. 
+   > Strive to recognize and reduce this bias.
+   > Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
+   
  - Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
 
 - whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
