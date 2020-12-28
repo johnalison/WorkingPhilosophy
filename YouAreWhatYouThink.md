@@ -133,21 +133,28 @@
 - Only way to live without regret is to pay attention.
 
 - Think about what you are going to do: 
-  - Necessary and Enjoyable ?  --> Do it
-  - Unnecessary ? -> Dont do it.
-  - Necessary and Unenjoyable ? -> Use as a source of meditation. Feel aversion. 
+
+  > Necessary and Enjoyable ?  --> Do it
+  > Unnecessary ? -> Dont do it.
+  > Necessary and Unenjoyable ? -> Use as a source of meditation. Feel aversion. 
 
 - Two Steps to having a good life:
-  -1) Be a good person (Be the good)
-  -2) Pay attention  
+
+  > 1) Be a good person (Be the good)
+  > 2) Pay attention  
 
 - Accept life as it is. Do this whenever you can. The next moment is as good a time as you are likely to get. 
 
-- Mediation is Quite unlike not meditating. Revolutionary thing to do. To be aware of liking and not liking an experience is a separable concept of the experience. 
-  Need not always, in every case, be taken in by it (the liking or not liking).  
-  This is a remarkable insight into the nature of consciousness. 
-  Mindfulness can shown that which is away of unpleasant sensation is the same and feels the same as that which is aware of pleasant sensation. 
-  There really is a kind of equanimity to consciousness, which is liberating.
+- Mediation is quite unlike not meditating.
+
+  > Revolutionary thing to do. To be aware of liking and not liking an
+  > experience is a separable concept of the experience.  Need not
+  > always, in every case, be taken in by it (the liking or not
+  > liking).  This is a remarkable insight into the nature of
+  > consciousness.  Mindfulness can shown that which is away of
+  > unpleasant sensation is the same and feels the same as that which
+  > is aware of pleasant sensation.  There really is a kind of
+  > equanimity to consciousness, which is liberating.
 
 - Goal of mediation: (if there is a goal) Is to give up the automatic struggle and acquire the ability to leave things as they are.
 
