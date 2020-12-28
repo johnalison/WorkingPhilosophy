@@ -2,10 +2,12 @@
 
 - Learn from others mistakes
 - Critical to look at things from as many different angles as possible.
-    Good things: think about what could have gone differently. What was luck ? What good 
-                          Planning?
-     Bad things: Think how much worse it could have been. What was luck ? What bad  
-                           Planning?
+
+   Good things: think about what could have gone differently. What was luck ? What good Planning?
+                          
+   Bad things: Think how much worse it could have been. What was luck ? What bad Planning?
+   
+                           
 - Look at desires for what they are: A response of an algorithm trained 50k years ago in a   
   different environment. 
 - Learn how to learn from those you disagree with  or even offend you. See if you can find the   
