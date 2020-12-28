@@ -156,8 +156,16 @@
   > is aware of pleasant sensation.  There really is a kind of
   > equanimity to consciousness, which is liberating.
 
-- Goal of mediation: (if there is a goal) Is to give up the automatic struggle and acquire the ability to leave things as they are.
+- Goal of mediation: (if there is a goal)
 
-- Mediation: Its not something your doing. Its something your ceasing to do. Your ceasing to be distracted by thought. ITs acually not an inwardness, but an openness. Open to the world by paying attention.
+  > Is to give up the automatic struggle and acquire the ability to leave things as they are.
 
-- Its important to make a freind of your mind. Its really all you have. Got to know it for whats it is: An open space where things (sensations/thoughts/feelings) appear. 
+- Mediation is not something your doing. Its something your ceasing to do.
+
+  > Your ceasing to be distracted by thought. Its acually not an
+    inwardness, but an openness. Open to the world by paying
+    attention.
+
+- Its important to make a freind of your mind.
+
+  > Its really all you have. Got to know it for whats it is: An open space where things (sensations/thoughts/feelings) appear. 
