@@ -29,6 +29,8 @@
     responses only ever make things worse.
 
 
+---
+**NOTE**
 ### Stoic Test Strategy 
 
 Set backs can be re-framed as challenges to test our strength of
@@ -40,6 +42,8 @@ living among bad men, one thing that can calm us down is to be
 easy on each other" Worth spending time and energy developing a
 plan to minimize emotional harm from unexpected (and inevitable)
 setbacks.
+
+---
  
 - We are fundamentally a divided self: Mind vs Body.
 
