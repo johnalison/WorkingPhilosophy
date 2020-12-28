@@ -5,7 +5,7 @@
    2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
    3) [Strict with yourself, Lenient with others (Extreme Ownership)](https://github.com/johnalison/WorkingPhilosophy/blob/master/StrictWithYourself.md)
    4) [You can only control what you can control](https://github.com/johnalison/WorkingPhilosophy/blob/master/CanOnlyControlWhatYouCan.md)
-   5) [Don't Lie! (Evil only possible through lies) ]((https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
+   5) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
