@@ -39,25 +39,32 @@
 - Can satiate desire by thinking-about or being-aware-of desire. Don't necessarily have to indulge the desire. 
 
 - How do you know you're not a brain in a vat?
-   > Turns outs, you are a brain in a vat! 
-   >   Everything you are, think, see, feel is electrical signals.  - Elon Musk
+
+   > Turns outs, you are a brain in a vat!  Everything you are, think,
+   >   see, feel is electrical signals.  - Elon Musk
    
 - Notice your emotions, dont necessarily act on them. (EQ)  
 
 - Practicing mediation has the intention to be happier and to be better placed to make others happier. 
   To suffer less and to be a better placed to let other suffer less.
-- The goal (system) here is Wisdom. 
-  The wisdom that comes from recognizing how things already are in each moment. 
-  From stepping out of the fantasy life born of having a mind that is constantly/perpetually distracted.
 
- - Why meditate? "If you want to understand your mind, simply sit down and observe it".
-  Simple, no rituals/ceremonies, nothing to join. 
-  Understanding ourselves is possible. 
-  Meditation is a pragmatic methodology for doing it. 
-  In meditating, we begin to see what creates suffering in ourselves and what brings greater happiness and peace. 
-  When we see that we can make wiser choices. 
-  As we make wiser choices we become happier; as we become happier we make wiser choices.
-  Leads to a spiral of greater fulfilment and ease.
+- The goal (system) of mediation is Wisdom. 
+
+  > The wisdom that comes from recognizing how things already are in
+  > each moment.  From stepping out of the fantasy life born of having
+  > a mind that is constantly/perpetually distracted.
+
+ - Why meditate?
+
+   > "If you want to understand your mind, simply sit down and observe
+   > it".  Simple, no rituals/ceremonies, nothing to join.
+   > Understanding ourselves is possible.  Meditation is a pragmatic
+   > methodology for doing it.  In meditating, we begin to see what
+   > creates suffering in ourselves and what brings greater happiness
+   > and peace.  When we see that we can make wiser choices.  As we
+   > make wiser choices we become happier; as we become happier we
+   > make wiser choices.  Leads to a spiral of greater fulfilment and
+   > ease.
   
 - What is enlightenment?  Is the mind free from the patterns/forces that cause suffering ? 
   2 forms/options: Are the patterns/forces uprooted ? Or, in the moment of their arising are the patterns/forces seen through?
