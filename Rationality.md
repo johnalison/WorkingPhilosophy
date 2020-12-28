@@ -1,6 +1,7 @@
 # Moral duty to become more rational.
 
 - Learn from others mistakes
+
 - Critical to look at things from as many different angles as possible.
 
    Good things: think about what could have gone differently. What was luck ? What good Planning?
@@ -22,9 +23,9 @@
    > Strive to recognize and reduce this bias.
    > Try to use EQ/BQ to see where/when I have gut reaction to something, can check that for bias
    
- - Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
+- Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved. 
 
-- whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
+- Whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
 
 - See the role model in everyone.
   Important to try to emulate you want to be. 
@@ -36,16 +37,17 @@
   Its more important to deserve the things you wan than to have them.
 
 - Try to maintain objectivity
-> Automate good techniques: use check lists/protocols ect
+    > Automate good techniques: use check lists/protocols ect
 
 - Need to tolerate both types of errors: 
-    Type1 : “letting the bad in”
-     Type2: “kicking the good out”  
-  You are unlikely to be optimal unless you have some tolerance of both
+
+   Type1 : “letting the bad in”
+   Type2: “kicking the good out”  
+
+ You are unlikely to be optimal unless you have some tolerance of both
 
 - Want to be a learn-it-all not a know-it-all
-  > Humility is the key to growth and leadership.  Stay humble and see what you can learn.
-
+   > Humility is the key to growth and leadership.  Stay humble and see what you can learn.
 
 - "Dont sweat the small stuff" good Stoic advice. 
    When you spend time and energy on things that dont matter, you are making them matter. 
