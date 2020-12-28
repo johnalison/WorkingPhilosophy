@@ -30,7 +30,6 @@
 
 
 ---
-**NOTE**
 ### Stoic Test Strategy 
 
 Set backs can be re-framed as challenges to test our strength of
@@ -43,7 +42,7 @@ easy on each other" Worth spending time and energy developing a
 plan to minimize emotional harm from unexpected (and inevitable)
 setbacks.
 
----
+
  
 - We are fundamentally a divided self: Mind vs Body.
 
@@ -99,6 +98,8 @@ setbacks.
   you "have to do" now would seem like a dream come true.  When you
   are annoyed that there is something that you "have to" do. Image it
   as the luxury of the future self.
+
+---
 
 - Its OK to get mad, not to be angry. 
   
