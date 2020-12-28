@@ -104,7 +104,7 @@
    > Even professional athletes have coaches and trainers. 
    > Even experts can continually refine their practice. 
 
-"Important to find the profound in the ordinary" - waking up
+- "Important to find the profound in the ordinary" - waking up
 
    >  Seems to be what "enlightened" people have found.
    >  Enjoy/Marvel at the moment for what it is, NOW. 
