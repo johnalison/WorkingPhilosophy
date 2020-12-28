@@ -53,12 +53,12 @@ setbacks.
    1) plan effective workarounds 
    2) avoid getting caught in negative emotions. 
 
- > **1st grade:** is how well I searched for a work-around. (Consider options ? / 2nd order thinking ? / Pick best option?)
+- **1st grade:** is how well I searched for a work-around. (Consider options ? / 2nd order thinking ? / Pick best option?)
 
- > **2nd grade:** (much more important) what was my emotional response ?
+- **2nd grade:** (much more important) what was my emotional response ?
 
-- Can remove/silence/mute sub-conscious from loop by treating setback as *Stoic Test*.  (See "Disengage/Step back")
-  Prevents emotions from coming online. Lowers "cost" of setback. Improves change of success.
+- Can remove/silence/mute sub-conscious from loop by treating setback as *Stoic Test*. 
+  > Prevents emotions from coming online. Lowers "cost" of setback. Improves change of success.
 
 - Several different possible frames for setbacks
 
@@ -76,20 +76,34 @@ setbacks.
 
 - Emotions are bad for handling setbacks
 
-  > Shatter any tranquility we may have had
+  > Shatter any tranquility we may have had.  Cloud our thinking on
+    how to over come.
 
-  > Cloud our thinking on how to over come
-
-- 1st response to setback should always be to prevent the onset of negative emotions. (More improvement needed here!!!)
+- 1st response to setback should always be to prevent the onset of negative emotions.
 
   > Negative emotions: unproductive and often do more harm than the setback
 
-- Our brains are powerful computers but with arcane operating systems. Stoics hacked the system. Our tendency to blame setbacks on others and get mad at the situation can be shutdown/short-circuited. If we act quickly.
+- Our brains are powerful computers but with arcane operating systems. 
 
-- Another framing exercise: Cast "have to" into "get to". There will always be a potential future position from which what you "have to do" now would seem like a dream come true. 
-  When you are annoyed that there is something that you "have to" do. Image it as the luxury of the future self.
+   > Stoics hacked the system. Our tendency to blame setbacks on
+      others and get mad at the situation can be
+      shutdown/short-circuited. If we act quickly.
 
-- Its OK to get mad, not to be angry. Getting mad is a reaction, instinctive, beyond control.  Becoming angry is a state of mind. Something that clouds later judgements. When mad make conscious decision not to get angry. 
+- Cast "have to" into "get to". 
+  
+  > There will always be a potential future position from which what
+  you "have to do" now would seem like a dream come true.  When you
+  are annoyed that there is something that you "have to" do. Image it
+  as the luxury of the future self.
+
+- Its OK to get mad, not to be angry. 
+  
+  > Getting mad is a reaction, instinctive, beyond control.  Becoming
+    angry is a state of mind. Something that clouds later
+    judgements. When mad make conscious decision not to get angry.
 
 - Maintain Composure, Maintain Control
-THings will go wrong. Thinkgs will not go as expected. Dont let chaos reign. Recognize the situation and detach. When you lose the beat, gather yourself and get back into the beat. 
+
+  > Things will go wrong. Thinkgs will not go as expected. Dont let
+    chaos reign. Recognize the situation and detach. When you lose the
+    beat, gather yourself and get back into the beat.
