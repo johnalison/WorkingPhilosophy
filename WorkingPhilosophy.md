@@ -45,6 +45,17 @@ The oracles of wisdom are rare and they are rarely used. To seek advice does not
 
 The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
 
+
+- What are my values?
+   - Dont Lie
+   - Look for lasting change (systems not goals) 
+   - Golden rule (veil of ignorance) 
+   - Strict with self/lenient with other
+   - Increase freedom/liberty when possible
+   - Equality of opportunity
+   - ...
+
+
 [Random Interesting thoughts](#Random-Interesting-thoughts)
 
 
@@ -385,3 +396,4 @@ That which is done can be undone, that which is said cannot be unsaid.
 
 The work of living is to set STANDARDs and to live by them. Dont comrimise. 
 Judge all you say, do, and the opinions you hold by your standards.  "Are these consistent with my beliefs?" "Are these what the persion I want to be would do?"
+

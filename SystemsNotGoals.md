@@ -53,78 +53,83 @@
   Two simple (but not easy) steps: 
 
    1. Dont get upset 
-       * Removes bias.
-       * What happened had to, given what came before.
+       > Removes bias.
+       > What happened had to, given what came before.
    
    2. Remember your values: principle and purpose
-       * Eliminates the obviously wrong options/choices.
-       * Choose from whats left
+       > Eliminates the obviously wrong options/choices.
+       > Choose from whats left
 
-- What are my values?
-   - Dont Lie
-   - Look for lasting change (systems not goals) 
-   - Golden rule (veil of ignorance) 
-   - Strict with self/lenient with other
-   - Increase freedom/liberty when possible
-   - Equality of opportunity
-   - ...
 
 - "Coming back to a habit is the most powerful habit of all"
   > Having the right habits are critical: Having habit to form/continue habits. Habit of self-improvement. (these are like wishes for more wishes)
   
 - Ideas for daily habits:
-   - Single-tasking session: work on something for XX minutes with no distractions. 
-   - Daily gratitude: What have you done well ? What love about yourself/others ? 
+   > Single-tasking session: work on something for XX minutes with no distractions. 
+   > Daily gratitude: What have you done well ? What love about yourself/others ? 
 
 - Progress does not come from one big show of force.  
-  Real, true, lasting progress comes from grinding things out. 
+   > Real, true, lasting progress comes from grinding things out. 
 
-- When things are going bad ... "Good"
-  When things aren't going as expected ... "Good"
-  Whey you dont get the promotion ... "Good"
+- When things are going bad ... "Good!"
+  When things aren't going as expected ... "Good!"
+  Whey you dont get the promotion ... "Good!"
   "Good" for resetting the frame of mind. Allows you to focus on the upside of any situation.
 
 - **Focus on the present** Easy to get bogged down by the big picture. 
-  This is really where __the operating system__ comes in. 
-  Map out the big picture (ie: Zoom out), then focus on what the *next steps are* (ie: Zoom in). 
-  Then readdress the Big picture as needed.
+  > This is really where __the operating system__ comes in. 
+  > Map out the big picture (ie: Zoom out), then focus on what the *next steps are* (ie: Zoom in). 
+  > Then readdress the Big picture as needed.
 
-- Education and Stoicism are ongoing processes. Wisdom is pursued; it is not conferred/obtained/received.  You have not graduated. School is for life. 
+- Education and Stoicism are ongoing processes.
+   > Wisdom is pursued; it is not conferred/obtained/received.  You have not graduated. School is for life. 
 
 - "Going through the motions" is a trick that allows you to overcome weakness on day when you are "not feeling it".
 
 - How to push yourself (via Jocko)
-  Need to balance emotion and logic to get more from yourself. When emotions are telling you to quit analyze them rationally (where do they come from ? Algorithms for ancient environment)  
-  When logic is telling you to stop trying, turn-on emotion. 
+
+  > Need to balance emotion and logic to get more from yourself. When
+  emotions are telling you to quit analyze them rationally (where do
+  they come from ? Algorithms for ancient environment) When logic is
+  telling you to stop trying, turn-on emotion.
 
 - "Biggest generator of long-term results is learning to do things when you dont feel like doing them" - Shane parish
 
 - Slow is smooth, smooth is fast. 
 
 - Plan to decisive Points
-  > interesting strategy in military planning. 
-  > Do not plan to achieve the objective directly. 
-  > Plan to the "decisive point" which is the point after which you have a decisive advantage and clear path to victory.
-  > eg: if your a strong grappler in a fight, your decisive point would be to get on the ground.
+
+  > Interesting strategy in military planning.  Do not plan to achieve
+  > the objective directly.  Plan to the "decisive point" which is the
+  > point after which you have a decisive advantage and clear path to
+  > victory.  eg: if your a strong grappler in a fight, your decisive
+  > point would be to get on the ground.
 
 - Once the situation is upon you its too late.
-  > you have to be prepared in advance. 
-  > You need to know already who you are and what you believe. 
-  > Not what you organization believes, not what your peers believe.
-  > They way to do it is by working through issues of morality/mortality/ and honor for YOURSELF. 
+
+  > You have to be prepared in advance.  You need to know already who
+  > you are and what you believe.  Not what you organization believes,
+  > not what your peers believe.  They way to do it is by working
+  > through issues of morality/mortality/ and honor for YOURSELF.
 
 - Habbit Dip: 
-  > You'll always hit a dip in energy/motivation (Thats the bad news) 
-  > The good news: Dips are temporary, provide and opportunity to learn.
 
-  > "Learn the Dip" Learn how to face difficulty, let go of the ideal, deal with frustration. 
-
-  > Critical to come into dip with learning mindset. Less idealistic, more curiosity. USE MINDFULNESS!
+  > You'll always hit a dip in energy/motivation. (Thats the bad
+  > news).  The good news: Dips are temporary, provide and opportunity
+  > to learn.  "Learn the Dip" Learn how to face difficulty, let go of
+  > the ideal, deal with frustration.  Critical to come into dip with
+  > learning mindset. Less idealistic, more curiosity. USE
+  > MINDFULNESS!
 
 ---
 ## Standard Operating system: 
-- Getting things done: art of stress-free productivity.  (David Allen) 
+
+- Getting things done: art of stress-free productivity.  (David Allen)
+
+- Now using Bullet Journal instead.
+
 - Same method advocated by Zen Habits
+
 - Basically: Write everything down, make a list, triage, focus entirely on one thing at a time.
 - More detail
   > Start of the day: scan projects, come up with next actions
