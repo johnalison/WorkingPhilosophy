@@ -2,8 +2,8 @@
 
 - “Keep conscience clean, then never fear”  - Poor Richards Almanac
 
-- “The foundation of morality is to have done away, once and for all, with lying”
-   - Thomas Huxley
+- “The foundation of morality is to have done away, once and for all, with lying” - Thomas Huxley
+   
 
 - "Be Reliable": Unreliability will cancel out all other virtues.  
 
