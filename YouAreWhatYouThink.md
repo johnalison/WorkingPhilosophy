@@ -119,12 +119,16 @@
    > not accurate and can lead to suffering.
 
 - Two ways mind-fullness greatly improves your life.
-  -) Give you space to reflect if something or some action is worth doing. 
-  If the results of some action are likely to be good for you or good for the world. 
-  It can allow for some wisdom to emerge that considers the big picture. 
 
-  -) It can make even unavoidable and unpleasant experiences the source of psychological freedom. 
-  By paying attention to you resistance and aversion you can watch these states of mind unravel and disappear.
+  > -) Give you space to reflect if something or some action is worth
+  > doing.  If the results of some action are likely to be good for
+  > you or good for the world.  It can allow for some wisdom to emerge
+  > that considers the big picture.
+
+  > -) It can make even unavoidable and unpleasant experiences the
+  > source of psychological freedom.  By paying attention to you
+  > resistance and aversion you can watch these states of mind unravel
+  > and disappear.
 
 - Only way to live without regret is to pay attention.
 
