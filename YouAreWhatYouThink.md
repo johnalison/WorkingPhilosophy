@@ -98,14 +98,16 @@
    > that.
 
 -  Why use an App to meditate ? Is using an App a cop out ? 
-   Some can make progress in silence (Rare.) 
-   There is an enormous difference between having good and bad (or no) information.
-   Even professional athletes have coaches and trainers. 
-   Even experts can continually refine their practice. 
+
+   > Some can make progress in silence (Rare.) 
+   > There is an enormous difference between having good and bad (or no) information.
+   > Even professional athletes have coaches and trainers. 
+   > Even experts can continually refine their practice. 
 
 "Important to find the profound in the ordinary" - waking up
-  - Seems to be what "enlightened" people have found
-  - Enjoy/Marvel at the moment for what it is, NOW. 
+
+  >  Seems to be what "enlightened" people have found
+  >  Enjoy/Marvel at the moment for what it is, NOW. 
 
 - Meditation is the art of realizing your are already fulfilled before you do/chase the next thing.
 
