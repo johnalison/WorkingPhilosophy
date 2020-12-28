@@ -23,14 +23,18 @@
 - Emotion is the enemy, do whatever you can to take emotion out of the equation. 
 
 - Mind as an enemy
-   > Used to thinking of our minds as our allies
-   > However in reality, minds are prone to laziness/want to believe a good story/dont want to be challenged/ etc
-   > It is *reason* that is our ally and is needed to keep our minds in check/unbiased.  
+
+   > Used to thinking of our minds as our allies.  However in reality,
+   > minds are prone to laziness/want to believe a good story/dont
+   > want to be challenged/ etc It is *reason* that is our ally and is
+   > needed to keep our minds in check/unbiased.
 
 - "Fear is the bodies preparation for action. 
-   > Fear does things behind the scenes to get you physically ready. 
-   > Knowing that this is happening and feeling it work, can help prepare the mind, prevent it from startling" 
-   > (From Psychology of the fighting man)
+
+   > Fear does things behind the scenes to get you physically ready.
+   > Knowing that this is happening and feeling it work, can help
+   > prepare the mind, prevent it from startling" (From Psychology of
+   > the fighting man)
 
 - Can satiate desire by thinking-about or being-aware-of desire. Don't necessarily have to indulge the desire. 
 
