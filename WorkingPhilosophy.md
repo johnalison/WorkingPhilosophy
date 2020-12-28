@@ -4,7 +4,7 @@
    1) [Moral duty to become more rational.](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md)
    2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
    3) [Strict with yourself, Lenient with others (Extreme Ownership)](https://github.com/johnalison/WorkingPhilosophy/blob/master/StrictWithYourself.md)
-   4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
+   4) [You can only control what you can control](https://github.com/johnalison/WorkingPhilosophy/blob/master/CanOnlyControlWhatYouCan.md)
    5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie-evil-only-possible-through-lies)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
@@ -13,8 +13,6 @@
    10) [Systems not Goals](#Systems-Not-Goals)
    11) [Perfection Not required, effective self-improvement critical](#Perfection-Not-required-effective-self-improvement-critical)
    12) [Do not let your happiness (well-being) depend on things you cannot control](#Do-not-let-your-happiness-well-being-depend-on-things-you-cannot-control)
-
-
 
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
@@ -52,40 +50,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 
-
-# You can only control what you can control
-
-- Respond don't react
-- I am the only one whose opinion really matters. I am the one who sets the standard. Use criticism/praise for what its worth, but don't look too much into it.
-- Happiness, peace, stillness, well-being come from within.
-- Only your choices are good or evil. Everything else just happens.
-- No point being upset with what happens.  Don't take it personally. Remove emotional coloring. 
-- Some Stoicism: Objective things just are. They are not good or bad. They are just information. Only *your* reactions matter. Only *your* reactions are not simply given facts.
-- Nothing can prevent you from getting better, becoming wiser. The obstacle is the way.
-- Vast majority of our words/actions are unnecessary
-  > Corralling them will create an abundance of leisure and tranquility
-
-  > Shouldn't forget each moment to ask: "Is this one of the unnecessary things?"
-
-  > Should kill both unnecessary thought and actions; unnecessary thoughts lead to unnecessary actions.
-
-- Skillful speech
-   > Is it Moral ?
-
-   > Is it Useful ?
-
-   > Is it Productive ?
-
-- No one can have everything that they want, but than CAN not want what they dont have and then happily put to use what they do have
-  (Wanting less is a short cut to being rich)
-
-- When doing good deeds on the right things, who cares about the praise you receive? 
-  The praise shouldn't be why you do whats right or why you help someone out.
-  You do it b/c you control it and its they right/honest thing to do.
-
-- "Never be overheard complaining, even to yourself" Markus Aurelius
-   Things could not have been otherwise. Dont get upset about what happens, respond. 
-   Can use complaints as a barometer or flag for when your too attached. 
 
 # Don't Lie! (Evil only possible through lies)
 
