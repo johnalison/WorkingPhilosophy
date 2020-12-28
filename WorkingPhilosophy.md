@@ -21,6 +21,7 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
 
 Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
 
+
 What is Wisdom? 
 "Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
 - Sam Harris) 
@@ -215,6 +216,12 @@ The very wise are generally easily deceived, for while they know esoterica they 
   This is a remarkable insight into the nature of consciousness. 
   Mindfulness can shown that which is away of unpleasant sensation is the same and feels the same as that which is aware of pleasant sensation. 
   There really is a kind of equanimity to consciousness, which is liberating.
+
+- Goal of mediation: (if there is a goal) Is to give up the automatic struggle and acquire the ability to leave things as they are.
+
+- Mediation: Its not something your doing. Its something your ceasing to do. Your ceasing to be distracted by thought. ITs acually not an inwardness, but an openness. Open to the world by paying attention.
+
+- Its important to make a freind of your mind. Its really all you have. Got to know it for whats it is: An open space where things (sensations/thoughts/feelings) appear. 
 
 # Strict with yourself, Lenient with others (Extreme Ownership)
 
@@ -488,6 +495,9 @@ Some thoughts on time management:
   When you are annoyed that there is something that you "have to" do. Image it as the luxury of the future self.
 
 - Its OK to get mad, not to be angry. Getting mad is a reaction, instinctive, beyond control.  Becoming angry is a state of mind. Something that clouds later judgements. When mad make conscious decision not to get angry. 
+
+- Maintain Composure, Maintain Control
+THings will go wrong. Thinkgs will not go as expected. Dont let chaos reign. Recognize the situation and detach. When you lose the beat, gather yourself and get back into the beat. 
 
 # Systems Not Goals
 
@@ -926,3 +936,36 @@ Deep Fakes:
 How smart/plugged-in do you need to be to properly participate in democracy? And how do these requirements change with time?
 Claim: (Dan Carlin) the fraction of people that are informed enough to participate today is lower than anytime in the past.
 
+"Ends justify the means" vs "How you play the game"
+Claim: Not in our interest to have a federal policy on torture. (Even if effects, although seems it is not)
+Eisenhower quote on being careful not to destroy the thing you're trying to defend from within.
+Seems right to me. If we are the "home of the brave" need to sacrifice some security for our freedom.
+Terrorists win if they reshape our ethics and morals by responding to thier actions.
+
+United States has had 250 year history of becoming more democratic. 
+Now elect senitors, blacks and women can vote. ect. 
+Been a while since we took another step forward.
+Can argue that recent gerrymandering/voter suppression is a step back. 
+Covid and mail-in voting could be a step forward.
+
+American Icebergs (via Dan Carlin):
+Issues that are major problems that could destroy our country. 
+Claim:  Neigher party addressing these. (Actually significatnt pressure within both parties to NOT address these)
+Some radical change probably needed to make progress here.
+1) Corruption too many lobbiest with too much influence to solve real problems 
+   (eg: insurance companies have to "OK" health care reform)
+   taints everything, all solutions to problems
+2) Constitutional checks and balances
+   Executive branch too much power. Nuclear Bombs, 9/11 spying, wars without congress
+3) Forigen Policy: Ratcheting up tensions with Russia (Reckless) 
+   Constant/Continual war on terror.
+   US as "world police" citizens dont want it. 
+4) US middle class jobs disappearing. Middle class is the balast of society. 
+   How to cope when/if foundation shaken/broken? 
+
+Better to trip with your feet that with your words. Better to screw up doing than saying.
+That which is done can be undone, that which is said cannot be unsaid.
+
+
+The work of living is to set STANDARDs and to live by them. Dont comrimise. 
+Judge all you say, do, and the opinions you hold by your standards.  "Are these consistent with my beliefs?" "Are these what the persion I want to be would do?"
