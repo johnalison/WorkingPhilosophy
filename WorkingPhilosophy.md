@@ -5,7 +5,7 @@
    2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
    3) [Strict with yourself, Lenient with others (Extreme Ownership)](https://github.com/johnalison/WorkingPhilosophy/blob/master/StrictWithYourself.md)
    4) [You can only control what you can control](https://github.com/johnalison/WorkingPhilosophy/blob/master/CanOnlyControlWhatYouCan.md)
-   5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie-evil-only-possible-through-lies)
+   5) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
    7) [Amor Fati (What happens couldn't be otherwise)](#Amor-Fati-Embrace-what-happens-it-couldnt-have-been-otherwise)
    8) [Memento Mori: All we have is time; lack of attention throws it away](#Memento-Mori-All-we-have-is-time-lack-of-attention-throws-it-away)
@@ -51,20 +51,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 
-# Don't Lie! (Evil only possible through lies)
-
-- Poor Richards Almanac: 
-  “Keep conscience clean, then never fear”
-- “The foundation of morality is to have done away, once and for all, with lying”
-               - Thomas Huxley
-- "Be Reliable": Unreliability will cancel out all other virtues.  
-- How can I be more reliable ? 
-  > Say what you mean, mean what you say.
-  > Say what you do, do what you say.
-- Dont cheat, dont mislead, dont talk behind others backs, dont act sneaky, dont avoid doing things you should or need to do
-- Character is the only thing that matters. Character determines your fate. Character can never be taken away from you. 
-  > Building character is one of the only important projects in life
-  > Focus on character and the rest will fall into place. 
 
 
 
