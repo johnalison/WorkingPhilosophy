@@ -57,10 +57,14 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 [Random Interesting thoughts](#Random-Interesting-thoughts) On
-[History](https://github.com/johnalison/WorkingPhilosophy/blob/master/History.md)
-[Leadership](https://github.com/johnalison/WorkingPhilosophy/blob/master/Leadership.md)
-[Lists](https://github.com/johnalison/WorkingPhilosophy/blob/master/Lists.md)
-[Books](https://github.com/johnalison/WorkingPhilosophy/blob/master/Books.md)
+
+ - [History](https://github.com/johnalison/WorkingPhilosophy/blob/master/History.md)
+
+ - [Leadership](https://github.com/johnalison/WorkingPhilosophy/blob/master/Leadership.md)
+
+ - [Lists](https://github.com/johnalison/WorkingPhilosophy/blob/master/Lists.md)
+
+ - [Books](https://github.com/johnalison/WorkingPhilosophy/blob/master/Books.md)
 
 
 
