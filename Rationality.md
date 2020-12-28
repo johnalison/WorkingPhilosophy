@@ -51,17 +51,20 @@
    > Humility is the key to growth and leadership.  Stay humble and see what you can learn.
 
 - "Dont sweat the small stuff" good Stoic advice. 
-   When you spend time and energy on things that dont matter, you are making them matter. 
-   This changes how you live your life, who your are. 
-   You are what you repeatedly do. 
-   Dont be something you dont want to be.
+   > When you spend time and energy on things that dont matter, you are making them matter. 
+   > This changes how you live your life, who your are. 
+   > You are what you repeatedly do. 
+   > Dont be something you dont want to be.
 
 - Pillage from all sources 
-  "Never be ashamed to quote a bad writer with a good saying" -Seneca
-  Look for wisdom independent of where it comes from. 
+  > "Never be ashamed to quote a bad writer with a good saying" -Seneca
+  > Look for wisdom independent of where it comes from. 
 
 - The art of having no opinion
-  > Mechanism for suppressing innate bias
+  > Mechanism for suppressing innate bias.
+
   > Most opinions are reactionary and unrelated to whats really happening
+
   > Definitely true of today's politics. Different sides have opinions that are really reactions based on their current stance/posture.
+
   > Becoming and independent/orthogonal rational thinker requires suppression of reactionary positions/thoughts  
