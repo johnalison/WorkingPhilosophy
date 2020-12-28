@@ -35,20 +35,26 @@
 
 - **Attention:**
 
-   > Attention is a finite resource 
-   > Is the bricks and mortar of our life
-   > Amazing how easily we let it be stolen from us
+   > Attention is a finite resource.
+   > Is the bricks and mortar of our life.
+   > Amazing how easily we let it be stolen from us.
 
 
-- Should live more as if you had been diagnosed with some terminal disease and were going to die soon.  In fact we all have a terminal disease: “The cause of death is birth” and we don't know how much longer we have to live. 
+- Should live more as if you had been diagnosed with some terminal disease and were going to die soon.
 
-- “You could leave life right now. Let that determine what you do and say and think”
-     Markus Aurelius
-  Put everything that takes time or attention, costs money, or takes sacrifice through this filter.  
+   > In fact we all have a terminal disease: “The cause of death is
+     birth” and we don't know how much longer we have to live.
 
-- Time is one think in negotiations or decision making that you can cant go back on. Cant undo. Time gives no mercy. 
-  No amount of negotiation can recover lost time. its gone when its gone. 
-  Time is one thing to pay attention to above all. How you use *your* time.
+- “You could leave life right now. Let that determine what you do and say and think” - Markus Aurelius
+     
+   > Put everything that takes time or attention, costs money, or
+     takes sacrifice through this filter.
+
+- Time is one think in negotiations or decision making that you can cant go back on.
+
+   > Cant undo. Time gives no mercy.  No amount of negotiation can
+  recover lost time. its gone when its gone.  Time is one thing to pay
+  attention to above all. How you use *your* time.
 
 - Ones whole life is a succession of moment after moment. 
   > "Attention is the brick and mortar of our lives". Important to guard your time the respect it deserves. 
