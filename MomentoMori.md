@@ -60,8 +60,7 @@
   > "Attention is the brick and mortar of our lives". Important to guard your time the respect it deserves. 
 
 - How to be present and Alive in the moment:  Shift from doing to being: more present, joyful, appreciative. 
-  > Practice pouring yourself into every act (being fully in all/everything you do)
-  
-  > Feel emotion
 
-  > See the good around you, in the people you interact with 
+  - Practice pouring yourself into every act (being fully in all/everything you do)
+  - Feel emotion
+  - See the good around you, in the people you interact with 
