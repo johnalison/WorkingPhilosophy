@@ -31,15 +31,15 @@
 
 ### Stoic Test Strategy 
 
-    Set backs can be re-framed as challenges to test our strength of
-    character.  Re-framing turns negative situation into positive
-    opportunity to prove yourself worthy.  We control how we frame
-    situation we experience" Re-framing helps us control our Response,
-    allows up to be nice/decent to one another.  "We are bad men
-    living among bad men, one thing that can calm us down is to be
-    easy on each other" Worth spending time and energy developing a
-    plan to minimize emotional harm from unexpected (and inevitable)
-    setbacks.
+Set backs can be re-framed as challenges to test our strength of
+character.  Re-framing turns negative situation into positive
+opportunity to prove yourself worthy.  We control how we frame
+situation we experience" Re-framing helps us control our Response,
+allows up to be nice/decent to one another.  "We are bad men
+living among bad men, one thing that can calm us down is to be
+easy on each other" Worth spending time and energy developing a
+plan to minimize emotional harm from unexpected (and inevitable)
+setbacks.
  
  - We are fundamentally a divided self:  Mind vs Body. Conscious (rational) vs unconscious/emotions (automate/base) 
    Note: unconscious emotions are important. There is a lot that is easy at an intuitive level that is hard to rationalize ("gut feelings"). Often correct.
