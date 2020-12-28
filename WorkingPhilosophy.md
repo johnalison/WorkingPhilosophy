@@ -3,7 +3,7 @@
 
    1) [Moral duty to become more rational.](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md)
    2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
-   3) [Strict with yourself, Lenient with others (Extreme Ownership)](#Strict-with-yourself-Lenient-with-others-extreme-ownership)
+   3) [Strict with yourself, Lenient with others (Extreme Ownership)](https://github.com/johnalison/WorkingPhilosophy/blob/master/StrictWithYourself.md)
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
    5) [Don't Lie! (Evil only possible through lies) ](#Dont-Lie-evil-only-possible-through-lies)
    6) [Be the good. (Intelligent ACTION is power)](#Be-the-good-Intelligent-ACTION-is-power)
@@ -51,13 +51,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 
 
-# Strict with yourself, Lenient with others (Extreme Ownership)
-
-- Poor Richard: Neglect kills injuries, Revenge increases them
-- Need more forgiveness -> forgiveness is transcendence (transcends human nature) 
-   (Good for mind / Good for future self)
-- "We are bad men living among bad men, one thing that can calm us down is to be easy on each other" - William Irvine
-- Ask your people "What do you need to get your job done?" Then go out and get that.
 
 
 # You can only control what you can control
