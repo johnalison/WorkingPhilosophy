@@ -1,32 +1,45 @@
 # You are what you think, but with practice, you can change what you think
 
 - Perfection not required
+
 - Begin Again
+
 - Important truth that most people don't know/realize 
+
 - Take the day a moment at a time. No need to rush into it, to rush to the next moment. The day will arrive anyway all on its own.
-- Meditation:
-    Fundamentally empirical exercise. 
-    Asks; What is the mind like when it is doing nothing but noticing whatever is in the 
-    stream of consciousness?
-    What is it like right now?
+
+- Meditation is a fundamentally empirical exercise. 
+    > Asks; What is the mind like when it is doing nothing but noticing whatever is in the 
+    > stream of consciousness?
+    > What is it like right now?
+
 - We are our habitual thoughts
+
 - Being mindful of thinking and emotion is the gateway to psychological well-being. (via Sam Harris) 
+
 - "Where is the self if every sign of it is appearing in consciousness?" (via waking up)
    > Self is supposed to be the thing that is conscious. However only sign of the self is in consciousness.
-- Emotion is the enemy, do whatever you can to take emotion out of the equation. 
-- Mind as an enemy
-   - Used to thinking of our minds as our allies
-   - However in reality, minds are prone to laziness/want to believe a good story/dont want to be challenged/ etc
-   - It is *reason* that is our ally and is needed to keep our minds in check/unbiased.  
-- "Fear is the bodies preparation for action. 
-  Fear does things behind the scenes to get you physically ready. 
-  Knowing that this is happening and feeling it work, can help prepare the mind, prevent it from startling" 
-  (From Psychology of the fighting man)
 
-- Can satiate desire by thinking-about  or being-aware-of desire. Don't necessarily have to indulge the desire. 
-- How do you know you're not a brain in a vat?  Turns outs, you are a brain in a vat! 
-  Everything you are, think, see, feel is electrical signals.  - Elon Musk
+- Emotion is the enemy, do whatever you can to take emotion out of the equation. 
+
+- Mind as an enemy
+   > Used to thinking of our minds as our allies
+   > However in reality, minds are prone to laziness/want to believe a good story/dont want to be challenged/ etc
+   > It is *reason* that is our ally and is needed to keep our minds in check/unbiased.  
+
+- "Fear is the bodies preparation for action. 
+   > Fear does things behind the scenes to get you physically ready. 
+   > Knowing that this is happening and feeling it work, can help prepare the mind, prevent it from startling" 
+   > (From Psychology of the fighting man)
+
+- Can satiate desire by thinking-about or being-aware-of desire. Don't necessarily have to indulge the desire. 
+
+- How do you know you're not a brain in a vat?
+   > Turns outs, you are a brain in a vat! 
+   >   Everything you are, think, see, feel is electrical signals.  - Elon Musk
+   
 - Notice your emotions, dont necessarily act on them. (EQ)  
+
 - Practicing mediation has the intention to be happier and to be better placed to make others happier. 
   To suffer less and to be a better placed to let other suffer less.
 - The goal (system) here is Wisdom. 
