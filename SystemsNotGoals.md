@@ -147,3 +147,5 @@
 
   > Select from next actions list
 ---
+
+- "Put your day up for review" - Seneca
