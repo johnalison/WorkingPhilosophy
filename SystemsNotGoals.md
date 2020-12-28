@@ -8,42 +8,46 @@
 - Google 20%
 
 - Improve ability to learn new things
+
 - Practice is the key 
+
 - Goal oriented vs Growth oriented 
-  - In long run, growth is much more important that weather a particular goal was reached
+  > In long run, growth is much more important that weather a particular goal was reached
+
 - Growth:  
- > Cumulative
- > Can improve even if goal fails.
- > Strategy for long-term success (biggest/most-of-the payoff at the end)
- > (Event if you only care about goals, growth enables them!
+  - Cumulative
+  - Can improve even if goal fails.
+  - Strategy for long-term success (biggest/most-of-the payoff at the end)
+  - (Event if you only care about goals, growth enables them!
+
 - “You don't rise to the level of you goals, you fall to the level  of you systems”  James Clever
-   Idea: Outcomes are a lagging measure of habits
+   > Idea: Outcomes are a lagging measure of habits
+   
 - Habits are the compound interest of self-improvement
   - Seems insignificant at first
   - All payout back-loaded
-- “You are what you consistently do” - Aristotle via Shane Parish 
+
+- “You are what you consistently do” - Aristotle
+
 - “Purpose of habit is to remove self-negotiation” - Kevin Kelly
 
 - Role of Failure:  (Bill Ackmann)
- > Success is not a straight line
-
- > Successful people have to deal with hardship
-
- > How successful you are is a function of how you deal with failure.
-
- > If you deal with failure well and persist, you have a high probability of being successful
+  - Success is not a straight line
+  - Successful people have to deal with hardship
+  - How successful you are is a function of how you deal with failure.
+  - If you deal with failure well and persist, you have a high probability of being successful
 
 - If you want to do something, make a habit of it
 
-      - Systems and Habits
-      - Sleep 8 yrs/night
-      - Low carb
-      - Time restricted Feeding
-      - Meditate
-      - Exercise
-      - Stuff capture / Next action
-      - Journaling
-      - Read
+  - Systems and Habits
+  - Sleep 8 yrs/night
+  - Low carb
+  - Time restricted Feeding
+  - Meditate
+  - Exercise
+  - Bullet Journaling
+  - Journaling
+  - Read
 
 - How to act; how to figure out what to do. 
   Two simple (but not easy) steps: 
