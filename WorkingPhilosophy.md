@@ -1,7 +1,7 @@
 
  Core Tenets of Personal Philosophy: 
 
-   1) [Moral duty to become more rational](#moral-duty-to-become-more-rational)
+   1) [Moral duty to become more rational.](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md)
    2) [You are what you think, but with practice, you can change what you think](#you-are-what-you-think-but-with-practice-you-can-change-what-you-think)
    3) [Strict with yourself, Lenient with others (Extreme Ownership)](#Strict-with-yourself-Lenient-with-others-extreme-ownership)
    4) [You can only control what you can control](#You-can-only-control-what-you-can-control)
@@ -15,7 +15,7 @@
    12) [Do not let your happiness (well-being) depend on things you cannot control](#Do-not-let-your-happiness-well-being-depend-on-things-you-cannot-control)
 
 
-[I'm an inline-style link with title](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md "Moral duty to become more rational.")
+
 
 How to live with stress and not be stressed out is a major goal of Philosophy 
 
