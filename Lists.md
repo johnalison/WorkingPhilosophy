@@ -60,6 +60,7 @@
 - Sperm is little homunculus
 
 # Things where experts disagree
+Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
 
 - Interpretations of QM
 - Fermi Paradox

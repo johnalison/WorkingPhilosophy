@@ -37,3 +37,5 @@
 
    > Things could not have been otherwise. Dont get upset about what happens, respond. 
    > Can use complaints as a barometer or flag for when your too attached. 
+
+- “Waste no time or Energy on grudges” Churchill 

@@ -66,6 +66,8 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
  - [Books](https://github.com/johnalison/WorkingPhilosophy/blob/master/Books.md)
 
+ - [Politics](https://github.com/johnalison/WorkingPhilosophy/blob/master/Politics.md)
+
 
 
 
@@ -88,55 +90,53 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 - You get what you reward for. (Big lesson from Biology) 
 
-- Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
 
-“Waste no time or Energy on grudges” Churchill 
+- Mathematics used to have long standing unsolved problems ~100 years ago
+   > Riemann Hyp/ Fermat's Last theorem/ Continuum Hyphothese / Four color problem
+   > 3 of these have been solved, but in very non-traditional ways. 
 
-Power of thinking about diminishing returns not respected by enough democrats/liberals. Worth getting problems 90% solved; the extra 10% is often not worth the cost, politically
+- Monster group: has as many elements as there are particles in Jupiter!! Whats it for  ? Why here ?
 
-Mathematics used to have long standing unsolved problems ~100 years ago
-   Riemann Hyp/ Fermat's Last theorem/ Continuum Hyphothese / Four color problem
-3 of these have been solved, but in very non-traditional ways. 
+- Potential in capitalism at the local level.
+  > (eg: apparently now illegal for regular people to invest in start-ups, Reasons to think this could change (knowledge project #??) Could have huge impact on income inequality. 
 
-Monster group: has as many elements as there are particles in Jupiter!! Whats it for  ? Why here ?
+- What makes a good life ? What is the goal? 
 
-Potential in capitalism at the local level (eg: apparently now illegal for regular people to invest in start-ups, Reasons to think this could change (knowledge project #??) Could have huge impact on income inequality. 
+  > Not hedonic happiness (HH): shouldn't expect this to be the
+    goal. We were not selected for it.  HH is a tracer for what we were
+    selected for. But not end in itself If not happiness then what ?
+    (living according to a philosophy … ?)
 
-Socialism for needs, Capitalism for wants. 
-   Especially now, critical to push hard on both of these.  Seems like the right has forgot   
-    the former, and the left has forgot the latter.
+- Cryonics could be the most important thing you do. 
+  > Cryonics could serve some similar function to belief in heaven for an atheist. 
 
-What makes a good life ? What is the goal? 
-Not hedonic happiness (HH): shouldn't expect this to be the goal. We were not selected for it.  HH is a tracer for what we were selected for. But not end in itself
-If not happiness then what ?  (living according to a philosophy … ?)
+- Death is a puzzle to solve not some inevitable outcome to submit to.
 
-Cryonics could be the most important thing you do. 
-Cryonics could serve some similar function to belief in heaven for an atheist. 
+- QM is or brings, in a sense, the end of reduction-ism via entanglement.  In an entangled system, no way to reduce it to just the action of one of the spins.
 
-Death is a puzzle to solve not some inevitable outcome to submit to.
+- “Avoid boring people, Avoid Boring you” James Watson
 
-QM is or brings, in a sense, the end of reduction-ism via entanglement.  In an entangled system, no way to reduce it to just the action of one of the spins.
+- Someone asked Watson (or Deep-mind) what the purpose/meaning of life is, it replied
+  > “To live forever”
+  > Gene-level - immortality is the only goal
+  > Human Instinct - gut reactions about avoiding death
+  > Longevity Movement - rationally fighting against death
 
-“Avoid boring people, Avoid Boring you” James Watson
+- Work week - Interesting that in period 1870-1940 work week changed several times 12->10->8 hrs per day.  6->5 days per week.  No change in standard since.
 
-Someone asked Watson (or Deep-mind) what the purpose/meaning of life is, it replied
-“To live forever”
-Gene-level - immortality is the only goal
-Human Instinct - gut reactions about avoiding death
-Longevity Movement - rationally fighting against death
+- "How you do everything is how you do anything"  
 
-Work week - Interesting that in period 1870-1940 work week changed several times 12->10->8 hrs per day.  6->5 days per week.  No change in standard since.
-
-Difference between stress and being stressed-out.
-How to live with stress and not be stressed out is a major goal of Philosophy 
-
-"How you do everything is how you do anything"  
-Counter point: Some problems are more important than others.  Resources Time/Energy finite. Need to triage. Allocate resources according to importance
-Goal: First prioritize then bring the correct quantity/quality of resources to bear.n
-Counter-counter point: I notice gut feeling when I cut corners (BQ!). Telling me I have probably not prioritized properly
-Standard Operating system applies here (Literally HOW I do everything) 
-Another pro-point: What you are currently doing could be the last thing you ever do!
-On more thought, this actually seems like it cuts both ways, Do you really care how well you hung that photo if you are going to be nuked in 30s ?
+  > Counter point: Some problems are more important than others.
+  Resources Time/Energy finite. Need to triage. Allocate resources
+  according to importance Goal: First prioritize then bring the
+  correct quantity/quality of resources to bear.n Counter-counter
+  point: I notice gut feeling when I cut corners (BQ!). Telling me I
+  have probably not prioritized properly Standard Operating system
+  applies here (Literally HOW I do everything) Another pro-point: What
+  you are currently doing could be the last thing you ever do!  On
+  more thought, this actually seems like it cuts both ways, Do you
+  really care how well you hung that photo if you are going to be
+  nuked in 30s ?
 
 
 Some AI thoughts

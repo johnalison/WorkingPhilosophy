@@ -27,3 +27,5 @@
 
 - Dont need a reason to be happy or tranquil.
    > You know what its like to be in that state, just do it. If you still need a reason: You're not dead yet, still in the game.
+
+
