@@ -41,10 +41,11 @@
 
 - Need to tolerate both types of errors: 
 
-   Type1 : “letting the bad in”
-   Type2: “kicking the good out”  
+   > Type1: “letting the bad in”
 
- You are unlikely to be optimal unless you have some tolerance of both
+   > Type2: “kicking the good out”  
+
+   You are unlikely to be optimal unless you have some tolerance of both
 
 - Want to be a learn-it-all not a know-it-all
    > Humility is the key to growth and leadership.  Stay humble and see what you can learn.
