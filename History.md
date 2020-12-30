@@ -64,3 +64,11 @@
 
 
 - Julius Caesar felt like he hadn't accomplished much (40) compared to Alexander (32)
+
+- Role of radicals:
+  
+  > Claim: The dangerous thing abou the French Revolution and the
+    Soviet Unions early days was that they were casueswhere radicals
+    got hold of an entire country. They then became hot-beds for
+    radical thinking. Claim is that they had a major impact on ~All
+    europe and the US. Leead to US extreme panic during the red scare.

@@ -169,3 +169,20 @@
 - Its important to make a freind of your mind.
 
   > Its really all you have. Got to know it for whats it is: An open space where things (sensations/thoughts/feelings) appear. 
+
+
+- Our minds evolved to communicate with others and to guide our actions
+
+  > (our actions mainly with regards to spawning) Ended up with minds
+    that are fragmented and constantly chasing in the near-term things
+    that are net-negative in the long-term. Mindfulness is a
+    cure. Most of our thinking is pointless or actively harmful. This
+    thinking is often born of anxiety, envy and self-judgment and it
+    perpetuates those negative, harmful thoughts and states of
+    mind. Mindfulness allows you to experience life in the present,
+    without ruminating on what happened, what should of happened,
+    almost happened or what might happen next. Mindfulness is directly
+    connected to happiness. It allows you to pay attention to what
+    actually matters. What skill is more important that that ?
+    
+    	  

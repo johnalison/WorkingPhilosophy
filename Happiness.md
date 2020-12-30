@@ -28,4 +28,11 @@
 - Dont need a reason to be happy or tranquil.
    > You know what its like to be in that state, just do it. If you still need a reason: You're not dead yet, still in the game.
 
+- We havent evolved to be happy.
 
+- Wisdom is the realizeation that you can have happiness without reaching any goal or acomplishing some big achievement.
+
+  > What if what is present right now, on the path of living your life
+    was all there was ? Could you be happy? Happy on the journey ?
+    Through meditation you can realize that you can. You also realize,
+    upon reflection, that this is really all there is.

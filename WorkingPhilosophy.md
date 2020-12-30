@@ -31,7 +31,7 @@ Building character is one of the only important projects in life
 "Philosophy isn’t a parlor trick or made for show. 
 It’s not concerned with words, but with facts. 
 It’s not employed for some pleasure before the day is spent, or to relieve the uneasiness of our leisure. 
-It shapes and builds up the soul, it gives order to life, guides action, shows what should and shouldn’t be done—it sits at the rudder steering our course as we vacillate in uncertainties. 
+It shapes and builds up the soul, it gives order to life, guides action, shows what should and shouldn't be done—it sits at the rudder steering our course as we vacillate in uncertainties. 
 Without it, no one can live without fear or free from care. 
 Countless things happen every hour that require advice, and such advice is to be sought out in philosophy.”  - Seneca Moral Letters 1.6.3
 
@@ -273,37 +273,57 @@ The very wise are generally easily deceived, for while they know esoterica they 
    Will probably fall to content providers/eye-witnesses.
 
 
-"Ends justify the means" vs "How you play the game"
-Claim: Not in our interest to have a federal policy on torture. (Even if effects, although seems it is not)
-Eisenhower quote on being careful not to destroy the thing you're trying to defend from within.
-Seems right to me. If we are the "home of the brave" need to sacrifice some security for our freedom.
-Terrorists win if they reshape our ethics and morals by responding to thier actions.
+- "Ends justify the means" vs "How you play the game"
 
-United States has had 250 year history of becoming more democratic. 
-Now elect senitors, blacks and women can vote. ect. 
-Been a while since we took another step forward.
-Can argue that recent gerrymandering/voter suppression is a step back. 
-Covid and mail-in voting could be a step forward.
+  >Claim: Not in our interest to have a federal policy on
+  torture. (Even if effects, although seems it is not) Eisenhower
+  quote on being careful not to destroy the thing you're trying to
+  defend from within.  Seems right to me. If we are the "home of the
+  brave" need to sacrifice some security for our freedom.  Terrorists
+  win if they reshape our ethics and morals by responding to thier
+  actions.
 
-American Icebergs (via Dan Carlin):
-Issues that are major problems that could destroy our country. 
-Claim:  Neigher party addressing these. (Actually significatnt pressure within both parties to NOT address these)
-Some radical change probably needed to make progress here.
-1) Corruption too many lobbiest with too much influence to solve real problems 
-   (eg: insurance companies have to "OK" health care reform)
-   taints everything, all solutions to problems
-2) Constitutional checks and balances
-   Executive branch too much power. Nuclear Bombs, 9/11 spying, wars without congress
-3) Forigen Policy: Ratcheting up tensions with Russia (Reckless) 
-   Constant/Continual war on terror.
-   US as "world police" citizens dont want it. 
-4) US middle class jobs disappearing. Middle class is the balast of society. 
-   How to cope when/if foundation shaken/broken? 
+- United States has had 250 year history of becoming more democratic. 
 
-Better to trip with your feet that with your words. Better to screw up doing than saying.
-That which is done can be undone, that which is said cannot be unsaid.
+  >Now elect senitors, blacks and women can vote. ect.  Been a while
+  since we took another step forward.  Can argue that recent
+  gerrymandering/voter suppression is a step back.  Covid and mail-in
+  voting could be a step forward.
+
+- American Icebergs (via Dan Carlin):
+
+  > Issues that are major problems that could destroy our country.
+    Claim: Neigher party addressing these. (Actually significatnt
+    pressure within both parties to NOT address these) Some radical
+    change probably needed to make progress here.
+
+    1. Corruption too many lobbiest with too much influence to solve
+       real problems (eg: insurance companies have to "OK" health care
+       reform) taints everything, all solutions to problems
+
+    2. Constitutional checks and balances Executive branch too much
+    power. Nuclear Bombs, 9/11 spying, wars without congress
+
+    3. Forigen Policy: Ratcheting up tensions with Russia (Reckless)
+    Constant/Continual war on terror.  US as "world police" citizens
+    dont want it.
+
+    4. US middle class jobs disappearing. Middle class is the balast
+    of society.  How to cope when/if foundation shaken/broken?
+
+    >Better to trip with your feet that with your words. Better to
+    screw up doing than saying.  That which is done can be undone,
+    that which is said cannot be unsaid.
 
 
-The work of living is to set STANDARDs and to live by them. Dont comrimise. 
-Judge all you say, do, and the opinions you hold by your standards.  "Are these consistent with my beliefs?" "Are these what the persion I want to be would do?"
+- The work of living is to set STANDARDs and to live by them. Dont comrimise. 
 
+  > Judge all you say, do, and the opinions you hold by your standards.  "Are these consistent with my beliefs?" "Are these what the persion I want to be would do?"
+
+- Its irrational to care about what people in the far future wil think of you. You wont be around to experience it one way or the other.
+
+- Things you can learn from children
+
+  1. Be happy for no good reason
+  2. Always keep busy with something
+  3. Demand with all your might, that which you desire

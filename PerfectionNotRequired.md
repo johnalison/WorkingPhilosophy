@@ -51,3 +51,19 @@
    fight.
 
 
+- The Stoic Donts
+
+  1.  Dont complain, even to yourself
+  2. Dont put on airs about your self improvement
+  3. Dont overindulge in eating or drinking
+  4. Dont speak more than you listen.
+  5. Dont avoid difficulty.
+  6. Dont tie your identity to your things.
+  7. Dont conceal what you truly believe.
+  8. Dont go along just to get along.
+  9. Dont be all about business
+  10. Dont put off until tomorrow what can be dont today
+  11. Dont shun people you disagree with.
+  12. Dont sleep away the day.
+  13. Dont was time thinking you'll live forever
+  14. Dont neglect friendships.

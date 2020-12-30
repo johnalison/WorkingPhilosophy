@@ -280,3 +280,16 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Self-motivation 
 - Self-improvement. 
 - Game theory
+
+
+# What is my purpose in Life ?
+- Spawn and maure sure my spawn spawn (gene-eye view) 
+- Be a beckon of rationality
+- Self-improvement
+- Pay attention: See the habits that cause sufferening and stop doing them.
+- Give more than I take
+- Learn. Connect dots. Probe unknown.
+- Understand what is under my control and what is not.
+- Spread truth and justice
+- Survive
+- 

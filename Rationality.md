@@ -68,3 +68,8 @@
   > Definitely true of today's politics. Different sides have opinions that are really reactions based on their current stance/posture.
 
   > Becoming and independent/orthogonal rational thinker requires suppression of reactionary positions/thoughts  
+
+
+- Self-improvement is good, but it matters what you are improving in.
+
+  > Doing things better is not necessarly equivalent to becoming a better person, which is the ultimate goal. 
