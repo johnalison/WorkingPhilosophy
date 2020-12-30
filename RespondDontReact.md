@@ -120,3 +120,9 @@ setbacks.
     treat people with kindness. Dont go around expecting Plato's
     republic.  There are obstacles in the path ? Go around them. Why
     get angry ? Do you thing the world would notice ? or care ?
+
+- Anger outlasts the Hurt and is counter productive
+
+  > Learn how to let it go.  The best revenge is not to be that
+    way. Learn what you can from the situation. Dont take it
+    personally and move on.  Whatever happens couldnt be otherwise.

@@ -23,4 +23,4 @@
   > Something rotten and fraudulent when people say, "Im going to give
     it to you straight" or "Let me be honest", "Heres what I really
     feel" ect.  Always be the person who gives it straight. Wear it on
-    your sleeve. Let is shine through all you do
+    your sleeve. Let it shine through all you do.

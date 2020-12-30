@@ -64,3 +64,6 @@
   - Practice pouring yourself into every act (being fully in all/everything you do)
   - Feel emotion
   - See the good around you, in the people you interact with 
+
+- Life isnt short, we just waste a lot of it
+

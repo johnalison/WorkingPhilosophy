@@ -21,4 +21,14 @@
 
    > and
 
-   > _Justice_ Speak truth freely without aversion. 
+   > _Justice_ Speak truth freely without aversion.
+
+
+- Live without fear, live without hope. Realize that you are totally free in this moment, whatever happens.
+
+  > Hops is a disguised form of fear or of suffering
+
+
+- Accept sucess without arrogance, let failure go with indifference.
+
+  > Sucess and failure are impostors, what really matters is **who we are**
