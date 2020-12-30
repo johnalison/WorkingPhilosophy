@@ -12,3 +12,13 @@
 
 - Be the calm. Calm is contagious. 
   > Need to do more thinking before speaking.
+
+
+- Reverence and Justice:
+   > Leave the past behind, let fate deal with the future. Focus on Now, the present and be guided by
+
+   > _Reverence_: love what you have been given (love what happends) Amore Fati
+
+   > and
+
+   > _Justice_ Speak truth freely without aversion. 
