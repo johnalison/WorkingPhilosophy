@@ -426,4 +426,43 @@
      11. Tranquility: Do not be disturbed by trifles or at accidents.
      12. Humility     
 
+# Fearless Symmetry
+  - Not bad.  Good attempt to explain cutting edge math.
+  - Tough going in the end, probably could have been done better.
+  - Mathematical definitions create usage, not describe it.
+  - Mathematical definitions cannot be wrong, only inconsistent or useless.
+  - Lie group theory a marriage between calculus and group theory
+  - Complex numbers forced on the world when solving CUBIC equiations. (Assumed x^2 + 1 = 0 had no solutions) Intermediate steps of the cubic equation involve imaginary numbers even though the final solutions are real.
+  - Every root of a complex equation is already in C.
+  - "2x3xR=C" the bible,  ie "pi = 3" the bible.
+  - There is no (cannot be) a general method for finding all integer solutions to all systems of Z-equations in many variables
+  - Pi is not in Q-Alg, this fact is apparently very hard to prove.
+  - Not every number in Q-Alg can be obtained from the integers with repeated application of +,-,*,/ and ()^(1/n).
+  - There is only one element of G (The absolute Galois Group) other than the identity which we can give a complete discription: complex conjugation.
+  - A representation that is not faithful emphasizes certiant features of the sourse group and obscures others, enabling us to better understand the source group.
+  - Some very large and complicated groups have been shown to be isomorphic to the Galois group of a poly-nominal (Including the Monster group)
+  - Open conjectures: Poincare, Riemann Hypothesis, P==NP
+  - Proving things about poly-nominals usual much easier than proving things about integers: Poly-Nominals have roots and can be differentiated.
+    (Is there a notion of differentiation that can be applied to integers? Primes? )
 
+
+# Bullet Journal Method
+  - Very good idea
+  - Like the idea of documenting my life
+  - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
+  - View BuJo as a living autobiography
+  - Can track the decisions you've made, the actions that led you to where you are now. Can learn from experiences.
+  - The long way is the short way.
+  - True efficiency is not about speed, its about spending more time with what truly matters.
+  - Our memories are unreliable.
+  - The more content you try to capture during a meeting the less your thinking about whats being said. You burn through most of you attention trying to parrot the source.
+  - (re: meetings) Sit for a while and give yourself a moment to process what you heard
+  - When making notes: keep your future self in mind.
+  - For everything you say yes to, your saying no to something else. Yes means work, sacrifice, time, and opportunity cost.
+  - Organization can become a cleverly disguised form of distraction.
+  - "It is not daily increase, but daily decrease. Hack away the inessential" Bruce Lee
+  - (re: social media) "Exploiting vulnerability in human psychology is the bread and butter of our economy" -founding member of facebook
+  - Endurance often proves to be the most cunning and lethal adversary.
+  - If your goal in life is to be useful to others, start by figuring out how to be useful to yourself.
+  - Add notes about social engagements: have fun ? What did you learn ? How did you feel when you where with them ? (Objective measures)
+  
