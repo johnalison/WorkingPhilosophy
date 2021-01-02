@@ -11,3 +11,5 @@
 - Ask your people "What do you need to get your job done?" Then go out and get that.
 
 - Most important thing to learn is: We have so much to learn.  Realize this and open your mind.
+
+- You should invite some to your table because they deserve it, other because they may come to deserve it. 

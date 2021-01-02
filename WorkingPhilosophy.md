@@ -276,12 +276,13 @@ The very wise are generally easily deceived, for while they know esoterica they 
 - "Ends justify the means" vs "How you play the game"
 
   >Claim: Not in our interest to have a federal policy on
-  torture. (Even if effects, although seems it is not) Eisenhower
-  quote on being careful not to destroy the thing you're trying to
-  defend from within.  Seems right to me. If we are the "home of the
-  brave" need to sacrifice some security for our freedom.  Terrorists
-  win if they reshape our ethics and morals by responding to thier
-  actions.
+   torture. (Even if effects, although seems it is not) Eisenhower
+   quote on being careful not to destroy the thing you're trying to
+   defend from within.  Seems right to me. If we are the "home of the
+   brave" need to sacrifice some security for our freedom.  Terrorists
+   win if they reshape our ethics and morals by responding to thier
+   actions.
+  
 
 - United States has had 250 year history of becoming more democratic. 
 
@@ -327,3 +328,4 @@ The very wise are generally easily deceived, for while they know esoterica they 
   1. Be happy for no good reason
   2. Always keep busy with something
   3. Demand with all your might, that which you desire
+
