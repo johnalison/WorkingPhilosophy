@@ -1,6 +1,4 @@
 # Questions
-- How can I rekindle my principles and start living today ?
-- What am I getting out of my journaling ritual?
 - Waht do I truly prize?
 - What is my montra today ?
 - What am I studying, practicing, and training ?
@@ -48,7 +46,9 @@
 - Have I confused schooling and EDUCATION?
 - How can I treat my greedy vices? how can I heal my sickness?
 - What philisophical lessons can I find in ordinary things?
-
+- What am I learning ?
+- What do I want to learn more about ?
+- What has X taught me/insspired me to learn?
 
 - What things are truly in my control ?
 - What am I learning and studying for ?
@@ -67,3 +67,6 @@
 - Am I doing work that matters ?
 - Can I find grace and harmony in places others overlooked?
 - Good or bad, high or low, do I still have choices?
+- How can I rekindle my principles and start living today ?
+- What am I getting out of my journaling ritual?
+

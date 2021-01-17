@@ -329,3 +329,15 @@ The very wise are generally easily deceived, for while they know esoterica they 
   2. Always keep busy with something
   3. Demand with all your might, that which you desire
 
+
+- Programing languages like bicycles for the mind.  They get you where you want to go faster.
+
+- Naturalness:
+  - Can think of the Higgs as giving mass to all particles, and then the mass of these particles correcting the Higgs mass.
+  - Dirac worried about the heirachy between m_proton and m_Plank:
+     - turned out it was solved by QCD asymptotic freedom.
+     - Same flavor answer possible for m_H and m_Plank (technicolor)
+     - was killed by LHC (One of major LHC legacies)
+
+- Know that some of our accepted ideas will turn out wrong. See if you can figure out which. Not just an excersize. See the truths that lie in the ashes of the wrong idea.
+

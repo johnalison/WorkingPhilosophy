@@ -32,3 +32,5 @@
 - Accept sucess without arrogance, let failure go with indifference.
 
   > Sucess and failure are impostors, what really matters is **who we are**
+
+- The art of acquiesces: if something happens that you did not wish to happen, CHANGE YOUR WISH and accept what happened. 

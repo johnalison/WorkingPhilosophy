@@ -185,4 +185,9 @@
     connected to happiness. It allows you to pay attention to what
     actually matters. What skill is more important that that ?
     
-    	  
+
+- Our only contact with reality (anything) is via our minds. In a sense all we have is our minds and our consciousness. Makes sense to put in the time to understand our mind and to know "how to use it".
+
+- Be mindful of moments when you disappoint yourself or others. Recognize it and apologize (to yourself and to those you disappoint) immediately if necessary. Immediately forgive yourself and begin again.
+
+- Meditation is the art of recognizing again and again and again that you are not who you think you are. (Its that simple)

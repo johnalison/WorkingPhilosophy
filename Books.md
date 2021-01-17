@@ -1,5 +1,17 @@
 **2020**
 
+# Why we sleep
+
+# Laws of Human Nature
+
+# The Daily Stoic
+
+# Stillness is the Key
+
+# The great influenza
+
+# Discipline equals freedom
+
 # The Road to Reality (Roger Penrose)
    - "3 mysteries of reality" (biggest take away) 
       Idea: the physical world can be described by (is contained in) the mathematical world. 
@@ -465,4 +477,52 @@
   - Endurance often proves to be the most cunning and lethal adversary.
   - If your goal in life is to be useful to others, start by figuring out how to be useful to yourself.
   - Add notes about social engagements: have fun ? What did you learn ? How did you feel when you where with them ? (Objective measures)
-  
+
+
+# 40 Ways to view Churchill
+  - Good book, just not getting that much from it. (Bailed halfway through)
+  - Interesting take on Biography: presenting both/all sides of person
+  - How little we can know anyone, and how impossible is the task of summing up.
+  - Churchill ignited a monetary crisis when he returned Britain to the gold standard in 1925.
+  - Churchill was vehemently opposed to Indian independence.
+  - "I would rather by right than consistent"
+
+# Beyond Good and Evil
+  - Wasn't doing it for me (Bailed halfway through)
+  - Could tell (got the feeling) that it was interesting to the cognoscenti
+  - But too much over my head.
+  - "Christianity is Platonism for the people"
+  - Critique of " I think therefore I am" a thought comes when it wants, not when I want it to.
+  - It is not the worst things of which one is most ashamed.
+  - He who attains his ideal by that very fact transcends it.
+  - There are no moral phenomena, only moral interpretations of phenomena
+  - To make someone interested in you: pretend to be embarrassed in their presence.
+  - The will to overcome an emotion is ultimately the will of another emotion.
+  - He who fights monsters should be careful he doesn't become one. When you gaze long into an abyss the abyss gazes into you.
+  - Madness is rare in individuals, but in groups, parties, peoples it is the norm.
+  - Ultimately one loves ones desires and not that which is desired.
+
+# Mysticism and Logic (Bertrand Russel)
+  - essays where hit or miss.
+  - Philosophers have felt the need of both science and mysticism. Attempts to harmonize the two make philosophy (for some) greater than science or religion.
+  - Plato's Cave: statement of belief in knowledge and reality truer than our senses
+  - Mysticism is to be commended as an attitude toward life, not as a creed about the world.
+  - Insight, untested and unsupported is an insufficient guarantee of truth.
+  - Instinct is least likely to err in practical matters which aid in survival.
+  - Some distrust intellect in favor of instincts adapted for survival. Response:  It is only through the intellect that we know of the struggle for survival and the evolution of man.
+  - Those who forget good and evil and seek only to know the facts are more likely to achieve good than those who view the world through the distortion of their own desires.
+  - Scientific philosophy comes nearer to objectivity than any other human pursuit. IT gives us the closest constant and most intimate relation with the outer world that is possible.
+  - Our whole life if built of a number of primary instincts and impulses. Only that which is in some way connected with these (instincts and impulses) appear to us desirable or important. There is nothing (call it "reason" or "virtue") that can be outside these first movers
+  - All meaning must be related to our prime desires.
+  - The more fact of living is not to be desired, but the art of living in contemplation of great things.
+  - The solution of the difficulties which formerly surrounded the mathematical infinite is probably the greatest achievement of our age.
+  - G Cantor has solved Zeno's paradoxes, turns out that its not true that if you take something away from a collection it always gets smaller. The recognition of this fact removes the difficulties and make an exact science of the infinite.
+  - Pure math was discovered by Boole "Laws of thought" 1854
+  - Math can be defined as the subject in which we never know what we're talking about, nor weather what we are saying is true.
+  - Obviousness is always the enemy of correctness.
+  - the whole of arithmetic and algebra has been shown to require 3 indefinable notions and 5 indemonstrable propositions.
+  - Most numbers are infinite. Infinitely many more infinite numbers.
+  - Philosophy is the science of the possible.
+  - You cannot alter the past, but you can also not make the future other than it will be.
+  - Obviously you can have no effect on the past. But this does not mean that the past would not have been different if our present wishes had been different. Our present wishes are conditioned by the past and therefore could not be different unless the past was different. The past cannot be different from what it was , but no more can our present wishes be different from what they are.
+  - Its hard to discover any state of mind which I am aware of myself alone, as opposed to a complex of which I am a constituent.
