@@ -341,3 +341,18 @@ The very wise are generally easily deceived, for while they know esoterica they 
 
 - Know that some of our accepted ideas will turn out wrong. See if you can figure out which. Not just an excersize. See the truths that lie in the ashes of the wrong idea.
 
+- Intelligence is loss-less compression
+
+- knowledge is useless unless its actionable
+
+- \sqrt{2} destroyed a religion
+
+- Practices to Sill and Calm:
+  - Parse and take breath
+  - Go slow and savor
+  - Say in the not knowing
+  - Do what makes you happy
+  - Find moments of stillness
+  - Get curious about your emotions
+  - Cultivate rituals of mindfulness
+  - Find wonder and awe
