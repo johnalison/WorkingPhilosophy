@@ -32,3 +32,9 @@
       > And just notice them as they are. Can detect bugs (biases) in the lower-level processing of stimuli.
 
 - "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.
+
+
+- Feedback Critical: Need to have Balance when giving feedback. Balance (Good/Bad) in Quality and Quantity and Vividness. .
+
+- Use 3rd party praise. Praise someone to someone else in your group.  win-win.
+  - Utilize anytime you see excellence (It always comes back around) 

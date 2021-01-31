@@ -12,4 +12,7 @@
 
 - Most important thing to learn is: We have so much to learn.  Realize this and open your mind.
 
-- You should invite some to your table because they deserve it, other because they may come to deserve it. 
+- You should invite some to your table because they deserve it, other because they may come to deserve it.
+
+- Being a person who always knows (or think you do) everything is actually a form of stupidity and misery.
+  (Not a path to wisdom) 

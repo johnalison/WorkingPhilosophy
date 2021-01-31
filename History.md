@@ -72,3 +72,8 @@
     got hold of an entire country. They then became hot-beds for
     radical thinking. Claim is that they had a major impact on ~All
     europe and the US. Leead to US extreme panic during the red scare.
+
+- World went from having 0 communist countries to having a significant fraction of the world (on all continents) be communist in ~30 years.
+
+
+ 
