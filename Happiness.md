@@ -38,3 +38,5 @@
     upon reflection, that this is really all there is.
 
 - Ambition = tying your well-being to what others say/do. Self-indulgence= tying your well-being to things that happend to you. Real Mastery = trying it to your own actions.
+
+- "Unhappy is he who depends on success to be happy. For him, the end of a successful career is the end of the line. He will be destined to die of bitterness or search for other careers where success my be had. There can be no life after success"  - Retired F1 racer

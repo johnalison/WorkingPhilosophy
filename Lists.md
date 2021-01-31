@@ -58,7 +58,10 @@
 
 # Crazy things scientist used to believe
 - Sperm is little homunculus
-
+- Darwin wrote that emotional imbalance could cause fuzzy hair.
+- Phrenology measure mental essences as bumps on the skull
+- Infants prior to the 1980s where not anesthetized during major surgery, on belief that couldnt feel pain.
+  
 # Things where experts disagree
 Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
 

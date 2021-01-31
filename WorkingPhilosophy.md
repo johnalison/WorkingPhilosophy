@@ -356,3 +356,8 @@ The very wise are generally easily deceived, for while they know esoterica they 
   - Get curious about your emotions
   - Cultivate rituals of mindfulness
   - Find wonder and awe
+
+- The assumptions (often unstated) are often the key to finding the weak points in decisions/arguments.
+
+- Objectivity vs Subjectivity (Daryl Cooper)
+  Witches aren't real. Not objectively real.  However Psychologically and phonologically witches can be real, as real as anything else. Objectively we can say they dont exist. But objectivity is an abstraction of experience averaged out. Moment by moment subjectively is all we got. 

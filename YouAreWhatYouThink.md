@@ -191,3 +191,5 @@
 - Be mindful of moments when you disappoint yourself or others. Recognize it and apologize (to yourself and to those you disappoint) immediately if necessary. Immediately forgive yourself and begin again.
 
 - Meditation is the art of recognizing again and again and again that you are not who you think you are. (Its that simple)
+
+- You are not having an experience, you are an experience. Recognizing that is Meditation. 

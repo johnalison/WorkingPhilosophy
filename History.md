@@ -75,5 +75,3 @@
 
 - World went from having 0 communist countries to having a significant fraction of the world (on all continents) be communist in ~30 years.
 
-
- 

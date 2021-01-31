@@ -102,3 +102,6 @@
 
 - "If its not right, Dont do it"
   "If its not true, dont say it" - Markus Aurelius
+
+- Fools all have one thing in common: They are always getting ready to start making a change. 
+
