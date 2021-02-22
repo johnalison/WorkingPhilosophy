@@ -75,3 +75,4 @@
 
 - World went from having 0 communist countries to having a significant fraction of the world (on all continents) be communist in ~30 years.
 
+- “The dead outnumber the living 14 to 1, and we ignore the accumulated experience of such a huge majority of mankind at our peril.”

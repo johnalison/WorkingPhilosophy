@@ -1,54 +1,33 @@
 # Questions
-- Waht do I truly prize?
-- What is my montra today ?
-- What am I studying, practicing, and training ?
-- What ruler do I measure myself against?
-- Am I keeping a sturdy mind on teh task at hand?
-- Am I content to be clueless about things that dont matter?
-- Am I in control? or is my anxienty ?
-- Am I cultivating the invinsibility of my power to choose?
-- Am I thinkging before I act ?
-- What needless conflict can I avoid?
-- Do my outbursts ever make thinkgs better ?
-- What if I didnt have an opintion about this?
-- What parts of my life are driven by anger?
-- IS my soul a good ruler or a tyrant?
-- For what have I sold my peice of mind ?
-- Which of my pleasures are really punishments?
-- Do these strong emotions even make sense?
-- Waht am I making harder than it needs to be ?
-- What happiness am I putting off that I could have right now?
-- Am I rigirous in training agianst false impressions?
-- Am I happy with my position at the banquet of life?
-- Are the pleasures Im chasing actually worth it?
-- Am I certian what I want to say isnt better left unsaid?
-- Why get angry at thinkgs if anger doesnt change it?
-- Why am I telling myslef that Ive been harmed?
+- Are the pleasures I'm chasing actually worth it?
+- Am I certain what I want to say isn't better left unsaid?
+- Why get angry at things if anger doesn't change it?
+- Why am I telling myself that I've been harmed?
 - Will I even remember this fight in a few months?
 - Why do I need to care that someone else screwed up?
-- How can I cultivate inference of unimportnat things?
-- How often do I question thnkgs others take for granted?
+- How can I cultivate inference of unimportant things?
+- How often do I question things others take for granted?
 - Do I see and access myself accurately ?
-- Am I standing with teh philosopher or the mob?
-- HOw many of my limitations are really self-imposed?
+- Am I standing with the philosopher or the mob?
+- How many of my limitations are really self-imposed?
 - Do I really need these things I work so hard for?
 - Where am I a loud mouth?
 - Who is my role model? Why?
 - Where have I traded away freedom ? How can I get it back?
 - What would change if I looked for other peoples good intentions?
 - Instead of calling it bad luck, can I come to see it as inevitable?
-- What would it be like if I focused entierely on the preesent moment?
-- Do I appriciente this mind I have been given?
-- Are my choices beutiful?
+- What would it be like if I focused entirely on the present moment?
+- Do I appreciate this mind I have been given?
+- Are my choices beautiful?
 - What bad assumptions can I cast out?
-- What is the real cause of my irritations - external or my opionions ?
-- Am I cultivating hte virtue that makes adversity bearable?
+- What is the real cause of my irritations - external or my opinions ?
+- Am I cultivating the virtue that makes adversity bearable?
 - Have I confused schooling and EDUCATION?
 - How can I treat my greedy vices? how can I heal my sickness?
-- What philisophical lessons can I find in ordinary things?
+- What philosophical lessons can I find in ordinary things?
 - What am I learning ?
 - What do I want to learn more about ?
-- What has X taught me/insspired me to learn?
+- What has X taught me/inspired me to learn?
 
 - What things are truly in my control ?
 - What am I learning and studying for ?
@@ -68,5 +47,25 @@
 - Can I find grace and harmony in places others overlooked?
 - Good or bad, high or low, do I still have choices?
 - How can I rekindle my principles and start living today ?
-- What am I getting out of my journaling ritual?
-
+- What am I getting out of my journalling ritual?
+- What do I truly prize?
+- What is my mantra today ?
+- What am I studying, practicing, and training ?
+- What ruler do I measure myself against?
+- Am I keeping a sturdy mind on the task at hand?
+- Am I content to be clueless about things that dont matter?
+- Am I in control? or is my anxiety ?
+- Am I cultivating the invincibility of my power to choose?
+- Am I thinking before I act ?
+- What needless conflict can I avoid?
+- Do my outbursts ever make things better ?
+- What if I didn't have an opinion about this?
+- What parts of my life are driven by anger?
+- IS my soul a good ruler or a tyrant?
+- For what have I sold my piece of mind ?
+- Which of my pleasures are really punishments?
+- Do these strong emotions even make sense?
+- What am I making harder than it needs to be ?
+- What happiness am I putting off that I could have right now?
+- Am I rigorous in training against false impressions?
+- Am I happy with my position at the banquet of life?
