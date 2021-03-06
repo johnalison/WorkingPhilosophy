@@ -192,4 +192,8 @@
 
 - Meditation is the art of recognizing again and again and again that you are not who you think you are. (Its that simple)
 
-- You are not having an experience, you are an experience. Recognizing that is Meditation. 
+- You are not having an experience, you are an experience. Recognizing that is Meditation.
+
+- DFW This is water
+   The trick is keeping the truth up front in daily conscious".
+   Learning how to think really means being aware enough to choose what you pay attention to and to **choose** how you construct meaning from experience.

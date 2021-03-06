@@ -105,3 +105,4 @@
 
 - Fools all have one thing in common: They are always getting ready to start making a change. 
 
+- "Words are not deeds"  - Crime and Punishment

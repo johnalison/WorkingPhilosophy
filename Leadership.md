@@ -37,4 +37,15 @@
 - Feedback Critical: Need to have Balance when giving feedback. Balance (Good/Bad) in Quality and Quantity and Vividness. .
 
 - Use 3rd party praise. Praise someone to someone else in your group.  win-win.
-  - Utilize anytime you see excellence (It always comes back around) 
+  - Utilize anytime you see excellence (It always comes back around)
+
+
+# Extreme Ownership (Jocko Wilnick) 
+  - There are no bad teams, only bad leaders
+  - Leadership is the single greatest factor in any teams performance
+  - Dont ask your lead what you should do, tell them what you are going to do
+  - This is simple, not easy: Be Honest. Show Integrity. Take ownership.
+  - Start with micromanagement and morph into de-centralized command.
+  - The worst thing you can do if you make a mistake is to avoid taking blame for it
+  - Build Trust: Do what you say and say what you do.
+  - When you are too embarrassed to ask for help: That's a little knock at the door saying "You're insecure!"

@@ -67,3 +67,6 @@
 
 - Life isnt short, we just waste a lot of it
 
+- "On a long enough timeline, the survival rate for everyone drops to zero."  Fight Club
+
+- "This is your life and its ending one minute at a time." Fight Club

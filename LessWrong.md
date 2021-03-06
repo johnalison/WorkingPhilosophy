@@ -3,3 +3,6 @@
 
 Asimov’s “The Relativity of Wrong”:
 When people thought the earth was flat, they were wrong. When people thought the earth was spherical, they were wrong. But if you think that thinking the earth is spherical is just as wrong as thinking the earth is flat, then your view is wronger than both of them put together.
+
+
+denying reality is a moral wrong.

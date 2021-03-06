@@ -24,3 +24,6 @@
     it to you straight" or "Let me be honest", "Heres what I really
     feel" ect.  Always be the person who gives it straight. Wear it on
     your sleeve. Let it shine through all you do.
+
+
+- "Nothing is harder than speaking the truth and nothing is easier than flattering. If there is a 1/100 part of false note in speaking the truth it leads to discord. But if all is false in flattery it is just as agreeable"  (Crime and Punishment)
