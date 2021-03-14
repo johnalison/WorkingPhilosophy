@@ -52,3 +52,26 @@
   - Nocebo effect (Feel pain when no physical harm) Opposite of the placebo
   - Infants prior to the 1980s where not anesthetized during major surgery, on belief that couldnt feel pain.
   - Children who experince early adversity and hardship have shorter telomeres.
+
+
+# The Design of everyday things
+  - Overall entertaining, didnt take much away.
+  - Duty of machines and people who design them to understand people. Not our duty to understand the arbitrary, meaningless dictates of machines
+  - Accident at 3-mile island: problem was plants control systems
+  - People themselves are often unaware of thier true needs, even unaware of the difficulties they encounter. 
+  - Most human behavour is the result of subconsious processes => Many of our beliefs about how people behave -- including ourselves -- are wrong. 
+  - Tend to believe that thought can be separated from emotion. Wrong. Cognitive thoughts lead to emotion, emotions  drive thoughts. 
+  - Cognition tries to make sense fo the world, emotion assigns value. 
+  - We often dont know what we are about to do, say, or think until after we have dont it. (Good reason to journal) 
+  - We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?) 
+  - "Human error" usually the result of poor design. Should be called "System Error" 
+  - Dont critize unless you can do better.
+  - B/c so much knowledge is in the environment, suprising how little we need to learn. People can do well and still be unable to describe what they do. 
+  - Profoundly erroneous truism, that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. "Civilization advances by extending the number of important operations which we can perform without thinking about them" - whitehead
+  - Metric system was developed by the French in the 1790s, yet 3 countries still resist its use: USA, Liberia, and Myanmar. 
+  - Early plastics were designed to look like wood. 
+  - A brilliant solotion to the wrong problem can be worse than no soloution at all. 
+  - Good designers never start by trying to solve the problem given to them.  They start by trying to understand what the real issues are. 
+  - Most companies compare features with companies to strengthen weaknesses. Better strategy to concentrate on areas where they are stronger and to strengthen them even more, Then focus marketing on strengths. 
+  - Reading far faster than listening in terms of aquiring info. 
+  - Ford bough scrapped Ford cars to find out wihch parts DIDNT fail.  Those could be made a lot cheaper. (Inversion) 

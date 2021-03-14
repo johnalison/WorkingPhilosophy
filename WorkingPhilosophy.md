@@ -343,4 +343,28 @@ Countless things happen every hour that require advice, and such advice is to be
 - The assumptions (often unstated) are often the key to finding the weak points in decisions/arguments.
 
 - Objectivity vs Subjectivity (Daryl Cooper)
-  Witches aren't real. Not objectively real.  However Psychologically and phonologically witches can be real, as real as anything else. Objectively we can say they dont exist. But objectivity is an abstraction of experience averaged out. Moment by moment subjectively is all we got. 
+  Witches aren't real. Not objectively real.  However Psychologically and phonologically witches can be real, as real as anything else. Objectively we can say they dont exist. But objectivity is an abstraction of experience averaged out. Moment by moment subjectively is all we got.
+
+- Oumuamua:
+
+  > - External object Seen in our solar system
+  > - Not a comet (No tail/ sign of outgassing)
+  > - Cant be an astroid (Accelerating away from the sun / like a comet would)
+  > - Reflectivity changes dramatically (either from geometry or different surface materials)
+  > - Cant resolve it, but known to be ~100m
+  > - If accelerting due to radiation pressure -> width ~mm (like a Solar sail)
+  > - At rest wrt the local group of stars (odd)
+  > Thoughts: Can be a sign post or rely station from other civilization. Junk. Unlikely to be a probe. (10^4 years to get here)  
+
+
+- Tips for better Life
+  > - Keep desk and workspare bare. Ever object is an imposition on your attention.
+  > - Reward yourself after completing challenges
+  > - How you spend everyday is how you spend your life.
+  > - Explaining problems is good. Often the process of laying out the problem will reveal a solution.
+  > - Seeing freiends regularly and getting enough sleep can go a long way to solving existentialism.
+  > - Complement people more.
+  > - Cultivate patience for difficult people. Comminication is hard.
+  > - Human mood and well-being heavily influenced by simple things: Exercise/ good sleep/light/ being in nature. (Experiment with these!)
+  > - 90% of everything is crap. Look for the 10% (Sturgeons Law)
+  > - Bad things happend dramatically. Good things happen gradually. 

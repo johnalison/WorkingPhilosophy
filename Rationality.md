@@ -92,3 +92,5 @@
 
 
 - "I would rather by right than consistent" Winston Churchill
+
+- Good designers never start by trying to solve the problem given to them.  They start by trying to understand what the real issues are. (The design of everyday things) 

@@ -60,7 +60,8 @@
 - Darwin wrote that emotional imbalance could cause fuzzy hair.
 - Phrenology measure mental essences as bumps on the skull
 - Infants prior to the 1980s where not anesthetized during major surgery, on belief that couldnt feel pain.
-  
+- Early plastics were designed to look like wood. 
+
 # Things where experts disagree
 Can tell where we don't really understand problems when experts wildly disagree. In these cases understand BOTH sides. Silly to pick one. 
 
@@ -123,6 +124,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
   > Most people stop at 3), Inversion is all about finding problems that make things worse, and avoid doing them.
 
+  > Ford bough scrapped Ford cars to find out wihch parts DIDNT fail.  Those could be made a lot cheaper. (Inversion) 
+
 - Occams Razor (William of Ockham) 
 - Hanlons Razor 
   > Most people doing wrong are not bad people trying to be malicious. 
@@ -130,6 +133,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 - Proving things about poly-nominals usual much easier than proving things about integers: Poly-Nominals have roots and can be differentiated. 
    (Is there a notion of differentiation that can be applied to integers? Primes? ) (Fearless Symmetry)
+
+- Sturgeons Law: 90% of everything is crap. Look for the 10%.
 
 
 # Protocols
@@ -166,6 +171,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Power of meditation / Stoic challenge
 - Atomic weapons are currently our number one problem
 - Dentistry ill founded. food we eat now root cause of misaligned teeth.  
+- Profoundly erroneous truism, that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. "Civilization advances by extending the number of important operations which we can perform without thinking about them" - whitehead
 
 # Montras
 

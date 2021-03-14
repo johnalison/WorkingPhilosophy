@@ -27,3 +27,5 @@
      (almost certainly) the same as getting bad AI.
 
 - Like Elons response: Try to become the AI. Requires increasing bandwidth via neural-link.
+
+- We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?) 

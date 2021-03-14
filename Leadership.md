@@ -31,6 +31,8 @@
       > Hard. Simple not easy. Drop all the second and higher order processing of inputs. 
       > And just notice them as they are. Can detect bugs (biases) in the lower-level processing of stimuli.
 
+
+
 - "Leader on the front lines is always right". Even if what they are saying seems counter-intuitive, there is some truth to their lived experience.
 
 
@@ -49,3 +51,5 @@
   - The worst thing you can do if you make a mistake is to avoid taking blame for it
   - Build Trust: Do what you say and say what you do.
   - When you are too embarrassed to ask for help: That's a little knock at the door saying "You're insecure!"
+
+- Use lack of free-will in others, as a way to detach, avoid anger avoid envy
