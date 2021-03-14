@@ -127,11 +127,11 @@ setbacks.
     way. Learn what you can from the situation. Dont take it
     personally and move on.  Whatever happens couldnt be otherwise.
 
-# Baltasar Gracian
-  - The art of NOT getting into a passion: The first step to getting into a passion is to announce that you are in a passion.  It is great proof of wisdom to remain clear-sighted during paroxysms of rage. Every excess of passion is a digression from rational conduct. To keep control of passion one must hold firm the reins of attention.
-  - Be Moderate: Moderation serves as a counter point to the impulses of passions (emotions) especially in sudden emergencies. Much thought is needed to prevent emotion from taking over. 
-  - Never act from emotion: If you do all is lost. You cannot act for yourself if you are not yourself. Emotion/Passion drives out reason. You need to interpose a prudent go-between who keeps cool. As soon as you notice you are losing your temper, beat a wise retreat.
+### Baltasar Gracian
+    > - The art of NOT getting into a passion: The first step to getting into a passion is to announce that you are in a passion.  It is great proof of wisdom to remain clear-sighted during paroxysms of rage. Every excess of passion is a digression from rational conduct. To keep control of passion one must hold firm the reins of attention.
+    > - Be Moderate: Moderation serves as a counter point to the impulses of passions (emotions) especially in sudden emergencies. Much thought is needed to prevent emotion from taking over. 
+    > - Never act from emotion: If you do all is lost. You cannot act for yourself if you are not yourself. Emotion/Passion drives out reason. You need to interpose a prudent go-between who keeps cool. As soon as you notice you are losing your temper, beat a wise retreat.
 
-# Poor Richards Almanac
-  - Whatever begins in anger, ends in shame.
-  - The end of passion (emotion) is the beginning of repentance.
+### Poor Richards Almanac
+   >  - Whatever begins in anger, ends in shame.
+   >  - The end of passion (emotion) is the beginning of repentance.
