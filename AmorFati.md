@@ -33,4 +33,8 @@
 
   > Sucess and failure are impostors, what really matters is **who we are**
 
-- The art of acquiesces: if something happens that you did not wish to happen, CHANGE YOUR WISH and accept what happened. 
+- The art of acquiesces: if something happens that you did not wish to happen, CHANGE YOUR WISH and accept what happened.
+
+- You cannot alter the past, but you can also not make the future other than it will be. (Russell)
+
+- Obviously you can have no effect on the past. But this does not mean that the past would not have been different if our present wishes had been different. Our present wishes are conditioned by the past and therefore could not be different unless the past was different. The past cannot be different from what it was , but no more can our present wishes be different from what they are. (Russell)

@@ -199,3 +199,8 @@
    Learning how to think really means being aware enough to choose what you pay attention to and to **choose** how you construct meaning from experience.
 
 - Self knowledge is the beginning of self-improvement (Baltasar) 
+
+- Our whole life if built of a number of primary instincts and impulses. Only that which is in some way connected with these (instincts and impulses) appear to us desirable or important. There is nothing (call it "reason" or "virtue") that can be outside these first movers  (Russell)   
+
+
+

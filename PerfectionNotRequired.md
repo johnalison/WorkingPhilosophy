@@ -75,3 +75,5 @@
 
 
 - Wink at small faults, remember you have great ones (Poor Richards Almanac)
+
+- True efficiency is not about speed, its about spending more time with what truly matters. (BuJo)

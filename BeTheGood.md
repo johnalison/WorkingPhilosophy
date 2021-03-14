@@ -114,3 +114,5 @@
 
 
 - Fools make feasts, wise men eat them (Poor Richards Almanac)
+
+  - Those who forget good and evil and seek only to know the facts are more likely to achieve good than those who view the world through the distortion of their own desires.

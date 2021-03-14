@@ -89,3 +89,6 @@
  - Reading makes a man full, meditation a profound man, discourse a clear man.
  - Good sense is something all need, few have, and none think they want.
  - Being ignorant is not so shameful as being unwilling to learn.
+
+
+- "I would rather by right than consistent" Winston Churchill

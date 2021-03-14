@@ -73,3 +73,4 @@
 
 # Poor Richards Almanac
 - If you love life you will not squander time. Its what life is made of.
+

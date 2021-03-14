@@ -4,7 +4,6 @@
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
 - [Things where experts disagree                                       ](#Things-where-experts-disagree                                         )
 - [Numbers                                                             ](#Numbers                                                         	) 
-- [Quotations                                                          ](#Quotations                                                            )
 - [Mental Models                                                       ](#Mental-Models                                                         )
 - [Protocols                                                           ](#Protocols                                                             )
 - [What do you we do now that will be totally replaced in 100 years?   ](#What-do-you-we-do-now-that-will-be-totally-replaced-in-100-years      )
@@ -18,7 +17,8 @@
 - [North Stars                                                         ](#NorthStars                             )
 - [Things I want to learn                                                         ](#thingsIwanttolearn                             )
 - [Who/what are we                                                     ](#whowhatarewe                             )
-<!-- - [Things Ive looked up                                                ](#Things-Ive-looked-up                                                  )-->
+- [What is my purpose in Life ?                                        ](#What-is-my-purpose-in-Life)
+- [ What we should be teaching kids:                                   ](#What-we-should-be-teaching-kids)
 
 
 # Things Ive changed my mind on
@@ -54,7 +54,7 @@
 - Now the principles of Darwinian evolution are evolving. 
   > conception through sex disappearing
 - We are living through a revolution: Information revolution. We have internalize it so dont think about it so much. With our current political situation: Could we be "paying the tab" for all the great 21st century tech? This information age revolution is different because a core principle is the perpetually accelerating innovation. Society does not have time to "catch up" with the new world order and adapt.
-
+- The man of knowledge in our time has a burden he never imaged, the overproduction of truth that cannot be consumed. Use to believe that truth was slim and elusive and once we found it our troubles would be over. Now we are choking in truth. (Denial of Death)
 
 # Crazy things scientist used to believe
 - Sperm is little homunculus
@@ -80,9 +80,6 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 - 100 billion neurons in the brain
 
-# Quotations 
-
-- “We are what we repeatedly do,” Aristotle said, “therefore excellence is not an act, but a habit.”
 
 # Mental Models
 
@@ -279,6 +276,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Quickly becoming gods (or racing to event new ones (AI)) without wisdom. 
 - Animals with rationality - the tool that may allow us to transcend our situation
 - Optimism and hubris is built into our operating systems 
+- Mans self-consciousness makes man a small god in nature, yet at the same time man is a worm and food for worms. This duality is a painful contradiction. Lower animal spared this contradiction. (Q: Are we spared other painful contradictions from our limited knowledge/being ? (Becker)
+- We are gods with anuses (Becker)
 
 # What we should be teaching kids:
 - Importance of Filtering. (Especially in today's world) Knowing what, when and how to filter is critical to being productive. Knowing what to believe, seeing truth.
