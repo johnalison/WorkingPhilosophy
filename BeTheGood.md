@@ -107,10 +107,10 @@
 
 - "Words are not deeds"  - Crime and Punishment
 
-# Baltasar Gracian
- - Knowledge without courage is sterile
- - Excel in what is excellent.
- - Most things are not obtained simply because they are not attempted
+### Baltasar Gracian
+   > - Knowledge without courage is sterile
+   > - Excel in what is excellent.
+   > - Most things are not obtained simply because they are not attempted
 
 
 - Fools make feasts, wise men eat them (Poor Richards Almanac)
