@@ -27,3 +27,7 @@
 
 
 - "Nothing is harder than speaking the truth and nothing is easier than flattering. If there is a 1/100 part of false note in speaking the truth it leads to discord. But if all is false in flattery it is just as agreeable"  (Crime and Punishment)
+
+- Never exaggerate, its a branch of lying (Baltasar Gracian)
+
+- Only act with honourable men. Dis-honorable ones are not constrained by virtue

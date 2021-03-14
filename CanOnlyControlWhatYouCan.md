@@ -39,3 +39,5 @@
    > Can use complaints as a barometer or flag for when your too attached. 
 
 - “Waste no time or Energy on grudges” Churchill 
+
+- There is no rule higher than that over oneself, over ones impulses (Baltasar Gracian) 

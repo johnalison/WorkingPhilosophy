@@ -70,3 +70,6 @@
 - "On a long enough timeline, the survival rate for everyone drops to zero."  Fight Club
 
 - "This is your life and its ending one minute at a time." Fight Club
+
+# Poor Richards Almanac
+- If you love life you will not squander time. Its what life is made of.

@@ -135,6 +135,10 @@ Can tell where we don't really understand problems when experts wildly disagree.
   > Most people doing wrong are not bad people trying to be malicious. 
   > Stupidity far more common than malice.
 
+- Proving things about poly-nominals usual much easier than proving things about integers: Poly-Nominals have roots and can be differentiated. 
+   (Is there a notion of differentiation that can be applied to integers? Primes? ) (Fearless Symmetry)
+
+
 # Protocols
 
 - **Stoic Test Challenge**

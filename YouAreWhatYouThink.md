@@ -197,3 +197,5 @@
 - DFW This is water
    The trick is keeping the truth up front in daily conscious".
    Learning how to think really means being aware enough to choose what you pay attention to and to **choose** how you construct meaning from experience.
+
+- Self knowledge is the beginning of self-improvement (Baltasar) 

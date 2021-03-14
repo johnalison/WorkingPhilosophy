@@ -72,4 +72,20 @@
 
 - Self-improvement is good, but it matters what you are improving in.
 
-  > Doing things better is not necessarly equivalent to becoming a better person, which is the ultimate goal. 
+  > Doing things better is not necessarly equivalent to becoming a better person, which is the ultimate goal.
+
+# Baltasar Gracian
+  - Know how to take a hint. The truths which concern us most can only be half spoken, but with attention we can grasp then whole meaning. When you hear something favorable be skeptical. When you hear something unfavorable follow up. (
+  - Do not be the slave of first impressions. Dont satisfy your will with the first object nor your mind with the first preposition. Wait for the 3rd or 4th edition of the news.
+  - Many men do not esteem what they understand and venerate what they do not see.  Many praise a thing without being able to say why if asked.
+  - In all things if you know little, stick to the safest. To know little and seek danger is to seek ruin. "Security is schrewder than singularity".	 
+
+# Poor Richards Almanac
+ - Observe all men, yourself the most
+ - The way to see faith is to shut the eye of reason
+ - Many complain of their memory, few of their judgment.
+ - The best physician knows the worthless-ness of most medicines.
+ - He that wont be counseled, cannot be helped
+ - Reading makes a man full, meditation a profound man, discourse a clear man.
+ - Good sense is something all need, few have, and none think they want.
+ - Being ignorant is not so shameful as being unwilling to learn.

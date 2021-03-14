@@ -15,4 +15,8 @@
 - You should invite some to your table because they deserve it, other because they may come to deserve it.
 
 - Being a person who always knows (or think you do) everything is actually a form of stupidity and misery.
-  (Not a path to wisdom) 
+  (Not a path to wisdom)
+
+- Be spotless. A single cloud can hide the whole of the sun. (Baltasar Gracian)
+
+- Search others for their virtues, yourself for you vices. (Poor Richards Almanac)

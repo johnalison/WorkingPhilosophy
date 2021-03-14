@@ -67,3 +67,11 @@
   12. Dont sleep away the day.
   13. Dont was time thinking you'll live forever
   14. Dont neglect friendships.
+
+# Baltasar
+- Learn to forget: (especially in others) 
+- Revise your judgements 
+- Be able to forget: Memory is unruly and stupid. It leaves us in lurch when needed and puts its nose into places its not wanted. Cultivate good habits of memory, it can make life heaven or hell.
+
+
+- Wink at small faults, remember you have great ones (Poor Richards Almanac)

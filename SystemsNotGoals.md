@@ -156,3 +156,7 @@
 
   > Especially in today's world) Knowing what, when and how to filter is
   critical to being productive. Knowing what to believe, seeing truth.
+
+# Baltasar Gracian
+  - Dont not let your fortune on a single cast of the die. 
+  - Attempt easy tasks as if they were difficult, difficult tasks as if they were easy.
