@@ -15,35 +15,33 @@
    12) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
 
 
-How to live with stress and not be stressed out is a major goal of Philosophy 
+- How to live with stress and not be stressed out is a major goal of Philosophy 
 
-Purpose of philosophy not to achieve some perfect ideal, but to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
+- Purpose of philosophy not to achieve some perfect ideal, but to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
 
-Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
+- Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
 
 
-What is Wisdom? "Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering" - Sam Harris
+- What is Wisdom? "Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering" - Sam Harris
 
-Building character is one of the only important projects in life
+- Building character is one of the only important projects in life
 
-"Philosophy isn’t a parlor trick or made for show. 
+- "Philosophy isn’t a parlor trick or made for show. 
 It’s not concerned with words, but with facts. 
 It’s not employed for some pleasure before the day is spent, or to relieve the uneasiness of our leisure. 
 It shapes and builds up the soul, it gives order to life, guides action, shows what should and shouldn't be done—it sits at the rudder steering our course as we vacillate in uncertainties. 
 Without it, no one can live without fear or free from care. 
 Countless things happen every hour that require advice, and such advice is to be sought out in philosophy.”  - Seneca Moral Letters 1.6.3
 
-Seeking wisdom and self-improvement is not a part-time job
+- Seeking wisdom and self-improvement is not a part-time job
 
-Philosophy is a calling not a profession, Not something you forget about after work or on the weekends.
+- Philosophy is a calling not a profession, Not something you forget about after work or on the weekends.
 
-"The whole of life should be one course of thought how not to miss the right path.  Rumination and foresight enable one to determine the lie of life."
+- "The whole of life should be one course of thought how not to miss the right path.  Rumination and foresight enable one to determine the lie of life."
 
-The oracles of wisdom are rare and they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
+- The oracles of wisdom are rare and they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
 
-The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
-
-
+- The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
 
 [Random Interesting thoughts](#Random-Interesting-thoughts) On
 
