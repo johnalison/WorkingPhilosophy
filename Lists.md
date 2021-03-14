@@ -17,8 +17,9 @@
 - [North Stars                                                         ](#NorthStars                             )
 - [Things I want to learn                                                         ](#thingsIwanttolearn                             )
 - [Who/what are we                                                     ](#whowhatarewe                             )
-- [What is my purpose in Life ?                                        ](#What-is-my-purpose-in-Life)
-- [ What we should be teaching kids:                                   ](#What-we-should-be-teaching-kids)
+- [What we should be teaching kids:                                   ](#what-we-should-be-teaching-kids)
+- [What is my purpose in Life ?                                        ](#what-is-my-purpose-in-life)
+
 
 
 # Things Ive changed my mind on
@@ -247,6 +248,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Paradox of the Mind: When we look, mind seems totally insubstantial, yet everything we experience is a modification of the mind. 
 - We spend most of our time trying to change What Is into What Should Be.  Turns out that this change is often easiest after we truly accept what is.
 - We are identical with one of the greatest mysteries in the Universe. In a sense its the only thing we know, can know. In another, it is one of the last great unknowns (to science).
+- Incompleteness Theorem:     "There is more to truth that provability in the deductive system" /     Arithmetic truth out runs formal provability / Truth values of undecidable statements can be decided by embedding them in a richer structure. Also common practice of mathematicians, eg: invoke structures far richer than a statement they are trying to prove. /   - No consistent theory can prove its own consistency /
+- How can humans, physical organisms in a physical universe, have knowledge of a casually inert realm of abstract objects?
 
 # What will be seen as right/wrong in future
 
@@ -278,6 +281,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Optimism and hubris is built into our operating systems 
 - Mans self-consciousness makes man a small god in nature, yet at the same time man is a worm and food for worms. This duality is a painful contradiction. Lower animal spared this contradiction. (Q: Are we spared other painful contradictions from our limited knowledge/being ? (Becker)
 - We are gods with anuses (Becker)
+- The basic insight of psychology for all time: Man is a union of opposites, of self-consciousness and physical body. (Becker)
+- When evolution gave man a self an inner symbolic world of experience, it split him in two, gave him added burden. This burden seems the price that had to be paid in order to attain more life, experience and self-consciousness. (Becker)
 
 # What we should be teaching kids:
 - Importance of Filtering. (Especially in today's world) Knowing what, when and how to filter is critical to being productive. Knowing what to believe, seeing truth.
@@ -298,4 +303,4 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Understand what is under my control and what is not.
 - Spread truth and justice
 - Survive
-- 
+  - The most one can achieve is a certain relaxedness an openness to experience that makes him less of a driven burden on others.(Becker)
