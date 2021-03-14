@@ -42,3 +42,5 @@
 - "Unhappy is he who depends on success to be happy. For him, the end of a successful career is the end of the line. He will be destined to die of bitterness or search for other careers where success my be had. There can be no life after success"  - Retired F1 racer
 
  - The mere fact of living is not to be desired, but the art of living in contemplation of great things.
+
+- Cant afford to wait until you solve your problems to be happy

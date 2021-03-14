@@ -81,3 +81,12 @@
   > For the Vietnamese end game was political power, not body count. They were able to "lose" battles in terms of body count, if it furthered the long-term agenda. 
   > Very hard for the other side to win a war like that. Was a watershed moment in US culture: Changed trust in goverment. Broke the army. Major impact on US foreign policy.
 
+- 10k Greeks
+  > - Mercenaries fighting in Persia in 400 BCE
+  > - Got tricked into fighting on the losing side of a Persian civial war
+  > - Stranded 2000 miles from home in enemy territory 
+  > - Made a deal to secure safe passage, but are betrayed. ~All thier commanders murdered or captured.
+  > - Xenaphone who was a common soldier takes on role of leader (Eternal Optimist) 
+  > - End up fighting thier way out of Persia
+  > - Some point end up camping in the ruins of Nenevah. Have no clue what it is. Buts its clear to them that its the remants of a civilizatoin that was more powerful than any they have ever come across before (and it was now in ruins!) Dan Carlin "Statue of Liberty in the sand"
+

@@ -226,8 +226,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Tanmay - Breath of knowladge
 - Roy+Markus+Reinhard - Physics teaching.
 - Wes Baker: Honesty, loyalty.  Someone that can be depended upon.
-- Dad 
-- Mom
+- Dad : Knows what he likes / Reads a lot / Informed / Scarified to spend time with family  
+- Mom : Hard working / good people sense /
+- Grandma Big Cars: Effective / reliable / organized / moral
 - Karol Krizka: has the nature that when something comes up (no matter how big or small) he digs deeply to the root cause to fix or improve the problem. Was especially apparent to me when working with him on FTK commissioning. Leeds to deep knowledge in various areas that are likely to come up again. Builds expertise in debugging technical problems (motivates the building of a Linux machine). Example of compounding returns.
 "How you do everything is how you do anything"  
 - Ira and Roy: often know how to get to the point, clarify

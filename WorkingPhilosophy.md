@@ -367,4 +367,26 @@ Countless things happen every hour that require advice, and such advice is to be
   > - Cultivate patience for difficult people. Comminication is hard.
   > - Human mood and well-being heavily influenced by simple things: Exercise/ good sleep/light/ being in nature. (Experiment with these!)
   > - 90% of everything is crap. Look for the 10% (Sturgeons Law)
-  > - Bad things happend dramatically. Good things happen gradually. 
+  > - Bad things happend dramatically. Good things happen gradually.
+
+- Strong Arguments agianst the Simulation Hypothesis (Frank Wilczek) 
+  > - "Worth thinking about, but doesnt take much thought to discredit it"
+  > - Laws that we observe dont look like a compently programmed simulation.
+  > - Lots of hidden complexity. (Dig deeper have hidden structure thats "Not used for anything". Why do that?
+  > - Laws very constrained: local. Dont change in time/space. In programmed enviroment no reason to obey these. "People who build computer games typically trash them all"
+
+- If there was some "power of mind" would have to sheild sensitive experiments from the mind.  Thats never been true. Do have to sheild from vibration, radation, ect "Never have to worry about what the guy in the next office is thinking."
+
+- Is evolution consistent with determinism ?
+
+   > Evolution requires 1) variation 2) Heredity or replication 3 )
+     differential fitness.  None of these care about
+     determinism. Would you have natural selection in the game of life
+     ?  Seems yes. If you could arrange 1) - 3).  1) Can get variation
+     through deterministic mutation.2) Replicator can be
+     deterministic. 3) Differential fitness. Also can live with
+     determinism. Question of phase space. Some replicators will
+     survive with more initial conditions. Evolution is a good
+     description when you cant work out the consequesnces of
+     determinism exactly. Wouldnt need to talk in evoulotion terms if
+     you knew exactly what was going to happen.
