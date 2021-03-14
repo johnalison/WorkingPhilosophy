@@ -22,9 +22,7 @@ Purpose of philosophy not to achieve some perfect ideal, but to keep becoming mo
 Worth spending time and energy developing a plan to minimize emotional harm from unexpected (and inevitable) setbacks. 
 
 
-What is Wisdom? 
-"Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering"
-- Sam Harris) 
+What is Wisdom? "Noticing the causes of psychological suffering, noticing where they are unnecessary and then stop doing the things that are producing needless suffering" - Sam Harris
 
 Building character is one of the only important projects in life
 
@@ -46,15 +44,6 @@ The oracles of wisdom are rare and they are rarely used. To seek advice does not
 The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
 
 
-- What are my values?
-   - Dont Lie
-   - Look for lasting change (systems not goals) 
-   - Golden rule (veil of ignorance) 
-   - Strict with self/lenient with other
-   - Increase freedom/liberty when possible
-   - Equality of opportunity
-   - ...
-
 
 [Random Interesting thoughts](#Random-Interesting-thoughts) On
 
@@ -69,9 +58,6 @@ The very wise are generally easily deceived, for while they know esoterica they 
  - [Politics](https://github.com/johnalison/WorkingPhilosophy/blob/master/Politics.md)
 
  - [AI](https://github.com/johnalison/WorkingPhilosophy/blob/master/AI.md)
-
-
-
 
 
 

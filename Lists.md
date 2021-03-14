@@ -303,4 +303,16 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Understand what is under my control and what is not.
 - Spread truth and justice
 - Survive
-  - The most one can achieve is a certain relaxedness an openness to experience that makes him less of a driven burden on others.(Becker)
+- The most one can achieve is a certain relaxedness an openness to experience that makes him less of a driven burden on others.(Becker)
+
+
+
+# What are my values?
+   - Dont Lie
+   - Look for lasting change (systems not goals) 
+   - Golden rule (veil of ignorance) 
+   - Strict with self/lenient with other
+   - Increase freedom/liberty when possible
+   - Equality of opportunity
+   - ...
+
