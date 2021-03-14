@@ -4,15 +4,14 @@
    1) [Moral duty to become more rational.](https://github.com/johnalison/WorkingPhilosophy/blob/master/Rationality.md)
    2) [You are what you think, but with practice, you can change what you think](https://github.com/johnalison/WorkingPhilosophy/blob/master/YouAreWhatYouThink.md)
    3) [Strict with yourself, Lenient with others (Extreme Ownership)](https://github.com/johnalison/WorkingPhilosophy/blob/master/StrictWithYourself.md)
-   4) [You can only control what you can control](https://github.com/johnalison/WorkingPhilosophy/blob/master/CanOnlyControlWhatYouCan.md)
-   5) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
-   6) [Be the good. (Intelligent ACTION is power)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BeTheGood.md)
-   7) [Amor Fati (What happens couldn't be otherwise)](https://github.com/johnalison/WorkingPhilosophy/blob/master/AmorFati.md)
-   8) [Memento Mori: All we have is time; lack of attention throws it away](https://github.com/johnalison/WorkingPhilosophy/blob/master/MomentoMori.md)
-   9) [Respond, don't React (Employ Stoic Test Strategy)](https://github.com/johnalison/WorkingPhilosophy/blob/master/RespondDontReact.md)
-   10) [Systems not Goals](https://github.com/johnalison/WorkingPhilosophy/blob/master/SystemsNotGoals.md)
-   11) [Perfection Not required, effective self-improvement critical](https://github.com/johnalison/WorkingPhilosophy/blob/master/PerfectionNotRequired.md)
-   12) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
+   4) [Don't Lie! (Evil only possible through lies) ](https://github.com/johnalison/WorkingPhilosophy/blob/master/DontLie.md)
+   5) [Be the good. (Intelligent ACTION is power)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BeTheGood.md)
+   6) [Amor Fati (What happens couldn't be otherwise. You can only control what you can control)](https://github.com/johnalison/WorkingPhilosophy/blob/master/AmorFati.md)
+   7) [Memento Mori: All we have is time; lack of attention throws it away](https://github.com/johnalison/WorkingPhilosophy/blob/master/MomentoMori.md)
+   8) [Respond, don't React (Employ Stoic Test Strategy)](https://github.com/johnalison/WorkingPhilosophy/blob/master/RespondDontReact.md)
+   9) [Systems not Goals](https://github.com/johnalison/WorkingPhilosophy/blob/master/SystemsNotGoals.md)
+   10) [Perfection Not required, effective self-improvement critical](https://github.com/johnalison/WorkingPhilosophy/blob/master/PerfectionNotRequired.md)
+   11) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
 
 
 - How to live with stress and not be stressed out is a major goal of Philosophy 
