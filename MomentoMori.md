@@ -71,6 +71,7 @@
 
 - "This is your life and its ending one minute at a time." Fight Club
 
-# Poor Richards Almanac
-- If you love life you will not squander time. Its what life is made of.
+- If you love life you will not squander time. Its what life is made of. (Poor Richards Almanac)
+
+"And here's to you, <span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know."
 
