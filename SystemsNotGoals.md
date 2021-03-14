@@ -157,10 +157,10 @@
   > Especially in today's world) Knowing what, when and how to filter is
   critical to being productive. Knowing what to believe, seeing truth.
 
-# Baltasar Gracian
-  - Dont not let your fortune on a single cast of the die. 
-  - Attempt easy tasks as if they were difficult, difficult tasks as if they were easy.
+### Baltasar Gracian
+  > - Dont not let your fortune on a single cast of the die. 
+  > - Attempt easy tasks as if they were difficult, difficult tasks as if they were easy.
 
  - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
 
-- “We are what we repeatedly do,” Aristotle said, “therefore excellence is not an act, but a habit.”
+- “We are what we repeatedly do,” Aristotle said, “therefore excellence is not an act, but a habit.” 
