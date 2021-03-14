@@ -3,7 +3,6 @@
 - [Things Ive changed my mind on                                       ](#Things-Ive-changed-my-mind-on                                         )
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
 - [Things where experts disagree                                       ](#Things-where-experts-disagree                                         )
-- [Numbers                                                             ](#Numbers                                                         	) 
 - [Mental Models                                                       ](#Mental-Models                                                         )
 - [Protocols                                                           ](#Protocols                                                             )
 - [What do you we do now that will be totally replaced in 100 years?   ](#What-do-you-we-do-now-that-will-be-totally-replaced-in-100-years      )
@@ -13,7 +12,6 @@
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
-- [Meditations                                                         ](#Meditations                             )
 - [North Stars                                                         ](#NorthStars                             )
 - [Things I want to learn                                                         ](#thingsIwanttolearn                             )
 - [Who/what are we                                                     ](#whowhatarewe                             )
@@ -64,7 +62,7 @@
 - Infants prior to the 1980s where not anesthetized during major surgery, on belief that couldnt feel pain.
   
 # Things where experts disagree
-Can tell where we don't really understand problems when experts wildly disagree. LIST  In these cases understand BOTH sides. Silly to pick one. 
+Can tell where we don't really understand problems when experts wildly disagree. In these cases understand BOTH sides. Silly to pick one. 
 
 - Interpretations of QM
 - Fermi Paradox
@@ -77,9 +75,6 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Consensus 
 - Cryonics
 
-# Numbers
-
-- 100 billion neurons in the brain
 
 
 # Mental Models
@@ -258,10 +253,6 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Driving (Wrong)
 - Sugar Consumption 
 - Meditation
-
-# Meditations 
-
-- Focus on the breath, look for the point where the focus is coming from, focus on that like it is the breath.
 
 
 # Things I want to learn 
