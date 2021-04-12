@@ -119,3 +119,81 @@
   - In the second half of the 17C England was transformed from a hereditary monarchy into a constitutional government in which King was limited by Parliament. 
   - Boyle described experiments that failed. 
 
+# Sapiens 
+ 
+  - Outstanding!
+  - Timeline: 3e9 ya Beginning of Biology / 7e4 Cognitive revolution (Beginning of History)  / 1e4 Agricultural revolution / 5e3 1st kingdoms / 5e2 scientific revolution (entire planet single historical event) / 2e2 industrial revolution
+  - Present: organisms increasingly shaped by intelligent design rather than natural selection
+  - Scientific revolution may well end history and start something different (Reason that now is different) 
+  - Most important thing about prehistory humans: They were insignificant animals with no more impact on the environment than other animals.
+  - Chimps closest ancestor: split 6e6 ya
+  - Human Brain: ~3% of body weight / but 25% energy use (Only ~8% energy use in other apes) 
+  - Women who gave birth earlier when the infants head was smaller fared better / lived to have more children (humans are born prematurely) 
+    This contributed greatly both to humans extraordinary social abilities and to its unique social problems. Raising children required constant help from family members and neighbors. 
+    Since born underdeveloped, humans can be educated and socialized to a far greater extent than other animals
+  - Humans position in the food chain (until quite recently) was solidly in the middle
+  - In the last 1e5 years, we have leaped to the top of the food chain. This has had enormous consequences. Changed so fast that the ecosystem could not adjust.  
+    We are full of fears and anxieties over our new position. 
+  - Cooking inadvertently opened the way to big brains in humans. (Hard to have both big brain and long intestines)
+  - Cognitive revolution: new ways of thinking and communicating. 3-7e5 ya
+  - Can never convince a monkey to give you a banana by promising him limitless bananas after death in monkey heaven. 
+  - Sapiens can cooperate in extraordinarily flexible ways with countless numbers of strangers. This is why sapiens rule the world.
+  - How did humans eventually found cities with 1e5 people and empires with 1e8 people ? Probably from fiction. Large numbers of strangers can cooperate by believing in common myths. 
+  - There are no gods, no nations, no money, no human rights, no laws, and no justice outside of the common imagination of human beings. 
+  - Corporations among humans most ingenious inventions. Legally independent of people who set them up. Became the main players in the economy. Often forget they exist only in our imaginations. 
+  - Since the cognitive revolution humans have been living in a dual reality. 
+       Objective: rivers/ trees / lions    Imagined: gods/nations and corporations
+  - Since the cognitive revolution we have been able to revise behavior rapidly in accordance with changing needs (fast forward evolution) 
+     eg: Catholic Church survived for centuries not by passing on genes, but stories. 
+  - Cognitive revolution: History separates from biology. Narrative is now primary means of explaining the development of humans (Not biological theories) 
+  - Real differences between us and chimps is the mythical glue that binds us. 
+  - Our brains and minds are adapted to a life of hunting and gathering. 
+  - Foragers where less likely to suffer starvation and were more healthy than their peasant descendants.
+  - The stories that foragers told themselves is one of the biggest holes in understanding human history. 
+  - Among all the worlds large creatures, the only survivors will be humans and the farmland creatures that are our slaves.
+  - Agricultural revolution 1e5 ya
+  - >90% of the calories we eat come from a handful of plants and animals our ancestors domesticated between 9k BCE - 3k BCE. 
+     (There has been no noteworthy plant or animal domesticated in 2e3 years) 
+  - Scholars once claimed agricultural revolution as a great leap forward for humanity. Fantasy! No evidence people became more intelligent. AR => harder lives for those who lived through it.
+  - Plants domesticated humans, not the other way around.
+  - The AR made the future far more important than it had even been before.
+  - If we dont believe in God, creation and souls, how/why are people equal? 
+  - "Biological Declaration of Independence": We hold these truths ... self-evident, that all men evolved differently, that they are born with certain mutable characteristics, and that among these are life and the pursuit of pleasure"
+  - An imagined order is always in danger of collapse, because it depends upon myths, and myths vanish once people stop believing in them
+  - Slave trade: Paradoxically genetic superiority (in terms of immunity) translated into social inferiority; precisely because the Africans were fitter in tropical climates than Europeans, they ended up as the slaves of European masters.
+  - Biology enables, culture forbids
+  - Even among chimps the alpha male wins his position by building a stable coalition with other males and females, not through mindless violence.
+  - How did it happen that in the one species whose success depends above all on cooperation, individuals who are supposedly less cooperative (men) control individuals who are supposedly more cooperative (women) ? At present we have no good answer.
+  - Ever since the French revolution, people throughout the world have gradually come to see both equality and freedom as fundamental values. Yet the two values contradict each other.
+    The entire political history of the world since 1789 can be seen as a series of attempts to reconcile this contradiction.
+  - Consistency is the playground of dull minds.
+  - Cognitive dissonance is often considered a failure of the human psyche. In fact, it is a vital asset.
+  - The 1st millennium BC witnessed the appearance of three potentially universal order, whose devotees could for the first time imagine the entire world and the entire human race as a single unit governed by a single set of laws: Monetary order / Imperial order / order of universal religions.
+  - Money is a psychological construct.  Trust is the raw material from which all types of money are minted. Money is the most universal and most efficient system of mutual trust ever devised.
+  - Whereas religion asks us to believe in something, money asks us to believe that *other people believe in something*
+  - Money is the apogee of human tolerance. Money more open minded than language, state laws, cultural codes, religious beliefs and social habits.
+  - Contemporary critique of empires: they do not work / they are evil. First statement is non-sense, the second is deeply problematic. To color all empires black and to disavow all imperial legacies is to reject most of human culture.
+  - Empire has been the worlds most common form of political government for the last 2500 years
+  - Monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the universe -- and He's evil.
+  - The central figure in Buddhism is not a god but a human being, Siddhartha Guatama.
+  - No matter what people achieve they are never content.  Suffering is caused by behavior patterns in ones own mind. If, when the mind experiences something pleasant or unpleasant, it simply understands things as they are, then there is no suffering.  Meditation trains the mind to focus all its attention on the question "What am I experiencing now?"  rather than on "What would I rather be experiencing?" 
+  - The first principle of monotheistic religions is "God exists. What does He want from me?" The first principle of Buddhism is "Suffering exists. How do I escape it?"
+  - If a religion is a system of human norms and values that is founded on beliefs in a superhuman order, then Soviet Communism was no less a religion than Islam.
+    The modern age has witnessed the rise of a number of natural-law religions such as liberalism, Communism, nationalism, and Nazism.
+  - Humanism is a belief that Homo Sapiens has a unique and sacred nature, which is fundamentally different form the nature of all other animals and of all other phenomena. Humanists believe that the unique nature of human beings ins the most important thing in the world, and it determines the meaning of everything that happens in the universe.
+  - The liberal belief in the free and sacred nature of each individual is a direct legacy of the traditional christian belief in free and eternal individual souls. Without recourse to eternal souls and a Creator God, it becomes embarrassingly difficult for liberals to explain  what is so special about individual Sapiens.
+  - Social humanism is built on monotheist foundations. The idea that all humans are equal is a revamped version of the monotheistic conviction that all souls are equal before God.
+  - Our liberal political and judicial system are founded on the belief that every individual has a sacred inner nature, indivisible and immutable, which gives meaning to the world,  and which is the source of all ethical and political authority. Yet over the last 200 years, the life sciences have thoroughly undermined this belief. Scientist have found no soul, they argue behavior is determined by hormones, genes and synapses, rather than by free will.  Our judicial and political systems largely try to sweep such inconvenient discoveries under the rug. How long can we maintain the way separating the department of biology from the departments of law and political science.
+  - One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another.
+  - Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.
+  - Cultures are a kind of mental infection or parasite with humans as its unwitting host
+  - Coping with the scientific revolution: Our current assumption that we do not know everything, and that even the knowledge we possess is tentative, extends to the shared myths that enable millions of strangers to cooperate effectively.  If the evidence shows that many of those myths are doubtful, how can we hold society together ?  All modern attempts to stabilize the sociopolitical order have had no choice but to rely on either of two unscientific methods: 1) Take a scientific theory, and in opposition to common scientific practices, declare that it is a final and absolute truth (Nazis, Communists) 2) Leave science out of it and live in accordance with a non-scientific absolute truth (liberal humanism).
+  - Most ancient myth to come down to us - the Gilgamesh myth of ancient Sumer (defeat death). 
+  - In 1775 Asia accounted for 80% of the world economy.
+  - European imperialism was entirely unlike all other imperial projects in history. Previous seekers of empire tended to assume that they already understood the world. European imperialists set out in the hope of obtaining new knowledge along with new territories.
+  - The first modern man was Amerigo Vespucci, who argued that the islands discovered by Columbus were not islands off the East Asian coast, but rather an entire continent unknown to Scriptures, classical geographers , and contemporary Europeans.
+  - Poetic Justice: 1/4 of the world is named after a little-known Italian whose sole claim to fame is that he had the courage to say "We dont know"
+  - Discovery of America was the foundational event of the Scientific Revolution. It not only taught Europeans to favor present observations over past traditions, but the desire to conquer America also obliged the Europeans to search for new knowledge at breakneck speed.
+  - Not one expedition of either exploration or conquest was ever sent to America from the Islamic world, India or China. The first non-European power that tried to send a military expedition to America was Japan in 1942.
+  - What enables banks - and the entire economy - to survive and flourish is our trust in the future.
+  - Credit enables us to build the present at the expense of the future.

@@ -1,3 +1,5 @@
+- Cognitive revolution: History separates from biology. Narrative is now primary means of explaining the development of humans (Not biological theories) 
+
 - "History is Philosophy taught with examples"
 
 - "Character is destiny 
@@ -90,3 +92,8 @@
   > - End up fighting thier way out of Persia
   > - Some point end up camping in the ruins of Nenevah. Have no clue what it is. Buts its clear to them that its the remants of a civilizatoin that was more powerful than any they have ever come across before (and it was now in ruins!) Dan Carlin "Statue of Liberty in the sand"
 
+Sapiens:
+  - Ever since the French revolution, people throughout the world have gradually come to see both equality and freedom as fundamental values. Yet the two values contradict each other.
+    The entire political history of the world since 1789 can be seen as a series of attempts to reconcile this contradiction.
+  - One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another.
+  - Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.

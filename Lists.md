@@ -2,13 +2,13 @@
 
 - [Things Ive changed my mind on                                       ](#Things-Ive-changed-my-mind-on                                         )
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
+- [Crazy things scientists used to believe                              ](#Crazy-things-scientists-used-to-believe)
 - [Things where experts disagree                                       ](#Things-where-experts-disagree                                         )
 - [Mental Models                                                       ](#Mental-Models                                                         )
 - [Protocols                                                           ](#Protocols                                                             )
 - [What do you we do now that will be totally replaced in 100 years?   ](#What-do-you-we-do-now-that-will-be-totally-replaced-in-100-years      )
 - [What important truth do very few people agree with you on?          ](#What-important-truth-do-very-few-people-agree-with-you-on             )
 - [Montras                                                             ](#Montras                                                         	)
-- [Things Ive started and stopped                                      ](#Things-Ive-started-and-stopped                                  	)
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
@@ -54,8 +54,10 @@
   > conception through sex disappearing
 - We are living through a revolution: Information revolution. We have internalize it so dont think about it so much. With our current political situation: Could we be "paying the tab" for all the great 21st century tech? This information age revolution is different because a core principle is the perpetually accelerating innovation. Society does not have time to "catch up" with the new world order and adapt.
 - The man of knowledge in our time has a burden he never imaged, the overproduction of truth that cannot be consumed. Use to believe that truth was slim and elusive and once we found it our troubles would be over. Now we are choking in truth. (Denial of Death)
+- Scientific revolution may well end history and start somethign different (Reason that now is different) 
 
-# Crazy things scientist used to believe
+
+# Crazy things scientists used to believe
 - Sperm is little homunculus
 - Darwin wrote that emotional imbalance could cause fuzzy hair.
 - Phrenology measure mental essences as bumps on the skull
@@ -172,6 +174,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Atomic weapons are currently our number one problem
 - Dentistry ill founded. food we eat now root cause of misaligned teeth.  
 - Profoundly erroneous truism, that we should cultivate the habit of thinking of what we are doing. The precise opposite is the case. "Civilization advances by extending the number of important operations which we can perform without thinking about them" - whitehead
+- Plants domensticated humans, not the other way around
+- Basis for demcocarsy equal rights movement is religous not scientific 
+
 
 # Montras
 
@@ -190,10 +195,6 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - What would have to be true for this to be right ?
 > Is this one of the unnecessary things?
 
-# Things I've started and stopped
-
-- Going through solid state physics course
-- Going through electronics textbook
 
 # People I look up to (North stars)
 
@@ -252,6 +253,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - We are identical with one of the greatest mysteries in the Universe. In a sense its the only thing we know, can know. In another, it is one of the last great unknowns (to science).
 - Incompleteness Theorem:     "There is more to truth that provability in the deductive system" /     Arithmetic truth out runs formal provability / Truth values of undecidable statements can be decided by embedding them in a richer structure. Also common practice of mathematicians, eg: invoke structures far richer than a statement they are trying to prove. /   - No consistent theory can prove its own consistency /
 - How can humans, physical organisms in a physical universe, have knowledge of a casually inert realm of abstract objects?
+- Ever since the French revolution, people throughout the world have gradually come to see both equality and freedom as fundamental values. Yet the two values contradict each other.
 
 # What will be seen as right/wrong in future
 
