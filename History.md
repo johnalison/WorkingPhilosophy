@@ -97,3 +97,4 @@ Sapiens:
     The entire political history of the world since 1789 can be seen as a series of attempts to reconcile this contradiction.
   - One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another.
   - Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.
+  - Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history.
