@@ -140,6 +140,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 - Sturgeons Law: 90% of everything is crap. Look for the 10%.
 
+- "Free roll" decisions with asymmetry between upside and downside b/c potential losses are insignificant.
 
 # Protocols
 
@@ -155,8 +156,10 @@ Can tell where we don't really understand problems when experts wildly disagree.
     > "Why am I intimidated by this situation? "
 
     > Its probably your ego. You are being a weak leader. 
- - When you are too embarrassed to ask for help: Thats a little knock at the door saying "You're insecure!"
-
+- When you are too embarrassed to ask for help: Thats a little knock at the door saying "You're insecure!"
+- Clothes (aspirational)
+- BJJ 
+- Makeing it a babit of asking yourself "If I where wrong, why would that be?"
 
 # What do you we do now that will be totally replaced in 100 years?
 
@@ -195,8 +198,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - What if nothing needs to be changed ?
 - What are the relevant priors? 
 - What would have to be true for this to be right ?
-> Is this one of the unnecessary things?
-
+- Is this one of the unnecessary things?
+- Does this need to be said?"
 
 # People I look up to (North stars)
 
@@ -210,7 +213,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Jocko W
 - Bertrand Russel
 - Steven Pinker
-- Jamie Saxon
+- Jamie Saxon: Reliable, Moral Compass. Tenacious. Good view of Big Picture. Can move fast. Can understand things deeply. Pragamatism.
 - Tom of Tom and Deb
 - John McCain
 - Rob 
@@ -247,6 +250,10 @@ Can tell where we don't really understand problems when experts wildly disagree.
   - Thinks about how history will look back on us.
   - Lots of analogies to more current affairs.
 - Roger Penrose: Orthogonal thinker. Genius. Good Physics taste. Clearly an outside in the field.  (Despite the noble prize!)
+- Bob Cousins: Good speaker. Expert in statistics. Deep understanding of J-L Paradox.
+- Rachael Mandelbum: Productive, Humble, Seems to really care.
+- Richard Heart: Smart. Good global set of priorities, Compelling, orthogonal thinker (esp in Crypto) 
+
 
 # Paradoxes                                                             
 
@@ -293,6 +300,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Self-motivation 
 - Self-improvement. 
 - Game theory
+- How to make decisions
 
 
 # What is my purpose in Life ?
@@ -317,4 +325,24 @@ Can tell where we don't really understand problems when experts wildly disagree.
    - Increase freedom/liberty when possible
    - Equality of opportunity
    - ...
+
+
+
+# Rules ("Vote on these every few weeks) 
+  - Dont eat before 4pm or after 8pm
+  - Meditate > 1hr / day
+  - Dont eat food with carb count > 15g (unless special occasion) 
+  - Journal every night
+  - 8 hrs in bed
+  - Bullet journal throughout day. (with time blocking) 
+  - Dont lie.
+  - Coffee before noon
+  - Some physical activity each morning.
+  - Dont get Angry
+  - Dont complain. 
+  - Dont gossip
+
+# Wishes
+  - Get up at 6 (or 5)
+  - Bed at 10 (or 9) 
 

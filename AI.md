@@ -28,4 +28,10 @@
 
 - Like Elons response: Try to become the AI. Requires increasing bandwidth via neural-link.
 
-- We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?) 
+- We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?)
+
+
+- Great podcase with Elizer Yudokowsky
+  - Crazy to think that the AI can be boxed in.
+  - Fire alarms are to get people to act as if its an emergency (not there to detect smoke) "There are no fire alarms for general AI"
+  - The big story about alpha-go was not alpha-go beating the best go player, it was about alpha-0 beating the work class AI engineers.

@@ -13,3 +13,7 @@
   - Couplings appear to unify (esp. with SUSY)
   - Matter feilds and Quantum numbers fit into larger multiplets (highly non-trivial)
   - Expect nu-masses (seen) / p-decay (Not yet completely excluded) / SUSY
+  - Big bang makes a preffered coodinate frame
+
+- Degrees of freedom are finite whenever you include gravity.  (See "no local variables")
+   (Sean Carrol)

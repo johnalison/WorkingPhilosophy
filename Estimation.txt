@@ -1,0 +1,9 @@
+- 1in = 2.5 cm
+- Geometric mean c = sqrt(ab) ~
+- 10^(1/2) = sqrt(10) ~ 3
+- 1L = (10 cm)^3 (1000L = m^3)
+- Coal ~ C  / NaturalGal ~ Methane ~ CH_4 / All other hydrocarbons/Carbohydrates ~ CH_2
+- 1m/s ~ 2 mph
+- rho_W ~ g/cm^3 ~ ton/m^3
+- rho_air ~ kg / m^3
+- rho_lead ~ 10kg / m^3

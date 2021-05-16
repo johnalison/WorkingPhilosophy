@@ -74,4 +74,5 @@
 - If you love life you will not squander time. Its what life is made of. (Poor Richards Almanac)
 
 
-
+- Can spend money to save time, can spend time to save money.
+  - Think more about the time vs money trade-offe.  money is fungable, time you cant get back.

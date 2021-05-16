@@ -164,4 +164,40 @@
 
  - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
 
-- “We are what we repeatedly do,” Aristotle said, “therefore excellence is not an act, but a habit.” 
+- “We are what we repeatedly do,” Aristotle said, “therefore excellence is not an act, but a habit.”
+
+
+### Minimize Cognitive Load
+
+  - Critical to minimize your own cognitive load from distractions that dont matter.
+    Simplify your life!
+    Esp. daily routines.
+    Hard to overstate the importance of doing this and how haad most people are at it. 
+
+
+Intalling the right habits
+  - Automate good decisions, avoid bad decisions
+  - Come up with rules to automate good behaviors/habits
+  - Need to get the right rules, tricky
+     "Many different versions of yourself, may disagree on the rules"
+  - Formulate them rules, write them down. and them "vote" on them.
+     (With different versions ov yourself over a few weeks)
+     (See lists for rules) 
+
+### Send emails (write essays) to yourself
+    - Aim for few monthss / year / 1,2,3,5 years
+    - What are you thinking about in the post days,
+
+Positioning vs Predicting:
+    - Positioning: Setting yourself up to have several different options to better respond to future scenarios (Anti-fragile)
+    - Predicting: Taking actions assuming a belief about what the future is going to be like.
+    Positioning is the better long-term stategy. Prediction can win out in the short-term if you happened to be right
+    Should always look for Positiong over Predition.
+    Build in optionality, treat optionality as an asset and loss of optionality as a cost.
+
+
+Decisions:
+   - "If its a hard decision, its easy" (The outcome wont depend strongly on the choice)
+   - Oppurtunity cost
+   - Look at ease of quitting
+   - Look for "free rolls" (decisions with little downside)

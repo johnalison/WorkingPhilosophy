@@ -98,3 +98,12 @@ Sapiens:
   - One of the distinguishing marks of history - the better you know a particular historical period the *harder* it becomes to explain why things happened one way and not another.
   - Unlike physics or economics, history  is not a means for making accurate predictions. We study history not to know the future but to widen our horizons, to understand that our present situation is neither natural nor inevitable, and that we consequently have many more possibilities before us than we imagine.
   - Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history.
+
+Olympusus (From Dan Carlin) 
+   - Alexanders mother
+   - Fearsome women
+   - Slept with snakes
+   - Claimed to channel Dionysus
+   - May have plotted to kill her husband Philip II who was the most powerful man at the time. 
+   - Philip II assinated at his daughters wedding. (ala JFK) many conspiracies about who did it and why. 
+   - Alexander took over great army on the verge of invading Persia 

@@ -230,7 +230,7 @@
   - Although the people in all cultures and eras have felt the same types of pleasures and pains, the meaning they ascribed to their experiences has probably varied widely. If so, the history of happiness might have been far more turbulent than biologists imagine. Its a conclusion that does not necessarily favor modernity.
   - As far as we can tell, from a purely scientific viewpoint, human life has absolutely no meaning. Humans are the outcome of blind evolutionary processes that operate without goal or purpose. *Any* meaning that people ascribe to their lives is just a delusion.  Counter point: the beginning of infinity, science, humanity. 
   - Buddhism has assigned the question of happiness more importance than perhaps any other human creed. For 2500 years, Buddhists have systematically studied the essence and causes of happiness. Buddhism shares the basic insight of the biological approach, namely that happiness results from processing occurring within one's body, and not form events in the outside world.
-  - If I want to experience pleasant feelings, I have to constantly chase them, while driving away the unpleasant feelings. Even if I succeed, I immediately have to start all over again, without ever getting any lasting reward for my troubles. According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather the real root of suffering is th e never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction. Due to this pursuit the mind in never satisfied. People are liberated from suffering not what they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them. This is the aim of Buddhist meditation practices. When the pursuit stops, the mind becomes very relaxed, clear and satisfied.
+  - If I want to experience pleasant feelings, I have to constantly chase them, while driving away the unpleasant feelings. Even if I succeed, I immediately have to start all over again, without ever getting any lasting reward for my troubles. According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather the real root of suffering is th e never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction. Due to this pursuit the mind in never satisfied. People are liberated from suffering not when they experience this or that fleeting pleasure, but rather when they understand the impermanent nature of all their feelings, and stop craving them. This is the aim of Buddhist meditation practices. When the pursuit stops, the mind becomes very relaxed, clear and satisfied.
   - This idea is so alien to modern liberal culture that when Western New Age movements encountered Buddhist insights, they translated them into liberal terms. "Happiness begins within" This is exactly what biologists argue, but more or less the opposite of what Buddha said. Buddha agreed with biology and New Age movements that happiness is independent of external conditions.  Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Buddha's recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings. 
   - If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves.
   - Most history books say nothing about how the course of history has influenced the happiness and suffering of individuals. This is the biggest lacuna in our understanding of history.
@@ -245,4 +245,74 @@
   - the implication of creating a mind in a computer are far more dramatic than curing psychiatric illness. This is why the Gilgamesh project is the flagship of science. It serves to justify everything science does.
   - "What do we want to want? " Those who are not spooked by this question probably haven't given it enough thought.
   - Modern Humans: Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We a consequently wreaking havoc on our fellow animals and the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who dont know what they want ?
-  - Humans are gods to other animals (not benevolent ones!) 
+  - Humans are gods to other animals (not benevolent ones!)
+
+
+
+# Caffeine (Audio Book)
+
+  - Short but sweet
+  - Caffeine is the only drug we regularly give our children (in pop)
+  - By far the most widely used psychoactive drug.
+  - Plants use caffeine to drug bees into pollinating their flowers even if the plants are out of nectar. (Good for plant, bad for bee)
+  - Question arises about humans. Coffee plants have clearly benefited. Not clear if net positive for humans.
+  - Improved society in 17C for sure:
+    - It was boiled, made safe for drinking.
+    - Has some anti microbial features
+    - Improves focus/concentration
+    - Substitute for booze
+    - Laxative (Constipation was a big problem in the 17C)
+  - Probably very detrimental to our sleep
+    - half-life of 6 hours in our system (1/4 life 12hrs)
+    - Addictive: Coffee is the cure for the problem it causes
+  - Arabs  had monopoly on coffee plant (were making a killing)
+    - Dutchman smuggled it out to Java (This was the seed for most of coffee in the new world)
+  - Charles II tried to ban coffee houses in England, was afraid that it would foment revolution. People ignored him. 
+
+
+# How to decide (By Annie Duke)
+
+  - Average overall. Learned something, but much of it was at too low of a level.
+  - Only two things determine how your life turns out; luck and the quality of your decisions (You only have control over one of these)
+  - Unlikely to have a class on decision making until college or beyond.
+  - We dont even have a common language for talking about decision making.
+  - Using your "gut" to decide: Cant know whether you've "used" it properly, all you can see is the output.
+  - Where not good at recognizing when sacrificing quality in decision making isn't a big deal.
+     - "Knowing when the hammer is good enough is a meta skill worth developing"
+     - "Knowing when its okay to save time is part of a good decision process"
+  - The quality of the outcome casts a shadow over our ability to see the quality of the decision.
+  - Making it a habit of asking yourself "If I where wrong, why would that be?"
+      helps to approach your own beliefs with more skepticism (Reduce systematic uncertainty)
+  - The happiness test: Will the outcome of your decision have any effect on happiness in a year? a month ? a year?
+    If no, then you can speed up the decision with little cost.
+  - "Free roll" decisions with asymmetry between upside and downside b/c potential losses are insignificant.
+      (Mental model for spotting opportunities)
+  - When a decision is hard that means its easy. The closeness of the options is what slowing you down. Actually this is a signal that you can go fast)
+  - The lower the cost to quit, the faster you can go. Easier to unwind and choose something else. (Should think more in advance about option to quit)
+  - Decision stacking: Can you make lower impact, easier to quit decisions that will teach you something before the high-impact one-way decision (Rent before buy)
+  - "He who knows only his own side of the case, knows little of that" - John Stuart Mill
+
+
+# Project Management for Dummies
+
+  - Not very useful
+  - Lot of obvious suggestions (mostly already doing)
+  - Leader vs Manager
+  - WBS - "Work breakdown structure" list of all thinkgs that need doing
+  - Critical Path: Dont assign yourself (Project manager) to items on the critical path.
+  - Dont assign other people to work on a task that you cant clearly describe.
+  - Assign yourself the talkst that you do best. "Law of comparative advantage"
+  - Posessing a trait is not enough, you must help others see that you posess it.
+  - Honesty: telling what you believe to be the truth
+  - Integrity: having agreement between what you say and do
+
+# Electrons (A systems approach)
+
+  - Generally very good. Gets to advanced topics quickly.
+  - Some redundancy / unnecessary details / out of date
+  - Want signal to have low output resistance, load to have high input resistance
+  - Large variations in gain from active circuits (OpAmps) can be overcome by negative feedback.
+  - MOSFETs require very small area of Si. Resistors use large area should be avoided where possible on (ICs)
+  - Power in CMOS determined by small current that flows when switching.
+  - Shift registers used to convert parallel words into stream of bits on single line "Serial data". Can be used "backwards" to generate parallel data from serial input.
+  - Although very large numbers of devises could be combined with in single chip, difficult to identify circuits that could be used in large numbers to justify development cost. Intel found a solution in 1971 with the programable microprocessor.

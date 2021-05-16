@@ -390,3 +390,19 @@ Countless things happen every hour that require advice, and such advice is to be
      description when you cant work out the consequesnces of
      determinism exactly. Wouldnt need to talk in evoulotion terms if
      you knew exactly what was going to happen.
+
+
+- Difficultly in generating new ideas (Knowladge podcast0 
+  - Need both ideation (coming up with new ideas) and filtration (cutting bad ideas)
+  - These skills are opposed. Tend to interfere
+  - Nima "Modes of working" Passionately follow one ideology, then switch.
+  - Claim: Should alternate period of boldness (ideation) with a period of pramatism (filtration)
+  - Importation to have perionds of sustained efforts on both, but NOT at the same time. (or by same people at the same time)
+
+"other baboons" - Summary of problems that baboons have from researchers who spent their entire lives studying baboons.
+  (Analogy for people getting in the way of progress)
+
+
+Against Simulation Hypothesis (Frank Wilczek)
+  - "Wouldnt make bricks out of QM objects" Would not have all this unused structure (wasteful)
+  - Q: What about the probability arguement? A (me): the vast majority of observed universes  would not have this hidden structure/QM.
