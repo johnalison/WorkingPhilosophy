@@ -14,6 +14,12 @@
   - Matter feilds and Quantum numbers fit into larger multiplets (highly non-trivial)
   - Expect nu-masses (seen) / p-decay (Not yet completely excluded) / SUSY
   - Big bang makes a preffered coodinate frame
+     - Large scale structure homogeneous/isotropic in this frame
+     - This is why we can assign well-defined ages cosmologically
+  - Interesting take on QM interpretations:
+     "We have the laws, they are deterministic, we just dont know (and fundamentally cant know) the wave function"
+  - re:Block Universe: The laws of physics arent formulated so thaty naturally describe the entire Space-time manifold all at once.
+     Natural description is of one slice and then how that slice changes forward and backward in time. 
 
 - Degrees of freedom are finite whenever you include gravity.  (See "no local variables")
    (Sean Carrol)

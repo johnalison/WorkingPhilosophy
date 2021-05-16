@@ -159,7 +159,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - When you are too embarrassed to ask for help: Thats a little knock at the door saying "You're insecure!"
 - Clothes (aspirational)
 - BJJ 
-- Makeing it a babit of asking yourself "If I where wrong, why would that be?"
+- Make it a habit of asking yourself "If I where wrong, why would that be?"
+- Three daily questions: What did you do since last meeting ? What are you going to do next ? What is getting in your way ? (SCRUM) 
+- Find the little improvement that can be done right away that will make things better?
 
 # What do you we do now that will be totally replaced in 100 years?
 
@@ -200,14 +202,15 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - What would have to be true for this to be right ?
 - Is this one of the unnecessary things?
 - Does this need to be said?"
-
+- What is the little improvement that can be done right away that will make things better?
+  
 # People I look up to (North stars)
 
-- Charlie Munger
+- Charlie Munger: Mental models / latice work of ideas to answer why. Irreverent / Funny / To the point/ focuses on what he knows well.
 - Joe Kroll: Understands what he works on deeply. Great mentor to students: Physics and (HEP) politics. Doesn't take himself too seriously (others often think he does). Commands respect. Good memory. Dependable/reliable.  Family first.
-- Elliot Lipeles
+- Elliot Lipeles: Decent human. Very smart. Nose for whats interestings/compelling. Good sense of humor/high personal standards. Good at synthesizing complex ideas. Big picture vision of what tools are important h/useful. Good at estimating. (Good to model myself after!) 
 - Dominick Olivito: Reliable, Sensible, Honest, Realistic, Can execute, quiet. Radiates confidence, emotional detachment.
-- Daniel Froideveux
+- Daniel Froideveux: Smart / Funny / good sense of what matters / Digs deep / relentless / driven/ great work ethic / people gravitate to him.
 - Elon Musk
 - Stoics
 - Jocko W

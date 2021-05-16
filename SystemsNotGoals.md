@@ -201,3 +201,8 @@ Decisions:
    - Oppurtunity cost
    - Look at ease of quitting
    - Look for "free rolls" (decisions with little downside)
+
+- You get what you incentivize for.
+  - Story of older model Xeroxes selling much better than new model despite the fact that new models better for customers.
+   Turns out the commission system incentivized the salesmen to push the old models.
+  - Cash registers one of the most moral inventions. Makes its user moral.
