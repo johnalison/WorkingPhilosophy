@@ -142,6 +142,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 - "Free roll" decisions with asymmetry between upside and downside b/c potential losses are insignificant.
 
+- "Applause light" Saying something that is so trite that the reversal sounds abnormal, then the unreversed statement is not conveying new information.
+  
 # Protocols
 
 - **Stoic Test Challenge**
@@ -162,6 +164,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Make it a habit of asking yourself "If I where wrong, why would that be?"
 - Three daily questions: What did you do since last meeting ? What are you going to do next ? What is getting in your way ? (SCRUM) 
 - Find the little improvement that can be done right away that will make things better?
+- Look for the good in people/things.
+- Use "Bad luck"/Hope/Fear as keys to think about AF. 
+
 
 # What do you we do now that will be totally replaced in 100 years?
 
@@ -203,7 +208,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Is this one of the unnecessary things?
 - Does this need to be said?"
 - What is the little improvement that can be done right away that will make things better?
-  
+- Are you thinking without realizing that your thinking?  
+
 # People I look up to (North stars)
 
 - Charlie Munger: Mental models / latice work of ideas to answer why. Irreverent / Funny / To the point/ focuses on what he knows well.
@@ -225,7 +231,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Mel
 - Henry 
 - Jim 
-- Beate
+- Beate: Orthogonal thinker, Good physics taste, Able to focus on what matters when. Well-spoken, not afraid of a fight. 
 - Fabiola 
 - Sam Harris: All around
 - Joe Rogan: Ablility to relate to people

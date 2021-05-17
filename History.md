@@ -107,3 +107,7 @@ Olympusus (From Dan Carlin)
    - May have plotted to kill her husband Philip II who was the most powerful man at the time. 
    - Philip II assinated at his daughters wedding. (ala JFK) many conspiracies about who did it and why. 
    - Alexander took over great army on the verge of invading Persia 
+
+History as a River (Will Durrant) 
+
+  Perhaps the cause of our contemporary pessimism is our tendency to view history as a turbulent stream of conflicts between individuals in economic life, between groups in politics, between creeds in religions, between states in war. This is the more dramatic side of history. It captures the eye of the historian and the interest of the reader, but if we turn from that Mississippi of strife how with hate and dark with blood, to look upon the banks of the stream we find quieter, but more inspiring scenes, women rearing children, men building houses, peasants drawing food from the soil, artisans making the conveniences of life, statesman sometimes organizing peace instead of war, teachers forming savages into citizens, musicians taming our hearts with harmony and rhythm, scientists patiently accumulating knowledge, philosophers groping for truth, saints suggesting the wisdom of love. History has too often been a picture of the bloody stream. They history of civilization is a record of what happened on the banks.  

@@ -77,4 +77,7 @@
 - Can spend money to save time, can spend time to save money.
   - Think more about the time vs money trade-offe.  money is fungable, time you cant get back.
 
-- Time makes up your life, wasting it is a form of suicide. (SCRUM) 
+- Time makes up your life, wasting it is a form of suicide. (SCRUM)
+
+- "Hawk-a-Hey" Lakota Indian war cry. Roughly translates: "Today is a good day to die"
+

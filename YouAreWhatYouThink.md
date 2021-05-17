@@ -202,5 +202,9 @@
 
 - Our whole life if built of a number of primary instincts and impulses. Only that which is in some way connected with these (instincts and impulses) appear to us desirable or important. There is nothing (call it "reason" or "virtue") that can be outside these first movers  (Russell)   
 
+Point of Meditation: 
+  - What really matters is life outside of deliberte/dedicated meditation. This is where we spend most of our time. The goal is to be able to puncuate our normal experience with moments where we cut through our distraction/thinking to see they true character of experince. Dedicated practice helps us know that we are cutting through effectively. It doesnt actually do it for us in the moment.
 
+- The only thing that counts with meditation is if you are actually able to pay attention in the present moment and see consciousness as it is. Nothing else really matters in the end.
 
+- "You are not this next thought" - Sam Harris

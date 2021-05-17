@@ -42,6 +42,8 @@ Countless things happen every hour that require advice, and such advice is to be
 
 - The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
 
+- Our ability to control our muscles is evolutionary ancient, our ability to reason about our own reasoning processes is much more recent innovation
+
 [Random Interesting thoughts](#Random-Interesting-thoughts) On
 
  - [History](https://github.com/johnalison/WorkingPhilosophy/blob/master/History.md)
@@ -406,3 +408,8 @@ Countless things happen every hour that require advice, and such advice is to be
 Against Simulation Hypothesis (Frank Wilczek)
   - "Wouldnt make bricks out of QM objects" Would not have all this unused structure (wasteful)
   - Q: What about the probability arguement? A (me): the vast majority of observed universes  would not have this hidden structure/QM.
+
+
+If you're so smart, why arent you rich? - Richard Heart
+
+- "A well spent day brings happy sleep, So a well-lived life brings a happy death" Leo Di Vinci

@@ -79,4 +79,6 @@
 
 - “Waste no time or Energy on grudges” Churchill 
 
-- There is no rule higher than that over oneself, over ones impulses (Baltasar Gracian) 
+- There is no rule higher than that over oneself, over ones impulses (Baltasar Gracian)
+
+- "Cnage your wish to match what actually happened"

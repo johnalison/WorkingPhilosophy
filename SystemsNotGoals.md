@@ -206,3 +206,10 @@ Decisions:
   - Story of older model Xeroxes selling much better than new model despite the fact that new models better for customers.
    Turns out the commission system incentivized the salesmen to push the old models.
   - Cash registers one of the most moral inventions. Makes its user moral.
+
+- Difference between those that are successful and those that arent: the successful do things that they dont want to do, but know they should
+
+- People form habits, habits form futures
+
+- If you dont deliberately form good habits, you will unconsciously form bad ones.
+
