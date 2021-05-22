@@ -389,3 +389,22 @@
   - Knowing these weapons of persuasion is often not enough. Knowing is a congnitive thing, cognitive proecesses are supress by our emotional reactions to the different weapons.
 
 
+21 Lessons for the 21st Century
+
+   - Fantastic!  One of my favorite authors
+   - ... NEED TO ADD TEXT FROM NOTES !!!!.....
+   - Human kind had to develop completely new models - liberal democracy, communist dictatorship, and fascist regimes - and it took more than a century of terrible wars and revolutions to experiment with these models, separate the wheat from the chaff, and implement the best solutions. Child labor in Dickensian coal mines, the First World War, the Great Ukrainian Famine, constituted just a small part of the tuition fees that humankind had to pay for the Industrial Revolution.
+   - This time around, the failed models that might result in nuclear wars, genetically engineered monstrosities, and a complete breakdown of the biosphere. We have to do better than we did in confronting the Industrial Revolution.
+   - Referendums and elections are always about human feelings not about human rationality. If democracy were a matter of rational decision-making, where would be absolutely no reason to give all people equal voting rights - or perhaps any voting rights at all.
+   - Once somebody gains the technological ability to hack and manipulate the human heart, democratic politics will mutate into an emotional puppet show.
+   - Feelings are biochemical mechanisms that all mammals and birds use in order to quickly calculate probabilities of survival and reproduction. Feels are therefore not the opposite of rationality, they embody evolutionary rationality.
+   - We dont feel the millions of neurons in the brain computing probabilities of survival and reproduction, so we erroneously believe that our feelings are the result of some mysterious "free will".
+   - For all practical purposes, it was reasonable to argue that I have free will, which nobody outside of me could see. I could enjoy the illusion that I controlled my secret inner arena, while outsiders could never really understand what was happening inside me and how I make decisions.
+   - We are now at the confluence of two immense revolutions. Biologists are deciphering the mysteries of the human body, and in particular of the brain and human feelings. At the same time computer scientists are giving us unprecedented data-processing power. When the biotech revolution merges with the infotech revolution, it will produce Big Data algorithms that can monitor and understand my feelings much better than I can.
+   - "Trolley problems" up till now these arguments have had embarrassingly little impact on actual behavior.
+   - Throughout history the limitations of actually enforcing laws provided a welcome check on the biases, mistakes and excesses of lawmakers.
+   - We have bred docile cows that produce enormous amounts of milk but are otherwise far inferior to their wild ancestors. They are less agile, less curious, less resourceful. We are now creating tame humans that produce enormous amounts of data and function as very efficient chips in a huge data-processing mechanism, but these data-cows hardly maximize the human potential.
+   - Improvements in biotechnology might make it possible to translate economic inequality into biological inequality.
+   - At present, people are happy to give away their most valuable asset - their personal data - in exchange for free email services and funny cat videos. Its a bit like African and Native American tribes who unwittingly old entire countries to European imperialists in exchange for colorful beads and cheap trinkets.
+   - How do you regulate the ownership of data ? This may well be the most important political question of our era.
+   - 
