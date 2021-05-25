@@ -306,7 +306,7 @@
   - Honesty: telling what you believe to be the truth
   - Integrity: having agreement between what you say and do
 
-# Electrons (A systems approach)
+# Electronics (A systems approach)
 
   - Generally very good. Gets to advanced topics quickly.
   - Some redundancy / unnecessary details / out of date
