@@ -389,7 +389,7 @@
   - Knowing these weapons of persuasion is often not enough. Knowing is a congnitive thing, cognitive proecesses are supress by our emotional reactions to the different weapons.
 
 
-21 Lessons for the 21st Century
+# 21 Lessons for the 21st Century
 
    - Fantastic!  One of my favorite authors
    - ... NEED TO ADD TEXT FROM NOTES !!!!.....
