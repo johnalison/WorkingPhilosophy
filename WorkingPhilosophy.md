@@ -40,7 +40,7 @@ Countless things happen every hour that require advice, and such advice is to be
 
 - The oracles of wisdom are rare and they are rarely used. To seek advice does not lessen greatness or argue incapacity. 
 
-- The very wise are generally easily deceived, for while they know esoterica they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
+- The very wise are generally easily deceived, for while they know esoteric they do not know the ordinary things of life. Of what use is knowledge if it is not practical? To know how to live is true knowledge. 
 
 - Our ability to control our muscles is evolutionary ancient, our ability to reason about our own reasoning processes is much more recent innovation
 
@@ -145,7 +145,7 @@ Countless things happen every hour that require advice, and such advice is to be
   - Some people I dislike for no apparent reason.
   - Sometimes get excited and open to many new threads.
 
-- _Slippery Slope_ problems can almost always be solved by reasonable practical judgement. 
+- _Slippery Slope_ problems can almost always be solved by reasonable practical judgment. 
 
   > Raising the speed limit by 1 mph is a slippery slope until too
   > high, too much death.  Yet we have a speed limit that is not 0 or
@@ -265,13 +265,13 @@ Countless things happen every hour that require advice, and such advice is to be
    quote on being careful not to destroy the thing you're trying to
    defend from within.  Seems right to me. If we are the "home of the
    brave" need to sacrifice some security for our freedom.  Terrorists
-   win if they reshape our ethics and morals by responding to thier
+   win if they reshape our ethics and morals by responding to their
    actions.
   
 
 - United States has had 250 year history of becoming more democratic. 
 
-  >Now elect senitors, blacks and women can vote. ect.  Been a while
+  >Now elect senators, blacks and women can vote. etc.  Been a while
   since we took another step forward.  Can argue that recent
   gerrymandering/voter suppression is a step back.  Covid and mail-in
   voting could be a step forward.
@@ -279,7 +279,7 @@ Countless things happen every hour that require advice, and such advice is to be
 - American Icebergs (via Dan Carlin):
 
   > Issues that are major problems that could destroy our country.
-    Claim: Neigher party addressing these. (Actually significatnt
+    Claim: Neither party addressing these. (Actually significant
     pressure within both parties to NOT address these) Some radical
     change probably needed to make progress here.
 
@@ -290,11 +290,11 @@ Countless things happen every hour that require advice, and such advice is to be
     2. Constitutional checks and balances Executive branch too much
     power. Nuclear Bombs, 9/11 spying, wars without congress
 
-    3. Forigen Policy: Ratcheting up tensions with Russia (Reckless)
+    3. Foreign Policy: Ratcheting up tensions with Russia (Reckless)
     Constant/Continual war on terror.  US as "world police" citizens
     dont want it.
 
-    4. US middle class jobs disappearing. Middle class is the balast
+    4. US middle class jobs disappearing. Middle class is the ballast
     of society.  How to cope when/if foundation shaken/broken?
 
     >Better to trip with your feet that with your words. Better to
@@ -302,11 +302,11 @@ Countless things happen every hour that require advice, and such advice is to be
     that which is said cannot be unsaid.
 
 
-- The work of living is to set STANDARDs and to live by them. Dont comrimise. 
+- The work of living is to set STANDARDs and to live by them. Dont compromise. 
 
-  > Judge all you say, do, and the opinions you hold by your standards.  "Are these consistent with my beliefs?" "Are these what the persion I want to be would do?"
+  > Judge all you say, do, and the opinions you hold by your standards.  "Are these consistent with my beliefs?" "Are these what the person I want to be would do?"
 
-- Its irrational to care about what people in the far future wil think of you. You wont be around to experience it one way or the other.
+- Its irrational to care about what people in the far future will think of you. You wont be around to experience it one way or the other.
 
 - Things you can learn from children
 
@@ -315,16 +315,16 @@ Countless things happen every hour that require advice, and such advice is to be
   3. Demand with all your might, that which you desire
 
 
-- Programing languages like bicycles for the mind.  They get you where you want to go faster.
+- Programming languages like bicycles for the mind.  They get you where you want to go faster.
 
 - Naturalness:
   - Can think of the Higgs as giving mass to all particles, and then the mass of these particles correcting the Higgs mass.
-  - Dirac worried about the heirachy between m_proton and m_Plank:
+  - Dirac worried about the hierarchy between m_proton and m_Plank:
      - turned out it was solved by QCD asymptotic freedom.
      - Same flavor answer possible for m_H and m_Plank (technicolor)
      - was killed by LHC (One of major LHC legacies)
 
-- Know that some of our accepted ideas will turn out wrong. See if you can figure out which. Not just an excersize. See the truths that lie in the ashes of the wrong idea.
+- Know that some of our accepted ideas will turn out wrong. See if you can figure out which. Not just an exercise. See the truths that lie in the ashes of the wrong idea.
 
 - Intelligence is loss-less compression
 
@@ -351,10 +351,10 @@ Countless things happen every hour that require advice, and such advice is to be
 
   > - External object Seen in our solar system
   > - Not a comet (No tail/ sign of outgassing)
-  > - Cant be an astroid (Accelerating away from the sun / like a comet would)
-  > - Reflectivity changes dramatically (either from geometry or different surface materials)
+  > - Cant be an asteroid (Accelerating away from the sun / like a comet would)
+  > - Reflectively changes dramatically (either from geometry or different surface materials)
   > - Cant resolve it, but known to be ~100m
-  > - If accelerting due to radiation pressure -> width ~mm (like a Solar sail)
+  > - If accelerating due to radiation pressure -> width ~mm (like a Solar sail)
   > - At rest wrt the local group of stars (odd)
   > Thoughts: Can be a sign post or rely station from other civilization. Junk. Unlikely to be a probe. (10^4 years to get here)  
 
@@ -364,20 +364,20 @@ Countless things happen every hour that require advice, and such advice is to be
   > - Reward yourself after completing challenges
   > - How you spend everyday is how you spend your life.
   > - Explaining problems is good. Often the process of laying out the problem will reveal a solution.
-  > - Seeing freiends regularly and getting enough sleep can go a long way to solving existentialism.
+  > - Seeing friends regularly and getting enough sleep can go a long way to solving existentialism.
   > - Complement people more.
-  > - Cultivate patience for difficult people. Comminication is hard.
+  > - Cultivate patience for difficult people. Communication is hard.
   > - Human mood and well-being heavily influenced by simple things: Exercise/ good sleep/light/ being in nature. (Experiment with these!)
   > - 90% of everything is crap. Look for the 10% (Sturgeons Law)
-  > - Bad things happend dramatically. Good things happen gradually.
+  > - Bad things happen dramatically. Good things happen gradually.
 
-- Strong Arguments agianst the Simulation Hypothesis (Frank Wilczek) 
-  > - "Worth thinking about, but doesnt take much thought to discredit it"
-  > - Laws that we observe dont look like a compently programmed simulation.
+- Strong Arguments against the Simulation Hypothesis (Frank Wilczek) 
+  > - "Worth thinking about, but doesn't take much thought to discredit it"
+  > - Laws that we observe dont look like a competently programmed simulation.
   > - Lots of hidden complexity. (Dig deeper have hidden structure thats "Not used for anything". Why do that?
-  > - Laws very constrained: local. Dont change in time/space. In programmed enviroment no reason to obey these. "People who build computer games typically trash them all"
+  > - Laws very constrained: local. Dont change in time/space. In programmed environment no reason to obey these. "People who build computer games typically trash them all"
 
-- If there was some "power of mind" would have to sheild sensitive experiments from the mind.  Thats never been true. Do have to sheild from vibration, radation, ect "Never have to worry about what the guy in the next office is thinking."
+- If there was some "power of mind" would have to shield sensitive experiments from the mind.  That's never been true. Do have to shield from vibration, radiation, etc "Never have to worry about what the guy in the next office is thinking."
 
 - Is evolution consistent with determinism ?
 
@@ -389,17 +389,17 @@ Countless things happen every hour that require advice, and such advice is to be
      deterministic. 3) Differential fitness. Also can live with
      determinism. Question of phase space. Some replicators will
      survive with more initial conditions. Evolution is a good
-     description when you cant work out the consequesnces of
-     determinism exactly. Wouldnt need to talk in evoulotion terms if
+     description when you cant work out the consequences of
+     determinism exactly. Wouldn't need to talk in evolution terms if
      you knew exactly what was going to happen.
 
 
-- Difficultly in generating new ideas (Knowladge podcast0 
+- Difficultly in generating new ideas (Knowledge podcast0 
   - Need both ideation (coming up with new ideas) and filtration (cutting bad ideas)
   - These skills are opposed. Tend to interfere
   - Nima "Modes of working" Passionately follow one ideology, then switch.
-  - Claim: Should alternate period of boldness (ideation) with a period of pramatism (filtration)
-  - Importation to have perionds of sustained efforts on both, but NOT at the same time. (or by same people at the same time)
+  - Claim: Should alternate period of boldness (ideation) with a period of pragmatism (filtration)
+  - Importation to have periods of sustained efforts on both, but NOT at the same time. (or by same people at the same time)
 
 "other baboons" - Summary of problems that baboons have from researchers who spent their entire lives studying baboons.
   (Analogy for people getting in the way of progress)
@@ -407,42 +407,42 @@ Countless things happen every hour that require advice, and such advice is to be
 
 Against Simulation Hypothesis (Frank Wilczek)
   - "Wouldnt make bricks out of QM objects" Would not have all this unused structure (wasteful)
-  - Q: What about the probability arguement? A (me): the vast majority of observed universes  would not have this hidden structure/QM.
+  - Q: What about the probability argument? A (me): the vast majority of observed universes  would not have this hidden structure/QM.
 
 
-If you're so smart, why arent you rich? - Richard Heart
+If you're so smart, why aren't you rich? - Richard Heart
 
 - "A well spent day brings happy sleep, So a well-lived life brings a happy death" Leo Di Vinci
 
-Be wary of charisimatic/articulate people/arguments. The glitterr can convince you more than it should.
+Be wary of charismatic/articulate people/arguments. The glitter can convince you more than it should.
  Counterpoint: If you have a good idea want to give it the best shot at succeeding/spreading.
 
-Importance of clarity in writting:
-Good explanations add value. Are acts of creativity. Explainations be testible/falsifiable.
+Importance of clarity in writing:
+Good explanations add value. Are acts of creativity. Explanations be testable/falsifiable.
 
 Presentation/Slide-deck Manifesto:
-  - Good way to make a permanant record of what you did.
+  - Good way to make a permanent record of what you did.
   - Build in narrative
   - Act of collecting and organizing can be a creative act
   - Will need to for presentations anyway
   - One of the most important skills as a scientist
-  - Est HEP, often more imporatant than writting papers.
+  - Est HEP, often more important than writing papers.
   - Clarifies your thinking / often leads to insights
   - Easy to turn into prose (eg for support note/thesis)
 
 Scientific case for diversity
   - Our notion of "Equality" based more on religion than science
   - Rock and roll an example of suppressing a group of people systematically
-      - Took Brittish (white Brits) to come to the US and reflect back our own black music
+      - Took British (white Brits) to come to the US and reflect back our own black music
   - Huge sensation
   - This is what we need to protect against
-  - eg: Want the Jimmi Hendrix, Ramanujans, Curies, Eminem
+  - eg: Want the Jimmi Hendrix, Ramanujan, Curies, Eminem
   - We dont want black tin-pan alley
 
 "Competition is for losers" - Peter Theil
-  - Want to dominate an area, not compete feircely over some finite resource
+  - Want to dominate an area, not compete fiercely over some finite resource
   - Thesis: There are really only two types of companies: Monopolies and those in competitive markets
-    Both have an incentive to lie about thier markets.
+    Both have an incentive to lie about their markets.
     Monopolies say they face major competition b/c they fear regulation
     Competitive companies say they have cornered the market to boost investment
   - Elon companies basically the only examples of vertical integrated monopolies these days
@@ -451,3 +451,47 @@ Scientific case for diversity
 
 
 Its perfect when nothing else can be removed, not when nothing else can be added.
+
+
+A path to understanding consciousness:
+  - Motivated by Physics (need theory)
+  - Philosophical assumption: If no way in principle to measure something, then it doesn't exist.
+     - One of the Quinian pegs that physic rests on.
+     - Can be formalized with EFTs
+  - Consciousness is a property of the theory, not something that can be explicitly measured.
+     - Important to ask your theory if the AI you created is conscious.
+     - Response: I dont believe the theory
+     - Counter: Improve it in ways that would make you believe it
+        => clear path forward by improving theory. (Theory critical)
+
+  - Worry: Can we create enormous amount of cyber suffering by accident?
+      (Cautionary tale: Biology optimized gene copying, creates immense amount of suffering!)
+      Suggests its naive to "Build it first and add theory later"
+
+
+Argument for liberal education:
+  - "Think about profound problems, might come up with profound answers" - John Alison
+
+What the deal with superheros?
+  - Modern replacement for ancient gods ?
+  - Even Christianity morphed into story of God vs Devil
+  - Ask Barry.
+
+Thoughts on fever creativity:
+  - Interesting that fever creates/stimulates creative
+     - Bodily stress ? Evolutionary explanation ?
+  - In context of Babble vs Filter: Alters efficiency of filter, (plausible if filter "expensive")
+  - Explain | Idiot savants ? (Constantly under (internal) stress)
+    	    | Geniuses -> Connection between genius and insanity
+  - Argues for (extreme?) exercise for creativity h.
+
+
+Wonky model for consciousness:
+  - Self-referential information processing. {GEB / strange loop}
+  - Can take input from one side and act on it.
+  - Provides some form of output
+  - Consciousness apparent from the output (Only?)
+  - k-dimensional game-of-life with IO and some processing unit, where some of the mechanisms that generate output can be fed back to the processing unit.
+  - (Meditation as a probe? )
+  - Presumably something "conscious" is needed in our theory of the output that explains what we see.
+     - Will need more of it for a functioning adult than for baby, mentally handicapped, animals, altizimer patients.
