@@ -208,3 +208,6 @@ Point of Meditation:
 - The only thing that counts with meditation is if you are actually able to pay attention in the present moment and see consciousness as it is. Nothing else really matters in the end.
 
 - "You are not this next thought" - Sam Harris
+
+
+

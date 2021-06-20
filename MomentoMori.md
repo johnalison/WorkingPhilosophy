@@ -81,3 +81,6 @@
 
 - "Hawk-a-Hey" Lakota Indian war cry. Roughly translates: "Today is a good day to die"
 
+- Meaning of events depends more on the quality of your attention that on what action is taking place.
+
+- The only way to live with out regret is to pay attention.

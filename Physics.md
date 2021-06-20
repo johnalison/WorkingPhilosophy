@@ -23,3 +23,11 @@
 
 - Degrees of freedom are finite whenever you include gravity.  (See "no local variables")
    (Sean Carrol)
+
+
+- Classical vs Intiutionist Mathematics
+   -) Classical Mathematics: You have block universe: All information at a time slice. (Can be specified infinite past/past/ present of furture)
+   -) Intuitionist Mathematics: Real numbers are a process. Information increases with time.
+  Claim: "All of physics can be done with intuitionist mathematics"
+
+- g-2 discrepancy larger than W/Z contribution

@@ -413,3 +413,41 @@ Against Simulation Hypothesis (Frank Wilczek)
 If you're so smart, why arent you rich? - Richard Heart
 
 - "A well spent day brings happy sleep, So a well-lived life brings a happy death" Leo Di Vinci
+
+Be wary of charisimatic/articulate people/arguments. The glitterr can convince you more than it should.
+ Counterpoint: If you have a good idea want to give it the best shot at succeeding/spreading.
+
+Importance of clarity in writting:
+Good explanations add value. Are acts of creativity. Explainations be testible/falsifiable.
+
+Presentation/Slide-deck Manifesto:
+  - Good way to make a permanant record of what you did.
+  - Build in narrative
+  - Act of collecting and organizing can be a creative act
+  - Will need to for presentations anyway
+  - One of the most important skills as a scientist
+  - Est HEP, often more imporatant than writting papers.
+  - Clarifies your thinking / often leads to insights
+  - Easy to turn into prose (eg for support note/thesis)
+
+Scientific case for diversity
+  - Our notion of "Equality" based more on religion than science
+  - Rock and roll an example of suppressing a group of people systematically
+      - Took Brittish (white Brits) to come to the US and reflect back our own black music
+  - Huge sensation
+  - This is what we need to protect against
+  - eg: Want the Jimmi Hendrix, Ramanujans, Curies, Eminem
+  - We dont want black tin-pan alley
+
+"Competition is for losers" - Peter Theil
+  - Want to dominate an area, not compete feircely over some finite resource
+  - Thesis: There are really only two types of companies: Monopolies and those in competitive markets
+    Both have an incentive to lie about thier markets.
+    Monopolies say they face major competition b/c they fear regulation
+    Competitive companies say they have cornered the market to boost investment
+  - Elon companies basically the only examples of vertical integrated monopolies these days
+  - Profit is X times Y%: X-new value you bring into being, Y% is the % that you capture.
+  - Why is y=0% for all scientists who give huge X?
+
+
+Its perfect when nothing else can be removed, not when nothing else can be added.
