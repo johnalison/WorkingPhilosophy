@@ -379,9 +379,78 @@
   - Knowing these weapons of persuasion is often not enough. Knowing is a congnitive thing, cognitive proecesses are supress by our emotional reactions to the different weapons.
 
 
+# Freakonomics
+   - Excellent. Exactly up my alley.
+   - Morality represents the way that people would like the world to work, whereas economics represents how the world really does work.
+   - Incentives are the cornerstone to modern life. Understanding them is the key to understanding just about any riddle.
+   - The conventional wisdom is often wrong. Conventional wisdom often shoddily formed and devilishly difficult to see through
+   - Dramatic effects often have distant, even subtle causes.
+   - "Experts" use their informational advantage to serve their own agenda. However they can be beat at their own game.
+   - Knowing what to measure and how to measure it, makes a complicate world much less so.
+   - Any incentive is inherently a trade off. The trick is to balance the extremes.
+   - So inscrutable is the arrangement of causes and effects in this world that a 2 penny duty on tea unjustly imposed in a sequestered part of it, changes the conditions of all its inhabitants,
+   - April 15th 1987, at midnight 7 million American children suddenly disappeared. Cause: The IRS changed a rule. Instead of listing the name of the dependent children, you now also had to provide a SSN (10% of all dependents vanished)
+   - IF economics is a science primarily concerned with incentives, it is also a science of statistical tool to measure how people respond to those incentives.
+   - Noticing where the conventional wisdom may be false - noticing perhaps the contrails of sloppy of self-interested thinking - is a nice place to start asking questions.
+   - Romanian communist party rounded up women in their workplaces to administer pregnancy tests. If a women repeatedly failed to conceive she was forced to pay a "celibacy tax"
+     Of all communist leaders deposed in the years around the Soviet collapse, only the Romanian lead met a violent death. (Claim: the unwanted children grew up to be violent)
+   - To discover that abortion was one of the greatest crime-lowering factors in American history is jarring.
+   - Be honest about your weaknesses
+
+
+ 
+# Awaken the Giant within
+   - Average overall. Lots of duplication / useless examples.
+   - Our belief are like unquestioned commands, telling us how things are, what is possible and impossible.
+   - The best strategy in almost any case is to find a role model. Someone who's already getting the results you want and then tap into their knowledge.
+   - Lots of people know what to do, but few actually do what they know.
+   - Most people overestimate what they can do in a year, and underestimate what they can achieve in a decade.
+   - 3 decisions that shape your destiny: What to focus on. / What things mean to you. / What to do.
+   - Success truly is the result of good judgment. Good judgment is the result of experience, and experience is the result of bad judgment.
+   - Success is the result of making small decisions.
+   - A real decision is measured by the fact that you've taken action. If there's no action, you haven't truly decided.
+   - Stay committed to your decisions, but stay flexible in your approach. (Cultivate the art of flexibility)
+   - Become a hunter (aficionado) of excellence
+   - Most important belief: In order to succeed and be happy we've got to be constantly improving the quality of our lives, constantly growing and expanding.
+   - The only security in life comes from knowing that every single day you are improving yourself in some way.
+   - Q: What did I learn today ? What did I enjoy today? How did I contribute/improve?
+   - Its not enough to have a good mind, the main thing is to use it well - Descartes
+   - 20% of any change is knowing how, 80% is knowing why.
+   - Emotion is created by motion.
+   - The real key to life is being able to make yourself feel good when you dont feel good, or dont want to. You can do this instantly by using your body to change state.
+   - Q: What am I happy about now? What could I be happy about if I wanted to be?
+   - Model the habitual questions of people you respect.
+   - When angry: what can I learn from this so this never happens again?
+   - Words you habitually choose affect how you communicate with yourself and therefore what you experience.
+   - If you get upset, you loose control
+   - All perception of truth is a detection of an analogy.
+   - Emotions are like an internal compass which points to your goals.
+   - Cultivate the appreciation for all emotions
+   - The direction were heading in is more important that individual results.
+   - Only way for long-term happiness is to live by our highest ideals.
+   - Any difficulty in decision making ultimately comes from being unclear in our values
+   - Be more concerned about your character than your reputation. Character is what you really are, reputation is what others think you are
+   - Only way to master your time is to organize your schedule each day to spend the majority of it doing things that are important.
+   - Strive for balance, not perfection.
+
+
+
 # 21 Lessons for the 21st Century
    - Fantastic!  One of my favorite authors
-   - ... NEED TO ADD TEXT FROM NOTES !!!!.....
+   - In a world deluged by information, clarity is power.
+   - Philosophy, religion and science all running out of time. People have debated the meaning of life for 1000s of years. We cannot continue this debate indefinitely. The looming ecological crises, the threat of WMDs, and the rise of technological revolution will not allow it.  AI and biotech are giving humanity the power to reshape and re-engineer life. Very soon somebody will have to decide how to use this power based on some implicit or explicit story about the meaning of life.
+   - Humans think in stories, not facts, numbers or equations. The simpler the better.
+   - In 1938 human offered 3 global stories to choose from: In 1968 just 2; in 1998 a single story, now we are down to 0 in 2018.
+   - Much harder to struggle against irrelevance than exploitation.
+   - People who reject the liberal story dont offer any coherent alternative.
+   - Liberalism has no obvious answers to the biggest problems we face: ecological collapse and technical disruption
+   - Economic growth will not save the ecosystem. Just the opposite, in fact, for economic growth is the cause of the ecological crises. And economic growth will not solve technological disruption for it is predicated on the invention of more and more disruptive tech.
+   - Biochemistry: algorithms of the brain are far from perfect. They rely on heuristics, shortcuts and outdated circuits adapted from the African savanna rather than from the urban jungle.
+   - Replacing all human drivers by computers is expected to reduce deaths and injuries by 90%.
+   - The US army needs 30 people to operate every "unmanned" drone over Syria.
+   - Since alpha_0 learned nothing from humans, many of its winning moves and strategies seems unconventional to the human eye. They are considered creative, in not downright genius.
+   - alpha_0 went from utter ignorance to creative mastery in four hours without human help.
+   - If people play an exceptionally creative move in human-only chess tournaments, the judges will often suspect that it can possible be a human move. In chess, creativity is already considered to be the hallmark of computers rather than humans!!!
    - Human kind had to develop completely new models - liberal democracy, communist dictatorship, and fascist regimes - and it took more than a century of terrible wars and revolutions to experiment with these models, separate the wheat from the chaff, and implement the best solutions. Child labor in Dickensian coal mines, the First World War, the Great Ukrainian Famine, constituted just a small part of the tuition fees that humankind had to pay for the Industrial Revolution.
    - This time around, the failed models that might result in nuclear wars, genetically engineered monstrosities, and a complete breakdown of the biosphere. We have to do better than we did in confronting the Industrial Revolution.
    - Referendums and elections are always about human feelings not about human rationality. If democracy were a matter of rational decision-making, where would be absolutely no reason to give all people equal voting rights - or perhaps any voting rights at all.
@@ -454,6 +523,7 @@
    - Meditation is any direct observation of ones own mind.
 
 
+
 # A world without email (Cal Newport)
    - Fantastic!  (Changed my life for the better)
    - A widely accepted premise of the modern knowledge work is that email saved us.
@@ -492,33 +562,3 @@
    - Knowledge worker productivity is the moonshot of the twenty first century.
 
 
-# Freakonomics
-   - Excellent. Exactly up my alley.
-   - Morality represents the way that people would like the world to work, whereas economics represents how the world really does work.
-   - Incentives are the cornerstone to modern life. Understanding them is the key to understanding just about any riddle.
-   - The conventional wisdom is often wrong. Conventional wisdom often shoddily formed and devilishly difficult to see through
-   - Dramatic effects often have distant, even subtle causes.
-   - "Experts" use their informational advantage to serve their own agenda. However they can be beat at their own game.
-   - Knowing what to measure and how to measure it, makes a complicate world much less so.
-   - Any incentive is inherently a trade off. The trick is to balance the extremes.
-   - So inscrutable is the arrangement of causes and effects in this world that a 2 penny duty on tea unjustly imposed in a sequestered part of it, changes the conditions of all its inhabitants,
-   - April 15th 1987, at midnight 7 million American children suddenly disappeared. Cause: The IRS changed a rule. Instead of listing the name of the dependent children, you now also had to provide a SSN (10% of all dependents vanished)
-   - IF economics is a science primarily concerned with incentives, it is also a science of statistical tool to measure how people respond to those incentives.
-   - Noticing where the conventional wisdom may be false - noticing perhaps the contrails of sloppy of self-interested thinking - is a nice place to start asking questions.
-   - Romanian communist party rounded up women in their workplaces to administer pregnancy tests. If a women repeatedly failed to conceive she was forced to pay a "celibacy tax"
-     Of all communist leaders deposed in the years around the Soviet collapse, only the Romanian lead met a violent death. (Claim: the unwanted children grew up to be violent)
-   - To discover that abortion was one of the greatest crime-lowering factors in American history is jarring.
-   - Be honest about your weaknesses
-
-
-
-# Awaken the Giant within
-   - Average overall.
-   - Our belief are like unquestioned commands, telling us hwo things are, what is possible and impossible.
-   - The best strategy in almost any case is to find a role model. Someone whos already getting the results you want and then tap into thier knowledge.
-   - Lots of people know what to do, but few actually do what they know.
-   - Most people overeestimate what they can do in a year, and underestimate what they can achieve in a decade.
-   - 3 decisions that shape your destiny: What to focus on. / Whaat things mean to you. / What to do.
-   - Success truly is the result of good judgement. Good judgement is the result of experience, and experience is the result of bad judgement.
-   - Success is the result of making small decisions.
-   - A real decision is measrued by the fact that youve taken action. If theres no action, you havent truly decided.

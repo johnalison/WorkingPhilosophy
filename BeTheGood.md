@@ -119,3 +119,5 @@
 
 - Its often obvious what the right thing to do is, the problem is mainly one of discipline, not knowledge. 
     eg: eating right/exercising/sleep/being a dependable person
+
+- Its not enough to have a good mind, the main thing is to use it well - Descarte

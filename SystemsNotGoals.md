@@ -213,3 +213,5 @@ Decisions:
 
 - If you dont deliberately form good habits, you will unconsciously form bad ones.
 
+
+- The direction were heading in is more important that individual results. (Awaken the giant)

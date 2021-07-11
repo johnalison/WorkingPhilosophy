@@ -93,4 +93,6 @@
 
 - "I would rather by right than consistent" Winston Churchill
 
-- Good designers never start by trying to solve the problem given to them.  They start by trying to understand what the real issues are. (The design of everyday things) 
+- Good designers never start by trying to solve the problem given to them.  They start by trying to understand what the real issues are. (The design of everyday things)
+
+ - Stay committed to your decisions, but stay flexible in your approach. (Cultivate the art of flexibilty) (Awaken the giant)

@@ -12,13 +12,14 @@
 - [People I look up to (North stars)                                   ](#People-I-look-up-to-North-stars                                       )
 - [Paradoxes                                                           ](#Paradoxes                                                             )
 - [What will be seen as right/wrong in future                          ](#What-will-be-seen-as-rightwrong-in-future                            )
-- [North Stars                                                         ](#NorthStars                             )
 - [Things I want to learn                                                         ](#thingsIwanttolearn                             )
 - [Who/what are we                                                     ](#whowhatarewe                             )
 - [What we should be teaching kids:                                   ](#what-we-should-be-teaching-kids)
 - [What is my purpose in Life ?                                        ](#what-is-my-purpose-in-life)
-
-
+- [Core Virtues                                        ](#virtues)
+- [Rules](#rules)
+- [Wishes](#wishes)
+- [Quotes for cards](#quotes-for-cards)
 
 # Things Ive changed my mind on
 
@@ -166,8 +167,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Find the little improvement that can be done right away that will make things better?
 - Look for the good in people/things.
 - Use "Bad luck"/Hope/Fear as keys to think about AF. 
-
-
+- 3-day fasts 4 times a year
+- When angry: what can I learn from this so this never happns again?
+   
 # What do you we do now that will be totally replaced in 100 years?
 
 - Combustion Engines
@@ -272,6 +274,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Incompleteness Theorem:     "There is more to truth that provability in the deductive system" /     Arithmetic truth out runs formal provability / Truth values of undecidable statements can be decided by embedding them in a richer structure. Also common practice of mathematicians, eg: invoke structures far richer than a statement they are trying to prove. /   - No consistent theory can prove its own consistency /
 - How can humans, physical organisms in a physical universe, have knowledge of a casually inert realm of abstract objects?
 - Ever since the French revolution, people throughout the world have gradually come to see both equality and freedom as fundamental values. Yet the two values contradict each other.
+- The more you examine your mind, the more you discover there is no fixed truth to who you are as a person. Your very efforts to improve your experince,  are generally what prevents you from understanding the depth and beauty of the most ordinary moments in life. To seek happiness in all the usual ways is to overlook it now. 
+
 
 # What will be seen as right/wrong in future
 
@@ -311,6 +315,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Game theory
 - How to make decisions
 - BJJ
+- How to evaluate information (Dialog / Socratic method)
 
 
 # What is my purpose in Life ?
@@ -327,31 +332,20 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 
 
-# What are my core values?
-  - Growth/self-improvement
-  - Freedom
-  - Long-term prosperety for mankind
-  - Rationality
-  - Understand the self (mind) through observing it. 
-  - Longevity
-  - Friendship
-  - Loyalty
-  - Lasting impact (system not goals)
-  - Forgiveness
-  - Joy/happiness (connection with present)
-  - Honesty
-  - Go first, go positive
-  - Dependability
-
-OLD
-   - Golden rule (veil of ignorance) 
-   - Strict with self/lenient with other
-   - Equality of opportunity
-   - ...
+# Virtues
+  - Be Reliable! (Deserve what you want)
+  - More duty to be more rational
+  - Honesty (Dont lie)
+  - Growth / Self-improvement (Perfection not required / Persistence) 
+  - Be the good (Pragmatism / Go first and go positive)
+  - Extreme ownership (Strict with self, lenient on others)
+  - Understand self-through observation (You are what you think/ Attention / Connection with present
+  - Stoicism: AF, MM, Stoic Test Challenge / Respond dont react/ Only control what you can control
+  - Health / Longevity
 
 
-
-# Rules ("Vote on these every few weeks) 
+# Rules 
+  ("Vote on these every few weeks) 
   - Dont eat before 4pm or after 8pm
   - Meditate > 1hr / day
   - Dont eat food with carb count > 15g (unless special occasion) 
@@ -370,3 +364,4 @@ OLD
   - Bed at 10 (or 9) 
 
 
+# Quotes for cards

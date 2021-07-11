@@ -62,3 +62,7 @@ Sapiens:
   - If Buddhism is right, our entire understanding of the history of happiness might be misguided. Maybe it isn't so important whether peoples expectations are fulfilled and whether they enjoy pleasant feelings. The main question is whether people know the truth about themselves.
 
 - You cant become happy, you can only be happy.
+
+- Dont wish for things to be a certian way. Wish them to be as they are. If you can do this- today, everyday - you will be happy. (See Amor Fati)
+
+- Only way for long-term happiness is to live by our highest ideals. (Awaken the Giant)

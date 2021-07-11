@@ -209,5 +209,32 @@ Point of Meditation:
 
 - "You are not this next thought" - Sam Harris
 
+- Practice to the point that you can see *in this moment* that you are already free. (What matters is this moment now in your life).
 
+- Another aspect of meditation: Clear comprehension of what youre doing and why. 
 
+- This moment is the onlly place our life appears and it can only be enjoyed right now.   
+
+- Notice when rushing. Feeling of tension, take a breath, be mindful of situation and relax. (Memento Mori)
+
+- Be mindful of comparing yourself to otherse (Both and bad comparisons). This tends to cause unneeded suffering. Ass you become mindful of it, you stop doing it.
+
+- Meditation is the essence of everything else that makes life worth living.
+
+- Meditation is just the act of noticing that every experince comes out of nothing and returns back into nothing, and you are always free to recognize that.
+- To seek happiness in all the usual ways is to overlook it now. 
+
+Waking up
+   - The goal of waking up is to understand the nature of your mind and to bring greater freedom in your life.
+   - The purpose is to radically transform the sense of what life is about. 
+   - Role of meditation: 
+      - Truly wake up from the unhealthy dream you call your life. 
+      - Radically transform your sense of who/what you are
+      - Have fundamental insights into the nature of your mind.
+   - When you really learn to meditate you discover that you dont have the problem you thought you had. The part of reality that is outside your mind isnt something that you come into direct contact with. This indicates how important your mind is in determining the nature of your experinces. Your mind is the source and substance of all your experinces. Realizing this is empowering.
+   - Waking up is about confronting some of the deepest questions in human life: 
+      - How can we be truly happy when alll that we experince quickly fades and disappears ? When every desire we satisfy, or goal we achieve, reveals itself to be a kind of mirage ? (You never quite arrive)
+      - What is the connection between being happier and genuinely fullfilled and being a good person ?
+      - How good could human life become if we get our heads screwed on straight? (How many of the worlds probllems be solved by each one of us becoming better people individually? )
+      - What is the connection between seeing reality clearly and being free psycologically ?
+      - How is human suffering related to not understanding what is true about the nature of our minds?
