@@ -562,3 +562,30 @@
    - Knowledge worker productivity is the moonshot of the twenty first century.
 
 
+# Homo Deus
+  - Fantastic (as expected)
+  - What is on humanities agenda today: For thousands of years the answer to this question remained unchanged. Famine, plague and war were always at the top of the list. Many thinkers and prophets concluded that famine, plague and war must be an integral part of Gods cosmic plan or of our imperfect nature. Yet at the dawn of the 3rd millennium, humanity wakes up to an amazing realization. Most people rarely think about it, but in the last few decades we have managed to rein in famine, plague and war.
+  - For the first time in history, more people die today from eating too much than from eating to little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined.
+  - Humankind in the 21st century needs to ask itself an unprecedented question: what are we going to do with ourselves ? In a healthy, prosperous and harmonious world, what will demand our attention and ingenuity?
+  - Mass famines still strike some areas from time to time, but they are exceptional, and they are almost always caused by human politics rather than natural catastrophes. There are no longer natural famines in the world; there are only political famines.
+  - Just think what would have happen if AIDS would have erupted in 1581 rather than 1981... Nobody would have figured out what caused the epidemic, how it moved person to person, or or how it could be controlled. AIDS might have killed a much larger proportion of the human race, equaling or perhaps surpassing the Black Death.
+  - There are good reasons to think that in the arms race between doctors and germs, doctors run faster.
+  - It is likely that major epidemics will continue to endanger humankind in the future only if humankind itself creates them, in the serves of some ruthless ideology. The era when humankind stood helpless before natural epidemics is probably over: But we may come to miss it (BC the man-made versions are much worse).
+  - In ancient agricultural societies human violence caused about 15% of all deaths, during the twentieth century violence caused only 5% of deaths, and in the early twenty-first century it is responsible for about 1%.
+  - Sugar is now more dangerous than gunpowder.
+  - Previous generations though about peace as the temporary absence of war. Today we think about peace as the implausibility of war.
+  - Despite all the talk of pollution, global warming and climate change, most countries have yet to make any serious economic or political sacrifices to improve the situation. When the moment comes to choose between economic growth and ecological stability, politicians, CEOs and voters almost prefer growth.
+  - The most common reaction of the human mind to achievement is not satisfaction, but craving for more.
+  - Having secured unprecedented levels of prosperity, health and harmony, and given our past record and current values, humanity's next targets are likely to be immortality, happiness and divinity.
+  - In the 21C humans are likely to make ea serious bid for immortality.
+  - Throughout history, religions and ideologies did not sanctify life itself. They always sanctified something above or beyond earthly existence, and were consequently quite tolerant of death.
+  - Humans always die due to some technical glitch.
+  - "There are three main modes of approaching death: You can accept it, deny it or you can fight it. I think our society is dominated by people who are into denial or acceptance, and I prefer to fight it" Peter Theil.
+  - Its not easy to live knowing that you are going to die, but it is even harder to believe in immortality and be proven wrong.
+  - In truth, so far modern medicine hasn't extended our natural lifespan by a single year. Its great achievement has been to save us from premature death.
+  - Epicurus explained that worshiping gods is a waste of time, that there is no existence after death, and that happiness is the sole purpose of life. Most people in ancient times rejected Epicurean-ism, but today it has become the default view.
+  - When Epicurus defined happiness as the supreme good, he warned his disciples that it is hard work to be happy. Material achievements alone will not satisfy us for long. Indeed, the blind pursuit of money, fame and pleasure will only make us miserable. Epicurus recommended, for example, to eat and drink in moderation and to curb ones sexual appetites. In the long run, a deep friendship will make us more content that a frenzied orgy.
+  - The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations.
+  - On the biological level, both our expectations and our happiness are determined by our biochemistry, rather than our economic, social or political situation.
+  - A thousand things may make us angry, but anger is never an abstraction. It is always felt as a sensation of heat and tension in the body, which is what makes anger so infuriating.
+  - People have be quarreling about education methods for thousands of years. Yet, hitherto everybody still agreed on one thing: in order to improve education, we need to change the schools. Today, for the first time in history, at least some people think it would be more eefficent to change the pupils' biochemistry.

@@ -59,6 +59,7 @@
 - These days every year is revolutionary. Today, even a thiry-year old can honestly tell disbelieving teenagers "When I was young, the was completely different"
 - Ours is the first time in history that the world is dominated by a peace-loving elite - politicians, business people, intellectuals and artists which genuinely see war as both evil and avoidable.
 - Homo sapiens are transcending biologically determined limits. It is now beginning to break the laws of natural selection, replacing them with the laws of intelligent design
+- For the first time in history, more people die today from eating too much than from eating to little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined.
 
 # Crazy things scientists used to believe
 - Sperm is little homunculus

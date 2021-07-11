@@ -66,3 +66,5 @@ Sapiens:
 - Dont wish for things to be a certian way. Wish them to be as they are. If you can do this- today, everyday - you will be happy. (See Amor Fati)
 
 - Only way for long-term happiness is to live by our highest ideals. (Awaken the Giant)
+
+- The glass ceiling of happiness is held in place by two stout pillars, one psychological, the other biological. On the psychological level, happiness depends on expectations rather than objective conditions. We dont become satisfied by leading a peaceful and prosperous existence. Rather, we become satisfied with reality matches our expectations. (Homo Deus)
