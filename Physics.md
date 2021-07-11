@@ -31,3 +31,12 @@
   Claim: "All of physics can be done with intuitionist mathematics"
 
 - g-2 discrepancy larger than W/Z contribution
+
+- How could you prove the world was determinsitic?
+   - deomonstrate in simple systems
+   - Show that the laws (theory) predict the outcome
+   - Then assume that the theory applies to more complicated systems
+   - Determinism is a property of the theory (map), not (?) the world (territory).
+   - chaos => need real numbers infinite percision.
+   - determism is the statement that initial conditions predict all future behaviour
+   - Seems like you have to prove that a theory is deterministic and then claim that the theory applies to the world.

@@ -495,3 +495,47 @@ Wonky model for consciousness:
   - (Meditation as a probe? )
   - Presumably something "conscious" is needed in our theory of the output that explains what we see.
      - Will need more of it for a functioning adult than for baby, mentally handicapped, animals, altizimer patients.
+
+How can you meaure creativity quantitatively?
+  - MRI scans of people doing creative acts ? (to calibrate)
+
+Liberal demacracy / "Equality for all" are founded on religion not science.
+   - Should found some ideal/ethics/political theory on science.
+   - Elephant in the room is the last attemt to do this in the 30s and 40s.
+   - However we have learned a lot since then.
+
+
+Should look to odd or bizare places for good insights.
+  eg: Areas where it lookss like "magic" is happening or people behaving agianst thier interests.
+  Cults / Scientology / LSD
+  list of examples: Feynman w/crack pots / oracles / getting things done and scientology.
+
+
+My reading system/practice is like research form some unknown term paper.
+  - Collection and organization is explanation, which is creative.
+
+"Competition is for losers" Peter Theil
+  - Dont want to be playing 0 sum games.
+  - Competition will make you better at the thing youre competing in.
+  - Perfer to specialize in something where you dominate. (no other competition)
+  - Otherwise really wasting effort.
+
+
+Is the hard problem of consciouness just confusing the map for the territory?
+  - Do we require this level of "explaination" for other feilds?
+  eg: projectile motion
+
+
+Idea that we have discovered God: Evolution
+  - Wasnt the god we were looking for.
+  - Creates deign in the world.
+  - Nothing like humans, or the way humans think
+  - Literally created us.
+  - Not omnipotent / benevolent / clever / etc
+  - Good test case for testing rationality
+     (Its answers dont care about your biases)
+
+Decisions:
+  - Minimize cost of making an error
+  - Minimize cost of making a decision
+

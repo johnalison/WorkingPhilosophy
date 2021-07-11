@@ -310,6 +310,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Self-improvement. 
 - Game theory
 - How to make decisions
+- BJJ
 
 
 # What is my purpose in Life ?
@@ -326,12 +327,25 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 
 
-# What are my values?
-   - Dont Lie
-   - Look for lasting change (systems not goals) 
+# What are my core values?
+  - Growth/self-improvement
+  - Freedom
+  - Long-term prosperety for mankind
+  - Rationality
+  - Understand the self (mind) through observing it. 
+  - Longevity
+  - Friendship
+  - Loyalty
+  - Lasting impact (system not goals)
+  - Forgiveness
+  - Joy/happiness (connection with present)
+  - Honesty
+  - Go first, go positive
+  - Dependability
+
+OLD
    - Golden rule (veil of ignorance) 
    - Strict with self/lenient with other
-   - Increase freedom/liberty when possible
    - Equality of opportunity
    - ...
 
@@ -354,4 +368,5 @@ Can tell where we don't really understand problems when experts wildly disagree.
 # Wishes
   - Get up at 6 (or 5)
   - Bed at 10 (or 9) 
+
 

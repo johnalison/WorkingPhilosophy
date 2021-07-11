@@ -78,7 +78,6 @@
 
 
 # The Button (William Perrry and Tom ?) 
-
    - Very good / Learned a lot/ lot of overlap with previous Perry book / Bit repetitive
    - Under current US policy presidents have authority to launch nukes 1st and is not limited to retaliation! (Can be launched with in mins) 
    - Once launched cannot be recalled. 
@@ -107,7 +106,6 @@
 
 
 # The scientific revolution : Aspirations and Achievements
-
   - Acording to Aristotle, it is a matter of observation that the heavens never change. They must therefore be composed of an oncorruptible 5th element: ether.
   - An argument agianst Aristarchus' helocentric model was that the stars were always observed to be in the same position relative to the earth at all times of day and year => earth doesnt move. Aristarchus countered that the stars are infinitely far away. 
   - The stoics were rigidly deterministic. 
@@ -120,7 +118,6 @@
   - Boyle described experiments that failed. 
 
 # Sapiens 
- 
   - Outstanding!
   - Timeline: 3e9 ya Beginning of Biology / 7e4 Cognitive revolution (Beginning of History)  / 1e4 Agricultural revolution / 5e3 1st kingdoms / 5e2 scientific revolution (entire planet single historical event) / 2e2 industrial revolution
   - Present: organisms increasingly shaped by intelligent design rather than natural selection
@@ -250,7 +247,6 @@
 
 
 # Caffeine (Audio Book)
-
   - Short but sweet
   - Caffeine is the only drug we regularly give our children (in pop)
   - By far the most widely used psychoactive drug.
@@ -271,7 +267,6 @@
 
 
 # How to decide (By Annie Duke)
-
   - Average overall. Learned something, but much of it was at too low of a level.
   - Only two things determine how your life turns out; luck and the quality of your decisions (You only have control over one of these)
   - Unlikely to have a class on decision making until college or beyond.
@@ -294,7 +289,6 @@
 
 
 # Project Management for Dummies
-
   - Not very useful
   - Lot of obvious suggestions (mostly already doing)
   - Leader vs Manager
@@ -307,7 +301,6 @@
   - Integrity: having agreement between what you say and do
 
 # Electronics (A systems approach)
-
   - Generally very good. Gets to advanced topics quickly.
   - Some redundancy / unnecessary details / out of date
   - Want signal to have low output resistance, load to have high input resistance
@@ -319,7 +312,6 @@
 
 
 # SCRUM (Jeff Sutherland)
-
   - Good book overall. Could have been a lot shorter. too many examples / too much bragging / I think the idea. Would be interesting to try to implement
   - Only problem with Gantt charts: they are always wrong.
   - Gantt charts used to plan WWI (developed just prior)
@@ -339,7 +331,6 @@
 
 
 # Map and Territory (Yudakoskwi)
-
   - Very good
   - Series of lesswrong blog posts written up.
   - Rationality is about fixing the systematic errors human brains tend to make, or finding workarounds
@@ -368,7 +359,6 @@
 
 
 # Influence (Robert Caldini)
-
   - Very good. Reads well, learned a lot
   - Six basic tactics to get compliance. Each governed by fundamental psychological principle that directs human behavior:
     Consistency / Reciprocation / Social Proof / Authority / Liking / Scarcity
@@ -390,7 +380,6 @@
 
 
 # 21 Lessons for the 21st Century
-
    - Fantastic!  One of my favorite authors
    - ... NEED TO ADD TEXT FROM NOTES !!!!.....
    - Human kind had to develop completely new models - liberal democracy, communist dictatorship, and fascist regimes - and it took more than a century of terrible wars and revolutions to experiment with these models, separate the wheat from the chaff, and implement the best solutions. Child labor in Dickensian coal mines, the First World War, the Great Ukrainian Famine, constituted just a small part of the tuition fees that humankind had to pay for the Industrial Revolution.
@@ -466,7 +455,6 @@
 
 
 # A world without email (Cal Newport)
-
    - Fantastic!  (Changed my life for the better)
    - A widely accepted premise of the modern knowledge work is that email saved us.
    - What if email didn't save us, but instead accidentally traded minor convinces for a major drag on real productivity, leading to slower economic growth over the last few decades?
@@ -502,3 +490,35 @@
    - there are few things more valuable than someone who consistently produces valuable output, and few approaches to work more satisfying than being given the room to focus on things that really matter.
    - Technological change is not additive; it is ecological.  A new medium does not add something; it changes everything. In the year 1500, after the printing press was invented, you did not have old Europe plus the printing press. You had a different Europe.
    - Knowledge worker productivity is the moonshot of the twenty first century.
+
+
+# Freakonomics
+   - Excellent. Exactly up my alley.
+   - Morality represents the way that people would like the world to work, whereas economics represents how the world really does work.
+   - Incentives are the cornerstone to modern life. Understanding them is the key to understanding just about any riddle.
+   - The conventional wisdom is often wrong. Conventional wisdom often shoddily formed and devilishly difficult to see through
+   - Dramatic effects often have distant, even subtle causes.
+   - "Experts" use their informational advantage to serve their own agenda. However they can be beat at their own game.
+   - Knowing what to measure and how to measure it, makes a complicate world much less so.
+   - Any incentive is inherently a trade off. The trick is to balance the extremes.
+   - So inscrutable is the arrangement of causes and effects in this world that a 2 penny duty on tea unjustly imposed in a sequestered part of it, changes the conditions of all its inhabitants,
+   - April 15th 1987, at midnight 7 million American children suddenly disappeared. Cause: The IRS changed a rule. Instead of listing the name of the dependent children, you now also had to provide a SSN (10% of all dependents vanished)
+   - IF economics is a science primarily concerned with incentives, it is also a science of statistical tool to measure how people respond to those incentives.
+   - Noticing where the conventional wisdom may be false - noticing perhaps the contrails of sloppy of self-interested thinking - is a nice place to start asking questions.
+   - Romanian communist party rounded up women in their workplaces to administer pregnancy tests. If a women repeatedly failed to conceive she was forced to pay a "celibacy tax"
+     Of all communist leaders deposed in the years around the Soviet collapse, only the Romanian lead met a violent death. (Claim: the unwanted children grew up to be violent)
+   - To discover that abortion was one of the greatest crime-lowering factors in American history is jarring.
+   - Be honest about your weaknesses
+
+
+
+# Awaken the Giant within
+   - Average overall.
+   - Our belief are like unquestioned commands, telling us hwo things are, what is possible and impossible.
+   - The best strategy in almost any case is to find a role model. Someone whos already getting the results you want and then tap into thier knowledge.
+   - Lots of people know what to do, but few actually do what they know.
+   - Most people overeestimate what they can do in a year, and underestimate what they can achieve in a decade.
+   - 3 decisions that shape your destiny: What to focus on. / Whaat things mean to you. / What to do.
+   - Success truly is the result of good judgement. Good judgement is the result of experience, and experience is the result of bad judgement.
+   - Success is the result of making small decisions.
+   - A real decision is measrued by the fact that youve taken action. If theres no action, you havent truly decided.
