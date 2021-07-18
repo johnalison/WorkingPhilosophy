@@ -67,7 +67,8 @@
 - Phrenology measure mental essences as bumps on the skull
 - Infants prior to the 1980s where not anesthetized during major surgery, on belief that couldnt feel pain.
 - Early plastics were designed to look like wood. 
-
+- Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults
+  
 # Things where experts disagree
 Can tell where we don't really understand problems when experts wildly disagree. In these cases understand BOTH sides. Silly to pick one. 
 
