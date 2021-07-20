@@ -40,3 +40,5 @@
    - chaos => need real numbers infinite percision.
    - determism is the statement that initial conditions predict all future behaviour
    - Seems like you have to prove that a theory is deterministic and then claim that the theory applies to the world.
+
+- The greatest scientific discovery was the discovery of ignorance. Once humans realized how little they knew about the world, they suddenly had a very good reason to seek new knowledge, which opened up the scientific road to progress.
