@@ -665,3 +665,22 @@
   - More the a century after Nitchze pronounced him dead, God seems to be making a comeback. But this is a mirage. God is dead -- its just taking a while to get rid of the body.
   - Pope Pius lead a series of reforms in Catholic dogma and established the novel principle of papal infallibility, according to which the Pope can never err in matter of faith (this seemingly medieval idea became binding Catholic dogma only in 1870, 11 years after the publication of On the origin of Species.
   - The main product of the 21C will be bodies, brains and minds, and the gap between those who know how to engineer bodies and brains and those who do not will be far bigger than the gab between Dickens Britain and Mahdi's Sudan. In the 21C, those who ride the train of progress will acquire divine abilities of creation and destruction, while those left behind will face extinction.
+  - Liberals value individual liberty so much because they believe that humans have free will.
+  - The contradiction between free will and contemporary science is the elephant in the laboratory, whom many prefer not to see as they peer into their microscopes and fMRI scanners.
+  - Over the last century, as scientist opened up the Sapiens black box, they discovered there neither soul, no free will, nor "self" -- but only genes.
+  - To the best of our scientific understanding, determinism and randomness have divided the entire cake between them, leaving not even a crumb for "freedom". Free will exists only in the imaginary stories we humans have invented.  The last nail in freedoms coffin is provided by the theory of evolution. Just as evolution cannot be squared with eternal souls, neither can it swallow the idea of free will. For if humans are free, how could natural selection have shaped them?
+  - Doubting free will is not just a philosophical exercise. It has practical implications. If organisms indeed lack free will, it implies that we can manipulate and even control their desires using drugs, genetic engineering or direct brain stimulation.
+  - Science undermines not only the liberal belief in free will, but also the belief in individualism. For liberalism to make sense, I must have one - and only one - true self. Humans are individuals they are "dividuals".
+  - At the beginning of the 3rd millennium liberalism is threatened not by the philosophical idea that "there are no free individuals", but rather by concrete technologies.
+  - In the 21C three practical developments might make the belief that every human is a uniquely valuable individual obsolete:
+      1) Humans will lose their economic and military usefulness, hence the economic and political system will stop attaching value to them.
+      2) The system will continue to find value in humans collectively, but not in unique individuals
+      3) The system will still find value in some  unique individuals, but thesse will constitute a new elite of upgraaded superhumans rather than the mass of the population.
+  - Liberalism did not become the dominant idealology because its philosophical arguments were the most valid. It succeeded b/c there was abundant political, economic and military sense in ascribing value to every human being. (Agrument agianst Anarchism)
+  - In the 20C liberals explained that we dont have to choose between ethics and economics. Protecting human rights and liberties waas both a more imperative and theh key to economic growth. In the 21C liberalism will have a much harder time selling itself.
+  - There might be severaal alternative ways leaading to super-intelligence, only some of which pass through the straits of consciousness.
+  - This raises a novel question: which of the two is really important, intelligence or consciousness ? As long as they went hand in hand, debating thier relative value was just an amusing pastime for philosophers. But in the 21C this is becoming an urgent political and economic issue. For armies and corporations, the answer is straigtforward: intelligence is mandatory but consciousness is optional.
+  - We should remind ourselves of the fate of horses during the Industrial Revolution. An ordinary farm horse can small, love, recognize faces, jump over fences and do a thousand other things far better than a Model T or a Lamborghini. But cars nevertheless replaced horses b/c they were superior in the handful of tasks that the system really needed. Taxi drivers are likely to go the way of the horses.
+  - The most important question in the 21C economics may will be what to do with all the superfluous people.
+
+  
