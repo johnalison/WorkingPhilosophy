@@ -171,7 +171,12 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Use "Bad luck"/Hope/Fear as keys to think about AF. 
 - 3-day fasts 4 times a year
 - When angry: what can I learn from this so this never happns again?
-   
+- Write Book Reports
+  - w/Jypter notebooks if needed (ala vatalik)
+  - Ideas, topics, philosophies
+  - Review and revie
+  - Helps you understand a topic "In your own words"
+
 # What do you we do now that will be totally replaced in 100 years?
 
 - Combustion Engines
@@ -266,7 +271,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Bob Cousins: Good speaker. Expert in statistics. Deep understanding of J-L Paradox.
 - Rachael Mandelbum: Productive, Humble, Seems to really care.
 - Richard Heart: Smart. Good global set of priorities, Compelling, orthogonal thinker (esp in Crypto) 
-
+- Cal Newport: Great advice. Advocate for interesting positions. Somewhat of a contrarian
 
 # Paradoxes                                                             
 
@@ -360,6 +365,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
   - Dont get Angry
   - Dont complain. 
   - Dont gossip
+  - Be dependable
+  - Floss everyday
+  - ome exercise everyday
 
 # Wishes
   - Get up at 6 (or 5)

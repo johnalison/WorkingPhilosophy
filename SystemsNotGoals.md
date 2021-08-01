@@ -215,3 +215,5 @@ Decisions:
 
 
 - The direction were heading in is more important that individual results. (Awaken the giant)
+
+- Do Less, do better, know why" Cal Newport

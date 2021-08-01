@@ -539,3 +539,4 @@ Decisions:
   - Minimize cost of making an error
   - Minimize cost of making a decision
 
+Two parts to living a good life:  "Be a good person" and "Pay attention"

@@ -238,3 +238,5 @@ Waking up
       - How good could human life become if we get our heads screwed on straight? (How many of the worlds probllems be solved by each one of us becoming better people individually? )
       - What is the connection between seeing reality clearly and being free psycologically ?
       - How is human suffering related to not understanding what is true about the nature of our minds?
+
+- Skillful management of attention is the key to improving virtually every aspect of your experience. -- Cal Newport (Deepwork)
