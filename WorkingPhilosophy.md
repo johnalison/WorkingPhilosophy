@@ -14,6 +14,8 @@
    11) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
 
 
+- You don’t control the world around you, only how you respond— and you must always respond with courage, temperance, wisdom, and justice.
+
 - How to live with stress and not be stressed out is a major goal of Philosophy 
 
 - Purpose of philosophy not to achieve some perfect ideal, but to keep becoming more complete, more happy, more “X and happy” where x = { sick, in danger, disgraced, etc} Philosophy should keep the well-being independent from the x, which is largely out of our control. 
