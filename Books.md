@@ -770,7 +770,7 @@
   - Stumbling on important insights are perfectly valid reasons to ignore schedules.
   - Time blocking is about thoughtfulness, not constraint. Simple habit that focuses you to continually take a moment throughout your day to ask "what makes sense for me to do?"   The habit of asking is what returns results.
 
-# The Red Queen
+# The Red Queen (Matt Ridley)
    Need to write up notes from the notebook 3 Aug 2021
   - The concept that all progress is relative, is known as the "Red Queen" from a chess piece in Alice in wonderland that runs but never gets anywhere.
   - One of the great recurring themes in human history is the balance between cooperation and conflict.
@@ -822,3 +822,11 @@
   - Wherever else in the animal kingdom we find greatly exaggerated and enlarged ornaments, we have been able to explain them by the runaway, sexy-son, Fisher effect of intense sexual selection. It seems perverse not to consider it when trying to explain the exponential expansion of the brain.
   - Dance, music, humor, and sexual foreplay are all features unique to human beings.
   - We are as domesticated as any dog or cow, perhaps more so. We have bred out of ourselves all sorts of instincts that were probably features of our Pleistocene nature.
+
+# The Foundations of Modern Physics (Steven Weinberg)
+  - The measaurement of Avogadros number was widely recognized in the late 19C as one off the great challenges facing physics.
+  - With thermodynamics one may derive powerful results of great generality without ever committing oneself to the existence off atoms or molecules.
+  - Many of the consequences of macroscopic classical thermodynamics can be deduced from the existence of another thermodynamic variable, entropy. Like other thermodynamic variables it depends only on the state of the system, aalthough its defintino seems to indicate thata it also depends on the way the system is prepared. The fact that entropy depends only on the thermodynamic state has far reaching consequences.
+  - It is the introduction of the concept off probability into physics that creates an assymetry between the past and future.
+  - The fact that viscous draw is independent of gas density was regarded as a confirmation of the molecular theory of gas dynamics.
+  - Erns Mach: As late as 1916, shortly before his death, declared "I can accept the theory of relativity as little as I can accept the existence of atoms and other such dogmas". This goes to show that a scientist can maintain his own principles, bravely holding out against a wide consensus of the scientific establishment, and still be wrong.
