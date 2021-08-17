@@ -862,3 +862,29 @@
   - In other words a(p) and a^\dagger(p) respectively annihilate and create a particle of momentum p. This is what we mean when we refer to elementary particles being bundles or the energy and momentum in some field.
   - There is no reason why the cosmological constant should not include an infinite negative term that simply cancels rho_vac, possibly leaving over a finite remaining energy density.
   - QM perturbation theory: the fact that the denominators involve energy but not momentum differences makes it obvious that they are not Lorentz invariant, so they make it difficult to keep track of Lorentz invariance in relativistic theories.
+
+
+# How to win friends and influence people (Dale Carnegie)
+  - Dealing with people is probably the biggest problem you face.
+  - "The ability to deal with people is as purchasable a commodity as sugar or coffee. And I will pay more for that ability than for any other under the sun" John D Rockefeller.
+  - "The great aim of education is not knowledge, but action" (Be the good) Herbert Spencer. And this is an action book.
+  - My popularity, my happiness and sense of worth depend to no small extent upon my skill in dealing with people.
+  - Marking and underscoring a book makes it more interesting, and far easier to review rapidly.
+  - Only knowledge that is used sticks in your mind.
+  - Regard this as a working handbook on human relations; and whenever you are confronted with some specific problem hesitate about doing the natural thing, the impulsive thing. This is usually wrong.
+  - What to ask yourself each day: "What mistakes did I make ?" "What did I do that was right -- and in what way could I have improved my performance ?" "What lessons can I learn from that experience?"
+  - The resentment that criticism engenders can demoralize employees, family members and friends, and still not correct the situation that has been condemn.
+  - Let us realize that the person we are going to correct and condemn will probably justify himself and condemn us in return.
+  - Sharp criticisms and rebukes almost always end in futility.
+  - When dealing with people we should remember that we are not dealing with creatures of logic. We are dealing with creatures of emotion, creatures bristling with prejudges and motivated by pride and vanity.
+  - The secret of Benjamin Franklin's success: "I will speak ill of no man"
+  - Any fool can criticize, condemn, and complain -- and most fools do. It takes character and self-control to be understanding and forgiving.
+  - Instead of condemning people, try to understand them. Try to figure out why they do what they do. This is a lot more profitable and intriguing that criticism and it breeds sympathy, tolerance and kindness.
+  - Dont criticize, condemn or complain.
+  - There is only one way to get anybody to do anything: Make the other person want to do it.
+  - "I consider my ability to arouse enthusiasm among my people the greatest asset I possess, and the way to develop the best that is in a person is by appreciation and encouragement. -- Charles Schwab
+  - Be anxious to praise, loath to find fault. If you like anything "Be hearty in your approbation and lavish in your praise"
+  - I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again.
+  - Every man you meet is superior in some say,  In that, learn from him.
+  - Cease thinking of your accomplishments, your wants. Try to figure out the other persons good points. Give honest, sincere appreciation.
+  - 
