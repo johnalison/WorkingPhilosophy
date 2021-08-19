@@ -887,4 +887,36 @@
   - I shall pass this way only once; any good, therefore that I can do or any kindness that I can show to any human being, let me do it now. Let me not defer nor neglect it, for I shall not pass this way again.
   - Every man you meet is superior in some say,  In that, learn from him.
   - Cease thinking of your accomplishments, your wants. Try to figure out the other persons good points. Give honest, sincere appreciation.
-  - 
+  - When you go fishing, you dont think about what you want. You think about what the fish want! 
+  - Why talk about what we want? That's childish. Absurd. Of course you are interested in what you want. You are eternally interested in it. But no one else is. The rest of us are just like you: we are interested in what we want.
+  - The only way on earth to influence other people is to talk about what they want and show them how to get it.
+  - The best piece of advice for would be persuaders: arouse in the other person an eager want.
+  - Andrew Carnegie, learned early in life that the only way to influence people is to talk in terms of what the other person wants.
+  - If you want to persuade someone to do something. Before you speak, pause and ask yourself: "How can I make this person want to do it?" 
+  - IF there is any one secret to success it lies in the ability to get the other persons point of view and see things from that person's angle as well as from your own.
+  - The world is full of people who are grabbing and self seeking. So the rare individual who unselfishly tries to serve others has an enormous advantage. He has little competition.
+  - Most people go through college without discovering how their own minds function.
+  - A dog is the only animal that doesn't have to work for a living. A dog makes his living by giving nothing but love.
+  - You can make more friends in two months by becoming genuinely interested in other people than you can in two years by trying to get other people interested in you.
+  - People are not interested in you. They are interested in themselves - morning, noon and night. 
+  - It is the individual who is not interested in his fellow man who has the greatest difficulties in life and provides the greatest injury to others. It is from among such individuals that all human failures spring.
+  - Actions speak louder than words, and a smile says "I like you. You make me happy. I am glad to see you"
+  - People rarely succeed in anything unless they have fun doing it.
+  - You must have a good time meeting people if you expect them to have a good time meeting you.
+  - I have also eliminated criticism from my system. I give appreciation and praise now instead of condemnation. I have stopped talking about what I want. I am now trying to see the other person's viewpoint. And these things have literally revolutionized my life.
+  - Action seems to follow feeling, but really action and feeling go together; and by regulating the action, which is under the more direct control of the will, we can indirectly regulate the feeling, which is not. Thus the sovereign voluntary path to cheerfulness, if our cheerfulness be lost, is to sit up cheerfully and to act and speak as if cheerfulness were already there.
+  - Everybody in the world is seeking happiness -- and there is one sure way to find it. That is by controlling your thoughts. Happiness doesn't depend on outward conditions. It depends on inner conditions. 
+  - It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.
+  - There is nothing either good or bad, but thinking makes it so. -Shakespeare
+  - A man without a smiling face must not open a shop.
+  - The value of smile at Christmas:
+      - It costs nothing, but creates much.
+      - It enriches those who receive, without impoverishing those who give. 
+      - It happens in a flash and the memory of it sometimes lasts forever. 
+      - None are so rich that they can get along without it, and none so poor but are richer for its benefits. 
+      - It creates happiness in the home, fosters good will in a business, and in the countersign of friends. 
+      - It is rest to the weary, daylight to the discouraged, sunshine to the sad, and Natures best antidote for trouble.
+      - Yet it cannot be bought, begged, borrowed, or stolen, for it is something that is no earthly god to anybody until it is given away.
+      - And if in the last-minute rush of Christmas buying some of our salespeople should be too tired to give you a smile, may we ask you to leave one of yours?
+      - For nobody needs a smile so much as those who have none left to give!
+
