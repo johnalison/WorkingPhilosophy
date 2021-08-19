@@ -919,4 +919,37 @@
       - Yet it cannot be bought, begged, borrowed, or stolen, for it is something that is no earthly god to anybody until it is given away.
       - And if in the last-minute rush of Christmas buying some of our salespeople should be too tired to give you a smile, may we ask you to leave one of yours?
       - For nobody needs a smile so much as those who have none left to give!
-
+  - The average person is more interested in his or her own name than in all the other names on earth put together. Remember that name and call it easily, and you have paid a subtle and very effective compliment.
+  - Most people dont remember names, for the simple reason that they dont take the time and energy necessary to concentrate and repeat and fix names indelibly in their minds.
+  - In politics: To recall a voters name is statesmanship. To forget it is oblivion.
+  - Remember that a persons name is to that person the sweetest and most important sounds in any language.
+  - Few human beings are proof against the implied flattery of rapt attention.
+  - Most people fail to make a favorable impression because they dont listen attentively. They have been so much concerned with what they are going to say next that they do not keep their ears open... Very important people have told me that they prefer good listeners to good talkers, but the ability to listen seems rarer than almost any other good trait.
+  - If you want to know how to make people shun you and laugh at you behind your back and even despise you, here is the recipe: Never listen to anyone for long. Talk incessantly about yourself. If you have an idea while the other person is talking, dont wait for him or her to finish: bust right in and interrupt in the middle of a sentence.
+  - Those people who think only of themselves are hopelessly uneducated, no matter how instructed they may be.
+  - If you aspire to be a good conversationalist, be an attentive listener. To be interesting, be interested. Ask questions that others people will enjoy answering. Encourage them to talk about themselves and their accomplishments.
+  - Remember that the people you are talking to are 100 times more interested in themselves and their wants and problems than they are in you and your problems.
+  - Be a good listener. Encourage others to talk about themselves.
+  - Talk in terms of the others persons interests. 
+  - Always make the other person feel important.
+  - Talk to people about themselves and they will listen for hours. 
+  - Make the other person feel important -- and do it sincerely.
+  - Why prove to a man he is wrong ? Is that going to make him like you? Why not let him save his face? He didn't ask your opinion. He didn't want it. Why argue with him? Always avoid the acute angle.
+  - There is only one way to get the best of an argument and that is to avoid it. 
+  - 90% of the time an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right.
+  - A man convinced against his will, is of the same opinion still.
+  - IF you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get you opponents good will. Which would you rather have an academic theatrical victory or a persons good will? You can seldom have both.
+  - The Buddha said: "Hatred is never ended by hatred but by love. and a misunderstanding is never ended by an argument but by tact, diplomacy, conciliation and a sympathetic desire to see the other persons viewpoint.
+  - Better give your path to a dog than be bitten by him in contesting for the right. Even killing the dog would not cure the bite.
+  - Tips for arguing:
+       - Welcome the disagreement:  Whenever two partners agree, one of them is not necessary. If there is some point you have thought about be thankful if it has been brought to your attention.
+       - Distrust your first instinctive impression: Our first natural reaction in a disagreeable situation is to be defensive. Be careful! Keep calm and watch out for you first reaction. IT may be you at your worst not at your best.
+       - Control your temper: You can measure the size of a person by what makes him or her angry.
+       - Listen first: Give you opponents the chance to talk. Let them finish. Do not resist, defend or debate. This only raises barriers. Try to build bridges of understanding.
+       - Look for areas of agreement: After you have heard your opponents out, dwell on the points and areas on which you agree.
+       - Be honest: Look for areas where you can admit error and do so. It will help disarm your opponents and reduce defensiveness.
+       - Promise to think over your opponents ideas and study them carefully: Your opponents may be right. It is a lot easier at this stage to agree to think about their points than to move rapidly ahead and find yourself in a position where your opponents can say "We tried to tell you, but you wouldn't listen"
+       - Postpone action to give both sides tome to think through the problem.
+       - Look for truth or merit in your opponents position or argument.
+   
+  
