@@ -951,5 +951,43 @@
        - Promise to think over your opponents ideas and study them carefully: Your opponents may be right. It is a lot easier at this stage to agree to think about their points than to move rapidly ahead and find yourself in a position where your opponents can say "We tried to tell you, but you wouldn't listen"
        - Postpone action to give both sides tome to think through the problem.
        - Look for truth or merit in your opponents position or argument.
-   
-  
+  - You can tell people they are wrong by a look or an intonation or a gesture just as eloquently as you can in words --   and if you tell them they are wrong, do you make them want to agree with you? Never! You have struck a direct blow to their intelligence, judgment, pride and self-respect. That will make them want to strike back. But it will never make them want to change their minds.
+  - Never begin by announcing "I am going to prove so-and-so to you." That's bad. That's tantamount to saying "I'm smarter than you are. I am going to tell you a thing or two and make you change your mind."
+  - Its difficult, under even the most benign conditions, to change peoples minds. So why make it harder? Why handicap yourself?  If you are going to prove anything, dont let anybody know about it. Do it so subtly, so adroitly , that no one will feel that you are doing it.
+  - Men must be taught as if you taught them not. And things unknown proposed as things forgot.
+  - Be wiser than other people if you can; but do not tell them so.
+  - Few people are logical. Most of us are prejudiced and biased. Most of us are blighted with preconceived notions, with jealousy, suspicion, fear, envy, and pride.
+  - Our first reaction to most of the statements which we hear from other people is an evaluation or judgment, rather than an understanding of it. Very rarely do we permit ourselves to understand precisely what the meaning of the statement is to the other person.
+  - I made it a rule to forbear all direct contradiction to the sentiment of others. I even forbade myself the use of every work or expression in the language that imported a fixed opinion, such as "certainly", "undoubtedly" etc. and I adopted instead of them "I conceive", "I apprehend", or "I imagine" a thing to be so or so, or "it appears to me at present"
+  - Show respect for the other persons opinions. Never say "You're wrong"
+  - If we know we are going to be rebuked anyhow, isn't it far better to beat the other person to it and do it ourselves? Isn't it much easier to listen to self-criticism than to bear condemnation from alien lips?
+  - There is a certain degree of satisfaction in having the courage to admit ones errors. It not only clears the air of guilt and defensiveness, but often helps solve the problem created by the error.
+  - By fighting you never get enough, but by yielding you get more than you expected.
+  - If you are wrong, admit it quickly and emphatically.
+  - People dont want to change their minds. They cant be forced or driven to agree with you. But they may possibly be lead to.
+  - Begin in a friendly way.
+  - In talking with people, dont begin by discussing the things on which you differ. Begin by emphasizing and keeping on emphasizing -- the things on which you agree.
+  - The skillful speaker gets, at the outset, a number of "Yes" responses.
+  - Let the other person do a great deal of the talking.
+  - No one likes to feel that he is being sold something or told to do a thing. We much prefer to feel that we are buying of our own accord or acting on our own ideas. We like to be consulted about our wishes, our wants, our thoughts.
+  - Remember that other people may be totally wrong. But they dont think so. Dont condemn them. Any fool can do that. Try to understand them. Only wise, tolerant, exceptional people even try to do that.
+  - There is a reason the other man thinks and acts as he does. Ferret out that reason -- and you have the key to his actions, perhaps to his personality. Try honestly to put yourself in his place. If you say to yourself "How would I feel, how would I react if I were in his shoes? you will save yourself time and irritation. By becoming interested in the cause, we are less likely to dislike the effect. 
+  - Stop to contrast your keen interest in your own affairs with your mild concern about anything else. Realize then, that everybody else in the world feels exactly the same way! Success in dealing with people depends on a sympathetic grasp of the other person's viewpoint.
+  - "I would rather walk the sidewalk in front of a persons office for two hours before an interview than step into that office without a perfectly clear idea of what I was going to say and what that person -- from my knowledge of his interests and motives -- was likely to answer.
+  - Say "I dont blame you one iota for feeling as you do. If I were you I would undoubtedly feel just as you do."
+  - You deserve very little credit for being what you are -- and remember, the people who come to you irritated, bigoted, unreasoning, deserve very little discredit for being what they are. Feel sorry for the poor devils. Pity them. Sympathize with them. Say to yourself "There, but for the grace of God, go I"
+  - 3/4 of the people you meet are hungering and thirsting for sympathy. Give it to them, and they will love you.
+  - Have the satisfaction of controlling your temper, the satisfaction of returning kindness for insult.
+  - Sympathy the human species universally craves.
+  - Merely stating a truth isn't enough. The truth has to be made vivid, interesting, and dramatic.
+  - The way to get things done is to stimulate competition. I do not mean sordid, money-getting way, but in the desire to excel"
+  - Its always easier to listen to unpleasant things after we have heard some praise of our good points.
+  - Call attention to the behavior we wished to change indirectly. 
+  - People are more likely to accept an order if they have had a part in the decision that cause the order to be issued. Ask questions instead of giving direct orders.
+  - Let one save face! Hit important, how vitally important it is! And how few of us ever stop to think of it.
+  - Let us praise even the slightest improvement. That inspires the other person to keep on improving.
+  - Everybody likes to be praised, but when praise is specific, it comes across as sincere -- not something the other person may be saying just to make one feel good.
+  - Praise the slightest improvement and praise every improvement.
+  - If you want to improve a person in a certain respect, act as though that particular trait where already one of his or her outstanding characteristics.  "Assume a virtue, if you have it not" And it might be well to assume and state openly that other people have the virtue you want them to develop. Give them a fine reputation to live up to, and they will make prodigious efforts rather than see you disillusioned.
+  - Praise the things others do right, and minimize their errors. Be liberal with your encouragement, make the thing seem easy to do, let the other person know that you have faith in their ability to do it, that they have an undeveloped flair for it.
+  - Always make the other person happy about doing the thing you suggest.  
