@@ -5,63 +5,54 @@
 
 ## [How to win friends and influence people](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople.md) (Dale Carnegie)
 
-## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  
-  
-## [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions.md)
+## [The Foundations of Modern Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics.md) (Steven Weinberg)
 
-## [How emotions are made](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade.md) (Lisa Barrett) 
-  
-## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings.md)
+## [The Red Queen](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen.md) (Matt Ridley)
 
-## [The Button](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)  (William Perrry and Tom ?) 
-  
-##   [The scientific revolution : Aspirations and Achievements](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md)
+## [Deep Work](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork.md)  (Cal Newport)
 
-##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
+## [Super-freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics.md)
 
-##   [Caffeine](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md) (Audio Book)
+## [Homo Deus](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus.md)
 
-##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (By Annie Duke)
- 
-##   [Project Management for Dummies](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
+## [A world without email](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail.md) (Cal Newport)
 
-##   [Electronics (A systems approach)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md)	
+##   [21 Lessons for the 21st Century](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md)
 
-##   [SCRUM](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md) (Jeff Sutherland)
+##   [Awaken the Giant within](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
 
-##   [Map and Territory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md) (Yudakoskwi)
+##  [Freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md)
 
 ##   [Influence](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence.md) (Robert Caldini)
 
-##  [Freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md)
- 
-## Awaken the Giant within
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
+##   [Map and Territory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md) (Yudakoskwi)
 
-## 21 Lessons for the 21st Century
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md)
+##   [SCRUM](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md) (Jeff Sutherland)
 
-## A world without email (Cal Newport)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail.md)
+##   [Electronics (A systems approach)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md)	
 
-## Homo Deus
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus.md)
+##   [Project Management for Dummies](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
 
-## Super-freakonomics
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics.md)
+##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (By Annie Duke)
 
-## Deep Work  (Cal Newport)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork.md)
+##   [Caffeine](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md) (Audio Book)
 
-## The Red Queen (Matt Ridley)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen.md)
+##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
 
-## The Foundations of Modern Physics (Steven Weinberg)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics.md)
+##   [The scientific revolution : Aspirations and Achievements](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md)
 
+## [The Button](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)  (William Perrry and Tom ?) 
 
+## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings.md)
 
-**2020**
+## [How emotions are made](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade.md) (Lisa Barrett) 
+
+## [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions.md)
+
+## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  
+  
+
+# 2020
 
 ## Thinking about Mathematics (Stewart Shapiro)
   - Very good. Not actionable, but very interesting.
