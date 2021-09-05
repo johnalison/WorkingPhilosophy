@@ -5,70 +5,70 @@
 
 ## [How to win friends and influence people](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople.md) (Dale Carnegie)
 
-## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader)  
+## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  
   
-##   [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions)
+## [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions.md)
 
-## [How emotions are made](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade) (Lisa Barrett) 
+## [How emotions are made](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade.md) (Lisa Barrett) 
   
-## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings)
+## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings.md)
 
 ## The Button (William Perrry and Tom ?) 
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)
 
 ## The scientific revolution : Aspirations and Achievements
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md)
 
 ## Sapiens
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
 
-## Caffeine (Audio Book)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine)
+## Caffeine (Audio Book.md)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md)
 
 ## How to decide (By Annie Duke)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md)
 
 ## Project Management for Dummies
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
 
 ## Electronics (A systems approach)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach)	
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md)	
 
 ## SCRUM (Jeff Sutherland)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md)
 
 ## Map and Territory (Yudakoskwi)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md)
 
 ## Influence (Robert Caldini)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence.md)
 
 ## Freakonomics
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md)
  
 ## Awaken the Giant within
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
 
 ## 21 Lessons for the 21st Century
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md)
 
 ## A world without email (Cal Newport)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail.md)
 
 ## Homo Deus
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus.md)
 
 ## Super-freakonomics
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics.md)
 
 ## Deep Work  (Cal Newport)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork.md)
 
 ## The Red Queen (Matt Ridley)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen.md)
 
 ## The Foundations of Modern Physics (Steven Weinberg)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics)
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics.md)
 
 
 
