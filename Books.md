@@ -1,6 +1,7 @@
 
 # How to Take Smart Notes (Sonke Ahrens)
-  [[BookNotes_SmartNotes]]
+   [How to Take Smart Notes](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SmartNotes.md)  (Sonke Ahrens)
+
   
 **2021**
 
