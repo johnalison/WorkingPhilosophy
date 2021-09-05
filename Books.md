@@ -13,38 +13,27 @@
   
 ## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings.md)
 
-## The Button (William Perrry and Tom ?) 
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)
+## [The Button](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)  (William Perrry and Tom ?) 
+  
+##   [The scientific revolution : Aspirations and Achievements](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md)
 
-## The scientific revolution : Aspirations and Achievements
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md)
+##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
 
-## Sapiens
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
+##   [Caffeine](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md) (Audio Book)
 
-## Caffeine (Audio Book.md)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md)
+##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (By Annie Duke)
+ 
+##   [Project Management for Dummies](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
 
-## How to decide (By Annie Duke)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md)
+##   [Electronics (A systems approach)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md)	
 
-## Project Management for Dummies
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
+##   [SCRUM](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md) (Jeff Sutherland)
 
-## Electronics (A systems approach)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md)	
+##   [Map and Territory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md) (Yudakoskwi)
 
-## SCRUM (Jeff Sutherland)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md)
+##   [Influence](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence.md) (Robert Caldini)
 
-## Map and Territory (Yudakoskwi)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md)
-
-## Influence (Robert Caldini)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence.md)
-
-## Freakonomics
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md)
+##  [Freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md)
  
 ## Awaken the Giant within
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
