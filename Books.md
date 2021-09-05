@@ -59,131 +59,15 @@
 
 ## [Mysticism and Logic](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MysticismAndLogic.md) (Bertrand Russel)
 
-## Beyond Good and Evil](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
-  - Wasn't doing it for me (Bailed halfway through)
-  - Could tell (got the feeling) that it was interesting to the cognoscenti
-  - But too much over my head.
-  - "Christianity is Platonism for the people"
-  - Critique of " I think therefore I am" a thought comes when it wants, not when I want it to.
-  - It is not the worst things of which one is most ashamed.
-  - He who attains his ideal by that very fact transcends it.
-  - There are no moral phenomena, only moral interpretations of phenomena
-  - To make someone interested in you: pretend to be embarrassed in their presence.
-  - The will to overcome an emotion is ultimately the will of another emotion.
-  - He who fights monsters should be careful he doesn't become one. When you gaze long into an abyss the abyss gazes into you.
-  - Madness is rare in individuals, but in groups, parties, peoples it is the norm.
-  - Ultimately one loves ones desires and not that which is desired.
+## [Beyond Good and Evil](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BeyondGoodAndEvil.md)
 
-## 40 Ways to view Churchill](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
-  - Good book, just not getting that much from it. (Bailed halfway through)
-  - Interesting take on Biography: presenting both/all sides of person
-  - How little we can know anyone, and how impossible is the task of summing up.
-  - Churchill ignited a monetary crisis when he returned Britain to the gold standard in 1925.
-  - Churchill was vehemently opposed to Indian independence.
-  - "I would rather by right than consistent"s
+## [40 Ways to view Churchill](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/40WaysToViewChurchill.md)
 
-## Bullet Journal Method](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
-  - Very good idea
-  - Like the idea of documenting my life
-  - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
-  - View BuJo as a living autobiography
-  - Can track the decisions you've made, the actions that led you to where you are now. Can learn from experiences.
-  - The long way is the short way.
-  - True efficiency is not about speed, its about spending more time with what truly matters.
-  - Our memories are unreliable.
-  - The more content you try to capture during a meeting the less your thinking about whats being said. You burn through most of you attention trying to parrot the source.
-  - (re: meetings) Sit for a while and give yourself a moment to process what you heard
-  - When making notes: keep your future self in mind.
-  - For everything you say yes to, your saying no to something else. Yes means work, sacrifice, time, and opportunity cost.
-  - Organization can become a cleverly disguised form of distraction.
-  - "It is not daily increase, but daily decrease. Hack away the inessential" Bruce Lee
-  - (re: social media) "Exploiting vulnerability in human psychology is the bread and butter of our economy" -founding member of facebook
-  - Endurance often proves to be the most cunning and lethal adversary.
-  - If your goal in life is to be useful to others, start by figuring out how to be useful to yourself.
-  - Add notes about social engagements: have fun ? What did you learn ? How did you feel when you where with them ? (Objective measures)
+## [Bullet Journal Method](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BulletJournalMethod.md)
 
-## Fearless Symmetry](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
-  - Not bad.  Good attempt to explain cutting edge math.
-  - Tough going in the end, probably could have been done better.
-  - Mathematical definitions create usage, not describe it.
-  - Mathematical definitions cannot be wrong, only inconsistent or useless.
-  - Lie group theory a marriage between calculus and group theory
-  - Complex numbers forced on the world when solving CUBIC equiations. (Assumed x^2 + 1 = 0 had no solutions) Intermediate steps of the cubic equation involve imaginary numbers even though the final solutions are real.
-  - Every root of a complex equation is already in C.
-  - "2x3xR=C" the bible,  ie "pi = 3" the bible.
-  - There is no (cannot be) a general method for finding all integer solutions to all systems of Z-equations in many variables
-  - Pi is not in Q-Alg, this fact is apparently very hard to prove.
-  - Not every number in Q-Alg can be obtained from the integers with repeated application of +,-,*,/ and ()^(1/n).
-  - There is only one element of G (The absolute Galois Group) other than the identity which we can give a complete discription: complex conjugation.
-  - A representation that is not faithful emphasizes certiant features of the sourse group and obscures others, enabling us to better understand the source group.
-  - Some very large and complicated groups have been shown to be isomorphic to the Galois group of a poly-nominal (Including the Monster group)
-  - Open conjectures: Poincare, Riemann Hypothesis, P==NP
-  - Proving things about poly-nominals usual much easier than proving things about integers: Poly-Nominals have roots and can be differentiated.
-    (Is there a notion of differentiation that can be applied to integers? Primes? )
+## [Fearless Symmetry](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FearlessSymmetry.md)
 
-## Poor Richards Almanac](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Ben Franklin)
-  - "No ugly lovers, no handsome prisons"
-  - "Speak with contempt of none, from slave to king. The smallest bee has, (and will use) a sting"
-  - Hear Reason, or shell make you feel here.
-  - Make haste slowly
-  - The way to see faith is to shut the eye of reason
-  - Trick and treachery are the practice of fool , without the wit to be honest
-  - When you speak to a man look at his eyes, when he speaks to you look at his mouth.
-  - Observe all men, yourself the most
-  - Wish not so much to live long, but to live well.
-  - Eat to please yourself, dress to please others
-  - Search others for their virtues, yourself for you vices.
-  - Wink at small faults, remember you have great ones
-  - Each year one vicious habit routed out, in time might made worst man good throughout.
-  - Content makes poor men rich, Discontent makes rich men poor.
-  - You can bear your own faults, why not the faults of your wife?
-  - Why know the names, if you do not know the nature of things?
-  - Learn from the skillful: He that teaches himself has a fool as a master
-  - Great beauty, great strength, and great riches are really of no great use a right heart exceeds all.
-  - Hes a fool that cannot conceal his wisdom
-  - Fools make feasts, wise men eat them
-  - Many complain of their memory, few of their judgment.
-  - The eye of the master will do more work than his hand.
-  - Whats given shines, whats received is rusty.
-  - He is not well-bred that cannot bear ill-breading in others.
-  - Eat to live, live not to eat.
-  - To lengthen your life, lessen you meals.
-  - The best physician knows the worthless-ness of most medicines.
-  - He that wont be counseled, cannot be helped
-  - People who are wrapped up in themselves make small packages.
-  - Whatever begins in anger, ends in shame.
-  - Keep eyes wide open before marriage, half shut afterwards.
-  - He that speaks much is much mistaken.
-  - Prosperity discovers vice, adversity and virtue.
-  - Many a man would have been worse if his estate had been better.
-  - He that lives well is learned enough.
-  - Reading makes a man full, meditation a profound man, discourse a clear man.
-  - Its easier to suppress the first desire than all that follow.
-  - He that pursues two hares at once, does not catch one and lets the other go.
-  - Is there anything that man takes more pains about that to make themselves unhappy?
-  - If you love life you will not squander time. Its what life is made of.
-  - Good sense is something all need, few have, and none think they want.
-  - Silence is not always a sign of wisdom, but babbling is always a sign of folly.
-  - A long life might not always be good enough, but a good life is always long enough.
-  - Suspicion may be no fault, but sharing it may be a great one
-  - The end of passion (emotion) is the beginning of repentance.
-  - Being ignorant is not so shameful as being unwilling to learn.
-  - To be proud with knowledge is to be blind with light.
-  - Men take more pains to mask than to mend.
-  - Easier to build two chimneys than to maintain fuel in one.
-  - The 12 virtues:
-     1. Temperance: Dont eat to dullness or drink to elevation
-     2. Silence: Speak only of what will benefit you or others. Avoid trifling conversation.
-     3. Order: Let all your things have their place, all your business its time. 
-     4. Resolutions: Resolve to do what you should.
-     5. Frugality: Waste nothing.
-     6. Industry: Lost no time. Always be doing something useful. Cut off all unnecessary actions.
-     7. Sincerity: Think innocently and justly. If you speak, speak accordingly.
-     8. Justice: Wrong none by doing injuries or omitting benefits that are your duty.
-     9. Moderation: Avoid extremes. Do not resent injuries as much as you think they deserve.
-     10. Cleanliness: Tolerate no uncleanliness
-     11. Tranquility: Do not be disturbed by trifles or at accidents.
-     12. Humility     
+## [Poor Richards Almanac](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PoorRichardsAlmanac.md) (Ben Franklin)
 
 ## Blood Meridian](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Cormack McCarthy)
   - Good. Entertaining (A lot probably went over my head). Very gory. 
