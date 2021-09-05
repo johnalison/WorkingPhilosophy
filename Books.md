@@ -51,91 +51,15 @@
 
 ## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  
   
-
 # 2020
 
-## Thinking about Mathematics (Stewart Shapiro)
-  - Very good. Not actionable, but very interesting.
-  - Come down with Structuralism
-  - Classical logic and impredicative definitions are thoroughly entrenched in contemporary mathematics. Accepted not b/c sanction philosophically, but b/c smooth practice of math needs them.
-  - Lowenheim-Skolem Theorems: Notions of natural number finitude, ect. cannot be captured in 1st order theories. Any 1st order theory, if it has infinite models, has unintended models that get these notions wrong.
-  - Virtually all of math can be rendered in the language of set-theory, and all known theorems in math can be proved in ZFC (a version of set theory). However many interesting and important questions cannot be decided by ZFC axioms. eg: Cantors Continuum Hypothesis
-  - Incompleteness theorem: Realist says it shows there is no axiomatization whose theorems are all and only the truths of arithmetic.
-    "There is more to truth that provability in the deductive system"
-    Arithmetic truth out runs formal provability
-  - The incompleteness theorem shows that the undecidable sentence phi is truth of the natural numbers => we have an informal proof of the truth of the formally undecidable sentence. There is more to arithmetic provability than can be derived in any fixed formal axiomatization. => arithmetic truth and informal arithmetic provability both out run what can be produced by a machine.
-  - Kant took philosophical measure of the new scientific 19th C developments. The result was a heroic attempt to explain the necessity of math and the apriori nature of mathematical truths, while explaining the place of math in the empirical sciences.
-  - Kant claimed: Structure of mathematical reasoning due to the structure of our apparatus of perception.
-  - Widely agreed that Kants philosophy of math failed from later developments in math and science eg: non-euclidean Geometry.
-  - Frege committed to view that all propositions about numbers are knowable. (T or F)
-  - More Incompleteness: Truth values of undecidable statements can be decided by embedding them in a richer structure. Also common practice of mathematicians, eg: invoke structures far richer than a statement they are trying to prove.
-  - Most real numbers do not have names.
-  - No consistent theory can prove its own consistency (More incompleteness)
-  - How can humans, physical organisms in a physical universe, have knowledge of a casually inert realm of abstract objects?
-  - Structuralism: The essence of a natural number is its relation  to other numbers. The subject matter of arithmetic is a single abstract structure. Set theorist point out that the set theoretic hierarchy contains as many isomorphissms types as possible. that is the point of the theory.
+## [Thinking about Mathematics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkingAboutMath.md) (Stewart Shapiro)
 
-## The Denial of Death (Earnest Becker)
-  - Interesting found it too speculative in places.
-  - Seemed to be speaking to very specific field in places (eg: why do I /should I care what Freud was like as a person?)
-  - Places great faith (with out justification) in psychoanalysis.
-  - The man of knowledge in our time has a burden he never imaged, the overproduction of truth that cannot be consumed. Use to believe that truth was slim and elusive and once we found it our troubles would be over. Now we are choking in truth.
-  - Knowledge is in a state of useless overproduction. Insignificant fragments are magnified out of proportion, while major and historical insights lie around begging for attention.
-  - The experts give us manageable thrills -- if they thrill us at all.
-  - Narcissism is what keeps men marching into  point blank cannon fire in wars.
-  - Civilized society is a hopeful belief and protest that science and and goods "make men count" for mare than any other animal. In this sense, everything that man does is religious and heroic and yet in danger of being fictitious and fallible.
-  - The crisis of modern society is that the youth no longer feel heroic in the plan for action that culture has set up
-  - Children have no knowledge of death until 3-5
-  - From the child of 5 to myself is but a step, but from the newborn baby to the child of 5 is an appalling distance.
-  - Nothing like the essence of man has been found.
-  - Mans self-consciousness makes man a small god in nature, yet at the same time man is a worm and food for worms. This duality is a painful contradiction. Lower animal spared this contradiction. (Q: Are we spared other painful contradictions from our limited knowledge/being ?
-  - We are gods with anuses
-  - The basic insight of psychology for all time: Man is a union of opposites, of self-consciousness and physical body.
-  - Most people tranquilize themselves in the trivial.
-  - Man has an inner symbolic self which signifies certain freedom, but he is bound by a finite body which limits that freedom.
-  - The self must be destroyed, brought down to nothing, in order for self-transcendence to begin. Then the self can begin to relate to powers beyond itself.
-  - Man is the only organism in nature fated to puzzle out what it actually means to feel "right"
-  - The most remarkable achievement in the Christian world picture: anyone can be a secure hero simply by taking a step back from the world into another dimension of things: heaven.
-  - Nature conquers death not by creating eternal organisms but by making it possible for ephemeral ones to procreate.
-  - As soon as a man lifts his nose from the ground and starts sniffing at eternal problems like life and death... he is in trouble. Most men spare themselves this trouble by keeping their minds on the small problems of their lives just as society maps these problems out for them.
-  - All throughout history it is the "normal, average men" who, like locusts, have laid waste to the world in order to forget themselves.
-  - Salpetrice mental hospital got cleared out at the time of the French Revolution. All the neurotics found a ready-made donor of self-transcending action and heroic identity.
-  - The promise of Psychology was that it would usher in the era of happiness of man, by showing him how things worked, how one things causes another. Then all man had to do was take possession of these and his happiness would be assured.
-  - All the analysis in the world doesn't allow a person to find out "who he is" or why he is here on earth, why he has to die, how he should live. It is when psychology pretends to do this (when it pretends to offer itself as full explanation for human unhappiness) that it becomes a fraud.
-  - Religion is "just as good a psychology" as the psychology that pretended to replace it.
-  - Modern man needs someone to turn to for spiritual dependence, as God is unfashionable in steps the therapist.
-  - Claim: after the most exhaustive psychology quest, psychology gives way to theology
-  - (DFW echos)  It is one thing to image this (theological) cure, but it is quite another thing to "prescribe" it to modern man. How hollow it must ring in his ears.
-  - Freud: All cultural devices are self-hypnotic contrivances - from cars to moon rockets - ways that a surely limited animal can fascinate himself in an attempt to transcend reality.
-  - The most one can achieve is a certain relaxedness an openness to experience that makes him less of a driven burden on others.
-  - When evolution gave man a self an inner symbolic world of experience, it split him in two, gave him added burden. This burden seems the price that had to be paid in order to attain more life, experience and self-consciousness.
-  - The closing pages of this book are a realistic and regretful admission that the ego has to spread itself beyond the pleasures of the body in order for men to be men.
+## [The Denial of Death](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DenialOfDeath.md) (Earnest Becker)
 
-## Mysticism and Logic (Bertrand Russel)
-  - essays where hit or miss.
-  - Philosophers have felt the need of both science and mysticism. Attempts to harmonize the two make philosophy (for some) greater than science or religion.
-  - Plato's Cave: statement of belief in knowledge and reality truer than our senses
-  - Mysticism is to be commended as an attitude toward life, not as a creed about the world.
-  - Insight, untested and unsupported is an insufficient guarantee of truth.
-  - Instinct is least likely to err in practical matters which aid in survival.
-  - Some distrust intellect in favor of instincts adapted for survival. Response:  It is only through the intellect that we know of the struggle for survival and the evolution of man.
-  - Those who forget good and evil and seek only to know the facts are more likely to achieve good than those who view the world through the distortion of their own desires.
-  - Scientific philosophy comes nearer to objectivity than any other human pursuit. It gives us the closest constant and most intimate relation with the outer world that is possible.
-  - Our whole life if built of a number of primary instincts and impulses. Only that which is in some way connected with these (instincts and impulses) appear to us desirable or important. There is nothing (call it "reason" or "virtue") that can be outside these first movers
-  - All meaning must be related to our prime desires.
-  - The mere fact of living is not to be desired, but the art of living in contemplation of great things.
-  - The solution of the difficulties which formerly surrounded the mathematical infinite is probably the greatest achievement of our age.
-  - G Cantor has solved Zeno's paradoxes, turns out that its not true that if you take something away from a collection it always gets smaller. The recognition of this fact removes the difficulties and make an exact science of the infinite.
-  - Pure math was discovered by Boole "Laws of thought" 1854
-  - Math can be defined as the subject in which we never know what we're talking about, nor weather what we are saying is true.
-  - Obviousness is always the enemy of correctness.
-  - The whole of arithmetic and algebra has been shown to require 3 indefinable notions and 5 indemonstrable propositions.
-  - Most numbers are infinite. Infinitely many more infinite numbers.
-  - Philosophy is the science of the possible.
-  - You cannot alter the past, but you can also not make the future other than it will be.
-  - Obviously you can have no effect on the past. But this does not mean that the past would not have been different if our present wishes had been different. Our present wishes are conditioned by the past and therefore could not be different unless the past was different. The past cannot be different from what it was , but no more can our present wishes be different from what they are.
-  - Its hard to discover any state of mind which I am aware of myself alone, as opposed to a complex of which I am a constituent.
+## [Mysticism and Logic](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MysticismAndLogic.md) (Bertrand Russel)
 
-## Beyond Good and Evil
+## Beyond Good and Evil](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
   - Wasn't doing it for me (Bailed halfway through)
   - Could tell (got the feeling) that it was interesting to the cognoscenti
   - But too much over my head.
@@ -150,7 +74,7 @@
   - Madness is rare in individuals, but in groups, parties, peoples it is the norm.
   - Ultimately one loves ones desires and not that which is desired.
 
-## 40 Ways to view Churchill
+## 40 Ways to view Churchill](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
   - Good book, just not getting that much from it. (Bailed halfway through)
   - Interesting take on Biography: presenting both/all sides of person
   - How little we can know anyone, and how impossible is the task of summing up.
@@ -158,7 +82,7 @@
   - Churchill was vehemently opposed to Indian independence.
   - "I would rather by right than consistent"s
 
-## Bullet Journal Method
+## Bullet Journal Method](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
   - Very good idea
   - Like the idea of documenting my life
   - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
@@ -178,7 +102,7 @@
   - If your goal in life is to be useful to others, start by figuring out how to be useful to yourself.
   - Add notes about social engagements: have fun ? What did you learn ? How did you feel when you where with them ? (Objective measures)
 
-## Fearless Symmetry
+## Fearless Symmetry](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
   - Not bad.  Good attempt to explain cutting edge math.
   - Tough going in the end, probably could have been done better.
   - Mathematical definitions create usage, not describe it.
@@ -197,7 +121,7 @@
   - Proving things about poly-nominals usual much easier than proving things about integers: Poly-Nominals have roots and can be differentiated.
     (Is there a notion of differentiation that can be applied to integers? Primes? )
 
-## Poor Richards Almanac (Ben Franklin)
+## Poor Richards Almanac](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Ben Franklin)
   - "No ugly lovers, no handsome prisons"
   - "Speak with contempt of none, from slave to king. The smallest bee has, (and will use) a sting"
   - Hear Reason, or shell make you feel here.
@@ -261,13 +185,13 @@
      11. Tranquility: Do not be disturbed by trifles or at accidents.
      12. Humility     
 
-## Blood Meridian (Cormack McCarthy)
+## Blood Meridian](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Cormack McCarthy)
   - Good. Entertaining (A lot probably went over my head). Very gory. 
   - Dont actually have much that I took away.
   - "People see what they want to see".  "Then how come I ant seeing it now? I sure as want to."
   - "Books lie", "God dont lie", No said the judge, He does not and these are his words (holds up a chunk of rock) "He speaks in stones, trees, the bones of things"
 
-## My Journey to the Nuclear Brink" (W. Perry)
+## My Journey to the Nuclear Brink"](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (W. Perry)
   - Average overall. More of a memoir than anything.
   - During the Cuban missile crisis an American ICBM was launched. It was a routine test that no one thought to reschedule.
   - After missing a bid for a Govt. contract, start-up company went out and loaned their employees to other companies that had gotten the contract as a way to keep their talent in house.
@@ -278,7 +202,7 @@
   - The problem is not how long it will take governments to reduce nukes to zero, but that governments now aren't moving at all. 
   - Key to constructive action to prevent nuclear weapons being used is education of the public.
 
-## The Art of Worldly Wisdom (Baltasar Gracian) 
+## The Art of Worldly Wisdom](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Baltasar Gracian) 
   - Great work!
   - Mix a little mystery with everything
   - A resolution declared in sever highly thought of, it only leaves room for criticism. 
@@ -377,7 +301,7 @@
   - Always act as if you were seen.
 
 
-## Crime and Punishment
+## Crime and Punishment](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
   - Overall entertaining, but I would say, not profound.
   - Probably missed a lot in between the lines.	
   - "Words are not deeds"
@@ -397,7 +321,7 @@
   - "The fear of appearances is the first symptom of impotence"
 
 
-## Hacking Darwin (Metzl) 
+## Hacking Darwin](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Metzl) 
   - Average. Good start, very repetitive, lot of fluff (could have been 1/2 as long) 
   - 3.8B years ago single cell organisms emerged.
   - Sex invented 1.3B years ago (accelerated evolution) 
@@ -430,11 +354,8 @@
   - Diversity has been and remains sole survival strategy of our species
 
 
-## Mental Models Part 1 (The knowledge project)
-  - See mental models section
 
-
-## Extreme Ownership (Jocko Wilnick) 
+## Extreme Ownership](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Jocko Wilnick) 
  - Very good
  - Overly wordy, but many good points
  - Extreme Ownership: 
@@ -496,7 +417,7 @@
  - When you are too embarrassed to ask for help: That's a little knock at the door saying "You're insecure!"
 
 
-## Ten Discoveries that Rewrote History (Patrick Hunt)
+## Ten Discoveries that Rewrote History](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Patrick Hunt)
  - Rosetta Stone - key to Egyptian writing: hieroglyphs
  - Troy - Discipline of archaeology started here. Soil and whats in it also can be read like books. Established truth behind Homeric poems.
  - Nineveh Library - Collection of 20k tablets form 1st military empire: Assyrians. Known for cruelty. Capital city burned. 
@@ -509,7 +430,7 @@
  - Tomb of 10k warriors - Key to understanding how China unified. 
 
 
-## Breath: the new science of a lost art
+## Breath: the new science of a lost art](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
  - Fantastic
  - 90% of us are breathing incorrectly, deteriorated over ages (dysevolution) 
  - molecules you breath in build your bones, (we "eat air") 
@@ -549,7 +470,7 @@
  - If not in deep sleep (eg from chronic sleep apnea) vasopressin wont release and we will have to urinate more. 
 
 
-## David Foster Wallace Bio ("Every Love Story Is a Ghost Story")
+## David Foster Wallace Bio ("Every Love Story Is a Ghost Story")](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
   - Good 
   - Serous mental problems, Big pot and alcohol problems, big into AA.
   - Interested in Buddhism
@@ -573,12 +494,12 @@
     > Learning how to think really means being aware enough to choose what you pay attention to and to **choose** how you construct meaning from experience
 
 
-## Fumble Rules (guide to grammar and usage)
+## Fumble Rules (guide to grammar and usage)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/
  - Overly clever, not enough actionable information.
  - Some of it: kill "with regard to", "with reference to", "on account of", "by means of", "as regards", "with the exception of"
 
 
-## Stoic Test Challenge (William Irvine)
+## Stoic Test Challenge](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (William Irvine)
  - Great Book!
  - Definitely changed my life for the better. 
  - Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
@@ -587,22 +508,21 @@
  - What up sets people is not the setbacks in themselves, but there judgements of them. 
 
 
-## Breakfast of Champions (Kurt Vonnegut)
+## Breakfast of Champions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ (Kurt Vonnegut)
  - Didn't really get it. Was obviously a lot of cleaver stuff going on, most of it was over my head. 
  - "I thank those lusts (of gold and seeing little girls underpants) for being so ridiculous for they taught us that it was possible for a human being to believe anything"
  - "Ideas on earth were badges of friendship. Friends agreed with friends to express friendliness. Enemies disagreed with  enemies in order to express enmity."
  - "Seems like the only kind of job an American can get these days is committing suicide in some way"
  - I wont know myself until I find out whether life is serious or not"
 
+## [Rise and Fall of American Growth](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RiseAndFallAmericanGrowth.md) (Robert Gordon)
+  
 
-## Rise and Fall of American Growth (Robert Gordon)
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RiseAndFallAmericanGrowth.md)
+## [Fight Club](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FightClub.md) (Cluck Palahniuk)
+ 
 
-## Fight Club (Cluck Palahniuk)
- [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FightClub.md)
-
-## The Road to Reality (Roger Penrose)
- [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RoadToReality.md)
+## [The Road to Reality](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RoadToReality.md) (Roger Penrose)
+ 
 
 ## Discipline equals freedom
 
