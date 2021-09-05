@@ -2,7 +2,9 @@
 **2021**
 
 # [How to Take Smart Notes](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SmartNotes.md)  (Sonke Ahrens)
-   
+
+# [How to win friends and influence people](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople.md) (Dale Carnegie)
+
 
 # The Epicurus Reader
   [[BookNotes_TheEpicurusReader]]  
@@ -73,8 +75,6 @@
 # The Foundations of Modern Physics (Steven Weinberg)
   [[BookNotes_FoundationsModernPhysics]]
 
-# How to win friends and influence people (Dale Carnegie)
-  [[BookNotes_HowToWinFriendsAndInfluencePeople]]
 
 
 **2020**
