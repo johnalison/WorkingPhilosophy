@@ -5,79 +5,76 @@
 
 ## [How to win friends and influence people](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople.md) (Dale Carnegie)
 
-# [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader)  
+## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader)  
   
-# Writing GNU Emacs Extensions
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions)
+##   [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions)
 
-# How emotions are made (Lisa Barrett) 
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade)
+## [How emotions are made](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade) (Lisa Barrett) 
+  
+## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings)
 
-# The Design of everyday things
-  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings)
-
-# The Button (William Perrry and Tom ?) 
+## The Button (William Perrry and Tom ?) 
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton)
 
-# The scientific revolution : Aspirations and Achievements
+## The scientific revolution : Aspirations and Achievements
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements)
 
-# Sapiens
+## Sapiens
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens)
 
-# Caffeine (Audio Book)
+## Caffeine (Audio Book)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine)
 
-# How to decide (By Annie Duke)
+## How to decide (By Annie Duke)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide)
 
-# Project Management for Dummies
+## Project Management for Dummies
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies)
 
-# Electronics (A systems approach)
+## Electronics (A systems approach)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach)	
 
-# SCRUM (Jeff Sutherland)
+## SCRUM (Jeff Sutherland)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM)
 
-# Map and Territory (Yudakoskwi)
+## Map and Territory (Yudakoskwi)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory)
 
-# Influence (Robert Caldini)
+## Influence (Robert Caldini)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence)
 
-# Freakonomics
+## Freakonomics
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics)
  
-# Awaken the Giant within
+## Awaken the Giant within
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin)
 
-# 21 Lessons for the 21st Century
+## 21 Lessons for the 21st Century
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury)
 
-# A world without email (Cal Newport)
+## A world without email (Cal Newport)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail)
 
-# Homo Deus
+## Homo Deus
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus)
 
-# Super-freakonomics
+## Super-freakonomics
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics)
 
-# Deep Work  (Cal Newport)
+## Deep Work  (Cal Newport)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork)
 
-# The Red Queen (Matt Ridley)
+## The Red Queen (Matt Ridley)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen)
 
-# The Foundations of Modern Physics (Steven Weinberg)
+## The Foundations of Modern Physics (Steven Weinberg)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics)
 
 
 
 **2020**
 
-# Thinking about Mathematics (Stewart Shapiro)
+## Thinking about Mathematics (Stewart Shapiro)
   - Very good. Not actionable, but very interesting.
   - Come down with Structuralism
   - Classical logic and impredicative definitions are thoroughly entrenched in contemporary mathematics. Accepted not b/c sanction philosophically, but b/c smooth practice of math needs them.
@@ -97,7 +94,7 @@
   - How can humans, physical organisms in a physical universe, have knowledge of a casually inert realm of abstract objects?
   - Structuralism: The essence of a natural number is its relation  to other numbers. The subject matter of arithmetic is a single abstract structure. Set theorist point out that the set theoretic hierarchy contains as many isomorphissms types as possible. that is the point of the theory.
 
-# The Denial of Death (Earnest Becker)
+## The Denial of Death (Earnest Becker)
   - Interesting found it too speculative in places.
   - Seemed to be speaking to very specific field in places (eg: why do I /should I care what Freud was like as a person?)
   - Places great faith (with out justification) in psychoanalysis.
@@ -133,7 +130,7 @@
   - When evolution gave man a self an inner symbolic world of experience, it split him in two, gave him added burden. This burden seems the price that had to be paid in order to attain more life, experience and self-consciousness.
   - The closing pages of this book are a realistic and regretful admission that the ego has to spread itself beyond the pleasures of the body in order for men to be men.
 
-# Mysticism and Logic (Bertrand Russel)
+## Mysticism and Logic (Bertrand Russel)
   - essays where hit or miss.
   - Philosophers have felt the need of both science and mysticism. Attempts to harmonize the two make philosophy (for some) greater than science or religion.
   - Plato's Cave: statement of belief in knowledge and reality truer than our senses
@@ -158,7 +155,7 @@
   - Obviously you can have no effect on the past. But this does not mean that the past would not have been different if our present wishes had been different. Our present wishes are conditioned by the past and therefore could not be different unless the past was different. The past cannot be different from what it was , but no more can our present wishes be different from what they are.
   - Its hard to discover any state of mind which I am aware of myself alone, as opposed to a complex of which I am a constituent.
 
-# Beyond Good and Evil
+## Beyond Good and Evil
   - Wasn't doing it for me (Bailed halfway through)
   - Could tell (got the feeling) that it was interesting to the cognoscenti
   - But too much over my head.
@@ -173,7 +170,7 @@
   - Madness is rare in individuals, but in groups, parties, peoples it is the norm.
   - Ultimately one loves ones desires and not that which is desired.
 
-# 40 Ways to view Churchill
+## 40 Ways to view Churchill
   - Good book, just not getting that much from it. (Bailed halfway through)
   - Interesting take on Biography: presenting both/all sides of person
   - How little we can know anyone, and how impossible is the task of summing up.
@@ -181,7 +178,7 @@
   - Churchill was vehemently opposed to Indian independence.
   - "I would rather by right than consistent"s
 
-# Bullet Journal Method
+## Bullet Journal Method
   - Very good idea
   - Like the idea of documenting my life
   - From nurse at a hospice center: The number one regret was that people wished they had stayed true to themselves
@@ -201,7 +198,7 @@
   - If your goal in life is to be useful to others, start by figuring out how to be useful to yourself.
   - Add notes about social engagements: have fun ? What did you learn ? How did you feel when you where with them ? (Objective measures)
 
-# Fearless Symmetry
+## Fearless Symmetry
   - Not bad.  Good attempt to explain cutting edge math.
   - Tough going in the end, probably could have been done better.
   - Mathematical definitions create usage, not describe it.
@@ -220,7 +217,7 @@
   - Proving things about poly-nominals usual much easier than proving things about integers: Poly-Nominals have roots and can be differentiated.
     (Is there a notion of differentiation that can be applied to integers? Primes? )
 
-# Poor Richards Almanac (Ben Franklin)
+## Poor Richards Almanac (Ben Franklin)
   - "No ugly lovers, no handsome prisons"
   - "Speak with contempt of none, from slave to king. The smallest bee has, (and will use) a sting"
   - Hear Reason, or shell make you feel here.
@@ -284,13 +281,13 @@
      11. Tranquility: Do not be disturbed by trifles or at accidents.
      12. Humility     
 
-# Blood Meridian (Cormack McCarthy)
+## Blood Meridian (Cormack McCarthy)
   - Good. Entertaining (A lot probably went over my head). Very gory. 
   - Dont actually have much that I took away.
   - "People see what they want to see".  "Then how come I ant seeing it now? I sure as want to."
   - "Books lie", "God dont lie", No said the judge, He does not and these are his words (holds up a chunk of rock) "He speaks in stones, trees, the bones of things"
 
-# My Journey to the Nuclear Brink" (W. Perry)
+## My Journey to the Nuclear Brink" (W. Perry)
   - Average overall. More of a memoir than anything.
   - During the Cuban missile crisis an American ICBM was launched. It was a routine test that no one thought to reschedule.
   - After missing a bid for a Govt. contract, start-up company went out and loaned their employees to other companies that had gotten the contract as a way to keep their talent in house.
@@ -301,7 +298,7 @@
   - The problem is not how long it will take governments to reduce nukes to zero, but that governments now aren't moving at all. 
   - Key to constructive action to prevent nuclear weapons being used is education of the public.
 
-# The Art of Worldly Wisdom (Baltasar Gracian) 
+## The Art of Worldly Wisdom (Baltasar Gracian) 
   - Great work!
   - Mix a little mystery with everything
   - A resolution declared in sever highly thought of, it only leaves room for criticism. 
@@ -400,7 +397,7 @@
   - Always act as if you were seen.
 
 
-# Crime and Punishment
+## Crime and Punishment
   - Overall entertaining, but I would say, not profound.
   - Probably missed a lot in between the lines.	
   - "Words are not deeds"
@@ -420,7 +417,7 @@
   - "The fear of appearances is the first symptom of impotence"
 
 
-# Hacking Darwin (Metzl) 
+## Hacking Darwin (Metzl) 
   - Average. Good start, very repetitive, lot of fluff (could have been 1/2 as long) 
   - 3.8B years ago single cell organisms emerged.
   - Sex invented 1.3B years ago (accelerated evolution) 
@@ -453,11 +450,11 @@
   - Diversity has been and remains sole survival strategy of our species
 
 
-# Mental Models Part 1 (The knowledge project)
+## Mental Models Part 1 (The knowledge project)
   - See mental models section
 
 
-# Extreme Ownership (Jocko Wilnick) 
+## Extreme Ownership (Jocko Wilnick) 
  - Very good
  - Overly wordy, but many good points
  - Extreme Ownership: 
@@ -519,7 +516,7 @@
  - When you are too embarrassed to ask for help: That's a little knock at the door saying "You're insecure!"
 
 
-# Ten Discoveries that Rewrote History (Patrick Hunt)
+## Ten Discoveries that Rewrote History (Patrick Hunt)
  - Rosetta Stone - key to Egyptian writing: hieroglyphs
  - Troy - Discipline of archaeology started here. Soil and whats in it also can be read like books. Established truth behind Homeric poems.
  - Nineveh Library - Collection of 20k tablets form 1st military empire: Assyrians. Known for cruelty. Capital city burned. 
@@ -532,7 +529,7 @@
  - Tomb of 10k warriors - Key to understanding how China unified. 
 
 
-# Breath: the new science of a lost art
+## Breath: the new science of a lost art
  - Fantastic
  - 90% of us are breathing incorrectly, deteriorated over ages (dysevolution) 
  - molecules you breath in build your bones, (we "eat air") 
@@ -544,7 +541,7 @@
    > w/o o2 anaerobic - uses glucose quick easy inefficient, can be toxic. What 1st min of intense exercise sucks
  
  - Interior of nose blanketed with erectile tissue. 
- - Mouth breathing #1 cause of cavities
+ - Mouth breathing ##1 cause of cavities
  - Greatest indicator of life-span is lung capacity
  - Internal organs are malleable
  - We have 100x more c02 in our bodies than o2.
@@ -572,7 +569,7 @@
  - If not in deep sleep (eg from chronic sleep apnea) vasopressin wont release and we will have to urinate more. 
 
 
-# David Foster Wallace Bio ("Every Love Story Is a Ghost Story")
+## David Foster Wallace Bio ("Every Love Story Is a Ghost Story")
   - Good 
   - Serous mental problems, Big pot and alcohol problems, big into AA.
   - Interested in Buddhism
@@ -596,12 +593,12 @@
     > Learning how to think really means being aware enough to choose what you pay attention to and to **choose** how you construct meaning from experience
 
 
-# Fumble Rules (guide to grammar and usage)
+## Fumble Rules (guide to grammar and usage)
  - Overly clever, not enough actionable information.
  - Some of it: kill "with regard to", "with reference to", "on account of", "by means of", "as regards", "with the exception of"
 
 
-# Stoic Test Challenge (William Irvine)
+## Stoic Test Challenge (William Irvine)
  - Great Book!
  - Definitely changed my life for the better. 
  - Philosophy of life: what in life is worth having and what is a strategy for obtaining it. 
@@ -610,7 +607,7 @@
  - What up sets people is not the setbacks in themselves, but there judgements of them. 
 
 
-# Breakfast of Champions (Kurt Vonnegut)
+## Breakfast of Champions (Kurt Vonnegut)
  - Didn't really get it. Was obviously a lot of cleaver stuff going on, most of it was over my head. 
  - "I thank those lusts (of gold and seeing little girls underpants) for being so ridiculous for they taught us that it was possible for a human being to believe anything"
  - "Ideas on earth were badges of friendship. Friends agreed with friends to express friendliness. Enemies disagreed with  enemies in order to express enmity."
@@ -618,23 +615,23 @@
  - I wont know myself until I find out whether life is serious or not"
 
 
-# Rise and Fall of American Growth (Robert Gordon)
+## Rise and Fall of American Growth (Robert Gordon)
   [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RiseAndFallAmericanGrowth.md)
 
-# Fight Club (Cluck Palahniuk)
+## Fight Club (Cluck Palahniuk)
  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FightClub.md)
 
-# The Road to Reality (Roger Penrose)
+## The Road to Reality (Roger Penrose)
  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RoadToReality.md)
 
-# Discipline equals freedom
+## Discipline equals freedom
 
-# The great influenza
+## The great influenza
 
-# Stillness is the Key
+## Stillness is the Key
 
-# The Daily Stoic
+## The Daily Stoic
 
-# Laws of Human Nature
+## Laws of Human Nature
 
-# Why we sleep
+## Why we sleep
