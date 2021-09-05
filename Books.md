@@ -5,75 +5,73 @@
 
 # [How to win friends and influence people](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople.md) (Dale Carnegie)
 
-
-# The Epicurus Reader
-  [[BookNotes_TheEpicurusReader]]  
+# [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader)  
   
 # Writing GNU Emacs Extensions
-  [[BookNotes_WritingGNUEmacsExtensions]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions)
 
 # How emotions are made (Lisa Barrett) 
-  [[BookNotes_HowEmotionsAreMade]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade)
 
 # The Design of everyday things
-  [[BookNotes_TheDesignOfEverydayThings]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings)
 
 # The Button (William Perrry and Tom ?) 
-  [[BookNotes_TheButton]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton)
 
 # The scientific revolution : Aspirations and Achievements
-  [[BookNotes_TheScientificRevolutionAspirationsAchievements]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements)
 
 # Sapiens
-  [[BookNotes_Sapiens]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens)
 
 # Caffeine (Audio Book)
-  [[BookNotes_Caffeine]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine)
 
 # How to decide (By Annie Duke)
-  [[BookNotes_HowToDecide]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide)
 
 # Project Management for Dummies
-  [[BookNotes_ProjectManagementForDummies]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies)
 
 # Electronics (A systems approach)
-  [[BookNotes_ElectronicsASystemsApproach]]	
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach)	
 
 # SCRUM (Jeff Sutherland)
-  [[BookNotes_SCRUM]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM)
 
 # Map and Territory (Yudakoskwi)
-  [[BookNotes_MapAndTerritory]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory)
 
 # Influence (Robert Caldini)
-  [[BookNotes_Influence]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence)
 
 # Freakonomics
-  [[BookNotes_Freakonomics]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics)
  
 # Awaken the Giant within
-  [[BookNotes_AwakenTheGiantWithin]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin)
 
 # 21 Lessons for the 21st Century
-  [[BookNotes_21LessonsForThe21stCentury]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury)
 
 # A world without email (Cal Newport)
-  [[BookNotes_AWorldWithoutEmail]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail)
 
 # Homo Deus
-  [[BookNotes_HomoDeus]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus)
 
 # Super-freakonomics
-  [[BookNotes_SuperFreakonomics]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics)
 
 # Deep Work  (Cal Newport)
-  [[BookNotes_DeepWork]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork)
 
 # The Red Queen (Matt Ridley)
-  [[BookNotes_TheRedQueen]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheRedQueen)
 
 # The Foundations of Modern Physics (Steven Weinberg)
-  [[BookNotes_FoundationsModernPhysics]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FoundationsModernPhysics)
 
 
 
@@ -621,13 +619,13 @@
 
 
 # Rise and Fall of American Growth (Robert Gordon)
-  [[BookNotes_RiseAndFallAmericanGrowth.md]]
+  [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RiseAndFallAmericanGrowth.md)
 
 # Fight Club (Cluck Palahniuk)
- [[BookNotes_FightClub.md]]
+ [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FightClub.md)
 
 # The Road to Reality (Roger Penrose)
- [[BookNotes_RoadToReality.md]]
+ [](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RoadToReality.md)
 
 # Discipline equals freedom
 
