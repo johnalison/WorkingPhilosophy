@@ -1,21 +1,25 @@
 # Moral duty to become more rational.
 
-- Learn from others mistakes
+- Easier and more effective to learn from others mistakes
+
 
 - Critical to look at things from as many different angles as possible.
-
-   Good things: think about what could have gone differently. What was luck ? What good Planning?
-                          
+   For Good things: think about what could have gone differently. What was luck ? What good Planning?
    Bad things: Think how much worse it could have been. What was luck ? What bad Planning?
+   Moderate positive reactions to “good luck”. See where it could have failed. What could have been improved?
+   Whatever happens, no matter how bad have a way of looking/thinking about the situation to improve.
    
-                           
-- Look at desires for what they are: A response of an algorithm trained 50k years ago in a different environment. 
+
+- See desires for what they are: A response of an algorithm trained 50k years ago in a different environment. 
   
 - Learn how to learn from those you disagree with  or even offend you. See if you can find the   
     “truth” in what they believe.  - Kevin Kelly
-- “When you fall, pick something up”
-- We are all biased even when/if we don't think we are.
 
+- “When you fall, pick something up”
+
+- We are all biased even when/if we don't think we are.
+    Removing/Acknowledging this bias can allow outsized returns/performance.
+    
    > Eg: 
    > Q: Who is the best/smartest person you work with?
    > A: “The one who agrees with me most often is X”
@@ -33,8 +37,8 @@
   Look for qualities that you want to emulate in other people, even if you dont want to be like the person.
 
 - Make yourself dependable. 
-  Deserve the things you want. 
-  Its more important to deserve the things you wan than to have them.
+  - Deserve the things you want. 
+  - Its more important to deserve the things you wan than to have them.
 
 - Try to maintain objectivity
     > Automate good techniques: use check lists/protocols ect
