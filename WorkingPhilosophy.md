@@ -48,7 +48,9 @@ Countless things happen every hour that require advice, and such advice is to be
 
 [Random Interesting thoughts](#Random-Interesting-thoughts) On
 
- - [History](https://github.com/johnalison/WorkingPhilosophy/blob/master/History.md)
+ - [History](https://github.com/johnalison/Slipbox/blob/master/Notes/History.md)
+
+ - [Physics](https://github.com/johnalison/Slipbox/blob/master/Notes/History.md)
 
  - [Leadership](https://github.com/johnalison/WorkingPhilosophy/blob/master/Leadership.md)
 
@@ -56,7 +58,7 @@ Countless things happen every hour that require advice, and such advice is to be
 
  - [Books](https://github.com/johnalison/WorkingPhilosophy/blob/master/Books.md)
 
- - [Politics](https://github.com/johnalison/WorkingPhilosophy/blob/master/Politics.md)
+ - [Politics](https://github.com/johnalison/Slipbox/blob/master/Notes/Politics.md)
 
  - [AI](https://github.com/johnalison/Slipbox/blob/master/Notes/AI.md)
 
