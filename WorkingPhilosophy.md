@@ -58,7 +58,7 @@ Countless things happen every hour that require advice, and such advice is to be
 
  - [Politics](https://github.com/johnalison/WorkingPhilosophy/blob/master/Politics.md)
 
- - [AI](https://github.com/johnalison/WorkingPhilosophy/blob/master/AI.md)
+ - [AI](https://github.com/johnalison/Slipbox/blob/master/Notes/AI.md)
 
 
 
