@@ -1,6 +1,8 @@
 
 # 2021
 
+## [The Magic of Math](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MagicMath.md)  (Authur Benjamin)
+
 ## [How to Take Smart Notes](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SmartNotes.md)  (Sonke Ahrens)
 
 ## [How to win friends and influence people](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToWinFriendsAndInfluencePeople.md) (Dale Carnegie)
