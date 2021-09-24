@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Personal MBA](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PersonalMBA.md)  (Josh Kaufman)
+
 ## [The Magic of Math](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MagicMath.md)  (Authur Benjamin)
 
 ## [How to Take Smart Notes](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SmartNotes.md)  (Sonke Ahrens)

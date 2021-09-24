@@ -1,5 +1,6 @@
 # The Magic of Math  (Authur Benjamin)
-  - Very interesting (some what basic level)
+
+   - Very interesting (some what basic level)
 
   - p13; Trick to squaring numbers in your head:  N^2 = (N-a)(N+a) + a^2.  Choose a such that the numbers (N-a) and (N+a) are easy to multiply, then add a^2;
      eg: 41^2 = 40*42 + 1 = 1680 + 1 = 1681
