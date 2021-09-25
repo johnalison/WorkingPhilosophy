@@ -1,5 +1,7 @@
 # Do not let your happiness (well-being) depend on things you cannot control
 
+- Turning results you dont control into goals is a recipe for frustration.
+
 - Explains how people can be well-off an miserable or poor and happy
 
 - Make Well-being depend only on things you can control
@@ -72,3 +74,7 @@ Sapiens:
   - Epicurus warned his disciples that immoderate pursuit of pleasure is likely to make them miserable rather than happy. Buddha had made an even more radical claim, teaching that the pursuit of pleasant sensations is in fact the very root of suffering. Such sensations are just ephemeral and meaningless vibrations. Even when we experience them we dont react to them with contentment: rather, we just crave more. No matter how many blissful or exciting sensations I experience, they will never satisfy me.
   - If I identify happiness with fleeting pleasant sensations, and crave to experience more and more of them, I have no choice but to pursue them constantly. When I finally get them, they quickly disappear, and because the mere memory of past pleasures will not satisfy me, I have to start all over again. Even if I continue this pursuit for decades, it will never bring me any lasting achievement; on the contrary, the more I crave these pleasant sensations, the more stressed and dissatisfied I become. To attain real happiness, humans need to slow down the pursuit of pleasant sensations, not accelerate it.
   - The Buddhist view of happiness has a lot in common with the biochemical view. The Buddha's suggestion was to reduce our craving for pleasant sensations, and not allow them to control our lives. According to the Buddha, we can train our minds to observe how all sensations constantly arise and pass away.  When the mind learns to see our sensations for what they are -- ephemeral and meaningless vibrations -- we loose interest in pursing them.
+
+- If you want to make a man happy, add not to his riches, but take away from his desires.  -- epicurus
+
+- Only metric of sucess: are you spending time doing things you like,  with people you enjoy, in a way that is sustainable. -- pMBA
