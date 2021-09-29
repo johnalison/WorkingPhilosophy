@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Third Thoughts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThirdThougts.md)  (Steven Weinberg)
+
 ## [Personal MBA](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PersonalMBA.md)  (Josh Kaufman)
 
 ## [The Magic of Math](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MagicMath.md)  (Authur Benjamin)
