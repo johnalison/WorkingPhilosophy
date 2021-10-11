@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Little Bets.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LittleBets.md)  (Peter Sims)
+
 ## [You are not a Gadget.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NotAGadget.md)  (Jaron Lanier)
 
 ## [Third Thoughts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThirdThougts.md)  (Steven Weinberg)
