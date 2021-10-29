@@ -324,6 +324,10 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - BJJ
 - How to evaluate information (Dialog / Socratic method)
 - How to do mental math is more important than pen-and-paper calculations
+- How to focus 
+- How to learn
+- How to practice
+- How to deal with emotions
 
 # What is my purpose in Life ?
 - Spawn and maure sure my spawn spawn (gene-eye view) 

@@ -82,3 +82,7 @@ Persistence (via John Danahan)
   The desire to push in increasingly efficient methods of training/learning and working.
 
 - Strive for balance, not perfection. (Awaken the Giant)
+
+- Delight in your own improvement day-to-day
+
+- 

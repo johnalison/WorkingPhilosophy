@@ -240,3 +240,29 @@ Waking up
       - How is human suffering related to not understanding what is true about the nature of our minds?
 
 - Skillful management of attention is the key to improving virtually every aspect of your experience. -- Cal Newport (Deepwork)
+
+- Notice thoughts:
+    - Be aware of when you notice them. (eg: right away / During / Afterwards )
+    - Are the thoughts skillful or un-skillful ? 
+       Unskillful: Remind yourself of that -> Be extra diligent
+       Skillful: Be aware they are arising
+    - What you continually think about conditions the mind. 
+      (Important to know what you're thinking about and to train the mind to think wholesome thoughts)  wholesome = will lead to happiness
+    - This practice should be active/dynamic. 
+    - Thoughts are slippery, low-impact events unlike sounds or sensations. Hard to even notice when they are arising. 
+
+
+- Importance of Recognizing Impermanence
+  - "Awareness is not enough" Awareness is critcial to being able to investigatie the impermanent nature of everything.
+  - "Things Change" - We know it intellectually, need to use mindfulness to know it in the moment. 
+  - Direct path to enlightenment when we know impermanence the mind is settled, when the mind is settled it does not cling, when it does not cling, it doesnt suffer.
+
+Discernment: 
+  - Relax, but dont be casual
+  - Awareness and discernment are crucial
+  - Not enough to be aware, have to know what your doing is 
+     - wholesome (= will lead to happiness) 
+     - approprate (= will be effective in the moment) 
+         (Be aware of the consequences of your action (to you and others)
+  - The right setting for enlightenment is when you are resting in awareness, avoid the trappings of the senses 
+  - Need to approach the practice with a sense of humor.
