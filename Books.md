@@ -1,6 +1,8 @@
 
 # 2021
 
+## [The Ghost Map.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GhostMap.md)  (Steven Johnson)
+
 ## [Little Bets.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LittleBets.md)  (Peter Sims)
 
 ## [You are not a Gadget.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NotAGadget.md)  (Jaron Lanier)
