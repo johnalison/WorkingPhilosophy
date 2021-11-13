@@ -1,6 +1,8 @@
 
 # 2021
 
+## [AI: A modern approach.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AIModernApproach.md)  (Stuart Russell adn Peter Norvig)
+
 ## [The Ghost Map.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GhostMap.md)  (Steven Johnson)
 
 ## [Little Bets.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LittleBets.md)  (Peter Sims)

@@ -379,3 +379,5 @@ Can tell where we don't really understand problems when experts wildly disagree.
 
 
 # Quotes for cards
+
+
