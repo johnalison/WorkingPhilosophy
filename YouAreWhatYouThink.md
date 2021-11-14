@@ -268,3 +268,20 @@ Discernment:
   - Need to approach the practice with a sense of humor.
 
 - The cutting edge of this instant right here and now is always nothing less that the totality of everything there is. -Zen and MM
+
+- Joseph Goldstein on "The end of craving"
+  - Achieved is the end of craving. (ie: a mind free of envy/desire is enlightened)
+  - Possibility and Practice of the end of craving, IN THE MOMENT and FOR THE MOMENT.
+  - Can we let go of craving for a moment ? Right now ?
+  - Practice teh recognition of the free quality of mind for short moment, many times
+     - Can pratice the end of craving in the same way (short moments, many time) 
+  - Craving (or wanting/desire) obscures the nature openness (or ease/clarity) of mind. 
+  - When mind free of craving, can experience (for these moments) the taste of peace/freedom.
+  - Need to recognize desire in the mind. Loot at what that quality of mind "looks like". 
+  - When the wanting goes away, watch how it feels in the mind when the craving is gone. (Should be obvious, the Dukka of wanting. The ease of not wanting.)  
+  - Explore the nature of desire:
+    - Desire is a powerful habit of mind. Has tremendous consequences. 
+  - Explore means of feeling ourselves. 3 feilds of desire
+    - 1) Sense pleasures (our culture fetish-sizes this craving) 
+          This is a challenge: Desires so familiar to us that they become invisible. Need careful attention. 
+    - 2) Craving as expectation

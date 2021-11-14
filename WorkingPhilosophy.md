@@ -544,3 +544,9 @@ Decisions:
   - Minimize cost of making a decision
 
 Two parts to living a good life:  "Be a good person" and "Pay attention"
+
+The adjacent possible (Cal Newport)
+  - Understand the cutting edge of your feild.
+  - Know it "in your own words" such that you could teach it to others.
+  - Do this enought becomes clear how to make progress
+

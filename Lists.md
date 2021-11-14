@@ -328,6 +328,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - How to learn
 - How to practice
 - How to deal with emotions
+- Statistics, not calculus in high school (analog -> digital)
 
 # What is my purpose in Life ?
 - Spawn and maure sure my spawn spawn (gene-eye view) 
