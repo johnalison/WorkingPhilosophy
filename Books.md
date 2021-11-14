@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Zen and the Art of Motorcycle Maintenance.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ZenAndMotorcycleMaintenance.md)  (Robert M. Pirsig)
+
 ## [AI: A modern approach.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AIModernApproach.md)  (Stuart Russell adn Peter Norvig)
 
 ## [The Ghost Map.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GhostMap.md)  (Steven Johnson)

@@ -266,3 +266,5 @@ Discernment:
          (Be aware of the consequences of your action (to you and others)
   - The right setting for enlightenment is when you are resting in awareness, avoid the trappings of the senses 
   - Need to approach the practice with a sense of humor.
+
+- The cutting edge of this instant right here and now is always nothing less that the totality of everything there is. -Zen and MM

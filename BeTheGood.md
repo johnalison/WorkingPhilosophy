@@ -121,3 +121,5 @@
     eg: eating right/exercising/sleep/being a dependable person
 
 - Its not enough to have a good mind, the main thing is to use it well - Descarte
+
+- Metaphysics is good if it improves everyday life, otherwise forget it.

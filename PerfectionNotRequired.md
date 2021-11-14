@@ -85,4 +85,5 @@ Persistence (via John Danahan)
 
 - Delight in your own improvement day-to-day
 
-- 
+- You are never dedicated to something you have complete confidence in. - Zen and MM
+
