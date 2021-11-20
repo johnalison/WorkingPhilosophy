@@ -1,7 +1,7 @@
 
 # 2021
 
-## [Think Like a Freak] (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkLikeAFreak.md) (Steven Levitt and Stephen Dubner)
+## [Think Like a Freak](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkLikeAFreak.md) (Steven Levitt and Stephen Dubner)
 
 ## [Zen and the Art of Motorcycle Maintenance.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ZenAndMotorcycleMaintenance.md)  (Robert M. Pirsig)
 
