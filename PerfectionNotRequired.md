@@ -87,3 +87,4 @@ Persistence (via John Danahan)
 
 - You are never dedicated to something you have complete confidence in. - Zen and MM
 
+- Self-test: Can really tell if you understand something by going through the pain of explaining it in your own words. (Not as easy as re-reading. Less comfortable. but worth the work)

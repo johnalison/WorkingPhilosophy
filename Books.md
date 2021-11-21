@@ -1,6 +1,8 @@
 
 # 2021
 
+## [A Concise History of Buddhism](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ConciseHistoryBuddhism.md) (Andrew Skilton)
+
 ## [Think Like a Freak](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkLikeAFreak.md) (Steven Levitt and Stephen Dubner)
 
 ## [Zen and the Art of Motorcycle Maintenance.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ZenAndMotorcycleMaintenance.md)  (Robert M. Pirsig)

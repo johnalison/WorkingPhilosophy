@@ -218,3 +218,4 @@ Decisions:
 
 - Do Less, do better, know why" Cal Newport
 
+- The most important thing about habits is how you pick up after you falter. 

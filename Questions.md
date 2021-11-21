@@ -28,6 +28,10 @@
 - What am I learning ?
 - What do I want to learn more about ?
 - What has X taught me/inspired me to learn?
+- How to be more dependable ?
+- How to do more glimpses ?
+- How to help SMH ?
+- How to want less ?
 
 - What things are truly in my control ?
 - What am I learning and studying for ?

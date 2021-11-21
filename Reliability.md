@@ -35,3 +35,5 @@
 
 
  - Fixable but unfixed bad performance is bad character and tends to create more of itself,
+
+- How to become dependable: Do what you promise with high Quality. 

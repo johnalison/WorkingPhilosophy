@@ -285,3 +285,43 @@ Discernment:
     - 1) Sense pleasures (our culture fetish-sizes this craving) 
           This is a challenge: Desires so familiar to us that they become invisible. Need careful attention. 
     - 2) Craving as expectation
+  - Craving is a type of expectation.  --> A Huge hinderence!
+  - Expectations always bring agitation (Hope and Fear) 
+  - Dont confuse expectation with aspiration! 
+     - expectation is a trap (this happens a lot) 
+     - aspiration is wise
+  - Desires and expectataion are a hindernce to concentration
+     (they dont even deliver on the promise of happiness)
+  - Pleasant feelings are impermant. So will chase others, then others, then our life is at an end.
+  - Although get caught in waking mind, we know not the path to fulfillment. 
+  - How much of our lives (How many of our choices) do we dedicate to this endless pursuit ?
+     -> The habit is strong, so need to be active in the investigation of this.
+  - Need an active interest in how our lives are unfolding.
+  - 2nd kind of craving: (Goes deeper) 
+    - Basic urge/desire for continued existance. Craving for becoming. 
+    - See it when we are lost in "Planning mind"
+    - Notice how oftern you get lost in the mind state of some future self. 
+    Goal: Not reliving the past, not hoping to be in the future, instead w/insight see each arising state.
+    - This is a radically diffferent way of engaging with the world.
+    - Look directly at what your experince is of time. Take note of how often the mind is in the past, or the future.
+    - What is our experinece of the past? => Though + concept (past) as if it were reality.
+    - We only experince the past (or future) as a thought in the present.
+        - Recognizing this is so liberating. (Pay attention to this! Its not difficult)
+    - Then, can go even further... "Let fo of the past, future AND THE PRESENT and cross over to the further shore"
+    - How do you let do of the present ? -> Dont fixate on it. The notion of the present is a concept.
+    - "In order to mind" when there is a leaning into the future:
+      	| When this is going on we are forgetting that liberation comes not from some new experince, but from letting go.
+	| Not wanting, craving.
+    - You are not practicing for some experince. We are actually practicing to let go. Freedom comes from the end of craving. (Need to hear this a million times)
+    - Our habit of craving form the sense pleasures is "automatically" carried over to meditation (Huge trap!)
+  - 3rd kind of craving: "Craving for non-existance"
+    - Wanting to get rid of experince. 
+    - All of these forms of craving are rooted in the sense of self. (Not there in the 1st place)
+  - How to free ourseles from this powerful force of craving that plays out in all these ways? 
+  - Can get very immediate taste of freedome: 
+      See impermance -> (leads to) -> Disenchantment --> (leads to) --> Dispassion --> --> Mind being liberated.
+      Disenchantment: free of enchanment by the flow of experience
+      Dispassion: Lack of craving. Movement back into peace.
+  - One way to practice: Feel flow if impermance/ movement / changing experince. 
+      Call to mind ( + look back at the mind) of disenchanment (hang out there for a while)
+      Call to mind Dispassion (Hang out there for a while)  
