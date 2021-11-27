@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Thinking Course](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkingCourse.md) (Edward de Bono)
+
 ## [A Concise History of Buddhism](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ConciseHistoryBuddhism.md) (Andrew Skilton)
 
 ## [Think Like a Freak](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkLikeAFreak.md) (Steven Levitt and Stephen Dubner)
