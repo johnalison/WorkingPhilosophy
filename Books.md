@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Dawn of the New Everything](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DawnOfNewEverything.md) (Jaron Lanier)
+
 ## [Slack](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Slack.md) (Tom DeMarco)
 
 ## [Thinking Course](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThinkingCourse.md) (Edward de Bono)
