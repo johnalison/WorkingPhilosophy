@@ -125,3 +125,6 @@
 - Metaphysics is good if it improves everyday life, otherwise forget it.
 
 - The fruit of life is good character and acts for the common good.
+
+- Ethical practices aren't good because they pay; they pay because they are good.  - Charle Munger
+

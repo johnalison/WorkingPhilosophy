@@ -14,6 +14,10 @@
    11) [Do not let your happiness (well-being) depend on things you cannot control](https://github.com/johnalison/WorkingPhilosophy/blob/master/Happiness.md)
 
 
+- Its better to remember the obvious than to grasp the esoteric - Charlie Munger
+
+- "You have got to know what you know and what you dont know. What could possible be more useful in life than that ?"  -  Charlie Munger
+
 - You don’t control the world around you, only how you respond— and you must always respond with courage, temperance, wisdom, and justice.
 
 - How to live with stress and not be stressed out is a major goal of Philosophy 

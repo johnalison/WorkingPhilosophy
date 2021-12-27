@@ -1,6 +1,8 @@
 
 # 2021
 
+## [Poor Charlies Almanack](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PoorCharliesAlmanack.md) (Charlie Munger)
+
 ## [New Kind of Science](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NewKindOfScience.md) (Stephen Wolfram)
 
 ## [Dawn of the New Everything](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DawnOfNewEverything.md) (Jaron Lanier)

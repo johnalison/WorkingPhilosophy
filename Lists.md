@@ -282,7 +282,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - How can humans, physical organisms in a physical universe, have knowledge of a casually inert realm of abstract objects?
 - Ever since the French revolution, people throughout the world have gradually come to see both equality and freedom as fundamental values. Yet the two values contradict each other.
 - The more you examine your mind, the more you discover there is no fixed truth to who you are as a person. Your very efforts to improve your experince,  are generally what prevents you from understanding the depth and beauty of the most ordinary moments in life. To seek happiness in all the usual ways is to overlook it now. 
-
+- Consequence of the Availability-misweighing tendency:
+     - One consequence is that extra vivid evidence, being so memorable and thus more available in cognition, should often be underweighed while less vivid evidence should be over-weighed. 
 
 # What will be seen as right/wrong in future
 

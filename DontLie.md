@@ -31,3 +31,6 @@
 - Never exaggerate, its a branch of lying (Baltasar Gracian)
 
 - Only act with honourable men. Dis-honorable ones are not constrained by virtue
+
+- "Track records are very important. If you start early to have a perfect track record in some simple thing like honest, you're well on your way to success in this world."
+   Charlie Munger
