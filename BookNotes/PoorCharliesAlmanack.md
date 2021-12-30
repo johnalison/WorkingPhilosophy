@@ -1,4 +1,4 @@
-# Poor Charlies Almanack Charlie Munger)
+# Poor Charlies Almanack (Charlie Munger)
 
 - Excellent.  Beginning slow. Repetitive in places.
 

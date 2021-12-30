@@ -100,3 +100,9 @@
 - Good designers never start by trying to solve the problem given to them.  They start by trying to understand what the real issues are. (The design of everyday things)
 
  - Stay committed to your decisions, but stay flexible in your approach. (Cultivate the art of flexibilty) (Awaken the giant)
+
+- To show reverence for the wise is itself a great good for him that reveres. (Epicurus)
+
+- In a joint philosophical investigation he who is defeated comes out ahead in so far as he has learned something new;
+  The wise man will be grateful for being corrected.
+  (Epicurus)

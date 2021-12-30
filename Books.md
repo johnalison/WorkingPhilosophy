@@ -79,7 +79,7 @@
 
 ## [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions.md)
 
-## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  
+## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  (Epicurus)
   
 # 2020
 

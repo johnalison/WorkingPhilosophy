@@ -18,6 +18,8 @@
 
 - "You have got to know what you know and what you dont know. What could possible be more useful in life than that ?"  -  Charlie Munger
 
+- The epicurean four part cure: Dont fear god, Dont worry about death, What is good is easy to get, and what is terrible is easy to endure
+
 - You don’t control the world around you, only how you respond— and you must always respond with courage, temperance, wisdom, and justice.
 
 - How to live with stress and not be stressed out is a major goal of Philosophy 
@@ -554,3 +556,8 @@ The adjacent possible (Cal Newport)
   - Know it "in your own words" such that you could teach it to others.
   - Do this enought becomes clear how to make progress
 
+
+- Necessity is a bad thing, but there is no necessity to live with necessity. (Epicurus)
+
+FreeWill:
+- He who claims that everything happens by necessity has no complaint against him who claims that everything does not occur by necessity. For he makes that very claim by necessity.  (Epicurus)

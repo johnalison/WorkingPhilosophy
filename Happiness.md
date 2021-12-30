@@ -78,3 +78,5 @@ Sapiens:
 - If you want to make a man happy, add not to his riches, but take away from his desires.  -- epicurus
 
 - Only metric of sucess: are you spending time doing things you like,  with people you enjoy, in a way that is sustainable. -- pMBA
+
+- Epicurus says the fundamental obstacle to happiness is anxiety. No matter how rich and famous you are, wont be happy if you are anxious to be more rich/famous.
