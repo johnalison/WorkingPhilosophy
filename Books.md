@@ -43,11 +43,11 @@
 
 ## [Super-freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics.md)
 
-## [Homo Deus](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus.md)
+## [Homo Deus](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus.md) (Yuval Noah Harari)
 
 ## [A world without email](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail.md) (Cal Newport)
 
-##   [21 Lessons for the 21st Century](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md)
+##   [21 Lessons for the 21st Century](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md) (Yuval Noah Harari)
 
 ##   [Awaken the Giant within](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
 
@@ -63,11 +63,11 @@
 
 ##   [Project Management for Dummies](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
 
-##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (By Annie Duke)
+##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (Annie Duke)
 
 ##   [Caffeine](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md) (Audio Book)
 
-##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
+##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md) (Yuval Noah Harari)
 
 ##   [The scientific revolution : Aspirations and Achievements](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md) (James R. Jacob)
 

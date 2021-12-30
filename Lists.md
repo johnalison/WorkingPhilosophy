@@ -68,7 +68,8 @@
 - Infants prior to the 1980s where not anesthetized during major surgery, on belief that couldnt feel pain.
 - Early plastics were designed to look like wood. 
 - Not long ago psychologists doubted the importance of the emotional bond between parents and children even among humans. Childcare experts warned that children who were hugged and kissed by their parents would grow up to be needy, egotistical and insecure adults
-  
+- Scholars once claimed agricultural revolution as a great leap forward for humanity. Fantasy! No evidence people became more intelligent. AR => harder lives for those who lived through it.
+
 # Things where experts disagree
 Can tell where we don't really understand problems when experts wildly disagree. In these cases understand BOTH sides. Silly to pick one. 
 
@@ -285,6 +286,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - Consequence of the Availability-misweighing tendency:
      - One consequence is that extra vivid evidence, being so memorable and thus more available in cognition, should often be underweighed while less vivid evidence should be over-weighed. 
 
+
 # What will be seen as right/wrong in future
 
 - Cryonics (Right)
@@ -313,6 +315,7 @@ Can tell where we don't really understand problems when experts wildly disagree.
 - We are gods with anuses (Becker)
 - The basic insight of psychology for all time: Man is a union of opposites, of self-consciousness and physical body. (Becker)
 - When evolution gave man a self an inner symbolic world of experience, it split him in two, gave him added burden. This burden seems the price that had to be paid in order to attain more life, experience and self-consciousness. (Becker)
+- Real differences between us and chimps is the mythical glue that binds us. (Sapiens)
 
 # What we should be teaching kids:
 - Importance of Filtering. (Especially in today's world) Knowing what, when and how to filter is critical to being productive. Knowing what to believe, seeing truth.
