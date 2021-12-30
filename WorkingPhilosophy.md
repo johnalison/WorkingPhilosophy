@@ -561,3 +561,5 @@ The adjacent possible (Cal Newport)
 
 FreeWill:
 - He who claims that everything happens by necessity has no complaint against him who claims that everything does not occur by necessity. For he makes that very claim by necessity.  (Epicurus)
+
+- We tend to use logic and reason after the fact to justify our decisions to ourselves and others. (What does this say about "interpretable AI"?) (Design of everyday things)

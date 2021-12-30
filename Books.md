@@ -69,15 +69,15 @@
 
 ##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md)
 
-##   [The scientific revolution : Aspirations and Achievements](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md)
+##   [The scientific revolution : Aspirations and Achievements](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheScientificRevolutionAspirationsAchievements.md) (James R. Jacob)
 
-## [The Button](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)  (William Perrry and Tom ?) 
+## [The Button](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheButton.md)  (William Perry and Tom Collina) 
 
-## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings.md)
+## [The Design of everyday things](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheDesignOfEverydayThings.md) (Don Norman)
 
 ## [How emotions are made](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowEmotionsAreMade.md) (Lisa Barrett) 
 
-## [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions.md)
+## [Writing GNU Emacs Extensions](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WritingGNUEmacsExtensions.md) (Bob Glickstein)
 
 ## [The Epicurus Reader](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEpicurusReader.md)  (Epicurus)
   

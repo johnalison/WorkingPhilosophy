@@ -136,4 +136,5 @@ setbacks.
    >  - Whatever begins in anger, ends in shame.
    >  - The end of passion (emotion) is the beginning of repentance.
 
+- Good designers never start by trying to solve the problem given to them.  They start by trying to understand what the real issues are.  (The design of everyday things)
 

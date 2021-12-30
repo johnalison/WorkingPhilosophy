@@ -380,6 +380,10 @@ Can tell where we don't really understand problems when experts wildly disagree.
   - Bed at 10 (or 9) 
 
 
+# Fine Tuning examples
+  - An argument agianst Aristarchus' helocentric model was that the stars were always observed to be in the same position relative to the earth at all times of day and year => earth doesnt move. Aristarchus countered that the stars are infinitely far away. 
+
+
 # Quotes for cards
 
 

@@ -106,3 +106,5 @@
 - In a joint philosophical investigation he who is defeated comes out ahead in so far as he has learned something new;
   The wise man will be grateful for being corrected.
   (Epicurus)
+
+- We often dont know what we are about to do, say, or think until after we have dont it. (Good reason to journal) (The Design of Everyday things)
