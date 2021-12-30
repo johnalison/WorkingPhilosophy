@@ -41,7 +41,7 @@
 
 ## [Deep Work](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeepWork.md)  (Cal Newport)
 
-## [Super-freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics.md)
+## [Super-freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperFreakonomics.md)  (Stephen Dubner and Steven Levitt)
 
 ## [Homo Deus](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HomoDeus.md) (Yuval Noah Harari)
 
