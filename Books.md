@@ -65,7 +65,7 @@
 
 ##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (Annie Duke)
 
-##   [Caffeine](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md) (Audio Book)
+##   [Caffeine](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Caffeine.md) (Michael Pollan)
 
 ##   [Sapiens](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Sapiens.md) (Yuval Noah Harari)
 

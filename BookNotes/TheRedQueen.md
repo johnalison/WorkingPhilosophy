@@ -1,11 +1,12 @@
 # The Red Queen (Matt Ridley)
+
 - Great in parts, slow start, some repitition.
 
 - There is a typical human nature, the aim of this book is to seek it.
 
 - Cannot understand human nature without understanding how it evolved. Impossible to know how humans evolved without known how human sexuality evolved.
 
-- Reproduction is the sole goal for which humans are designed. There is nothing in our natures that was not "chosen" for reproductive success.
+- Reproduction is the sole goal for which humans are designed. There is nothing in our natures that was not "chosen" for reproductive success. (#WhoWeAre)
 
 - Reproduction is not synonymous with sex. Many asexual ways to reproduce.
 
@@ -22,11 +23,11 @@
 
 - One of the great recurring themes in human history is the balance between cooperation and conflict.
 
-- The principle insight of the theory of sexual selection is that the goal of an animal is snot just to survive but to breed. Where the breeding and survival come into conflict, its breeding that takes precedence. And breeding in sexual species consists of finding an appropriate partner and convincing it to part with some of its genes. This goal is so central to life that it has influenced the design not only of the body but of the psyche.
+- The principle insight of the theory of sexual selection is that the goal of an animal is not just to survive but to breed. Where the breeding and survival come into conflict, its breeding that takes precedence. And breeding in sexual species consists of finding an appropriate partner and convincing it to part with some of its genes. This goal is so central to life that it has influenced the design not only of the body but of the psyche. (#WhoWeAre)
 
-- The greatest "experts" our species has produced on the subject of human nature were people like Buddha and Shakespeare, not scientists or philosophers.
+- The greatest "experts" our species have produced on the subject of human nature were people like Buddha and Shakespeare, not scientists or philosophers. (#Buddhism)
 
-- Why did sex evolve: Survey the scientists and virtually all will agree that the problem has been solved, but none will agree on the solution.
+- Why did sex evolve: Survey the scientists and virtually all will agree that the problem has been solved, but none will agree on the solution. (#ExpertsDisagree)
 
 - Selection within species is always going to be more important than selection between the species.
 
@@ -38,9 +39,9 @@
 
 - You might have a gene that is more like the gene of a certain cow than it is like the equivalent gene in your spouse.
 
-- The immune system is a fairly recent invention in geological terms. It started in reptiles perhaps 300 millions year ago.
+- The immune system is a fairly recent invention in geological terms. It started in reptiles perhaps 300 millions year ago. (#History)
 
-- Disease might almost put a sort of limit on longevity; There is little point in living much longer than it takes your parasites to adapt to you.
+- Disease might almost put a sort of limit on longevity; There is little point in living much longer than it takes your parasites to adapt to you. (#Longevity)
 
 - Sex is about disease. It is used to combat the threat form parasites. Organisms need sex to keep their genes one step ahead of their parasites. Men are not redundant after all; they are woman's insurance policy against her children being wiped out by influenza and smallpox.
 
@@ -50,7 +51,7 @@
 
 - A Son is a high-risk, high-reward reproductive option compared with a daughter. A mother in good condition gives her offspring a good start in life, increasing the chances of her sons winning harems as they mature. A mother in poor condition is likely to produce a feeble son who will fail to reproduce at all. whereas daughters can join harems and reproduce even when not in top condition. So you should have sons if you have reason to think they will do well and daughters if you have reason to think they will do poorly.
 
-- The ancient belief that lying on the right side during sex would produce a boy was so influential that centuries later some French aristocrats had their left testicles amputated.
+- The ancient belief that lying on the right side during sex would produce a boy was so influential that centuries later some French aristocrats had their left testicles amputated. (#UsedToBelieve)
 
 - The sex that invests more in rearing the young  is the sex that makes the least profit from extra mating. The sex that invests the least has time to spare to seek other mates.
 
@@ -84,36 +85,36 @@
 
 - People are strangely more apt to say of a baby, "He (or she) looks just like his father" than his mother. and that it is the mothers relative who are most likely to say this.
 
-- Mankind may be the mammal with the greatest division of sexual labor and the greatest of mental differences between the sexes.
+- Mankind may be the mammal with the greatest division of sexual labor and the greatest of mental differences between the sexes. (#WhoWeAre)
 
-- Contradiction at the heat of feminism: You cannot say first, that men and women are equally capable of all jobs, and second that if jobs were done by women they would be done differently.
+- Contradiction at the heart of feminism: You cannot say first, that men and women are equally capable of all jobs, and second that if jobs were done by women they would be done differently. (#Politics)
 
-- Not that racial and cultural differences cannot exist. Just as a white man has different skin color from a black man, so it is quite possible that he also has a somewhat different mind. But given what we know of evolution, it is not very likely. The evolutionary pressures that have shaped the human mind - principally competitive relations  with kin members, tribal allies, and sexual partners -- are and have been the same for white and black men and were at work before the ancestors of whites left Africa 1e5 years ago.
+- Not that racial and cultural differences cannot exist. Just as a white man has different skin color from a black man, so it is quite possible that he also has a somewhat different mind. But given what we know of evolution, it is not very likely. The evolutionary pressures that have shaped the human mind - principally competitive relations  with kin members, tribal allies, and sexual partners -- are and have been the same for white and black men and were at work before the ancestors of whites left Africa 1e5 years ago. (#Politics)
 
-- The male preference for skinniness seems positively maladaptive.
+- The male preference for skinniness seems positively maladaptive. (#Paradox)
 
-- The male obsession with youth is characteristically human. There is no other animal yet studied that shares this obsession quite as strongly. This is obviously because of the human habits of lifelong marriage and long, slow periods of child rearing are also unique.
+- The male obsession with youth is characteristically human. There is no other animal yet studied that shares this obsession quite as strongly. This is obviously because of the human habits of lifelong marriage and long, slow periods of child rearing are also unique. (#WhoWeAre)
 
 - "Coolidge effect" Calvin Cooldige and his wife where being shown around a farm. Learning that a cockerel could have sex dozens of times a day, Mrs Coolidge said: "Pleas tell that to this president". On being told, Mr Coolidge asked, "Same hen every time?" "Oh, no, Mr President. A different one each time" The president continued: "Tell that to Mrs. Coolidge"
 
-- The depressing part of Darwin's insight is that it shows how beauty cannot exist without ugliness. Sexual selection, Red Queen-style, in inevitably a cause of dissatisfaction, vain striving, and misery to individuals. (See the Buddha)
+- The depressing part of Darwin's insight is that it shows how beauty cannot exist without ugliness. Sexual selection, Red Queen-style, in inevitably a cause of dissatisfaction, vain striving, and misery to individuals. (#Buddhism)
 
-- What caused the sudden and spectacular expansion of that one ape's head, from which so much else flowed ?  And why did it happen to one ape and not another ? What can account for the astonishing speed, and the accelerating speed of the change? These questions may seem to have nothing to do with the subject of this book, but the answer may lie with sex. The evolution of mans big head was the result of a Red Queen sexual contest between individuals of the same gender.
+- What caused the sudden and spectacular expansion of that one ape's head, from which so much else flowed ?  And why did it happen to one ape and not another ? What can account for the astonishing speed, and the accelerating speed of the change? These questions may seem to have nothing to do with the subject of this book, but the answer may lie with sex. The evolution of mans big head was the result of a Red Queen sexual contest between individuals of the same gender. (#WhoWeAre)
 
 - Almost all linguists agree with Noam Chomsky that there is a "deep structure" that is universal to all languages and that is programmed into th e brain rather than learned.
 
-- Philosophers assume that intelligence and consciousness have obvious advantages and get on with the serious debate about what consciousness is. Before the 1970s there was very little evidence that any of them had even posed the obvious evolutionary question: Why is intelligence a good thing ?
+- Philosophers assume that intelligence and consciousness have obvious advantages and get on with the serious debate about what consciousness is. Before the 1970s there was very little evidence that any of them had even posed the obvious evolutionary question: Why is intelligence a good thing ? (#Consciousness)
 
-- The things of which we are conscious are mostly the mental events that concern social actions. Consciousness operates on a "need to know" policy.
+- The things of which we are conscious are mostly the mental events that concern social actions. Consciousness operates on a "need to know" policy. (#Consciousness)
 
-- No conversation between people who know each other well ever lingers for long on any topic other than the behavior, ambitions, motives, frailties and affairs of other members of the group.
+- No conversation between people who know each other well ever lingers for long on any topic other than the behavior, ambitions, motives, frailties and affairs of other members of the group. (#Consciousness)
 
-- The human mind may not be much suited to logic at all, but it is well suited to judging the fairness of social bargains and the sincerity of social offers.
+- The human mind may not be much suited to logic at all, but it is well suited to judging the fairness of social bargains and the sincerity of social offers. (#Consciousness)
 
 - The neocortex is largely a courtship device to attract and retain sexual mates: Its specific evolutionary function is to stimulate and entertain other people, and to assess the stimulation attempts of others.
 
 - Wherever else in the animal kingdom we find greatly exaggerated and enlarged ornaments, we have been able to explain them by the runaway, sexy-son, Fisher effect of intense sexual selection. It seems perverse not to consider it when trying to explain the exponential expansion of the brain.
 
-- Dance, music, humor, and sexual foreplay are all features unique to human beings.
+- Dance, music, humor, and sexual foreplay are all features unique to human beings. (#WhoWeAre)
 
-- We are as domesticated as any dog or cow, perhaps more so. We have bred out of ourselves all sorts of instincts that were probably features of our Pleistocene nature.
+- We are as domesticated as any dog or cow, perhaps more so. We have bred out of ourselves all sorts of instincts that were probably features of our Pleistocene nature.  (#WhoWeAre)
