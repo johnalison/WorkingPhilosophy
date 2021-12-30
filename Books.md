@@ -59,9 +59,9 @@
 
 ##   [SCRUM](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md) (Jeff Sutherland)
 
-##   [Electronics (A systems approach)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md)	
+##   [Electronics (A systems approach)](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElectronicsASystemsApproach.md (Neil Storey)
 
-##   [Project Management for Dummies](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)
+##   [Project Management for Dummies](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProjectManagementForDummies.md)  (Stanley Portny)
 
 ##  [How to decide](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToDecide.md) (Annie Duke)
 
