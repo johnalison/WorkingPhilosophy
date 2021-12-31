@@ -49,7 +49,7 @@
 
 ##   [21 Lessons for the 21st Century](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md) (Yuval Noah Harari)
 
-##   [Awaken the Giant within](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
+## [Awaken the Giant Within](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)  (Tony Robbins)
 
 ##  [Freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md) (Stephen Dubner and Steven Levitt)
 
