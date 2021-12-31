@@ -47,7 +47,7 @@
 
 ## [A world without email](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWorldWithoutEmail.md) (Cal Newport)
 
-##   [21 Lessons for the 21st Century](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md) (Yuval Noah Harari)
+## [21 Lessons for the 21st Century](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/21LessonsForThe21stCentury.md) (Yuval Noah Harari)
 
 ## [Awaken the Giant Within](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)  (Tony Robbins)
 
