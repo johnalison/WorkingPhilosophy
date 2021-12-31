@@ -51,11 +51,11 @@
 
 ##   [Awaken the Giant within](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AwakenTheGiantWithin.md)
 
-##  [Freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md)
+##  [Freakonomics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Freakonomics.md) (Stephen Dubner and Steven Levitt)
 
 ##   [Influence](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Influence.md) (Robert Caldini)
 
-##   [Map and Territory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md) (Yudakoskwi)
+##   [Map and Territory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MapAndTerritory.md) (Eliezer Yudkowsky)
 
 ##   [SCRUM](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SCRUM.md) (Jeff Sutherland)
 
