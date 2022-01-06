@@ -53,4 +53,4 @@ Atmosphere:
  - 10^4 kg/m^2 ~ 10 tons / m^2
 
 Heat capacity
-  C_w ~ 1cal/g C 
+  C_w ~ 1cal/g degree-C (Large) 

@@ -177,6 +177,8 @@ Can tell where we don't really understand problems when experts wildly disagree.
   - Ideas, topics, philosophies
   - Review and revie
   - Helps you understand a topic "In your own words"
+- Use google docs to proof read text
+- Have students write first drafts of rec. letters 
 
 # What do you we do now that will be totally replaced in 100 years?
 
