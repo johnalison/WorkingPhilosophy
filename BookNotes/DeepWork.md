@@ -6,15 +6,15 @@
 
 - Our work culture shift toward the shallow is exposing a massive economic and personal opportunity for the few that recognize the potential of resisting this trend.
 
-- The growing necessity of deep work is new. In an industrial economy most workers could do fine with out working without distraction. In the information economy, deep work is becoming a key currency. "Super power of the 21C"
+- The growing necessity of deep work is new. In an industrial economy most workers could do fine with out working without distraction. In the information economy, deep work is becoming a key currency. "Super power of the 21C" #NowIsDifferent
 
-- "Deep work hypothesis" DW is becoming increasingly rare at the same time its becoming increasingly valuable in our economy.
+- "Deep work hypothesis" DW is becoming increasingly rare at the same time its becoming increasingly valuable in our economy. #Paradox
 
-- Core abilities for future: Be able to quickly master hard things. Be able to produce at an elite level. Both quality and speed.
+- Core abilities for future: Be able to quickly master hard things. Be able to produce at an elite level. Both quality and speed. 
 
 - If you dont produce you wont thrive, no matter how skilled or talented you are.
 
-- To learn hard things quickly you must focus intensely without distraction.
+- To learn hard things quickly you must focus intensely without distraction. #MentalModels
 
 - When you switch tasks your attention doesn't immediately follow, there is a residual  that is stuck in the previous task.
 
@@ -48,7 +48,7 @@
 
 - Decades of work from multiple subfields all point towards the conclusion that regularly resting your brain improves the quality of your deep work.
 
-- If every potential moment of boredom is relieve with a glance at a smart phone, then your brain has been rewired to point where it is not ready for deep work. (#Boredom) (#DWF)
+- If every potential moment of boredom is relieve with a glance at a smart phone, then your brain has been rewired to point where it is not ready for deep work. #Boredom #DFW
 
 - Schedule in advance when you will use the internet, then avoid outside these times.
 
