@@ -16,4 +16,6 @@ Source:, Part 1: Distributions and Determinants) https://blog.evjang.com/2018/01
 
 -  If a bijector has tunable parameters (with respect to bijector.log_prob), then the bijector can actually be learned to transform our base distribution to suit arbitrary densities.
 
-- Can train with maximum likelihood estimation,
+- Can train with maximum likelihood estimation: maximizes the log-probablity of the training points (in the base varible ?)
+
+- Autoregressive Models are Normalizing Flows: makes the rather bold inductive bias that the ordering of variables are such that your earlier variables don’t depend on later variables. 

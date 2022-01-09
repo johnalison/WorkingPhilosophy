@@ -1,4 +1,8 @@
 
+# 2022
+
+## [Call Sign Chaos](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CallSignChaos.md) (Jim Mattis)
+
 # 2021
 
 ## [Poor Charlies Almanack](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PoorCharliesAlmanack.md) (Charlie Munger)
