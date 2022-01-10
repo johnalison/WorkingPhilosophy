@@ -1,4 +1,4 @@
-# Lists
+o# Lists
 
 - [Things Ive changed my mind on                                       ](#Things-Ive-changed-my-mind-on                                         )
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
