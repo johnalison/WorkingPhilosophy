@@ -1,6 +1,8 @@
 
 # 2022
 
+## [The Family Firm](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FamilyFirm.md) (Emily Oster)
+
 ## [Six Thinking Hats](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SixThinkingHats.md) (Edward De Bono)
 
 ## [The AWK Programming Language](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWK.md) (Aho, Kernighan, Weinberger)
