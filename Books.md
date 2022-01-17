@@ -1,6 +1,12 @@
 
 # 2022
 
+## [Six Thinking Hats](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SixThinkingHats.md) (Edward De Bono)
+
+## [The AWK Programming Language](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWK.md) (Aho, Kernighan, Weinberger)
+
+## [The AWK Programming Language](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWK.md) (Jim Mattis)
+
 ## [Call Sign Chaos](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CallSignChaos.md) (Jim Mattis)
 
 # 2021
