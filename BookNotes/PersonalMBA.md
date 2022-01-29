@@ -1,21 +1,21 @@
 # Personal MBA (Josh Kaufman)
 
-- Very good overall (probably to low level for me)
+- Very good overall (probably to low-level for me)
 
 - Formal business degrees often not worth the money. What you learn is very useful, but there are more efficient (and cheaper!) ways to learn it.
 
-- "Life is tough, its tougher if you're stupid" --John Wayne
+- "Life is tough, its tougher if you're stupid" --John Wayne #Quotes
 
 - "Education is not the answer to a question, it is the means to answer all questions" -- Bill Allin
 
-- "The limits of my language are the limits of my world" -Wittgenstein
+- "The limits of my language are the limits of my world" -Wittgenstein #Quotes
 
-- "Whoever best describes the problem is the one most likely to solve it" -- Dan Roam
+- "Whoever best describes the problem is the one most likely to solve it" -- Dan Roam #Invert 
 
 - Your brain works with a lattice work of mental models. The key is to understand the most fundamental models -- the ones that do most of the heavy lifting.
   You can out-think smarter people if you hone your mental models and train yourself to be objective and multidisciplinary.
 
-- Even though we are constantly surrounded by it, business is one of the most complex and multidisciplinary human activities.
+- Even though we are constantly surrounded by it, business is one of the most complex and multidisciplinary human activities. 
 
 - Definition of a Business:
   1) provides value that 2) other people want/need 3) at a price they are willing to pay, in a way that 4) satisfies the purchasers needs and expectations and 5) provides enough revenue to be self-sufficient.
@@ -25,39 +25,39 @@
    Maslows core human drives: physiologic / safety / belonging / esteem and self-actualization. 
    ERG theory: people desire: existence/relatedness and growth (in this order)
 
-- Working on the right thing is more important that working hard.
+- Working on the right thing is more important that working hard. #SystemsNotGoals
 
-- Have options or flexibility is an often overlooked/underrated form of value.
+- Having options or flexibility is an often overlooked/underrated form of value. #UnpopularTruth
 
 - The job of an entrepreneur is not to come up with ideas (that is the easy part) but to discover if an idea can work in reality.
 
-- "Better to be roughly right than precisely wrong" -- John Maynard Keynes
+- "Better to be roughly right than precisely wrong" -- John Maynard Keynes #PerfectionNotRequired #Estimation 
 
-- As soon as you start talking about something people dont care about they will ignore you.
+- As soon as you start talking about something people dont care about they will ignore you. #Rationality #MentalModels
 
-- Trying to appeal to everyone is a waste of time and money
+- Trying to appeal to everyone is a waste of time and money. 
 
 - "All we hear is an opinion not a fact. Everything we see is a perspective, not the truth" - Marcus Aurelius
 
 - Three universal currencies: resources, time and flexibility. (Flexibility is usually underrated)
 
-- Historically gift giving was how the powerful remained in power.
+- Historically gift giving was how the powerful remained in power. #History
 
 - Most people resist creating systems to improve their work/life because it feels like extra work.  When done right it can vastly decrease your amount of work.
-  If you are feeling overloaded the best thing to do is take the time to setup a more effective system.
+  If you are feeling overloaded the best thing to do is take the time to setup a more effective system. #Rationality #SystemsNotGoals
 
 - Amortization attributing a small piece of the expense of a large upfront investment across many small sales.
               or spreading the cost of a resource investment over the estimated life of the investment.
 
-- Humans have a hard time paying attention to what is NOT present (Absence Blindness)
+- Humans have a hard time paying attention to what is NOT present (Absence Blindness) #MentalModels
 
-- Your consciousness is how your brain solves problems that it cant automatically.
+- Your consciousness is how your brain solves problems that it cant automatically. #WhoWeAre #Consciousness
 
 - Behaviorism is the idea that you can control behavior by controlling stimuli.
 
-- Humans are optimized to perceive contrast not to compare what we see with what could be there but is not. We base our decisions on information in the surrounding environment.
+- Humans are optimized to perceive contrast not to compare what we see with what could be there but is not. We base our decisions on information in the surrounding environment. #MentalModels
 
-- The way to love anything is to realize it may be lost.
+- The way to love anything is to realize it may be lost. #Stoicism
 
 - "You've got to think about the big things while you;re doing the small things so that all the small things go in the right direction" -- Alvin Toffler
 

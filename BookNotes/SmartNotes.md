@@ -10,15 +10,15 @@
 
 - p1: Writing critical to thinking and the end product of knowledge work, yet crazy how little time/effort is put into training us on how to do it right. Most training skips the most important aspects of learning/developing ideas, which is how to take good notes. #ShouldTeachKids
 
-- p2: This book teaches you a system for taking good notes. The system organizes your notes in a way that makes it easy to lead to new knowledge by building a web of interconnected ideas. Advantage that its fun to do and proceeds in simple, well-defined steps that are easy to make progress on.
+- p2: This book teaches you a system for taking good notes. The system organizes your notes in a way that makes it easy to lead to new knowledge by building a web of interconnected ideas. Advantage that its fun to do and proceeds in simple, well-defined steps that are easy to make progress on. #Protocols
 
-- p5: The system can be seen as a cheat to being productive, doing meaningful, well-defined work is something that doesn't take will power. #Protocols
+- p5: The system can be seen as a cheat to being productive, doing meaningful, well-defined work is something that doesn't take will power. #Protocols #Rationality
 
 - p5: The well-defined structure of the system, allows you to focus on the content of your ideas, not on making sure you remembering to keep track of them.
 
-- p9: The top-down organization of notes is not a good idea. It quickly becomes complicated and silos ideas such that making unexpected connections -- a genuine source of novel knowledge -- is difficult.
+- p9: The top-down organization of notes is not a good idea. It quickly becomes complicated and silos ideas such that making unexpected connections -- a genuine source of novel knowledge -- is difficult. #UnpopularTruth 
 
-- p11: David Allen had important insight, we need to take care of everything in a consistent and well-defined way. Otherwise, untreated minor issues become emergencies.
+- p11: David Allen had important insight, we need to take care of everything in a consistent and well-defined way. Otherwise, untreated minor issues become emergencies. #Protocols
       - p70: Dont have to finish a task to relive mental burden, writing it down in a reliable system also works.
 
 - p18 The system: #Protocols #SystemsNotGoals

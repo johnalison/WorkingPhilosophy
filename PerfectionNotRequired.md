@@ -90,3 +90,6 @@ Persistence (via John Danahan)
 - Self-test: Can really tell if you understand something by going through the pain of explaining it in your own words. (Not as easy as re-reading. Less comfortable. but worth the work)
 
 - "Not ignorance, but ignorance or ignorance is the death of knowledge" - Alfred Whithead
+
+- Dont try to be right, try to be less wrong.
+  - One big mistake people repeatedly make is focusing on proving themselves right, instead of focusing on achieving the best outcome. This is the wrong side of right.

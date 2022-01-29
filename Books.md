@@ -1,13 +1,13 @@
 
 # 2022
 
+## [Our Oriental Heritage](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OurOrientalHeritage.md) (Will Durant)
+
 ## [The Family Firm](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FamilyFirm.md) (Emily Oster)
 
 ## [Six Thinking Hats](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SixThinkingHats.md) (Edward De Bono)
 
 ## [The AWK Programming Language](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWK.md) (Aho, Kernighan, Weinberger)
-
-## [The AWK Programming Language](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AWK.md) (Jim Mattis)
 
 ## [Call Sign Chaos](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CallSignChaos.md) (Jim Mattis)
 
