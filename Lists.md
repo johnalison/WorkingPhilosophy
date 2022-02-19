@@ -1,4 +1,4 @@
-o# Lists
+# Lists
 
 - [Things Ive changed my mind on                                       ](#Things-Ive-changed-my-mind-on                                         )
 - [Why Now is interesting                                              ](#Why-Now-is-interesting                                          	)
@@ -179,6 +179,9 @@ Can tell where we don't really understand problems when experts wildly disagree.
   - Helps you understand a topic "In your own words"
 - Use google docs to proof read text
 - Have students write first drafts of rec. letters 
+- Never say yes on the spot. Always give yourself some space. Make it a rule. Tell people.
+    When he’s on the phone he says ‘my rule is I never say yes on the phone. I’ll email you later after I think about it more.’ 
+- Every time you say yes, finishing this sentence :  I am choosing to say yes because ...
 
 # What do you we do now that will be totally replaced in 100 years?
 

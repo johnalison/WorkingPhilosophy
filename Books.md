@@ -1,6 +1,8 @@
 
 # 2022
 
+## [First Principles](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FirstPrinciples.md) (Thomas Ricks)
+
 ## [Our Oriental Heritage](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OurOrientalHeritage.md) (Will Durant)
 
 ## [The Family Firm](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FamilyFirm.md) (Emily Oster)
