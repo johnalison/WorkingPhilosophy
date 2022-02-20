@@ -1,6 +1,8 @@
 
 # 2022
 
+## [The Intelligent Investor](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntelligentInvestor.md) (Ben Graham)
+
 ## [First Principles](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FirstPrinciples.md) (Thomas Ricks)
 
 ## [Our Oriental Heritage](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OurOrientalHeritage.md) (Will Durant)
