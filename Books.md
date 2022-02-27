@@ -1,6 +1,8 @@
 
 # 2022
 
+## [Death Be Not Proud](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeathBeNotProud.md) (John Gunther)
+
 ## [The Intelligent Investor](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntelligentInvestor.md) (Ben Graham)
 
 ## [First Principles](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FirstPrinciples.md) (Thomas Ricks)
