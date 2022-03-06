@@ -1,6 +1,8 @@
 
 # 2022
 
+## [The Ideas of Particle Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IdeasOfParticlePhysics.md) (Coughlan, Dodd, and Gripaios)
+
 ## [Death Be Not Proud](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeathBeNotProud.md) (John Gunther)
 
 ## [The Intelligent Investor](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntelligentInvestor.md) (Ben Graham)
