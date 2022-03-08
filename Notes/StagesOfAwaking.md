@@ -5,7 +5,6 @@ Stages of Awakening
 - Stages of awakening:
   - Most of us take ourselves to be a separate someone. Localized in time and space and identified with the body and life history.
     	 We identify with a narrative, we take it to be who we really are. and perpetuate it. Most of us never question this identity.
-  -
 
 - Spiritual awakening is the direct discovery that you are not who you take yourself to be. Instead you are the timeless presence, the always already awake awareness in which life unfolds.
    You're not an object, a thing, or a person. You are the eternal subject, which can never itself become objectified as a separate something or someone.
