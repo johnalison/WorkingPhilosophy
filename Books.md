@@ -1,6 +1,8 @@
 
 # 2022
 
+## [Super Thinking](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperThinking.md) (Weinberg and McCann)
+
 ## [The Ideas of Particle Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IdeasOfParticlePhysics.md) (Coughlan, Dodd, and Gripaios)
 
 ## [Death Be Not Proud](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DeathBeNotProud.md) (John Gunther)
