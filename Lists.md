@@ -20,6 +20,7 @@
 - [Rules](#rules)
 - [Wishes](#wishes)
 - [Quotes for cards](#quotes-for-cards)
+- [Great Lectures](#Great-Lectures)
 
 # Things Ive changed my mind on
 
@@ -395,3 +396,6 @@ Can tell where we don't really understand problems when experts wildly disagree.
 # Quotes for cards
 
 
+# Great Lectures
+  - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+  - [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
