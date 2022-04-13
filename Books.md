@@ -1,6 +1,8 @@
 
 # 2022
 
+## [Shift Into Freedom](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ShiftIntoFreedom.md) (Lock Kelly)
+
 ## [Always with Honor](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AlwasyWithHonor.md) (Pyotr Wrangel)
 
 ## [Super Thinking](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SuperThinking.md) (Weinberg and McCann)
