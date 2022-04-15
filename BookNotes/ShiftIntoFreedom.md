@@ -50,6 +50,7 @@
 - With the direct approach: the emphasis is only being awareness; not on being aware of objects, but on resting as primordial awareness itself.
 
 - "What we are looking for is what is looking"
+    WhatWeAreLookingForIsWhatIsLooking
 
 - turning my awareness to look back through what I assumed to be "me"
 
@@ -69,4 +70,10 @@
 
 - Self-awareness is one of the highest human developments, yet in some ways this gift also limits our growth and development.
 
-- The word advaita means "not two" and refers to the paradox that the two levels or reality (subject and object) are not separate. 
+- The word advaita means "not two" and refers to the paradox that the two levels or reality (subject and object) are not separate.
+
+
+
+
+
+
