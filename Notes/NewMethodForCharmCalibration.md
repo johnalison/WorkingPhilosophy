@@ -35,3 +35,4 @@ Source: https://arxiv.org/pdf/2111.03027.pdf
 he sampled c and b jets are required to contain a soft muon inside the jet cone
 
 - B/c soft muons within jets are treated as any other charged PF candidate in both DeepCSV and DeepJet trainings, as opposed to training the network with explicit soft muon information, the bias in the discriminator responses aris- ing from using muon-containing c and b jets as a proxy for all c and b jets, is expected to be minimal. In Section 10.2 we further demonstrate the applicability of the correction factors to inclusive samples
+

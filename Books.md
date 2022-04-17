@@ -1,5 +1,6 @@
-
 # 2022
+
+## [The Life Of Greece](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeOfGreece.md) (Will Durant)
 
 ## [Shift Into Freedom](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ShiftIntoFreedom.md) (Lock Kelly)
 
