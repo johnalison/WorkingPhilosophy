@@ -400,3 +400,15 @@ Can tell where we don't really understand problems when experts wildly disagree.
   - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
   - [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
   - [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)
+
+# Advice
+   1. Focus your Energy
+   2. Guard your Time
+   3. Train your Mind
+   4. Train your Body
+   5. Think for Yourself
+   6. Curate your Friends
+   7. Curate your Environment
+   8. Keep your Promises
+   9. Stay Cheerful & Constructive
+   10. Upgrade the World
