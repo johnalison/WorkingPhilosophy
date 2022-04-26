@@ -91,3 +91,5 @@
 - The less you talk the more people listen. Dont me the person who is always talking. When you listen to other speak and absorb what they say, you can formulate the most important and impactful statement of the discussion, which will increase your influence on the situation. Even if a debate among colleagues leave you with nothing to add other than your approval, that well-articulated approval will carry more weight than blathering on just to hear yourself talk.
 
 - Dont waste your words. Let other people do that; instead speak with poignancy and power.
+
+- Its all on you, but its not about you.
