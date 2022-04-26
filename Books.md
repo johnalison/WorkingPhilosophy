@@ -1,5 +1,7 @@
 # 2022
 
+## [The Physics of Wall Street ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PhysicsOfWallStreet.md) (James Weatherall)
+
 ## [Leadership Strategy and Tactics ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LeadershipStrategyTactics.md) (Jocko Willink)
 
 ## [The Life Of Greece](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeOfGreece.md) (Will Durant)
