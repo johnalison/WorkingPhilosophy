@@ -1,5 +1,7 @@
 # 2022
 
+## [The One Minute Manager](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OneMinuteManager.md) (Ken Blanchard and Spencer Johnson)
+
 ## [Time Management For Teachers ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TimeManagementForTeachers.md) (Cathy collins)
 
 ## [The Physics of Wall Street ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PhysicsOfWallStreet.md) (James Weatherall)
