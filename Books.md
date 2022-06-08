@@ -1,5 +1,7 @@
 # 2022
 
+## [Seeking Wisdom: From Darwin to Munger](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SeekingWisdom.md) (Peter Bevelin)
+
 ## [Wake Up Now](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WakeUpNow.md) (Stephan Bodian)
 
 ## [The One Minute Manager](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/OneMinuteManager.md) (Ken Blanchard and Spencer Johnson)
