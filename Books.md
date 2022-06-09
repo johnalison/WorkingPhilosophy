@@ -1,5 +1,7 @@
 # 2022
 
+## [The Bitcoin Standard](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BitcoinStandard.md) (Saifedean Ammous)
+
 ## [Seeking Wisdom: From Darwin to Munger](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SeekingWisdom.md) (Peter Bevelin)
 
 ## [Wake Up Now](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WakeUpNow.md) (Stephan Bodian)
