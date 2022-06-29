@@ -1,5 +1,7 @@
 # 2022
 
+## [Caesar and Christ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CaesarAndChrist.md) (Will Durant)
+
 ## [Losing Ourselves](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LosingOurselves.md) (Jay Garfield)
 
 ## [The Bitcoin Standard](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BitcoinStandard.md) (Saifedean Ammous)
