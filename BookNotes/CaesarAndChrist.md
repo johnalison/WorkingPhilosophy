@@ -39,3 +39,51 @@
 - Till Sulla, Roman history is a record of families rather than individuals.
 
 - Greek culture triumphed in the rise of Constantinople as first the rival and then the successor of Rome; and when Constantinople fell, Greek literature, philosophy, and art reconquered Italy and Europe in the Renaissance. This is the central stream in the history of European civilization; all other currents are tributaries.
+
+- Cato fought corruption recklessly, and seldom let the sun set without having made new enemies. Cato was the first great writer of Latin prose.
+
+- The destruction of Carthage and Corinth in 146 BC must rank among the most brutal conquests in history.
+
+- Rome had won everywar but the class war; and the destruction of Carthage removed the last check to civil division and strife. Now through a hundred bitter years of revolution Rome would pay the penalty of gaining the world.
+
+- The causes of revolution were many, the reults were endless, the personalities thrown up by the crises, from the Gracchi to Augustus, were among the most powerful in history. Never before, and never again, until our time (WWII), were such stakes fought for, never was the world drama more intense.
+
+- A distrubution of land among the poorer citizens seemed the obvious and necessary solution of three problems: rural slavery, urban congestion and corruption, and military decay.
+
+- The Gracchi: More realisitic than Tiberius, Ciaus understood that no reform can endure which is opposed by the balance of economical or political power in the state.
+
+- The city mob that Ciaus had befreinded made no protest when his corpse, and those of his followers, were flung into the river; it was busy plundering his house.
+
+- Rome already recognized in Caesar's uncle (Giaus Marius) the uses of Caesar-ism; the dictatorshop of a popular leader backed by a devoted army seemed to many weary Romans the only alternative to the oligarchic abuses of liberty.
+
+- Marius resorted to a new form or military enrollment, which revolutionized first the army and then the state. He invited enlistment of any citizen, property owner or not; offered attractive pay, and promissed to release volunteers, and give them lands, after a completed campaign.
+
+- The Revolt of Italy: Marius emerged from his solitude, took command, and won victory after victory while all other Roman generals but Sulla met defeat. In three years of war 300k men fell, and central Italy was devastated.
+
+- Sulla was unique in his origins, character and fate. Boor poor, he became the defender of the aristocracy, as the aristocratic Gcacchi, Drusi, and Caesar became leaders of the poor.
+
+- Had his patience and insight equaled his ruthlessness and courage, Sulla might have saved Rome a half centrury of chaos and given her in 80 BC the peace and security, order and prosperity, that Augustus would bring back from Actium. He restored the old when he should have created the new. Under sulla, antiquity had never known so rich, so powerful, and so corrupt a government.
+
+- Virtue lies not in the fear of the gods, nor in the timid shunning of pleasure; it lies in the harmonious operation of the senses and faculties guided by reason.  Some men wear out their lives for the sake of a statue and fame, but the real wealth of man is to live simply with a mind at peace"  - Lucretius
+
+- For it is a nobler thinkg to enlarge the boundries of human intelligence than those of the Roman Empire. -- Cicero
+
+- Cicero: Not since Plato had wisdom worn such prose.
+
+- Age as well as youth has its glories -- a tolerant wisdom, the respectful attention of children, desire and ambition's fever cooled. Age may fear death, but not if the mind has been formed by philosophy. Beyond the grave there will be, at the best, a new and happier life; and at the worst there will be peace.
+
+- When Cato, suspecting Caesar's complicity with Catiline, challenged him in the Senate to read aloud a note just brought to him, Caesar passed it to Cato without comment; it was a love letter from Cato's half sister.
+
+- Caesars conquest of Gaul decided the character of French civilization. It added to the Roman Empire a country twice the size of Italy and opened the puses and markets of 5M people to Roman trade.  It saved Italy and the Mediterranean world for four centries from barbarian invasion.
+
+- Cleopatra was a Macedonian Greak by origin, and more probably blonde than brunette.
+
+- Caesar's transformation: The miracle whereby the youthful spendthrift and roisterer had become one of the ablest, bravest, fairest, and most enlightened men in all the sorry annals of politics.
+
+- The assisination of Caesar was one of the major tragedies of history.
+
+- Antony was one half of what Caesar had been, as Augustus would be the other half; Antony was a good general, Augustus a superlative statesman.
+
+- Caesar's adopted son. Caius Octavius (later known as Augustus) was to make himself the greatest statesman in Roman history.
+
+- Caesar's heir had conquered those of Alexander, and absorbed Alexander's realm; the West again, as at Marathon and Magnesia, had triumphed over the East.
