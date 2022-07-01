@@ -62,7 +62,7 @@
 
 - Sulla was unique in his origins, character and fate. Boor poor, he became the defender of the aristocracy, as the aristocratic Gcacchi, Drusi, and Caesar became leaders of the poor.
 
-- Had his patience and insight equaled his ruthlessness and courage, Sulla might have saved Rome a half centrury of chaos and given her in 80 BC the peace and security, order and prosperity, that Augustus would bring back from Actium. He restored the old when he should have created the new. Under sulla, antiquity had never known so rich, so powerful, and so corrupt a government.
+- Had his patience and insight equaled his ruthlessness and courage, Sulla might have saved Rome a half centrury of chaos and given her in 80 BC the peace and security, order and prosperity, that Augustus would bring back from Actium. He restored the old when he should have created the new. Under sulla, antiquity had never known so rich, so and so corrupt a government.
 
 - Virtue lies not in the fear of the gods, nor in the timid shunning of pleasure; it lies in the harmonious operation of the senses and faculties guided by reason.  Some men wear out their lives for the sake of a statue and fame, but the real wealth of man is to live simply with a mind at peace"  - Lucretius
 
@@ -104,4 +104,26 @@
 
 - "I persist in praising not the life that I lead, but that which I ought to lead. I follow it at a mighty distance, crawling." - Seneca
 
-- 
+- Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.
+
+- But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
+
+- In philosophy all truth is old, and only error is original.
+
+- When we compare the chief legacy of Roman natural science to the Middle Ages to the corresponding works and temper of the Greeks four hundred years earlier, we begin to feel the slow tragedy of a dying culture. The Romans had conquered the Greek world, but they had already lost the most precious part of its heritage.
+
+- Clearness is the first essential, then brevity, beauty, and vigor. Correct repeatedly and stoically. -Quintilian
+
+- We must consider the Roman fiscal system one of the most successful and stable in history. For two centruries a single monetary standard was honored throughout the Empire.
+
+- Exploitation of the weak by the strong is as natural as eating and differs from it only in rapidity; we must expect to find it in every age and under every form of society and government; but rarely has it been so thorough and unsentimental as in ancient Rome.
+
+- A proposal that slaves should be required to wear a distinctive dreww was voted down in the Senete lest they should realize their numerincal strength.
+
+- Originality is, like parentage, a novel combination of pre-existing elements.
+
+- Law was the most characteristic and lasting expression of the Roman spirit. As Greece stands in history for freedom, so Rome stands for order; and as Greece bequethed democracy and philosophy as the foundiations of individual liberty, so Rome left us its laws, and its traditions of administration, as the bases of social order.
+
+- Law tends to lage behind moral development, bot because law cannot learn, but because experince has shown the wisdom of testing new ways in practice before congealing them into law.
+
+- Greek science and philosophy, Judeo-Greek Christianity, Greco-Roman demacracy, Roman law - these our are supreme inheritance from the ancient world.
