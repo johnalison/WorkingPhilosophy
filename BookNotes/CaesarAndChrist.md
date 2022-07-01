@@ -87,3 +87,21 @@
 - Caesar's adopted son. Caius Octavius (later known as Augustus) was to make himself the greatest statesman in Roman history.
 
 - Caesar's heir had conquered those of Alexander, and absorbed Alexander's realm; the West again, as at Marathon and Magnesia, had triumphed over the East.
+
+- Augustus suceeded where Caesar had failed, because he was more patient and devious, because he udnerstood the strategy of words and forms, because he was willing to move cautiously and slowly where his great-uncle had been forced by the brevity of time to wound living traditions and crowd a generation of changes into half a year of life.
+
+- Augustus persuaded most of the kings of client states to send their sons to live in his palace and receive a Roman education; by this generous arrangement the youths served as hostages until their accession, and then as unwitting vehicles of Romanization.
+
+- At his death the Empire covered over 3 million square miles, more than the mainland of the United States, and over a hundred time s the area of Rome before the Punic Wars. Augustus advised his successor to be content with this, the greatest empire yet seen; to seek rather to unite and strengthen it within than to extend it without. He expressed his surprise "that Alexander did not regard it as a greater task to set in order the empire that he had won than to win it". The Pax Romana had begun.
+
+- "if some god where for taking you back to those days in the past you would refuse every time" the chief charm of the past is that we know we need not live it again.
+
+- Sanity, like government, needs checks and balances; no mortal can be omnipotent and sane.
+
+- Vespasian recognized the problem of technological unemployment, and decided against an industrial revolution. When and inventor showed him plans for a hoisting machine that would greatly reduce the need for human labor in clearing away debris left by way, he refused to use it saying "I must feed my poor".
+
+- The Emperors of "the age of despots" indulged their appetites because they know how brief was their omnipotence; they lived in the daily horror of men comdemned to an early and sudden death.
+
+- "I persist in praising not the life that I lead, but that which I ought to lead. I follow it at a mighty distance, crawling." - Seneca
+
+- 
