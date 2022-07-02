@@ -127,3 +127,48 @@
 - Law tends to lage behind moral development, bot because law cannot learn, but because experince has shown the wisdom of testing new ways in practice before congealing them into law.
 
 - Greek science and philosophy, Judeo-Greek Christianity, Greco-Roman demacracy, Roman law - these our are supreme inheritance from the ancient world.
+
+- The Roman army was never in better condition than in Hadrian's reign.
+
+- When Hadrian left Athens it was a cleaner, more prosperous, and more beautiful city than ever before in its history.
+
+- Under Hadrian: Never had monarchy left man so free, or so respected the rights of its subjects. The world's ideal seemed to have been attained. Wisdom reigned, and for 23 years the world was governed by a father.
+
+- If a man were called upon to fix the period in history of the world during which the conditino of the human race was most happy and prosperous, he would without hesitation name that which elapsed from the accession of Nerva to the death of Aurelius.
+
+- It is easy for indignation to be eloquent but hard for it to be fair; no moralist should write history.
+
+- The execution of senators and the assassination of emperors (in the 2nd century) were incidents in a long contest between vicious, cruel, and competent monarchs and a decadent, cruel, and incompetent aristocracy.
+
+- Seneca: "Our forefathers complained, we complain, and our descendants will complain, that morals are corrupt, that wickedness holds sway, that men are sinking deeper and deeper into sinfulness, that the condition of mindkind is going from bad to worse."
+
+- Arround the immoral hub of any society is a spreading wheel of wholesome life, in which the threads of tradition, the moral imperatives of religion, the economic compulsions of the family, the instinctive love and care of children, the watchfulness of women and policemen, suffice to keep us publicly decent and moderately sane.
+
+- one may be sure a man has many virtues if he admires those of others.
+
+- For 400 years Stocicism has been to the upper classes a substitute for religion; now the substitute was put aside, and the ruling orders turned back from the books of the philosophers to the altars of the gods.
+
+- The ruins of Roman forums, temples, aqueducts, and theaters on now arid wastes reveal the reach and wealth of Roman Africa. Those feilds decayed and became dead sand not through a change in climate but through a change in government.
+
+- Spain became to Italy what Mexico and Peru would be to Spain.
+
+- The Rhine was the frontier between classic and primitive civilization. Gaul could not defend that frontier; Rome did; and that fact determined the history of Europe to this day.
+
+- The decisions of Augustus and Tiberius not to attempt the conquest of Germany were among the pivotal events of European history. Had Germany been conquered and Romanized like Gaul, nearly all Europe west of Russia would have had one organization, one government, one classic culture, perhaps one tongue; and central Europe might have served as a buffer against those eastern hordes whose pressure upon the Germans caused the Germanic invasions of Italy.
+
+- It was a magnificent and precious achievement that the West, if not the North, had been won for the classical heritage.
+
+- Plutarch's Lives: Greece has not left us a more precious book.
+
+- In Plutarch, it is refresing to find a philosopher who is wise enough to be happy.
+
+- Philosophy does not mean reading books about wisdom, it means training oneelf in the practice of wisdom.
+
+- "Seek not that the things which happen to you should happen as you wish, but wish that the things that happen to be as they are, and you will find tranquility" - Epictetus
+
+- What is the best life? Lucian answers:
+
+    The life of the ordinary man is the best and most prudent choice. Cease from the folly of metaphysical speculation and inquire into origins and ends; count all this clever logic as idle talk, and pursue one end alone - how you may do what you hand finds to do, and go your way with never a passion and always a smile.
+
+- If we sum up Greek thought in the first two centuries of our era, we find it, despite Lucian, overwhelmingly religious. Men had once lost faith in faith and taken to logic; now they were losing faith in logic and were flocking back to faith.
+

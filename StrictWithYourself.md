@@ -20,3 +20,5 @@
 - Be spotless. A single cloud can hide the whole of the sun. (Baltasar Gracian)
 
 - Search others for their virtues, yourself for you vices. (Poor Richards Almanac)
+
+- It is easy for indignation to be eloquent but hard for it to be fair; no moralist should write history. (Caesar And Christ)
