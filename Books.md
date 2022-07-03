@@ -1,5 +1,7 @@
 # 2022
 
+## [The Elephant in the Brain](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElephantInBrain.md) (Kevin Simler adn Robin Hanson)
+
 ## [Caesar and Christ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CaesarAndChrist.md) (Will Durant)
 
 ## [Losing Ourselves](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LosingOurselves.md) (Jay Garfield)
