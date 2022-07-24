@@ -1,5 +1,7 @@
 # 2022
 
+## [How the World Really Works](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheWorldReallyWorks.md) (Vaclav Smil)
+
 ## [The Elephant in the Brain](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElephantInBrain.md) (Kevin Simler adn Robin Hanson)
 
 ## [Caesar and Christ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CaesarAndChrist.md) (Will Durant)
