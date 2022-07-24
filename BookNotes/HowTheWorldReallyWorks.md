@@ -114,3 +114,55 @@
 
 - Even if we try to change the global food system as fast as is realistically conceivable we will be eating transformed fossil fuels for decades to come.
 
+- We could have an accomplished and reasonably affluent civilization that provides plenty of food, material comforts, and access to health care without any semi-conductors, microchips or PC. We had one until the mid 1950s
+
+- Producing large high-purity silicon crystals costs two orders of magnitude more primary energy than making aluminum and three orders of magnitude more than making steel.
+
+- The four pillars of civilization are needed in larger and still increasing quantities than other inputs. They are not replacable by other materials.
+
+- The mass-scale production of the pillars depends heavily on the combustion of fossil fuels, and some of these fuels also supply feedstocks for ammonia and plastics. Iron ore smelting in blast furnaces requires coke made from coal. The vast majority of simple molecules that are bonded in long chains to make plastics are derived from crude oil and natrual gases.
+
+- Global production of the four pillars claims 17% of the worlds primary energy supply, and 25% of all C02 emissions.
+
+- Of the four substances it is ammonia that deserves the top position as our most important material.  In 2020, nearly 4 billion people would not have been alive without synthetic ammonia.
+
+- "Haber-Bosch process" is how ammonia is made invented at BASF. easily the most momentous technical advance in history.
+
+- The key innovation behind the "Green Revolution" that produced unprecedented crop yeilds is the use of natrual gas as the source of hydrogen.
+
+- About 150 megatons of ammonia are now synthesized, with 80% being used as fertilizer.
+
+- Plastics are a large group of synthetic organic material whose common quality is that they are fit for forming/molding. Synthesis begins with monomers, simple molecules that can be bonded in long chains or brances to make polymers. Two key monomers; ethylene and propylene are produced by steam cracking (heating to 800C) hydrocarbon feedstocks.
+
+- PVC is now the primary component in 25% of all health-care products.
+
+- Irresponsible dumping of plastics is not an argument agianst the proper use of these diverse and often truly indispensible synthetic materials.
+
+- Pig or cast iron is 95-97 percent iron, 2-4% carbon. The high carbon content makes it brittle.
+
+- Modern steels are made from cast iron by reducing its carbon content to 0.08-2%.
+
+- Steels physical properties handily beat those of the hardest stones and the other two most common metals. (Granite has similar compressive strength, buts its tensile strength is an order of magnitude lower.
+
+- Steel dominates the look of modern civilization and enables its most fundamental functions.
+
+- Steel is nearly always the larges part of transportation equipment. Jetlines are the major exception (aluminum alloys and composite fibers dominate)
+
+- Steel containers ship ~everything we own.
+
+- Only three elements are more common than iron in the earths crust (oxygen, silicon, and aluminum)
+
+- Recycled steel accounts for ~30% of the annual output.
+
+- Total energy requirement of steel is ~5% the total energy supply.
+
+- Cement is much less energy-intesive, but b/c its global output is 3x still its production is responsible for a simlilar level of carbon output.
+
+- Cement is the indispensible component of concrete. It is produced by heating ground limestone (a source of calcium) and clay or shale (sources of silicon, aluminum and iron) in large kilns.
+
+- Concrete consists largely of 65-85% aggregates and water (15-20%). The mixture is held together by cement ~10% of the concetes final mass.
+
+- Concrete is the most massively deployed material of modern civilization. Plain concrete is good in compression and steel reinforced concrete is also good in tension.
+
+- Large wind turbines are the embodiments of fossil fuels.
+
