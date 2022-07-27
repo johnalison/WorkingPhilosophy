@@ -1,5 +1,7 @@
 # 2022
 
+## [Powers and Thrones](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PowersAndThrones.md) (Dan Jones)
+
 ## [How the World Really Works](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheWorldReallyWorks.md) (Vaclav Smil)
 
 ## [The Elephant in the Brain](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ElephantInBrain.md) (Kevin Simler adn Robin Hanson)
