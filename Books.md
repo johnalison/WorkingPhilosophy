@@ -177,7 +177,7 @@
 ## [Fight Club](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FightClub.md) (Cluck Palahniuk)
 
 ## [The Road to Reality](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/RoadToReality.md) (Roger Penrose)
- 
+
 
 ## Discipline equals freedom
 
@@ -189,4 +189,260 @@
 
 ## Laws of Human Nature
 
+## The science of drinking (Dasgupta, Amitava)
+
 ## Why we sleep
+
+# 2019
+
+## The 48 Laws of Power (Greene, Robert)
+
+## A Guide to the Good Life: The Ancient Art of Stoic Joy (Irvine, William B.)
+
+## Getting Things Done: The Art of Stress-Free Productivity  (Allen, David)
+
+## Chaos: Making a New Science (Gleick, James)
+
+## The Lessons of History (Will Durant)
+
+## The Great Quake: How the Biggest Earthquake in North America Changed Our Understanding of the Planet (Fountain, Henry)
+
+## Chasing New Horizons: Inside the Epic First Mission to Pluto (Stern, Alan)
+
+## Thinking, Fast and Slow (Kahneman, Daniel)
+
+## Thinking Physics: Practical Lessons in Critical Thinking (Lewis Carroll Epstein)
+
+## The Way of Effortless Mindfulness: A Revolutionary Guide for Living an Awakened Life (Loch Kelly)
+
+## The 33 Strategies of War (Robert Greene)
+
+## Franz Kafka: The Complete Stories (Franz Kafka)
+
+## Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace  (Lipsky, David)
+
+## Statistics Done Wrong: The Woefully Complete Guide (Reinhart, Alex)
+
+## Meditations: A New Translation (Aurelius, Marcus)
+
+# 2018
+
+## Energy: A Human History  (Rhodes, Richard)
+
+## Churchill and Orwell: The Fight for Freedom (Ricks, Thomas E.)
+
+## Special Relativity and Classical Field Theory: The Theoretical Minimum (Susskind, Leonard)
+
+## The Case Against Sugar (Gary Taubes)
+
+## Visual Explanations: Images and Quantities, Evidence and Narrative  (Edward R. Tufte)
+
+## Envisioning Information (Edward R. Tufte)
+
+## The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century (Steven Pinker)
+
+## Perfectly Reasonable Deviations from the Beaten Track (Feynman)
+
+## The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics  (Susskind, Leonard)
+
+## Mindfulness: A Practical Guide to Awakening  (Goldstein, Joseph)
+
+## Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People (Steven Wolfram)
+
+## Theory and Reality: An Introduction to the Philosophy of Science (Godfrey-Smith, Peter)
+
+## Buddhism Without Beliefs: A Contemporary Guide to Awakening (Batchelor, Stephen)
+
+## Letters to a Young Contrarian (Art of Mentoring)  (Hitchens, Christopher)
+
+## The Big Picture: On the Origins of Life, Meaning, and the Universe Itself (Sean Carroll)
+
+## The Death and Life of Great American Cities (Jacobs, Jane)
+
+## Meditations on Violence: A Comparison of Martial Arts Training & Real World Violence (Rory Miller)
+
+# 2017
+
+## Free Will (Sam Harris)
+
+## Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment (Wright, Robert)
+
+## The Once and Future Liberal: After Identity Politics (Mark Lilla)
+
+## The Better Angels of Our Nature: Why Violence Has Declined (Steven Pinker)
+
+## Superintelligence: Paths, Dangers, Strategies (Bostrom)
+
+## Why We Get Fat: And What to Do About It (Gary Taubes)
+
+## Ethics for the Real World: Creating a Personal Code to Guide Decisions in Work and Life (Ron Howard)
+
+## Quantum Mechanics: The Theoretical Minimum  (Susskind)
+
+## The Strange Death of Europe: Immigration, Identity, Islam  (Douglass Murray)
+
+## Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies (West)
+
+## Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health (Taubes)
+
+## The Blank Slate: The Modern Denial of Human Nature (Pinker)
+
+## Elbow Room: The Varieties of Free Will Worth Wanting (Dennet)
+
+## The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness (John Yates)
+
+## 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story (Dan Harris)
+
+## Waking up (Sam Harris)
+
+## Classical Mechanics: The Theoretical Minimum (Susskind)
+
+## Crucibles: The Story of Chemistry from Ancient Alchemy to Nuclear Fission (Jaffe, Bernard)
+
+## The Gamble: General Petraeus and the American Military Adventure in Iraq (Ricks)
+
+## What's Going on in There? : How the Brain and Mind Develop in the First Five Years of Life  (Eliot, Lise)
+
+## Fiasco: The American Military Adventure in Iraq, 2003 to 2005 (Ricks)
+
+## The Youngest Minds: Parenting and Genetic Inheritance in the Development of Intellect and Emotion  (Barnet, Richard J.)
+
+## Consciousness Explained (Daniel C. Dennett)
+
+## From Bacteria to Bach and Back: The Evolution of Minds (Dennett)
+
+## Introduction to Concepts and Theories in Physical Science. (HOLTON, GERALD)
+
+## Healthy Sleep Habits, Happy Child (Weissbluth M.D., Marc)
+
+## In Praise of Simple Physics: The Science and Mathematics behind Everyday Questions (Nahin, Paul J.)
+
+## Scaling: Why is Animal Size so Important? (Schmidt-Nielsen, Knut)
+
+# 2016
+
+## On Food and Cooking: The Science and Lore of the Kitchen (McGee, Harold)
+
+## Inflight Science: A Guide to the World from Your Airplane Window (Clegg, Brian)
+
+## Mathematics and Plausible Reasoning, Volume 1: Induction and Analogy in Mathematics (Polya, G.)
+
+## On Size and Life (McMahon, Thomas)
+
+## Both Flesh and Not: Essays (DFW)
+
+## Girl With Curious Hair (DFW)
+
+## Brief Interviews with Hideous Men (DFW)
+
+## Clouds in a Glass of Beer: Simple Experiments in Atmospheric Physics (Bohren, Craig F.)
+
+## The Anthropic Cosmological Principle (John D. Barrow Frank J. Tipler)
+
+## 100 Essential Things You Didn't Know You Didn't Know: Math Explains Your World (Barrow)
+
+## Consider the Lobster and Other Essays (DFW)
+
+## Kitchen Confidential Updated Edition: Adventures in the Culinary Underbelly (Bourdain, Anthony)
+
+## Everything and More: A Compact History of Infinity (DFW)
+
+## This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life
+
+## Fashion, Faith, and Fantasy in the New Physics of the Universe (Penrose)
+
+## Oblivion: Stories (DFW)
+
+## Not Even Wrong: The Failure of String Theory and the Search for Unity in Physical Law (Woit)
+
+## A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments (DFW)
+
+## Big Science: Ernest Lawrence and the Invention that Launched the Military-Industrial Complex (Hiltzik, Michael)
+
+## Lord of Light (Zelazny, Roger)
+
+## Half-Life: The Divided Life of Bruno Pontecorvo, Physicist or Spy (Frank Close)
+
+## The Man Who Knew Infinity: A Life of the Genius Ramanujan (Kanigel, Robert)
+
+# 2015
+
+## Facing Up: Science and Its Cultural Adversaries (Weinberg)
+
+## The Extended Phenotype: The Long Reach of the Gene (Dawkins)
+
+## Intuition Pumps And Other Tools for Thinking (Dennett)
+
+## Infinite Jest (DFW)
+
+## Magnetic Mountain: Stalinism as a Civilization (Kotkin, Stephen)
+
+## To Explain the World: The Discovery of Modern Science (Weinberg)
+
+## Pi in the Sky: Counting, Thinking, and Being (Barrow)
+
+## The Age of the Earth (G. Brent Dalrymple)
+
+## The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World (Alder, Ken)
+
+## The Eerie Silence: Renewing Our Search for Alien Intelligence (Paul Davies)
+
+## The Selfish Gene (Dawkins)
+
+## Lawrence in Arabia: War, Deceit, Imperial Folly and the Making of the Modern Middle East (Scott Anderson)
+
+## The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America (Erik Larson)
+
+## Mathematics without Apologies: Portrait of a Problematic Vocation  (Harris, Michael)
+
+## S/Z: An Essay (Barthes, Roland)
+
+# 2014
+
+## The Idea Factory: Bell Labs and the Great Age of American Innovation (Gertner, Jon)
+
+## QED: The Strange Theory of Light and Matter (Feynman, Richard P.)
+
+## Subtle is the Lord: The Science and the Life of Albert Einstein (Pais, Abraham)
+
+## The Discovery of Subatomic Particles Revised Edition (Weinberg, Steven)
+
+## Lake Views: This World and the Universe (Weinberg, Steven)
+
+## Men of Mathematics (Bell, E.T.)
+
+## Thirty Years that Shook Physics: The Story of Quantum Theory (Gamow, George)
+
+# 2012
+
+## Phi: A Voyage from the Brain to the Soul (Tononi, Giulio)
+
+## 1493: Uncovering the New World Columbus Created  (Mann, Charles C.)
+
+## The Visual Display of Quantitative Information (Tufte, Edward R.)
+
+# 2011
+
+## The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements (Sam Kean)
+
+# 2009
+
+## Cat's Cradle (Kurt Vonnegut)
+
+## Olive Kitteridge: Fiction (Elizabeth Strout)
+
+# 2008
+
+## Rebel Code: Linux and the Open Source Revolution (Moody, Glyn)
+
+# 2007
+
+## Darwin's Dangerous Idea: Evolution and the Meanings of Life (Daniel C. Dennett)
+
+## Converging Realities: Toward a Common Philosophy of Physics and Mathematics (Omnes, Roland)
+
+## Introduction to Mathematical Philosophy (Russell, Bertrand Arthur)
+
+## The Autobiography of Bertrand Russell 1914-1944 (russell, bertrand)
+
+## The First Three Minutes: A Modern View Of The Origin Of The Universe (Weinberg, Steven)
