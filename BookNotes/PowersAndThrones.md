@@ -66,4 +66,14 @@
 
 - One of the great and lasting stories of the Middle Ages is one of increasing ignorance and hostility between the Islamic east and the Christian west.
 
+- During a reign that spanned forty years, Charlemagne united the lands we now know as France, Germany, northern Italy, Belgium, Luxembourg and the Netherlands into a European superstate under his own command.
+
+- The Franks and Vikings clashed as much as they cooperated while jockeying for resources and power.  In the end their collisions created a third people the Normans, who would have a major role in medieval history.
+
+- The pope would turn to the Franks as his secular defenders and throw his legitimizing influence behind the new Carolingian monarchy -- if in return they would move South over the Alps and save the papacy from its ememies. It was a high-stakes deal on both sides. In retrospect it has come to represent a seminal moment in western history: the moment at which the bishops of Rome no longer looked east to Constantinople for support, but to the barbarian-descended peoples of the west.
+
+- Like Alexander, Charlemagne had built an empire that proved itself possible only as an extension of one mans political self.
+
+- It would take nearly a thousand years for one ruler to once again hold the whole Carolingian inheritance in his hands. He was Napoleon Banaporte. It has only been possible to unit Europe once or twice in every millennium, and even then, not for very long.
+
 - 
