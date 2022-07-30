@@ -76,4 +76,8 @@
 
 - It would take nearly a thousand years for one ruler to once again hold the whole Carolingian inheritance in his hands. He was Napoleon Banaporte. It has only been possible to unit Europe once or twice in every millennium, and even then, not for very long.
 
+- By the late 11C abbots of Cluny were on even terms with kings and popes, and participated in the highest conversations and confilcts of their age.
+
+- Church athorities had no problem with the rich paying others to do their penance for them. By founding monasteries the landowning warrior classes of Europe cound effectively offset their sins by paying for monks to beg forgiveness their behalf in the form of masses.
+
 - 
