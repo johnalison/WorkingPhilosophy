@@ -80,4 +80,14 @@
 
 - Church athorities had no problem with the rich paying others to do their penance for them. By founding monasteries the landowning warrior classes of Europe cound effectively offset their sins by paying for monks to beg forgiveness their behalf in the form of masses.
 
-- 
+- The emperor of Constantinople thought salvation lay in the part of the Empire that had detached some 700 years ago. Constantinople sent an SOS call that would change history. Byzantine ambassadors were packed off to the realms of the west, to as for military and moral support from the "other" half of the Christiandom: western Europe and the Franks. They had set in change events that would coalesce as one of teh most astonishing events in medieval history -- the First Crusade.
+
+- All who went on his campaign of extermination and died along the way would be rewarded with "remission of sins". Their earthly misdeads would be forgiven, their passage to heaven smoothed.
+
+- The Franks had come to the east. They would remain there for two hunderd years.
+
+- After its promising beginnings, the second Crusade, was a disaster at virtually every turn.
+
+- Besides using crusading to hound Muslims and pagan, the pope would deploy it (or allow it to be deployed) against heretics and dissenters within the Christian world. This was a momentous turn of events.
+
+- The fourth Crusade was one of the most disgraceful and notorious escapades in the whole of the Middle ages. 
