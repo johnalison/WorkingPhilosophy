@@ -5,3 +5,4 @@
 
 - Our only real legacy is those we leave inside the lives we brought into this world.
 
+- You don’t need to build your kids like a carpenter, she writes, you cultivate them like a garden. You give them what they need to thrive and you pay attention, but you are never the one doing the work. They are. You are setting them up for success, but they are the ones who want to be successful
