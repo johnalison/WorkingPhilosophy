@@ -74,6 +74,8 @@
 
 ## [Little Bets.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LittleBets.md)  (Peter Sims)
 
+## [Nudge](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Nudge.md)  (Thaler and Sunstein)
+
 ## [You are not a Gadget.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NotAGadget.md)  (Jaron Lanier)
 
 ## [Third Thoughts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThirdThougts.md)  (Steven Weinberg)
@@ -142,6 +144,8 @@
 
 ## [Beyond Good and Evil](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BeyondGoodAndEvil.md)
 
+## How To Read and Why (Harold Bloom)
+
 ## [40 Ways to view Churchill](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/40WaysToViewChurchill.md)
 
 ## [Bullet Journal Method](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BulletJournalMethod.md)
@@ -204,6 +208,12 @@
 ## Getting Things Done: The Art of Stress-Free Productivity  (Allen, David)
 
 ## Chaos: Making a New Science (Gleick, James)
+
+## Concepts of Modern Mathematics (Stewart)
+
+## Mathematics : The New Golden Age (Stewart)
+
+## Say Nothing (Patrick Keefe)
 
 ## The Lessons of History (Will Durant)
 
@@ -295,6 +305,10 @@
 
 ## 10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works--A True Story (Dan Harris)
 
+## Lying (Sam Harris)
+
+## Does Santa Exist? (Eric Kaplan) 
+
 ## Waking up (Sam Harris)
 
 ## Classical Mechanics: The Theoretical Minimum (Susskind)
@@ -339,6 +353,8 @@
 
 ## Clouds in a Glass of Beer: Simple Experiments in Atmospheric Physics (Bohren, Craig F.)
 
+## Oxygen: A Four Billion Year History (Donald E. Canfield)
+
 ## The Anthropic Cosmological Principle (John D. Barrow Frank J. Tipler)
 
 ## 100 Essential Things You Didn't Know You Didn't Know: Math Explains Your World (Barrow)
@@ -381,6 +397,8 @@
 
 ## To Explain the World: The Discovery of Modern Science (Weinberg)
 
+## Gratitude (Oliver Sacks)
+
 ## Pi in the Sky: Counting, Thinking, and Being (Barrow)
 
 ## The Age of the Earth (G. Brent Dalrymple)
@@ -401,6 +419,8 @@
 
 # 2014
 
+## What If ? (Randall Munroe)
+
 ## The Idea Factory: Bell Labs and the Great Age of American Innovation (Gertner, Jon)
 
 ## QED: The Strange Theory of Light and Matter (Feynman, Richard P.)
@@ -415,7 +435,15 @@
 
 ## Thirty Years that Shook Physics: The Story of Quantum Theory (Gamow, George)
 
+# 2013
+
+## Love And Math (Edward Frenkel)
+
+## Equilateral (Ken Kalfus)
+
 # 2012
+
+## The Signal and The Noise (Nate Silver)
 
 ## Phi: A Voyage from the Brain to the Soul (Tononi, Giulio)
 
@@ -426,6 +454,10 @@
 # 2011
 
 ## The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements (Sam Kean)
+
+# 2010
+
+## Freedom (Jonathan Franzen)
 
 # 2009
 
@@ -445,6 +477,12 @@
 
 ## Introduction to Mathematical Philosophy (Russell, Bertrand Arthur)
 
+## A History of Western Philosophy (russell, bertrand)
+
 ## The Autobiography of Bertrand Russell 1914-1944 (russell, bertrand)
 
 ## The First Three Minutes: A Modern View Of The Origin Of The Universe (Weinberg, Steven)
+
+# ??? 
+
+## God's Debris (Scott Adams)
