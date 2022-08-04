@@ -253,7 +253,7 @@
 
 ## Envisioning Information (Edward R. Tufte)
 
-## The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century (Steven Pinker)
+## [The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century] (https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SenseOfStyle.md) (Steven Pinker)
 
 ## Perfectly Reasonable Deviations from the Beaten Track (Feynman)
 
@@ -299,7 +299,7 @@
 
 ## Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health (Taubes)
 
-## The Blank Slate: The Modern Denial of Human Nature (Pinker)
+## [The Blank Slate: The Modern Denial of Human Nature](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BlankSlate.md) (Pinker)
 
 ## Elbow Room: The Varieties of Free Will Worth Wanting (Dennet)
 
