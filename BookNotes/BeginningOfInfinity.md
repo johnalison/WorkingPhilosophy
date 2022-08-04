@@ -73,3 +73,15 @@
     - eg: knowledge implicit in genes for biological adaptation)
 
 - To be elaborated on later:  There is something greatly significant about explanation in the cosmic scheme of things.
+
+- Scientific Instruments: correct errors through indirectness that is guided/inspired/designed by theory. Strips away illusions misleading perspectives and gaps.
+   It is amazing that object exist that when we observe them take on the apparance, other properties of other objects that are elsewhere are very different.
+    (scientific intstruments (and our sensory organs) are examples of these incredible things.
+   Explanatory theories tell us how to build and operate devices in exactly the right way to make this miracle work.
+   Like conjuring tricks in reverse: these instruments fool our senses into seeing whats really there
+   It is ironic that scientific instruments bring us closer to reality when in purely physical terms they only ever separate us further from it.
+   (An example that all observation is theory laden)
+
+- To say that we have genuinely obserserved a thing is to say that we have accurately attributed our evidence (which is alawys ultimately inside our own brains) to that thing.
+   Scientific truth is when we have accurately attributed physical reality to theory
+
