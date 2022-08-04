@@ -1,5 +1,7 @@
 # 2022
 
+## [The Beginning of Infinity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BeginningOfInfinity.md) (David Deutsch)
+
 ## [Powers and Thrones](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PowersAndThrones.md) (Dan Jones)
 
 ## [How the World Really Works](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheWorldReallyWorks.md) (Vaclav Smil)
