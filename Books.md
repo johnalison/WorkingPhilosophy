@@ -261,7 +261,7 @@
 
 ## Mindfulness: A Practical Guide to Awakening  (Goldstein, Joseph)
 
-## Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People (Steven Wolfram)
+## [Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IdeaMakers.md) (Steven Wolfram)
 
 ## Theory and Reality: An Introduction to the Philosophy of Science (Godfrey-Smith, Peter)
 
@@ -269,7 +269,7 @@
 
 ## Letters to a Young Contrarian (Art of Mentoring)  (Hitchens, Christopher)
 
-## The Big Picture: On the Origins of Life, Meaning, and the Universe Itself (Sean Carroll)
+## [The Big Picture: On the Origins of Life, Meaning, and the Universe Itself](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BigPicture.md) (Sean Carroll)
 
 ## The Death and Life of Great American Cities (Jacobs, Jane)
 
@@ -291,7 +291,7 @@
 
 ## Ethics for the Real World: Creating a Personal Code to Guide Decisions in Work and Life (Ron Howard)
 
-## Quantum Mechanics: The Theoretical Minimum  (Susskind)
+## [Quantum Mechanics: The Theoretical Minimum](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheTheoreticalMinimumQM.md)  (Susskind)
 
 ## The Strange Death of Europe: Immigration, Identity, Islam  (Douglass Murray)
 

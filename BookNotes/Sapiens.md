@@ -1,5 +1,14 @@
 # Sapiens (Yuval Noah Harari)
-- Outstanding!
+- Outstanding! One of the best books Ive read.   Lots of focus on the big picture of the human species. Learned a lot.
+  Points out that there are 2 major developments: 
+    - cognitive revolution
+    - agricultural revolution
+ 
+ He highlights that the agricultural revolution was a big step back for the people living it. 
+ Emphasized that collective stories (or inter-subjective truths) are a major advantange that humans have. 
+ Also interesting was the discussion about if happiness has increased with history. 
+ Claimed that it is likely that only recently human happiness has been significantly changed, but this comes at the cost of severe drop in happiness of other animals. 
+ Science is described as having a central role in domination of the west; esp. in the idea of imperialism that was not done in the east. 
 
 - Timeline: 3e9 ya Beginning of Biology / 7e4 Cognitive revolution (Beginning of History)  / 1e4 Agricultural revolution / 5e3 1st kingdoms / 5e2 scientific revolution (entire planet single historical event) / 2e2 industrial revolution
 
