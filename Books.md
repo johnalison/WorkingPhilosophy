@@ -257,7 +257,7 @@
 
 ## Perfectly Reasonable Deviations from the Beaten Track (Feynman)
 
-## The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics  (Susskind, Leonard)
+## [The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BlackHoleWar.md)   (Susskind, Leonard)
 
 ## Mindfulness: A Practical Guide to Awakening  (Goldstein, Joseph)
 
