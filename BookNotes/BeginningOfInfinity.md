@@ -5,10 +5,15 @@
 - Dead Hero List:
   - Empiricism
   - Instrumentalism
+  - Spaceship Earth
+  - Principle of Mediocrity: Dawkins argement that "Universe beeing is not only queerer than suppose, but it is queerer that we can suppose" 
+  - Martin Reese: "could be life and intelligence in forms we cant conceive"
 
 - Hero List:
   - Popper
   - Fallibilists
+
+
 
 - Books main argument is that all progress (theoretical and practical) come from creating better explanations.
   This activity is both uniquely human and a fundamental fact about reality at the most "impersonal cosmic" level.
@@ -85,3 +90,79 @@
 - To say that we have genuinely obserserved a thing is to say that we have accurately attributed our evidence (which is alawys ultimately inside our own brains) to that thing.
    Scientific truth is when we have accurately attributed physical reality to theory
 
+- The Spaceship Earth metaphore and the Principle of Mediocrity are almost universally accepted anomg scientifically minded people.
+  Despite the fact that niavely they argue in oppositie directions:
+  	  - Principle of Mediocrity says how typical the earth is
+	  - Spaceship Earth emphasizes how special the earth is
+
+   However Truth is:
+     -) Humans are cosmologically significant
+     -) the Earths biosphere is ***incapable*** of supporting human life
+
+- The biosphere only ever achieves (temporaraly) statbility by constantly neglecting, harming, disabling, and killing individuals. Earth is not a life-support system!
+  Almost the entire capacity of the earths "life-support system for humans" has been created _by us_ using our ability to create new knowledge.
+  The extent to which we are on a spaceship we are its designers and builders, before humans it was not a vehicle, but a heap of dangerous raw materials
+
+- Biological evolution did not provide us with enough knowledge to survive.
+   (Here with differ from most other species which do have all the knowledge they need encoded in their brains "by the biosphere"
+
+- Although our sensec cannot detect neutrinos or quasars or most other significant phenomena in the universe, our brains can understand them
+
+- The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to creat new explanations, are necessarily parochial.
+   Which implies that science, despite all its successes and spirations would turn out to be inherently parochial and anthropocentric.
+   and thus that at some level the universe must be inexplicable
+
+- Any assumption that the world is inexplicable can lead only to Bad Explanations
+
+- There is an intimate connection be explaining the world and contolling it. In the set of all conceivable transformation of physical objects, there are those never happen because they are forbinned by the laws of physics; those that happen spontaneously; and some that are possible given enought knowledge. And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, But all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
+
+- This is ultimately the source of the cosmic importance of poeple, They have the ability to create knowledge which is ultimately not limited by parochial factors, but only by universal laws.
+  Anything that can create explanatory knowledge has cosmic significance. Astrophysics is incomplete without a theory of people.
+    eg: It is not true that the attributes of a supernova in general are independent of the presence or absence of people, or of what these people know and intend.
+        Generally, if we want to predict what a star will do we have to know whethere there are any people near it and if so, what knowledge they have and what they might want to do.
+
+    eg: The only phenomena that our best instruments can detect at stellar distances are 1) extreemly bright objects 2) a few things that obscure these objects 3) the effects of certian types of knowedge designed for communication (lasers/radio transmitters etc)
+
+- Using knowledge to sustain life is not unique to humans; but is the basic method which cells use to stay alive. DNA is a coded description of knowledge of ancestral environments. The differnce is what kind of knowledge they use (explanatory vs rule-of-thumb) and how its created (conjecture and criticism vs variation and selection of genes)
+
+- Humans are Universal Constructors: factories for transforming anything into anything.
+
+- Why should only one adaptation (human intelligence, problem solving, knowledge creation) out of the trillions that have been tried have unlimited reach?
+
+- There cannot be intelligence in forms we cant concieve (contra to Martin Reese's claims) If there were some thing that we were qualitatively unable to understand this would be a claim that the world is not explicable and is the same as an appeal to the supernatural.
+
+- Minimum needed to affect change in the Universe is matter, energy and access evidence: the information needed to test scientific theories.
+
+- Access to evidence: As far we know all the constants of nature can be measured here and every fundamental law can be tested here. So everything needed for open-ended knowledge creation is availbe in the earths biosphere. Not one is the Universe full of evidence, it is full of the same evidence everywhere. All people in the Universe face the opportunities.
+
+- In the Universe at large knowledge-friendliness is the rule, not the exception. Or person-friendliness to people who have the relevant knowledge; Death is the rule for people who do not.
+
+- Typical child born today in the US is more likely to die as a result of an astronomincal event than a plane crash.
+
+- Death: an unproblematic state with out creative thought
+
+- There can be no ultimate explaination. Nothing can be explained only in terms of itself. So any purported ultimate explanation will be a bad explanation; it will be easy to vary because it cant answer the question why this foundation and not another.  A implication of this is that the deep an explanation, the more problems it creates.  (JA:Not sure I completely buy this)
+
+- The Continental Enlightenment was impatent for the perfected state, while the British Enlightenment was impatient for institutions that did not stife gradual, continual change and pushed small improvements, unbounded in the future. (Liberal vs Conservative)
+
+- Knowledge is a significant phenomonea in the Universe.  To make almost any prediction about astrophysics one must take a position on what types of knowledge will or will not be present near the phenomonea in question. All explanation of what is out there mention people and knowledge even only implicitly.
+
+- The class of transformations that could happen spontaneously (ie: in the absense of knowledge) is negligibly small compared to those that could be affected by intelligent beings. So, explanations about almost all physically possible phenomena are about how knowledge woule be applied to bring about these phenomena.
+
+- When our brains learn of diverse phenomena in the Universe (eg a quasar), we have physical objects that are extremely differnet (brians and quasars) whose behavior is dominated by totally different physics with the same mathematical and casual structures -- and doing so more accurately over time.  Only knowledge can exhibit this underlying unity.
+
+- Only explanatory knowledge can be universal. (eg: the SETI instrument is precisely adapted to detecting something that has never yet been detected. Biological evolution could never do this)
+  Science (explanatory knowledge) can conjecture the existence of something, calculate its implications, and then construct an instrument to detect it. Non-explanatory knowledge cannot cross the conceptual gap that conjecture does
+
+- Humans and knowledge is not only objectively significant, they are by far the most significant phenomena in nature -- the only ones whose behaviour cannot be understood without understanding everything of fundamental importance.  Eg: the behaviour of humans wrt a champagne bottle in a SETI refrigerator depends on the existence of life in other solar systems. Simliar proxy behavious in other scientific labs.
+  Consider also how completely differnet the evolution of an environment with and without the presense of a tiny sliver of knowledge.
+  Almost all regions of the universe are just waiting doing nothing at all, which if the right knowledge ever reached it, instantly and irrevocably busrt into a radically differnet type of physical activity.
+
+- Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken. Science (the least parochial perspective available to us) implies that people are the most significant entitites in the cosmic scheme of things.  They are not supported by their environment, but support themselves by creating knowledge.
+
+- Apart from the thoughts of people, the only process known to create knowledge is biological evolution. However the knowledge it creates (apart from via people) is inherently bounded and parochial. 
+
+
+
+
+  
