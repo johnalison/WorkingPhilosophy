@@ -1,5 +1,7 @@
 # 2022
 
+## [The Ascent of Money](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AscentOfMoney.md) (Niall Ferguson)
+
 ## [The Beginning of Infinity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BeginningOfInfinity.md) (David Deutsch)
 
 ## [Powers and Thrones](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PowersAndThrones.md) (Dan Jones)
