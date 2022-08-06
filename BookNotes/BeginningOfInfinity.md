@@ -8,6 +8,8 @@
   - Spaceship Earth
   - Principle of Mediocrity: Dawkins argement that "Universe beeing is not only queerer than suppose, but it is queerer that we can suppose" 
   - Martin Reese: "could be life and intelligence in forms we cant conceive"
+  - Boltzmann Brains 
+  - Anthropic Arguments for fine-tuning puzzles
 
 - Hero List:
   - Popper
@@ -162,7 +164,18 @@
 
 - Apart from the thoughts of people, the only process known to create knowledge is biological evolution. However the knowledge it creates (apart from via people) is inherently bounded and parochial. 
 
+- Good adaptation and good explanations are hard to vary while still retaining thier function.
 
+- Error Correction: Once they are physically embodied DNA and memes in human brains tend to cause themselves to remain so. This information is very unlikely to come into existence other than through the errorc correcting process of evolution and thought
 
+- In any good explanation of the origin of biological adaptation God cannot play the role assigned by creationism.  Who created God ? The answer can only be a bad explanation.
 
-  
+- The existence of an unsolved problem in physics is not more evidence for supernatural explanation than the existence of an unsolved crime is that a ghost committed it.
+
+- The idea that similiar laws of physics can be expected to give rise to similar environments in undermined by the very existence of fine-tuning.
+
+- Boltzmann Brains are bad explanations. At any given instant, the theory predicts that we are going to be killed in the next picosecond and is hence refuted by observation a picosecond later.
+
+- Anthropic explanations are attemptiong to account for purposeful structure in terms of one single act of selection. This is unlike evolution, and cannot work. It is too easy an explanation. The solution of the the fine-tuning puzzel is going to be in terms of an explanation that will specifically explain what we observe.
+
+- Scientific discovery is profoundly unpredictable despite the fact that it is determined by the laws of physics. Before a discovery, not predictive process could reveal the content of the discovery; if it could it would be that discovery. 
