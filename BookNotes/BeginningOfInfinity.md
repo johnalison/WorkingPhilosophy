@@ -67,6 +67,7 @@
 - Quest for Good explanations is the basic regulating principle of not only science, but the Enlightenment in general.  It is the path (only?) to progress and truth.
 
 - Criterion for reality: a particular thing is real if and only if it figures in our best explanation of something.
+  Abstract entities can be real and can play a role in causing physical phenomena (see: Hofstader example of prime number domino calculator)
 
 - Occam razor: is a common way of removing arbitrariness of a bad explanation, that can sometimes yield a good one.
 
@@ -178,4 +179,38 @@
 
 - Anthropic explanations are attemptiong to account for purposeful structure in terms of one single act of selection. This is unlike evolution, and cannot work. It is too easy an explanation. The solution of the the fine-tuning puzzel is going to be in terms of an explanation that will specifically explain what we observe.
 
-- Scientific discovery is profoundly unpredictable despite the fact that it is determined by the laws of physics. Before a discovery, not predictive process could reveal the content of the discovery; if it could it would be that discovery. 
+- Scientific discovery is profoundly unpredictable despite the fact that it is determined by the laws of physics. Before a discovery, not predictive process could reveal the content of the discovery; if it could it would be that discovery.
+
+- There is no better desteny for a theory that to point the way to a more comprehensive thoery to which it lives on as a limiting case.j
+
+- Progress is made by creatively varying the ***_explanations_*** of a theory, not the predictions.
+
+- Our brans are computers whiech we can use to learn about things beyond the physical world, including pure mathematical abstractions.
+  These mathematical abstractions are not possible objects of any observation, and yet we come to know about them.
+  (Plato concluded that this knowledge must come from the supernatural) However our knowledge of these abstract entities actually comes from conjecture, critisism, and seeking good explanations.
+
+- Common claim: "You can't derive an ought from an is, therefore morality connot be justified by reason"  True, but you also cant derive a factual theory from an is either.
+  Factual evidence and moral maximums are independent, but factual and moral ***_explanations_*** are not. Factual knowledge can be useful in criticizing moral explanations.
+   eg: Sucess at making factual discoveries implies many values that the scientists has to commit to.
+         - Value of truth, good explanations, and be open to ideas and change.
+
+- Reductionism and Holism are both mistakes. Explanations do not form a hierarchy with the lowest level the most fundamental. Explanations at any level can be fundamental.
+
+- The Jump to Universality is a tendency of gradually improving systems to undergo a sudden large increase in functionality, becoming universial in some domain.
+   It has a typical transitions:
+    Before the jump there are specialized tools for each use case
+    After the jump once customizes (or specializes or programs) a universal object
+
+- There is more of a reason to model the brain as a computer then as a steam engine:
+  A computer, but not a steam engine, is a universal simulator.
+  Expecting a computer to do whatever neurons can is not a metaphor.
+
+
+- There is no such thing as an universal analogue computer. Analogue computers cant do error correction (every value in an analogue could be correct) and without error correction, the growth of knowledge is bounded. So all universal computers are digital and all use error-correction. All jumps to universality orrur in digital systems. eg: Spoken languages build words out of a finit set of elementary sounds.
+
+- All known jumps to universality have be done by humans except one: DNA
+
+- Initially the genetic code was evolving along with everything else in the organism, but became a point where the code itself stopped evolving, despite the fact that the organisms continued to.
+  When the DNA stopped evolving it was only coding for single-celled organisms. Despite that all organisms today have been based on exactly the same alphabet of bases, and three-base "words".
+  Considereed as a language, the genetic code has displayed phenomenal reach.
+  DNA might have been the first universality to exist,  
