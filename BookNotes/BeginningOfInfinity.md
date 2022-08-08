@@ -10,7 +10,8 @@
   - Martin Reese: "could be life and intelligence in forms we cant conceive"
   - Boltzmann Brains 
   - Anthropic Arguments for fine-tuning puzzles
-
+  - Daniel Dennett: who claims in Consousness Explained that qualia dont exist
+  
 - Hero List:
   - Popper
   - Fallibilists
@@ -213,4 +214,20 @@
 - Initially the genetic code was evolving along with everything else in the organism, but became a point where the code itself stopped evolving, despite the fact that the organisms continued to.
   When the DNA stopped evolving it was only coding for single-celled organisms. Despite that all organisms today have been based on exactly the same alphabet of bases, and three-base "words".
   Considereed as a language, the genetic code has displayed phenomenal reach.
-  DNA might have been the first universality to exist,  
+  DNA might have been the first universality to exist,
+  We do not know why DNA which evolved to describe bacteria has enough reach to describe dinosaurs and humans. 
+
+- AI must be possible in principle beacause a universal computer is a universal simulator
+
+- In Consciousness Explained (some refer to it as Consciousness Denied) Dennet claims that qualia dont exist.  To deny them is a bad explanation.
+
+- If you cant program it, you dont understand it
+
+- Judging whether something is really a genuine AI will always depend on explanations of how it works.
+
+- A chatbot responds as though it had created knowledge in composing a response to a question, in reality the knowledge was created earlier and elsewhere.
+
+- The feild of AGI has made no real progress because there is an unsolved philosophical problem at its heart: we dont understand how creativity works.
+   Claim: One that is solved, programming AI will not be difficult.
+
+- Mathematicians realized centuries ago that it is possible to work consistently and usefull with infinity.
