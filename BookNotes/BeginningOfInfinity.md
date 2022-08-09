@@ -314,3 +314,25 @@
 - We should be upset by the failed versions of the begining of inifinity throught history (Athens, Islamics golden age, Florence in 15C) If any of these earlier experiments in optimism had succeeded our species would be exploring the stars and individuals would be immortal.
 
 - Wealth: the repertoire of physical causes that one is capable of causing.
+
+- Good customs: Defy anyone who seeks your submission
+                Gove a hearing to anyone who offers honest criticism, seeking to change you mind by persuasion.
+
+- Moral Imperative: Do not destroy the means of correcting mistakes.  (possible the only moral imperative, all others follow?)
+
+- Summary of the views of Karl Popper:
+  When we hear something being said we guess what it means, without realizing we are doing it. (Learning is an creative act!)
+  We sit here in imprisoned our heads (a dark, almost sealed cave of our skull)  forever guessing about the outside worlds: physical, moral, mathematical ect.
+  But we not only guess we seak explanations that remain robust agianst the limited input we receive, agianst each other, logic, reasonableness and anything else we can think of.
+  When we can improve them no longer we have understood some objective truth, and (at the same time) what we understand we can control. Its like magic, only real. We are like gods!
+
+  We constantly underestimate the difficulty of communication. Communication depends on guess work on both sides and is inherently fallible.
+  Our default assuption should be that misunderstandings are ubiquitous and that neither intelligence nor intention can guarantee against them.
+
+  The way to converge to each other is to converge upon the truth
+
+- Odd that philosophy places such great weight on reading the original texts to understand the minds of the orginators of theories.
+  eg: The main goal in physics texts is to understand the theory, not the opinions of the authors.
+
+- If you have a good theory -- as the fundamental theories of physics are -- it is exceedingly hard to vary while still remaining a viable explanation.
+
