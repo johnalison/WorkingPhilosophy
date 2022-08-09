@@ -11,7 +11,9 @@
   - Boltzmann Brains 
   - Anthropic Arguments for fine-tuning puzzles
   - Daniel Dennett: who claims in Consousness Explained that qualia dont exist
-  
+  - Finitism: the doctrine that only finite abstract entities exist
+  - Simulation hypothesis: leads to infinite regress (bad explanation)
+
 - Hero List:
   - Popper
   - Fallibilists
@@ -231,3 +233,55 @@
    Claim: One that is solved, programming AI will not be difficult.
 
 - Mathematicians realized centuries ago that it is possible to work consistently and usefull with infinity.
+
+- Case against Finitism: Problem, is there a real largest natural number or not ? Finitists have to deny the "law of the excluded middle" ie: A or ~A.
+  Finitism is intrumentalism applied to mathematics. It is a principled rejection of explanation. All access to abstract (and physical) entitites, finite or infinite is via theory.
+
+- Universality of Reason: All branches of philosophy, science, and mathematics have inherent limitations. But there is no bound to reason.  Believing in a bound on the domain of reason is equivalent to the beilief in the supernatural.
+
+- The best explanation of anything eventually involves universality, and therefore infinity.
+
+- Whenever we refer to infinity we are making use of the infinite reach of some idea. Whenever an idea of infinity makes sense, it is because there is an explanation of why some finite set of rules for manipulating finite symbols refers to something infinite.  (This underlies our knowledge of everything else as well!)
+
+- There are uncountably many orders of infinity, each too large to be put into one-to-one correspondence with the lower ones. (Is the number of order of infinity the same as any one of the infinities?)
+
+- When we have unbounded growth of knowledge we are always (and forever) just scratching the surface.
+
+- The atributes of probable or improbable, rare or common, typical or untypical have literally no meaning in when comparing infinite sets of natural numbers. This is bad news for anthropic arguments.
+  None of the anthropic-reasoning theories that have been proposed provide any measure. Most are little more than speculations "What if there were universes with different parameters?"
+
+- The set of all functions is uncountably infinite, while the set of all programs is merely countably inifite => almost all mathematical truths have no proofs. They are unprovable truths. Most of all mathematical statements are undecidable: there is no proof that they are true and no proof that they are false. Each of them is either True or False, but there is no way of using physical objects (brains or computers) to discover which is which.  All undecidable statements are directly or indirectly about infinite sets. To finitists, this is beacuse of the meaninglessness of these statements. To Deutsch it is further proof that abstractions exist objectively, these statemets cannot merely be a convenient way of describing the behaviour of some physical system.  Interestingly, very few questions are known to be undecidable, even though most are.
+
+- There is nothing mathematically special about the undecidable questions. They are destinguished by ***_physics_** only. Different physical laws would make differnt things infinite (?), different things computable, different truths (scientific and mathematical) knowable.  It is only the laws of physics that determine which abstract entities and relationships are modelled by physical objects such as mathematicians brains, computers, and sheets of paper. Our knowledge of whethere a proposition is true or false ***_always_*** depends on knowledge about how physical objects behave; the mathematical proposition is independent of physics, but the proof of the proposition is a matter of physics only. There is no such thing as abstractly proving something (just as there is no such thing as abstractly knowing something)
+
+ All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties, and its scope and limitations are conditioned by the laws of nature
+
+  #ConnectionOfMathAndPhysics 
+
+- A computation or proof is a physical process in which objects (computers or brians) physically model or instantiate abstract entities (numbers or equations) and mimic their properties. This is our window on the abstract. Every mathematical proof depends on our knowing the rules that govern these physical objects. Contrary to what most mathematicians believe,  proof theory can never be made into a branch of mathematics, it is a science (computer science) 
+
+- The point of mathematics is to understand  (explain) abstract entities. Proof is like observation in science, mainly a way of ruling out false explanations.  Mathematics (like all fields) does not seek random truths but good explainations.  The motivation for seeking a perfectly secure foundation is mistaken, a form of justificationism.
+
+- Another potential fine-tuning in the laws of physics: They support computational universality: so human brains can predict and explain the behaviour or very un-human objects (eg: quasars)
+  If the laws of physics depended on non-computable functions (most functions are non-computable) we could not make predictions, and hence could not exist.
+  So there is something infinitely special about the laws of physics as we actually find them. They are fine-tuned for computation, prediction, and explanation.
+  "The unreasonable effectiveness of mathematics in the natural sciences"  (This problem seems to attract bad explanations)
+  eg: simulation hypothesis
+
+
+- Simulation hypothesis: It is the very nature of computational universality that if we and our world were composed of software, we would have no means of understanding the real physics -- the physics of the simulator. So the simulation hypothesis entails giving up on explanation in science.
+
+- P!=NP says there are classes of mathematical questions whose answers can be verfified easily once you have them, but that cannot be computed easily in the first place by a universal computure. Almost all researchers in computing theory are sure that this conjecture is true.
+
+- Conjecture: If a question is interesting, then the problem is soluble. However, fallibilism tells us that we can be mistaken about what is interesting.
+
+  Corollaries:
+	- Inherently insoluble problems are inherently uninteresting. 
+	- In the long run, the distinction between what is interesting and uninteresting is not a matter of subjective taste but an objective fact.
+	- The interesting problem of why every probem that is interesting is also soluble is itself soluble.
+
+- We currently dont know why the laws of physics seem fine-tuned; we dont know why various forms of universality exist; we do not know why the world is explicable. But eventually we shall, and when we do there will still be infinitely more left to explain.
+
+- Computation: a physical process that instantiates the properties of some abstract entity.
+
+- The property of infinite sequences is that every element is exceptionally close to the beginning.
