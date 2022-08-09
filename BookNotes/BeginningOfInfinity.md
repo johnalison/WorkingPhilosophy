@@ -13,6 +13,9 @@
   - Daniel Dennett: who claims in Consousness Explained that qualia dont exist
   - Finitism: the doctrine that only finite abstract entities exist
   - Simulation hypothesis: leads to infinite regress (bad explanation)
+  - Claim that we are uniquely posed to destroy ourselves
+  - Hawking's fear of extraterrestrial civilizations
+
 
 - Hero List:
   - Popper
@@ -285,3 +288,29 @@
 - Computation: a physical process that instantiates the properties of some abstract entity.
 
 - The property of infinite sequences is that every element is exceptionally close to the beginning.
+
+- Fundamental limit to scientific prediction: The future of civilization is unknowable because the knowledge that is going to affect it has yet to be created. So even the possible outcomes are unknown, let alone their relative probabilities. No good explanation can predict the result of something that will be significantly affected by new knowledge.
+
+- Existential Danger from Increased Technological Innovation : Its not the case that only since the mid 20C have we be capable fo destroying civilization with technology. Many civilizations in history were destroyed by the simple technology of fire and the sword, actually the overwhelming majority of civilizations in history have been destroyed, intentionally or b/c of natural disaster. Almost all of them could have avoided destruction if they had more knowledge, very few if any could have benefited from greater caution in innovation.
+
+- Civilizations starved long before Malthus form drought and famine ultimately due to lack of knowledge of irrigations and farming. The distinction between a "natural" disaster and one brought about by ignorance is parochial.  
+
+- Hawking's fear of extraterrestrial civilizations: Ingores the oppurtunity cost of not making our existence known. Could be destroyed by accident. Failed to be saved.
+  Also assumes that progress is limited by raw materials and not knowledge.
+
+- Because there can only be one type of person: universal explainers and constructors; the idea that there could be beings that are to us as we are to animals is a belief in the supernatural.
+
+- Political policies (like scientific theories) cannot be derived from anything; they are conjectures. We should chose between them not based on their origin, but based on how good they are as explanations, how hard they are to vary.
+
+- Popper (in knowledge and authority) proposes to replace the question of where the knowledge comes from by the question: How can we hope to detect and eliminate error?
+
+- Objective progress is possible in philosophy, politics, and morality just as it is in science by seeking good explanations.
+  Just as science seeks explanations that are experimentally testable, a rational political system makes it easy to detect and persuade others, that a leader or policy is bad and to make a non-violent change.  Political institutions should be judged not for their ability to make prophetic decisions about policies and leaders, but to remove bad ones that arise. #Munger Invert
+
+- Principle of Optimism: All evils are caused by insufficient knowledge. Optimism is a way of explaining failure. It implies that there is no fundamental barrier (law of nature or supernatural decree) to progress.
+
+- Agruement against the Entrechment of old people in positions of power: we have tradions of criticism in our society well adapted to removing bad leader from office, even when they are in good health.
+
+- We should be upset by the failed versions of the begining of inifinity throught history (Athens, Islamics golden age, Florence in 15C) If any of these earlier experiments in optimism had succeeded our species would be exploring the stars and individuals would be immortal.
+
+- Wealth: the repertoire of physical causes that one is capable of causing.
