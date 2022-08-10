@@ -336,3 +336,34 @@
 
 - If you have a good theory -- as the fundamental theories of physics are -- it is exceedingly hard to vary while still remaining a viable explanation.
 
+- Quantum theory is the deepest explanation known to science.
+
+- "Many-universes" interpertation remains a minority view despite the fact that many well-studied phenomena have no other known explanation.  The "Science-as-explanation" position that is advocated in this book, ie: an account of what is really out there, is itself still a minority view even among theoretical physicists.
+
+- It is consistent for two identical entities to become different under deterministic and symmetrical laws if the two entities are _fungible_: identical in literally every way except that there are two of them.  Examples of fungible configurational entities in classical physics is amounts of energy. In quantum physics elementary particles are fungible entities.
+  It is counter-intuitive that identical objects obeying deterministic laws cannot become different, but fungible objects (which on the face of it are even more alike, can; this is at the heart of quantum physics.
+  Diversity within fungibility  is widespread in the multiverse.
+
+- Three ways which a phenomena can appear unpredictable to an observer
+  1) Physics is affected by some fundamentally random variable (not present in real physics)
+  2) We only ahve partial knowledge, even thought underlying system deterministic (partly responsible for most everyday unpredictability)
+  3) (New in quantum theory) Two or more initially fungibile instantes of the observer become differnet.
+  The laws of physics of the multiverse is deterministic; the apparent randomness is due to initially fungible instances of objects becoming different.
+
+- There are ways in which the different histories of the different universes can affect each other in ways that do not amount to communication.
+  The need to explan these effects is the main argurement that our multiverse is real.
+  Under certain circumstances histories can rejoin, becoming fungible again. (Interference)
+
+- Knowledge is the only phenomena whose effect do not fall off with distance. Knowledge can be aimed at a target, travel a vast distance having nearly no affect, and then utterly transform the destination.
+
+- The only way for the laws of physics to ***simultaneously*** meet the criteria of being universal, deterministic, adn forbid faster-than-light communication is to have multiple universes.
+
+- Common sense and classical physics contain the parochial error that only one history exists.
+
+- Universes, histories, particles (?) and their instances are not reffered to by quantum theory at all (Just as planets, human being and their lives and loves are not). These are all approximate emergent phenomena in the multiverse.
+
+- Different times are special cases of different universes.  Time is an entanglement phenomena.
+
+- Since knowledge growth is a process of error correction and because there are many more ways to be wrong than to be right, knowledge creating entities rapidly become more alike across different histories than other entities. Knowledge creating being are unique in that their effects do not diminish with distance and they tend to stay constant across histories.
+
+- 
