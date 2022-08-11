@@ -1,5 +1,7 @@
 # 2022
 
+## [Numbers Dont Lie](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NumbersDontLie.md) (Vaclav Smil)
+
 ## [Physics And Philosophy](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PhysicsAndPhilosophy.md) (Werner Heisenberg)
 
 ## [The Ascent of Money](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AscentOfMoney.md) (Niall Ferguson)
