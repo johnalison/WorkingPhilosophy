@@ -366,4 +366,42 @@
 
 - Since knowledge growth is a process of error correction and because there are many more ways to be wrong than to be right, knowledge creating entities rapidly become more alike across different histories than other entities. Knowledge creating being are unique in that their effects do not diminish with distance and they tend to stay constant across histories.
 
+- The proof of other universes in in the Mach-Zehnder interferometer. The path that was not taken affects the one that was.
+
+- In a quantum computer the final output will depend on the intermediate results being computed in the vast number of ***_different_*** histories of the ***_same_*** few atoms.)
+
+- Although Schrodinger and Heisenberg's theories seemed to describe very differnt worlds -- neither of which was familiar-- it was found that if a simple rule of thumb was added, each theory would always make identical prediction, which turned out to be very successful.  The rule of thumb is whenever a measurement is made, all the histories but one cease to exist. Instead of trying to improve and integrate these two powerful but slightly flaswed explanatory theories, and to explain why the rule of thumb worked, most theoretical physicists retreated to Instrumentalism.  If the predictions worked, why worry about the explanation?  This meant ingoring the fact that the rule of thumb was grossly inconsistent with both theories, and not even self-consistent when applied to once observer making a quantum measurmeent on another ("paradox of Wigners friend").
+
+- Bad Philosophy: Philosophy that is not only wrong, but actively prevents the growth of other knowledge.
+
+- For decades, various versions of bad philosophy regaurding quantum theory was taughtin physics courses.
+   The theory claimed to stand outside the jurisdiction of normal modes of reason ("If you think youve understood quantum mechanics then you dont")
+  A hallmark of bad philosophy.
+
+- Vaugeness, inconsistency, adn the precieved authority fundamental phyiscs opened the doo to countless pseudo-science supposedly based on "quantum theory".
+
+- David Bohm struggled to construct an alternative theory that was compatable with realism. His was a complicted theory that can be seen as a multiverse theory in disguise.
+
+- Schrodinger joked that he might be considered mad for claimimg that his own equation -- for which he had one the Noble prize-- might actually be true.
+
+- "Because I say so" four simple workds contain many themes of false and bad philosophy.
+   1) perfect example of bad explanation: It can be used to "explain" anything
+   2) It is about who said something, not what was said.
+   3) it reinterprets a request for true information as a request for justification
+   4) It claims to stand outside the jurisdiction of normal critisism
+
+- Positivism is a bad effect of taking empirisism literally. Machs positivism led him to oppose relativity (because it claimed that spacetime really exists even though it cant be "directly" observed) and atoms, which were too small to observe. Most philosophies of science since Mach have been even worse (Popper being an exception).
+
+    eg:
+      - logical positivism asserts any statements not directly verifiable by observation are meaningless (note that logical positivism itself is not directly observable).
+      - Postmodernism (aka deconstructionism or structuralism) claims that because all ideas are conjectural and impossible to justify are essentially arbitrary: no more that stories or "narratives"
+
+- Creating a good explanation is hard not because of what anyone has decided but because there is an objective reality that does not meet anyone's prior expectations.
+
+- Once lecagy of empiricsm that continues to cause confusion and bad philosophy is the idea that it is possbile to split a scientific theory into predictive rules of thumb and assertions about reality (or "interpretations") on the other.  This doesnt make sense as with out an explanation it is impossible to know when and where the rule of thumb applies.
+
+- All scientific measurements use chains of proxies, each link in the chain is an additional potential source of error. We can avoid fooling ourselves only by criticizing each step in chain, which is only possible if there is an explanatory theory behind each proxy. One can claim to have measured something only when there is an explanatory thoery of how and why the measurement procedure should reveal its value and with what accuracy.
+
+- Bad philosophy can be countered by progress, much more easily than by good philosophy. People want to understand the world. Progress makes bad philosophy harder to believe. Its not refutation by logic or experience, but by explanation.
+
 - 
