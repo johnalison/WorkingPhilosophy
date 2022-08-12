@@ -404,4 +404,26 @@
 
 - Bad philosophy can be countered by progress, much more easily than by good philosophy. People want to understand the world. Progress makes bad philosophy harder to believe. Its not refutation by logic or experience, but by explanation.
 
-- 
+- Arrows axioms: all 5 are intuitively not just desirable, but seem to be essential for making a system of preferences ("Will of the people") fair and rational. Yet they are inconsistent. There is no such thing as "the will of the people".  Wishing for something that is logically impossible is a sign that there is something better to wish for.
+
+
+- Proportional representation assigns disproportionate power in the legislature to the third largest party!
+
+- The essense of democratic decision-making is not the choice made by the system at elections, but the ideas created between elections.
+
+- The voters are not a fount of wisdom from which the right policies can be empirically derived.
+
+- Advantage of plurality system of proportional system: The key defect of compromise policies is that when one is implemented and fails, no one learns anything because no one ever agreed with it.
+  In a plurality system, the winning parties policies do not need to be watered down with comprisie as with proportional systems.
+
+  In proportional systems, small changes in public opinion seldom count for anything, in practice the power can easily shift in the opposite direction from public opinion.
+  What counts most is changes in the opinion of the third largest party. This shields most of the incumbent politicians from being removed from power throught voting.
+
+  The all-or-nothing system of plurality systems make the overall outcome sensitive to small changes in opinion.
+
+  The idea tha trepresentative government depends on proportionate representation in the legislature is unequivocally a mistake.
+
+- Popper's Criterion: Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove them without violence when they are.
+
+- Choice and decision making is NOT a process of selecting from existing options according to a fixed formula of prefernce. This ignores the most-important element of decision makeing: creating new options.
+  
