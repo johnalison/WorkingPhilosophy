@@ -426,4 +426,24 @@
 - Popper's Criterion: Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove them without violence when they are.
 
 - Choice and decision making is NOT a process of selecting from existing options according to a fixed formula of prefernce. This ignores the most-important element of decision makeing: creating new options.
-  
+
+- Asthetic truths can be linked to physical facts through explanations (just like moral truths are)
+  eg: facts can be used to criticize moral and asthetic theories
+      also, artistic problems can emerge from physical facts and situations.
+
+- Nature often has beautiful explanations. And when beautiful explanations are shown to be wrong they are often replaced by even more beutiful ones. This is a regularity in nature and must have an explanation.
+
+- Why do humans find flowers beutiful. We find flower beautiful reliably, even for flowers we have not seen before.  We dont find roots, stems, or leaves beautiful.
+
+- The flower-insect co-evolution involved the creation of a complex code for signaling across species. The code had to be easily recognizable and difficult to fake.
+  Dueutsch guesses that the easiest way to make these signals is to use objective standards of beauty. So flowers have to create objective beauty and insects have to be able to recognize it.
+  The only species that are attracted to flowers are the insect species that co-evolved to do so and humans.
+  Hypothesis: The best replicating genes depend on embodying objective prettiness to get themselves replicated
+  Signaling across the gap between two humans is like signaling across the gap between two entire species. (b/c of memes).
+  The amount of information in a human mind is more than in the genome of any species.
+
+- Beauty comes in two forms: parochial and universal.  The parochial is local to a spcecies, culture, or individual. The univesal is as objective as the laws of physics.
+  Creating either kind requires knowledge but creating universal beauty required knowledge with universal reach.
+  Human appearance as influenced by sexual selection satisfies the standards of objective beauty as well as species specific ones.
+
+- There is a need to create objective knowledge in order to allow different people to communicate.
