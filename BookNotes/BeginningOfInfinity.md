@@ -6,16 +6,16 @@
   - Empiricism
   - Instrumentalism
   - Spaceship Earth
-  - Principle of Mediocrity: Dawkins argement that "Universe beeing is not only queerer than suppose, but it is queerer that we can suppose" 
+  - Principle of Mediocrity: Dawkins argument that "Universe being is not only queerer than suppose, but it is queerer that we can suppose" 
   - Martin Reese: "could be life and intelligence in forms we cant conceive"
   - Boltzmann Brains 
   - Anthropic Arguments for fine-tuning puzzles
-  - Daniel Dennett: who claims in Consousness Explained that qualia dont exist
+  - Daniel Dennett: who claims in Consciousness Explained that qualia dont exist
   - Finitism: the doctrine that only finite abstract entities exist
   - Simulation hypothesis: leads to infinite regress (bad explanation)
   - Claim that we are uniquely posed to destroy ourselves
   - Hawking's fear of extraterrestrial civilizations
-  - Human civilizaiton as on the "final second" on the "last day" of the cosmic year
+  - Human civilization as on the "final second" on the "last day" of the cosmic year
 
 - Hero List:
   - Popper
@@ -89,18 +89,18 @@
 - To be elaborated on later:  There is something greatly significant about explanation in the cosmic scheme of things.
 
 - Scientific Instruments: correct errors through indirectness that is guided/inspired/designed by theory. Strips away illusions misleading perspectives and gaps.
-   It is amazing that object exist that when we observe them take on the apparance, other properties of other objects that are elsewhere are very different.
-    (scientific intstruments (and our sensory organs) are examples of these incredible things.
+   It is amazing that object exist that when we observe them take on the appearance, other properties of other objects that are elsewhere are very different.
+    (scientific instruments (and our sensory organs) are examples of these incredible things.
    Explanatory theories tell us how to build and operate devices in exactly the right way to make this miracle work.
    Like conjuring tricks in reverse: these instruments fool our senses into seeing whats really there
    It is ironic that scientific instruments bring us closer to reality when in purely physical terms they only ever separate us further from it.
    (An example that all observation is theory laden)
 
-- To say that we have genuinely obserserved a thing is to say that we have accurately attributed our evidence (which is alawys ultimately inside our own brains) to that thing.
+- To say that we have genuinely observed a thing is to say that we have accurately attributed our evidence (which is always ultimately inside our own brains) to that thing.
    Scientific truth is when we have accurately attributed physical reality to theory
 
-- The Spaceship Earth metaphore and the Principle of Mediocrity are almost universally accepted anomg scientifically minded people.
-  Despite the fact that niavely they argue in oppositie directions:
+- The Spaceship Earth metaphor and the Principle of Mediocrity are almost universally accepted among scientifically minded people.
+  Despite the fact that naively they argue in opposite directions:
   	  - Principle of Mediocrity says how typical the earth is
 	  - Spaceship Earth emphasizes how special the earth is
 
@@ -480,3 +480,21 @@
 
 - Western civilization is in an unstable transitional period between being a stable, static society consisting of anti-rational memes and a stable dynamic society consisting of rational memes.
 
+- Modern humans evolved from ape-like ancestors very rapidly by gene-evolution standards. Creativity is an unlikely target for sexual selection, its a complicated adaptation which we are unable to reproduce artificially. A more plausible explanation for the selection of creativity is that people choose mates according to social status, rather than creativity directly.
+
+- Meme evolution comes so natural to us that it is hard to see what is really going on and how special it is. Rather than just imitate someone who does something, humans try to explain it -- to understand the ideas that caused it -- which is a special case of the general human objective of explaining the world.
+
+- Two puzzles: Why was human creativity evolutionary advantageous at a time when there was almost no innovation ?
+               How can human memes be replicated, given that they have content that the recipient never observes ?
+
+   Both puzzles have the same solution:
+   	What replicates human memes is creativity. (JA: "Learning is a creative act")
+	While it was evolving, creativity was used to replicate memes.
+	So at first creativity was used to aquire existing knowledge, not to create new knowledge. But b/c the mechanism to do both things is the same, so gaining the ability to aquire existing knowledge automatically selects for the abilitiy to create new knowledge.
+
+- Someone trying to aquire a meme from someone else has the same challenge as a scientist. Both are trying to discover an hidden explanatino. For one it is in the mind of another person, for the other it is a law of nature.  Desciphering the underlying theory of the meme from the observed behavior involved the same jump/creativity as when developing new scientiific knowledge. 
+
+- Paradoxically it requires creativity to thrive in a static society -- one that explicitly suppresses creative acts. It requires the creativity to be less innovative than other people.
+
+- Replicating memes is the function for which creativity evolved. And that is why our species exists.
+	 
