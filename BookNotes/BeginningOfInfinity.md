@@ -15,7 +15,7 @@
   - Simulation hypothesis: leads to infinite regress (bad explanation)
   - Claim that we are uniquely posed to destroy ourselves
   - Hawking's fear of extraterrestrial civilizations
-
+  - Human civilizaiton as on the "final second" on the "last day" of the cosmic year
 
 - Hero List:
   - Popper
@@ -447,3 +447,36 @@
   Human appearance as influenced by sexual selection satisfies the standards of objective beauty as well as species specific ones.
 
 - There is a need to create objective knowledge in order to allow different people to communicate.
+
+- A culture is defined as a set of closely related memes "variant", not strictly identical, (kind of like the virosphere) that lead to slightly differnt characteristic behaviors.
+
+- Almost any analogy has some truth, but one cannot tell what that is until you have an independent explanation of what is analogous and why.
+
+- Genes and Memes are similar at the lowest level of explanation: they are both replicators that embody knowledge. However at higher levels they are about as different as can be: there are no cultural anagogues of species, organism, cell, sexual or asexual reproduction.
+
+- DNA duplication is automatic: genes are copied indiscriminately.  Memes are completely different. Each meme has to be expressed as a behaviour each time it is copied.
+
+- Meme evolution is enourmously faster than gene evolution. The cosmic year analogy is of the history of life is misleading. A significant fraction of all the evolution that has happened on our planet has occurred as memes in human brains.
+
+- Static societies always have ways of bringing up children in ways that disable their creativity and critical faculties (otherwise they would not remain static.)
+  Static societies must leave its memebers chronically baulked in their attempts to achieve anything positive. 
+  The fact that all societies before the current Western civlization where static implies that most humans before now were constrained by social convention and were unable to achieve self-expression.  
+  Contrary to conventional wisdom, primitive societies are an unimaginably bad place to live in. Either they are static and survive only by extinguishing their members creativity, or they are unstable and lose their knowledge and quickly disintegrate.
+
+- Just as genes for the eye implicitly "know" the laws of optics. Long-lived memes of a static society possess knowledge of the human condition. So ironically there is much truth in the typical static society fear of change.  Any change is much more likely to do more harm than good.
+
+- What sort of meme can cause itself to be reliably replicated in a dynamic society, ie in a rapidly changing environment? A true idea that is usefull to all people.  To be transfered to one person it only need to seem useful to that person, to be transfered to a group it need be only a a parachial truth. The ideas with the best chance of surviving throught many generations are truths with reach : deep truths.
+  Such memes are antifragile in the sense that they actually rely on the their ability to survive rapidly changing criteria of criticism (the alternative die out)
+
+- Rational meme: an idea that relies on the copiers critical faculties to cause itself to be replicated
+- Anti-rational meme: An idea that relies on disabling the recipients critical faculties. 
+
+- Existing accounts of memes have neglected the all-important distinction between rational and anti-rational modes of replication. and so have missed most of what is happening and why.
+
+- In a dynamic society, scientific and technological advances are made creatively. They emerge from individual minds as novel ideas, after having acquired significant adaptations from meme evolution (ie: variation and selection).
+
+- Biological evolution was merely a finite preface to the main story of evolution, the unbounded evolution of memes.
+  (so was the evolution of anti-rational memes in static societies)
+
+- Western civilization is in an unstable transitional period between being a stable, static society consisting of anti-rational memes and a stable dynamic society consisting of rational memes.
+
