@@ -16,7 +16,9 @@
   - Claim that we are uniquely posed to destroy ourselves
   - Hawking's fear of extraterrestrial civilizations
   - Human civilization as on the "final second" on the "last day" of the cosmic year
-  - Guns Germs and Steel is a bad explanation
+  - Guns Germs and Steel as a bad explanation
+  - Domesday argument: 
+  - AI supremacy: Universality implies that, in every important sense, humans and AIs will be other than equal.
 
 - Hero List:
   - Popper
@@ -74,7 +76,7 @@
 - Quest for Good explanations is the basic regulating principle of not only science, but the Enlightenment in general.  It is the path (only?) to progress and truth.
 
 - Criterion for reality: a particular thing is real if and only if it figures in our best explanation of something.
-  Abstract entities can be real and can play a role in causing physical phenomena (see: Hofstader example of prime number domino calculator)
+  Abstract entities can be real and can play a role in causing physical phenomena (see: Hofstadter example of prime number domino calculator)
 
 - Occam razor: is a common way of removing arbitrariness of a bad explanation, that can sometimes yield a good one.
 
@@ -109,101 +111,101 @@
      -) Humans are cosmologically significant
      -) the Earths biosphere is ***incapable*** of supporting human life
 
-- The biosphere only ever achieves (temporaraly) statbility by constantly neglecting, harming, disabling, and killing individuals. Earth is not a life-support system!
+- The biosphere only ever achieves (temporarily) stability by constantly neglecting, harming, disabling, and killing individuals. Earth is not a life-support system!
   Almost the entire capacity of the earths "life-support system for humans" has been created _by us_ using our ability to create new knowledge.
   The extent to which we are on a spaceship we are its designers and builders, before humans it was not a vehicle, but a heap of dangerous raw materials
 
 - Biological evolution did not provide us with enough knowledge to survive.
    (Here with differ from most other species which do have all the knowledge they need encoded in their brains "by the biosphere"
 
-- Although our sensec cannot detect neutrinos or quasars or most other significant phenomena in the universe, our brains can understand them
+- Although our senses cannot detect neutrinos or quasars or most other significant phenomena in the universe, our brains can understand them
 
-- The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to creat new explanations, are necessarily parochial.
-   Which implies that science, despite all its successes and spirations would turn out to be inherently parochial and anthropocentric.
+- The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to create new explanations, are necessarily parochial.
+   Which implies that science, despite all its successes and aspirations would turn out to be inherently parochial and anthropocentric.
    and thus that at some level the universe must be inexplicable
 
 - Any assumption that the world is inexplicable can lead only to Bad Explanations
 
-- There is an intimate connection be explaining the world and contolling it. In the set of all conceivable transformation of physical objects, there are those never happen because they are forbinned by the laws of physics; those that happen spontaneously; and some that are possible given enought knowledge. And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, But all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
+- There is an intimate connection be explaining the world and controlling it. In the set of all conceivable transformation of physical objects, there are those never happen because they are forbidden by the laws of physics; those that happen spontaneously; and some that are possible given enough knowledge. And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, But all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
 
-- This is ultimately the source of the cosmic importance of poeple, They have the ability to create knowledge which is ultimately not limited by parochial factors, but only by universal laws.
+- This is ultimately the source of the cosmic importance of people, They have the ability to create knowledge which is ultimately not limited by parochial factors, but only by universal laws.
   Anything that can create explanatory knowledge has cosmic significance. Astrophysics is incomplete without a theory of people.
     eg: It is not true that the attributes of a supernova in general are independent of the presence or absence of people, or of what these people know and intend.
-        Generally, if we want to predict what a star will do we have to know whethere there are any people near it and if so, what knowledge they have and what they might want to do.
+        Generally, if we want to predict what a star will do we have to know whether there are any people near it and if so, what knowledge they have and what they might want to do.
 
-    eg: The only phenomena that our best instruments can detect at stellar distances are 1) extreemly bright objects 2) a few things that obscure these objects 3) the effects of certian types of knowedge designed for communication (lasers/radio transmitters etc)
+    eg: The only phenomena that our best instruments can detect at stellar distances are 1) extremely bright objects 2) a few things that obscure these objects 3) the effects of certain types of knowledge designed for communication (lasers/radio transmitters etc)
 
-- Using knowledge to sustain life is not unique to humans; but is the basic method which cells use to stay alive. DNA is a coded description of knowledge of ancestral environments. The differnce is what kind of knowledge they use (explanatory vs rule-of-thumb) and how its created (conjecture and criticism vs variation and selection of genes)
+- Using knowledge to sustain life is not unique to humans; but is the basic method which cells use to stay alive. DNA is a coded description of knowledge of ancestral environments. The difference is what kind of knowledge they use (explanatory vs rule-of-thumb) and how its created (conjecture and criticism vs variation and selection of genes)
 
 - Humans are Universal Constructors: factories for transforming anything into anything.
 
 - Why should only one adaptation (human intelligence, problem solving, knowledge creation) out of the trillions that have been tried have unlimited reach?
 
-- There cannot be intelligence in forms we cant concieve (contra to Martin Reese's claims) If there were some thing that we were qualitatively unable to understand this would be a claim that the world is not explicable and is the same as an appeal to the supernatural.
+- There cannot be intelligence in forms we cant conceive (contra to Martin Reese's claims) If there were some thing that we were qualitatively unable to understand this would be a claim that the world is not explicable and is the same as an appeal to the supernatural.
 
 - Minimum needed to affect change in the Universe is matter, energy and access evidence: the information needed to test scientific theories.
 
-- Access to evidence: As far we know all the constants of nature can be measured here and every fundamental law can be tested here. So everything needed for open-ended knowledge creation is availbe in the earths biosphere. Not one is the Universe full of evidence, it is full of the same evidence everywhere. All people in the Universe face the opportunities.
+- Access to evidence: As far we know all the constants of nature can be measured here and every fundamental law can be tested here. So everything needed for open-ended knowledge creation is available in the earths biosphere. Not one is the Universe full of evidence, it is full of the same evidence everywhere. All people in the Universe face the opportunities.
 
 - In the Universe at large knowledge-friendliness is the rule, not the exception. Or person-friendliness to people who have the relevant knowledge; Death is the rule for people who do not.
 
-- Typical child born today in the US is more likely to die as a result of an astronomincal event than a plane crash.
+- Typical child born today in the US is more likely to die as a result of an astronomical event than a plane crash.
 
 - Death: an unproblematic state with out creative thought
 
-- There can be no ultimate explaination. Nothing can be explained only in terms of itself. So any purported ultimate explanation will be a bad explanation; it will be easy to vary because it cant answer the question why this foundation and not another.  A implication of this is that the deep an explanation, the more problems it creates.  (JA:Not sure I completely buy this)
+- There can be no ultimate explanation. Nothing can be explained only in terms of itself. So any purported ultimate explanation will be a bad explanation; it will be easy to vary because it cant answer the question why this foundation and not another.  A implication of this is that the deep an explanation, the more problems it creates.  (JA:Not sure I completely buy this)
 
-- The Continental Enlightenment was impatent for the perfected state, while the British Enlightenment was impatient for institutions that did not stife gradual, continual change and pushed small improvements, unbounded in the future. (Liberal vs Conservative)
+- The Continental Enlightenment was impatient for the perfected state, while the British Enlightenment was impatient for institutions that did not stifle gradual, continual change and pushed small improvements, unbounded in the future. (Liberal vs Conservative)
 
-- Knowledge is a significant phenomonea in the Universe.  To make almost any prediction about astrophysics one must take a position on what types of knowledge will or will not be present near the phenomonea in question. All explanation of what is out there mention people and knowledge even only implicitly.
+- Knowledge is a significant phenomena in the Universe.  To make almost any prediction about astrophysics one must take a position on what types of knowledge will or will not be present near the phenomena in question. All explanation of what is out there mention people and knowledge even only implicitly.
 
-- The class of transformations that could happen spontaneously (ie: in the absense of knowledge) is negligibly small compared to those that could be affected by intelligent beings. So, explanations about almost all physically possible phenomena are about how knowledge woule be applied to bring about these phenomena.
+- The class of transformations that could happen spontaneously (ie: in the absence of knowledge) is negligibly small compared to those that could be affected by intelligent beings. So, explanations about almost all physically possible phenomena are about how knowledge would be applied to bring about these phenomena.
 
-- When our brains learn of diverse phenomena in the Universe (eg a quasar), we have physical objects that are extremely differnet (brians and quasars) whose behavior is dominated by totally different physics with the same mathematical and casual structures -- and doing so more accurately over time.  Only knowledge can exhibit this underlying unity.
+- When our brains learn of diverse phenomena in the Universe (eg a quasar), we have physical objects that are extremely different (brains and quasars) whose behavior is dominated by totally different physics with the same mathematical and casual structures -- and doing so more accurately over time.  Only knowledge can exhibit this underlying unity.
 
 - Only explanatory knowledge can be universal. (eg: the SETI instrument is precisely adapted to detecting something that has never yet been detected. Biological evolution could never do this)
   Science (explanatory knowledge) can conjecture the existence of something, calculate its implications, and then construct an instrument to detect it. Non-explanatory knowledge cannot cross the conceptual gap that conjecture does
 
-- Humans and knowledge is not only objectively significant, they are by far the most significant phenomena in nature -- the only ones whose behaviour cannot be understood without understanding everything of fundamental importance.  Eg: the behaviour of humans wrt a champagne bottle in a SETI refrigerator depends on the existence of life in other solar systems. Simliar proxy behavious in other scientific labs.
-  Consider also how completely differnet the evolution of an environment with and without the presense of a tiny sliver of knowledge.
-  Almost all regions of the universe are just waiting doing nothing at all, which if the right knowledge ever reached it, instantly and irrevocably busrt into a radically differnet type of physical activity.
+- Humans and knowledge is not only objectively significant, they are by far the most significant phenomena in nature -- the only ones whose behavior cannot be understood without understanding everything of fundamental importance.  Eg: the behavior of humans wrt a champagne bottle in a SETI refrigerator depends on the existence of life in other solar systems. Similar proxy behaviors in other scientific labs.
+  Consider also how completely different the evolution of an environment with and without the presence of a tiny sliver of knowledge.
+  Almost all regions of the universe are just waiting doing nothing at all, which if the right knowledge ever reached it, instantly and irrevocably burst into a radically different type of physical activity.
 
-- Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken. Science (the least parochial perspective available to us) implies that people are the most significant entitites in the cosmic scheme of things.  They are not supported by their environment, but support themselves by creating knowledge.
+- Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken. Science (the least parochial perspective available to us) implies that people are the most significant entities in the cosmic scheme of things.  They are not supported by their environment, but support themselves by creating knowledge.
 
 - Apart from the thoughts of people, the only process known to create knowledge is biological evolution. However the knowledge it creates (apart from via people) is inherently bounded and parochial. 
 
-- Good adaptation and good explanations are hard to vary while still retaining thier function.
+- Good adaptation and good explanations are hard to vary while still retaining their function.
 
-- Error Correction: Once they are physically embodied DNA and memes in human brains tend to cause themselves to remain so. This information is very unlikely to come into existence other than through the errorc correcting process of evolution and thought
+- Error Correction: Once they are physically embodied DNA and memes in human brains tend to cause themselves to remain so. This information is very unlikely to come into existence other than through the error correcting process of evolution and thought
 
 - In any good explanation of the origin of biological adaptation God cannot play the role assigned by creationism.  Who created God ? The answer can only be a bad explanation.
 
 - The existence of an unsolved problem in physics is not more evidence for supernatural explanation than the existence of an unsolved crime is that a ghost committed it.
 
-- The idea that similiar laws of physics can be expected to give rise to similar environments in undermined by the very existence of fine-tuning.
+- The idea that similar laws of physics can be expected to give rise to similar environments in undermined by the very existence of fine-tuning.
 
 - Boltzmann Brains are bad explanations. At any given instant, the theory predicts that we are going to be killed in the next picosecond and is hence refuted by observation a picosecond later.
 
-- Anthropic explanations are attemptiong to account for purposeful structure in terms of one single act of selection. This is unlike evolution, and cannot work. It is too easy an explanation. The solution of the the fine-tuning puzzel is going to be in terms of an explanation that will specifically explain what we observe.
+- Anthropic explanations are attempting to account for purposeful structure in terms of one single act of selection. This is unlike evolution, and cannot work. It is too easy an explanation. The solution of the the fine-tuning puzzle is going to be in terms of an explanation that will specifically explain what we observe.
 
 - Scientific discovery is profoundly unpredictable despite the fact that it is determined by the laws of physics. Before a discovery, not predictive process could reveal the content of the discovery; if it could it would be that discovery.
 
-- There is no better desteny for a theory that to point the way to a more comprehensive thoery to which it lives on as a limiting case.j
+- There is no better destiny for a theory that to point the way to a more comprehensive theory to which it lives on as a limiting case.j
 
 - Progress is made by creatively varying the ***_explanations_*** of a theory, not the predictions.
 
-- Our brans are computers whiech we can use to learn about things beyond the physical world, including pure mathematical abstractions.
+- Our brains are computers which we can use to learn about things beyond the physical world, including pure mathematical abstractions.
   These mathematical abstractions are not possible objects of any observation, and yet we come to know about them.
-  (Plato concluded that this knowledge must come from the supernatural) However our knowledge of these abstract entities actually comes from conjecture, critisism, and seeking good explanations.
+  (Plato concluded that this knowledge must come from the supernatural) However our knowledge of these abstract entities actually comes from conjecture, criticism, and seeking good explanations.
 
-- Common claim: "You can't derive an ought from an is, therefore morality connot be justified by reason"  True, but you also cant derive a factual theory from an is either.
+- Common claim: "You can't derive an ought from an is, therefore morality cannot be justified by reason"  True, but you also cant derive a factual theory from an is either.
   Factual evidence and moral maximums are independent, but factual and moral ***_explanations_*** are not. Factual knowledge can be useful in criticizing moral explanations.
-   eg: Sucess at making factual discoveries implies many values that the scientists has to commit to.
+   eg: Success at making factual discoveries implies many values that the scientists has to commit to.
          - Value of truth, good explanations, and be open to ideas and change.
 
 - Reductionism and Holism are both mistakes. Explanations do not form a hierarchy with the lowest level the most fundamental. Explanations at any level can be fundamental.
 
-- The Jump to Universality is a tendency of gradually improving systems to undergo a sudden large increase in functionality, becoming universial in some domain.
+- The Jump to Universality is a tendency of gradually improving systems to undergo a sudden large increase in functionality, becoming universal in some domain.
    It has a typical transitions:
     Before the jump there are specialized tools for each use case
     After the jump once customizes (or specializes or programs) a universal object
@@ -213,17 +215,17 @@
   Expecting a computer to do whatever neurons can is not a metaphor.
 
 
-- There is no such thing as an universal analogue computer. Analogue computers cant do error correction (every value in an analogue could be correct) and without error correction, the growth of knowledge is bounded. So all universal computers are digital and all use error-correction. All jumps to universality orrur in digital systems. eg: Spoken languages build words out of a finit set of elementary sounds.
+- There is no such thing as an universal analogue computer. Analogue computers cant do error correction (every value in an analogue could be correct) and without error correction, the growth of knowledge is bounded. So all universal computers are digital and all use error-correction. All jumps to universality occur in digital systems. eg: Spoken languages build words out of a finite set of elementary sounds.
 
 - All known jumps to universality have be done by humans except one: DNA
 
 - Initially the genetic code was evolving along with everything else in the organism, but became a point where the code itself stopped evolving, despite the fact that the organisms continued to.
   When the DNA stopped evolving it was only coding for single-celled organisms. Despite that all organisms today have been based on exactly the same alphabet of bases, and three-base "words".
-  Considereed as a language, the genetic code has displayed phenomenal reach.
+  Considered as a language, the genetic code has displayed phenomenal reach.
   DNA might have been the first universality to exist,
   We do not know why DNA which evolved to describe bacteria has enough reach to describe dinosaurs and humans. 
 
-- AI must be possible in principle beacause a universal computer is a universal simulator
+- AI must be possible in principle because a universal computer is a universal simulator
 
 - In Consciousness Explained (some refer to it as Consciousness Denied) Dennet claims that qualia dont exist.  To deny them is a bad explanation.
 
@@ -233,15 +235,15 @@
 
 - A chatbot responds as though it had created knowledge in composing a response to a question, in reality the knowledge was created earlier and elsewhere.
 
-- The feild of AGI has made no real progress because there is an unsolved philosophical problem at its heart: we dont understand how creativity works.
+- The field of AGI has made no real progress because there is an unsolved philosophical problem at its heart: we dont understand how creativity works.
    Claim: One that is solved, programming AI will not be difficult.
 
-- Mathematicians realized centuries ago that it is possible to work consistently and usefull with infinity.
+- Mathematicians realized centuries ago that it is possible to work consistently and useful with infinity.
 
 - Case against Finitism: Problem, is there a real largest natural number or not ? Finitists have to deny the "law of the excluded middle" ie: A or ~A.
-  Finitism is intrumentalism applied to mathematics. It is a principled rejection of explanation. All access to abstract (and physical) entitites, finite or infinite is via theory.
+  Finitism is Instrumentalism applied to mathematics. It is a principled rejection of explanation. All access to abstract (and physical) entities, finite or infinite is via theory.
 
-- Universality of Reason: All branches of philosophy, science, and mathematics have inherent limitations. But there is no bound to reason.  Believing in a bound on the domain of reason is equivalent to the beilief in the supernatural.
+- Universality of Reason: All branches of philosophy, science, and mathematics have inherent limitations. But there is no bound to reason.  Believing in a bound on the domain of reason is equivalent to the belief in the supernatural.
 
 - The best explanation of anything eventually involves universality, and therefore infinity.
 
@@ -251,22 +253,22 @@
 
 - When we have unbounded growth of knowledge we are always (and forever) just scratching the surface.
 
-- The atributes of probable or improbable, rare or common, typical or untypical have literally no meaning in when comparing infinite sets of natural numbers. This is bad news for anthropic arguments.
-  None of the anthropic-reasoning theories that have been proposed provide any measure. Most are little more than speculations "What if there were universes with different parameters?"
+- The attributes of probable or improbable, rare or common, typical or untypical have literally no meaning in when comparing infinite sets of natural numbers. This is bad news for Anthropic arguments.
+  None of the Anthropic-reasoning theories that have been proposed provide any measure. Most are little more than speculations "What if there were universes with different parameters?"
 
-- The set of all functions is uncountably infinite, while the set of all programs is merely countably inifite => almost all mathematical truths have no proofs. They are unprovable truths. Most of all mathematical statements are undecidable: there is no proof that they are true and no proof that they are false. Each of them is either True or False, but there is no way of using physical objects (brains or computers) to discover which is which.  All undecidable statements are directly or indirectly about infinite sets. To finitists, this is beacuse of the meaninglessness of these statements. To Deutsch it is further proof that abstractions exist objectively, these statemets cannot merely be a convenient way of describing the behaviour of some physical system.  Interestingly, very few questions are known to be undecidable, even though most are.
+- The set of all functions is uncountably infinite, while the set of all programs is merely countably infinite => almost all mathematical truths have no proofs. They are unprovable truths. Most of all mathematical statements are undecidable: there is no proof that they are true and no proof that they are false. Each of them is either True or False, but there is no way of using physical objects (brains or computers) to discover which is which.  All undecidable statements are directly or indirectly about infinite sets. To finitists, this is because of the meaninglessness of these statements. To Deutsch it is further proof that abstractions exist objectively, these statements cannot merely be a convenient way of describing the behavior of some physical system.  Interestingly, very few questions are known to be undecidable, even though most are.
 
-- There is nothing mathematically special about the undecidable questions. They are destinguished by ***_physics_** only. Different physical laws would make differnt things infinite (?), different things computable, different truths (scientific and mathematical) knowable.  It is only the laws of physics that determine which abstract entities and relationships are modelled by physical objects such as mathematicians brains, computers, and sheets of paper. Our knowledge of whethere a proposition is true or false ***_always_*** depends on knowledge about how physical objects behave; the mathematical proposition is independent of physics, but the proof of the proposition is a matter of physics only. There is no such thing as abstractly proving something (just as there is no such thing as abstractly knowing something)
+- There is nothing mathematically special about the undecidable questions. They are distinguished by ***_physics_** only. Different physical laws would make different things infinite (?), different things computable, different truths (scientific and mathematical) knowable.  It is only the laws of physics that determine which abstract entities and relationships are modeled by physical objects such as mathematicians brains, computers, and sheets of paper. Our knowledge of whether a proposition is true or false ***_always_*** depends on knowledge about how physical objects behave; the mathematical proposition is independent of physics, but the proof of the proposition is a matter of physics only. There is no such thing as abstractly proving something (just as there is no such thing as abstractly knowing something)
 
  All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties, and its scope and limitations are conditioned by the laws of nature
 
   #ConnectionOfMathAndPhysics 
 
-- A computation or proof is a physical process in which objects (computers or brians) physically model or instantiate abstract entities (numbers or equations) and mimic their properties. This is our window on the abstract. Every mathematical proof depends on our knowing the rules that govern these physical objects. Contrary to what most mathematicians believe,  proof theory can never be made into a branch of mathematics, it is a science (computer science) 
+- A computation or proof is a physical process in which objects (computers or brains) physically model or instantiate abstract entities (numbers or equations) and mimic their properties. This is our window on the abstract. Every mathematical proof depends on our knowing the rules that govern these physical objects. Contrary to what most mathematicians believe,  proof theory can never be made into a branch of mathematics, it is a science (computer science) 
 
-- The point of mathematics is to understand  (explain) abstract entities. Proof is like observation in science, mainly a way of ruling out false explanations.  Mathematics (like all fields) does not seek random truths but good explainations.  The motivation for seeking a perfectly secure foundation is mistaken, a form of justificationism.
+- The point of mathematics is to understand  (explain) abstract entities. Proof is like observation in science, mainly a way of ruling out false explanations.  Mathematics (like all fields) does not seek random truths but good explanations.  The motivation for seeking a perfectly secure foundation is mistaken, a form of justificationism.
 
-- Another potential fine-tuning in the laws of physics: They support computational universality: so human brains can predict and explain the behaviour or very un-human objects (eg: quasars)
+- Another potential fine-tuning in the laws of physics: They support computational universality: so human brains can predict and explain the behavior or very un-human objects (eg: quasars)
   If the laws of physics depended on non-computable functions (most functions are non-computable) we could not make predictions, and hence could not exist.
   So there is something infinitely special about the laws of physics as we actually find them. They are fine-tuned for computation, prediction, and explanation.
   "The unreasonable effectiveness of mathematics in the natural sciences"  (This problem seems to attract bad explanations)
@@ -274,15 +276,18 @@
 
 
 - Simulation hypothesis: It is the very nature of computational universality that if we and our world were composed of software, we would have no means of understanding the real physics -- the physics of the simulator. So the simulation hypothesis entails giving up on explanation in science.
+  Against the simulation hypothesis: There is no good argument for any way of counting simulations. eg: why should repeating the same simulation 1e6 times make it more likely that I am a simulation?
+  Another point: Would the universe as we know it really be simulated often in the future? Would this be immoral given the suffering that exists today?
+  (Counter point: maybe identical instances of the same suffering (quale) doesn't create any new suffering. Reading a book about past suffering is not immoral.)
 
-- P!=NP says there are classes of mathematical questions whose answers can be verfified easily once you have them, but that cannot be computed easily in the first place by a universal computure. Almost all researchers in computing theory are sure that this conjecture is true.
+- P!=NP says there are classes of mathematical questions whose answers can be verified easily once you have them, but that cannot be computed easily in the first place by a universal computer. Almost all researchers in computing theory are sure that this conjecture is true.
 
 - Conjecture: If a question is interesting, then the problem is soluble. However, fallibilism tells us that we can be mistaken about what is interesting.
 
   Corollaries:
 	- Inherently insoluble problems are inherently uninteresting. 
 	- In the long run, the distinction between what is interesting and uninteresting is not a matter of subjective taste but an objective fact.
-	- The interesting problem of why every probem that is interesting is also soluble is itself soluble.
+	- The interesting problem of why every problem that is interesting is also soluble is itself soluble.
 
 - We currently dont know why the laws of physics seem fine-tuned; we dont know why various forms of universality exist; we do not know why the world is explicable. But eventually we shall, and when we do there will still be infinitely more left to explain.
 
@@ -291,12 +296,14 @@
 - The property of infinite sequences is that every element is exceptionally close to the beginning.
 
 - Fundamental limit to scientific prediction: The future of civilization is unknowable because the knowledge that is going to affect it has yet to be created. So even the possible outcomes are unknown, let alone their relative probabilities. No good explanation can predict the result of something that will be significantly affected by new knowledge.
+  The moment when creation begins to make a significant difference in the future is the moment at which scientific prediction begins to fundamentally fail.
+  (Some explanations do have reach into the distant future: eg: One of them is that fact itself, another is the infinite potential of explanatory knowledge.) 
 
-- Existential Danger from Increased Technological Innovation : Its not the case that only since the mid 20C have we be capable fo destroying civilization with technology. Many civilizations in history were destroyed by the simple technology of fire and the sword, actually the overwhelming majority of civilizations in history have been destroyed, intentionally or b/c of natural disaster. Almost all of them could have avoided destruction if they had more knowledge, very few if any could have benefited from greater caution in innovation.
+- Existential Danger from Increased Technological Innovation : Its not the case that only since the mid 20C have we be capable of destroying civilization with technology. Many civilizations in history were destroyed by the simple technology of fire and the sword, actually the overwhelming majority of civilizations in history have been destroyed, intentionally or b/c of natural disaster. Almost all of them could have avoided destruction if they had more knowledge, very few if any could have benefited from greater caution in innovation.
 
-- Civilizations starved long before Malthus form drought and famine ultimately due to lack of knowledge of irrigations and farming. The distinction between a "natural" disaster and one brought about by ignorance is parochial.  
+- Civilizations starved long before Malthus form drought and famine ultimately due to lack of knowledge of irrigation and farming. The distinction between a "natural" disaster and one brought about by ignorance is parochial.  
 
-- Hawking's fear of extraterrestrial civilizations: Ingores the oppurtunity cost of not making our existence known. Could be destroyed by accident. Failed to be saved.
+- Hawking's fear of extraterrestrial civilizations: Ignores the opportunity cost of not making our existence known. Could be destroyed by accident. Failed to be saved.
   Also assumes that progress is limited by raw materials and not knowledge.
 
 - Because there can only be one type of person: universal explainers and constructors; the idea that there could be beings that are to us as we are to animals is a belief in the supernatural.
@@ -310,36 +317,36 @@
 
 - Principle of Optimism: All evils are caused by insufficient knowledge. Optimism is a way of explaining failure. It implies that there is no fundamental barrier (law of nature or supernatural decree) to progress.
 
-- Agruement against the Entrechment of old people in positions of power: we have tradions of criticism in our society well adapted to removing bad leader from office, even when they are in good health.
+- Argument against the Entrenchment of old people in positions of power: we have traditions of criticism in our society well adapted to removing bad leader from office, even when they are in good health.
 
-- We should be upset by the failed versions of the begining of inifinity throught history (Athens, Islamics golden age, Florence in 15C) If any of these earlier experiments in optimism had succeeded our species would be exploring the stars and individuals would be immortal.
+- We should be upset by the failed versions of the beginning of infinity throughout history (Athens, Islamic's golden age, Florence in 15C) If any of these earlier experiments in optimism had succeeded our species would be exploring the stars and individuals would be immortal.
 
 - Wealth: the repertoire of physical causes that one is capable of causing.
 
 - Good customs: Defy anyone who seeks your submission
-                Gove a hearing to anyone who offers honest criticism, seeking to change you mind by persuasion.
+                Gave a hearing to anyone who offers honest criticism, seeking to change you mind by persuasion.
 
 - Moral Imperative: Do not destroy the means of correcting mistakes.  (possible the only moral imperative, all others follow?)
 
 - Summary of the views of Karl Popper:
   When we hear something being said we guess what it means, without realizing we are doing it. (Learning is an creative act!)
   We sit here in imprisoned our heads (a dark, almost sealed cave of our skull)  forever guessing about the outside worlds: physical, moral, mathematical ect.
-  But we not only guess we seak explanations that remain robust agianst the limited input we receive, agianst each other, logic, reasonableness and anything else we can think of.
+  But we not only guess we seek explanations that remain robust against the limited input we receive, against each other, logic, reasonableness and anything else we can think of.
   When we can improve them no longer we have understood some objective truth, and (at the same time) what we understand we can control. Its like magic, only real. We are like gods!
 
   We constantly underestimate the difficulty of communication. Communication depends on guess work on both sides and is inherently fallible.
-  Our default assuption should be that misunderstandings are ubiquitous and that neither intelligence nor intention can guarantee against them.
+  Our default assumption should be that misunderstandings are ubiquitous and that neither intelligence nor intention can guarantee against them.
 
   The way to converge to each other is to converge upon the truth
 
-- Odd that philosophy places such great weight on reading the original texts to understand the minds of the orginators of theories.
+- Odd that philosophy places such great weight on reading the original texts to understand the minds of the originators of theories.
   eg: The main goal in physics texts is to understand the theory, not the opinions of the authors.
 
 - If you have a good theory -- as the fundamental theories of physics are -- it is exceedingly hard to vary while still remaining a viable explanation.
 
 - Quantum theory is the deepest explanation known to science.
 
-- "Many-universes" interpertation remains a minority view despite the fact that many well-studied phenomena have no other known explanation.  The "Science-as-explanation" position that is advocated in this book, ie: an account of what is really out there, is itself still a minority view even among theoretical physicists.
+- "Many-universes" interpretation remains a minority view despite the fact that many well-studied phenomena have no other known explanation.  The "Science-as-explanation" position that is advocated in this book, ie: an account of what is really out there, is itself still a minority view even among theoretical physicists.
 
 - It is consistent for two identical entities to become different under deterministic and symmetrical laws if the two entities are _fungible_: identical in literally every way except that there are two of them.  Examples of fungible configurational entities in classical physics is amounts of energy. In quantum physics elementary particles are fungible entities.
   It is counter-intuitive that identical objects obeying deterministic laws cannot become different, but fungible objects (which on the face of it are even more alike, can; this is at the heart of quantum physics.
@@ -347,21 +354,21 @@
 
 - Three ways which a phenomena can appear unpredictable to an observer
   1) Physics is affected by some fundamentally random variable (not present in real physics)
-  2) We only ahve partial knowledge, even thought underlying system deterministic (partly responsible for most everyday unpredictability)
-  3) (New in quantum theory) Two or more initially fungibile instantes of the observer become differnet.
+  2) We only have partial knowledge, even thought underlying system deterministic (partly responsible for most everyday unpredictability)
+  3) (New in quantum theory) Two or more initially fungible instances of the observer become different.
   The laws of physics of the multiverse is deterministic; the apparent randomness is due to initially fungible instances of objects becoming different.
 
 - There are ways in which the different histories of the different universes can affect each other in ways that do not amount to communication.
-  The need to explan these effects is the main argurement that our multiverse is real.
+  The need to explain these effects is the main argument that our multiverse is real.
   Under certain circumstances histories can rejoin, becoming fungible again. (Interference)
 
 - Knowledge is the only phenomena whose effect do not fall off with distance. Knowledge can be aimed at a target, travel a vast distance having nearly no affect, and then utterly transform the destination.
 
-- The only way for the laws of physics to ***simultaneously*** meet the criteria of being universal, deterministic, adn forbid faster-than-light communication is to have multiple universes.
+- The only way for the laws of physics to ***simultaneously*** meet the criteria of being universal, deterministic, and forbid faster-than-light communication is to have multiple universes.
 
 - Common sense and classical physics contain the parochial error that only one history exists.
 
-- Universes, histories, particles (?) and their instances are not reffered to by quantum theory at all (Just as planets, human being and their lives and loves are not). These are all approximate emergent phenomena in the multiverse.
+- Universes, histories, particles (?) and their instances are not referred to by quantum theory at all (Just as planets, human being and their lives and loves are not). These are all approximate emergent phenomena in the multiverse.
 
 - Different times are special cases of different universes.  Time is an entanglement phenomena.
 
@@ -371,27 +378,27 @@
 
 - In a quantum computer the final output will depend on the intermediate results being computed in the vast number of ***_different_*** histories of the ***_same_*** few atoms.)
 
-- Although Schrodinger and Heisenberg's theories seemed to describe very differnt worlds -- neither of which was familiar-- it was found that if a simple rule of thumb was added, each theory would always make identical prediction, which turned out to be very successful.  The rule of thumb is whenever a measurement is made, all the histories but one cease to exist. Instead of trying to improve and integrate these two powerful but slightly flaswed explanatory theories, and to explain why the rule of thumb worked, most theoretical physicists retreated to Instrumentalism.  If the predictions worked, why worry about the explanation?  This meant ingoring the fact that the rule of thumb was grossly inconsistent with both theories, and not even self-consistent when applied to once observer making a quantum measurmeent on another ("paradox of Wigners friend").
+- Although Schrodinger and Heisenberg's theories seemed to describe very different worlds -- neither of which was familiar-- it was found that if a simple rule of thumb was added, each theory would always make identical prediction, which turned out to be very successful.  The rule of thumb is whenever a measurement is made, all the histories but one cease to exist. Instead of trying to improve and integrate these two powerful but slightly flawed explanatory theories, and to explain why the rule of thumb worked, most theoretical physicists retreated to Instrumentalism.  If the predictions worked, why worry about the explanation?  This meant ignoring the fact that the rule of thumb was grossly inconsistent with both theories, and not even self-consistent when applied to once observer making a quantum measurement on another ("paradox of Wigners friend").
 
 - Bad Philosophy: Philosophy that is not only wrong, but actively prevents the growth of other knowledge.
 
-- For decades, various versions of bad philosophy regaurding quantum theory was taughtin physics courses.
-   The theory claimed to stand outside the jurisdiction of normal modes of reason ("If you think youve understood quantum mechanics then you dont")
+- For decades, various versions of bad philosophy regarding quantum theory was taught in physics courses.
+   The theory claimed to stand outside the jurisdiction of normal modes of reason ("If you think you've understood quantum mechanics then you dont")
   A hallmark of bad philosophy.
 
-- Vaugeness, inconsistency, adn the precieved authority fundamental phyiscs opened the doo to countless pseudo-science supposedly based on "quantum theory".
+- Vagueness, inconsistency, and the perceived authority fundamental physics opened the door to countless pseudo-science supposedly based on "quantum theory".
 
-- David Bohm struggled to construct an alternative theory that was compatable with realism. His was a complicted theory that can be seen as a multiverse theory in disguise.
+- David Bohm struggled to construct an alternative theory that was compatible with realism. His was a complicated theory that can be seen as a multiverse theory in disguise.
 
-- Schrodinger joked that he might be considered mad for claimimg that his own equation -- for which he had one the Noble prize-- might actually be true.
+- Schrodinger joked that he might be considered mad for claiming that his own equation -- for which he had one the Noble prize-- might actually be true.
 
-- "Because I say so" four simple workds contain many themes of false and bad philosophy.
+- "Because I say so" four simple words contain many themes of false and bad philosophy.
    1) perfect example of bad explanation: It can be used to "explain" anything
    2) It is about who said something, not what was said.
    3) it reinterprets a request for true information as a request for justification
-   4) It claims to stand outside the jurisdiction of normal critisism
+   4) It claims to stand outside the jurisdiction of normal criticism
 
-- Positivism is a bad effect of taking empirisism literally. Machs positivism led him to oppose relativity (because it claimed that spacetime really exists even though it cant be "directly" observed) and atoms, which were too small to observe. Most philosophies of science since Mach have been even worse (Popper being an exception).
+- Positivism is a bad effect of taking empiricism literally. Mach's positivism led him to oppose relativity (because it claimed that spacetime really exists even though it cant be "directly" observed) and atoms, which were too small to observe. Most philosophies of science since Mach have been even worse (Popper being an exception).
 
     eg:
       - logical positivism asserts any statements not directly verifiable by observation are meaningless (note that logical positivism itself is not directly observable).
@@ -399,9 +406,9 @@
 
 - Creating a good explanation is hard not because of what anyone has decided but because there is an objective reality that does not meet anyone's prior expectations.
 
-- Once lecagy of empiricsm that continues to cause confusion and bad philosophy is the idea that it is possbile to split a scientific theory into predictive rules of thumb and assertions about reality (or "interpretations") on the other.  This doesnt make sense as with out an explanation it is impossible to know when and where the rule of thumb applies.
+- Once legacy of empiricism that continues to cause confusion and bad philosophy is the idea that it is possible to split a scientific theory into predictive rules of thumb and assertions about reality (or "interpretations") on the other.  This doesn't make sense as with out an explanation it is impossible to know when and where the rule of thumb applies.
 
-- All scientific measurements use chains of proxies, each link in the chain is an additional potential source of error. We can avoid fooling ourselves only by criticizing each step in chain, which is only possible if there is an explanatory theory behind each proxy. One can claim to have measured something only when there is an explanatory thoery of how and why the measurement procedure should reveal its value and with what accuracy.
+- All scientific measurements use chains of proxies, each link in the chain is an additional potential source of error. We can avoid fooling ourselves only by criticizing each step in chain, which is only possible if there is an explanatory theory behind each proxy. One can claim to have measured something only when there is an explanatory theory of how and why the measurement procedure should reveal its value and with what accuracy.
 
 - Bad philosophy can be countered by progress, much more easily than by good philosophy. People want to understand the world. Progress makes bad philosophy harder to believe. Its not refutation by logic or experience, but by explanation.
 
@@ -410,63 +417,63 @@
 
 - Proportional representation assigns disproportionate power in the legislature to the third largest party!
 
-- The essense of democratic decision-making is not the choice made by the system at elections, but the ideas created between elections.
+- The essence of democratic decision-making is not the choice made by the system at elections, but the ideas created between elections.
 
 - The voters are not a fount of wisdom from which the right policies can be empirically derived.
 
 - Advantage of plurality system of proportional system: The key defect of compromise policies is that when one is implemented and fails, no one learns anything because no one ever agreed with it.
-  In a plurality system, the winning parties policies do not need to be watered down with comprisie as with proportional systems.
+  In a plurality system, the winning parties policies do not need to be watered down with comprise as with proportional systems.
 
   In proportional systems, small changes in public opinion seldom count for anything, in practice the power can easily shift in the opposite direction from public opinion.
-  What counts most is changes in the opinion of the third largest party. This shields most of the incumbent politicians from being removed from power throught voting.
+  What counts most is changes in the opinion of the third largest party. This shields most of the incumbent politicians from being removed from power through voting.
 
   The all-or-nothing system of plurality systems make the overall outcome sensitive to small changes in opinion.
 
-  The idea tha trepresentative government depends on proportionate representation in the legislature is unequivocally a mistake.
+  The idea that representative government depends on proportionate representation in the legislature is unequivocally a mistake.
 
 - Popper's Criterion: Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove them without violence when they are.
 
-- Choice and decision making is NOT a process of selecting from existing options according to a fixed formula of prefernce. This ignores the most-important element of decision makeing: creating new options.
+- Choice and decision making is NOT a process of selecting from existing options according to a fixed formula of preference. This ignores the most-important element of decision making: creating new options.
 
-- Asthetic truths can be linked to physical facts through explanations (just like moral truths are)
-  eg: facts can be used to criticize moral and asthetic theories
+- Aesthetic truths can be linked to physical facts through explanations (just like moral truths are)
+  eg: facts can be used to criticize moral and aesthetic theories
       also, artistic problems can emerge from physical facts and situations.
 
-- Nature often has beautiful explanations. And when beautiful explanations are shown to be wrong they are often replaced by even more beutiful ones. This is a regularity in nature and must have an explanation.
+- Nature often has beautiful explanations. And when beautiful explanations are shown to be wrong they are often replaced by even more beautiful ones. This is a regularity in nature and must have an explanation.
 
-- Why do humans find flowers beutiful. We find flower beautiful reliably, even for flowers we have not seen before.  We dont find roots, stems, or leaves beautiful.
+- Why do humans find flowers beautiful. We find flower beautiful reliably, even for flowers we have not seen before.  We dont find roots, stems, or leaves beautiful.
 
 - The flower-insect co-evolution involved the creation of a complex code for signaling across species. The code had to be easily recognizable and difficult to fake.
-  Dueutsch guesses that the easiest way to make these signals is to use objective standards of beauty. So flowers have to create objective beauty and insects have to be able to recognize it.
+  Deutsch guesses that the easiest way to make these signals is to use objective standards of beauty. So flowers have to create objective beauty and insects have to be able to recognize it.
   The only species that are attracted to flowers are the insect species that co-evolved to do so and humans.
   Hypothesis: The best replicating genes depend on embodying objective prettiness to get themselves replicated
   Signaling across the gap between two humans is like signaling across the gap between two entire species. (b/c of memes).
   The amount of information in a human mind is more than in the genome of any species.
 
-- Beauty comes in two forms: parochial and universal.  The parochial is local to a spcecies, culture, or individual. The univesal is as objective as the laws of physics.
+- Beauty comes in two forms: parochial and universal.  The parochial is local to a species, culture, or individual. The universal is as objective as the laws of physics.
   Creating either kind requires knowledge but creating universal beauty required knowledge with universal reach.
   Human appearance as influenced by sexual selection satisfies the standards of objective beauty as well as species specific ones.
 
 - There is a need to create objective knowledge in order to allow different people to communicate.
 
-- A culture is defined as a set of closely related memes "variant", not strictly identical, (kind of like the virosphere) that lead to slightly differnt characteristic behaviors.
+- A culture is defined as a set of closely related memes "variant", not strictly identical, (kind of like the virosphere) that lead to slightly different characteristic behaviors.
 
 - Almost any analogy has some truth, but one cannot tell what that is until you have an independent explanation of what is analogous and why.
 
-- Genes and Memes are similar at the lowest level of explanation: they are both replicators that embody knowledge. However at higher levels they are about as different as can be: there are no cultural anagogues of species, organism, cell, sexual or asexual reproduction.
+- Genes and Memes are similar at the lowest level of explanation: they are both replicators that embody knowledge. However at higher levels they are about as different as can be: there are no cultural analogues of species, organism, cell, sexual or asexual reproduction.
 
-- DNA duplication is automatic: genes are copied indiscriminately.  Memes are completely different. Each meme has to be expressed as a behaviour each time it is copied.
+- DNA duplication is automatic: genes are copied indiscriminately.  Memes are completely different. Each meme has to be expressed as a behavior each time it is copied.
 
-- Meme evolution is enourmously faster than gene evolution. The cosmic year analogy is of the history of life is misleading. A significant fraction of all the evolution that has happened on our planet has occurred as memes in human brains.
+- Meme evolution is enormously faster than gene evolution. The cosmic year analogy is of the history of life is misleading. A significant fraction of all the evolution that has happened on our planet has occurred as memes in human brains.
 
 - Static societies always have ways of bringing up children in ways that disable their creativity and critical faculties (otherwise they would not remain static.)
-  Static societies must leave its memebers chronically baulked in their attempts to achieve anything positive. 
-  The fact that all societies before the current Western civlization where static implies that most humans before now were constrained by social convention and were unable to achieve self-expression.  
+  Static societies must leave its members chronically balked in their attempts to achieve anything positive. 
+  The fact that all societies before the current Western civilization where static implies that most humans before now were constrained by social convention and were unable to achieve self-expression.  
   Contrary to conventional wisdom, primitive societies are an unimaginably bad place to live in. Either they are static and survive only by extinguishing their members creativity, or they are unstable and lose their knowledge and quickly disintegrate.
 
 - Just as genes for the eye implicitly "know" the laws of optics. Long-lived memes of a static society possess knowledge of the human condition. So ironically there is much truth in the typical static society fear of change.  Any change is much more likely to do more harm than good.
 
-- What sort of meme can cause itself to be reliably replicated in a dynamic society, ie in a rapidly changing environment? A true idea that is usefull to all people.  To be transfered to one person it only need to seem useful to that person, to be transfered to a group it need be only a a parachial truth. The ideas with the best chance of surviving throught many generations are truths with reach : deep truths.
+- What sort of meme can cause itself to be reliably replicated in a dynamic society, ie in a rapidly changing environment? A true idea that is useful to all people.  To be transferred to one person it only need to seem useful to that person, to be transferred to a group it need be only a a parochial truth. The ideas with the best chance of surviving throughout many generations are truths with reach : deep truths.
   Such memes are antifragile in the sense that they actually rely on the their ability to survive rapidly changing criteria of criticism (the alternative die out)
 
 - Rational meme: an idea that relies on the copiers critical faculties to cause itself to be replicated
@@ -491,9 +498,9 @@
    Both puzzles have the same solution:
    	What replicates human memes is creativity. (JA: "Learning is a creative act")
 	While it was evolving, creativity was used to replicate memes.
-	So at first creativity was used to aquire existing knowledge, not to create new knowledge. But b/c the mechanism to do both things is the same, so gaining the ability to aquire existing knowledge automatically selects for the abilitiy to create new knowledge.
+	So at first creativity was used to acquire existing knowledge, not to create new knowledge. But b/c the mechanism to do both things is the same, so gaining the ability to acquire existing knowledge automatically selects for the ability to create new knowledge.
 
-- Someone trying to aquire a meme from someone else has the same challenge as a scientist. Both are trying to discover an hidden explanatino. For one it is in the mind of another person, for the other it is a law of nature.  Desciphering the underlying theory of the meme from the observed behavior involved the same jump/creativity as when developing new scientiific knowledge. 
+- Someone trying to acquire a meme from someone else has the same challenge as a scientist. Both are trying to discover an hidden explanation. For one it is in the mind of another person, for the other it is a law of nature.  Deciphering the underlying theory of the meme from the observed behavior involved the same jump/creativity as when developing new scientific knowledge. 
 
 - Paradoxically it requires creativity to thrive in a static society -- one that explicitly suppresses creative acts. It requires the creativity to be less innovative than other people.
 
@@ -503,15 +510,31 @@
   Diamond think that psychology, philosophy and politics of historical events are not relevant "to the great river of history."
   Counter argument: Why did the West win the cold war ? It has nothing to do with climate, minerals, flora, and diseases.
   	  	    Mechanical theories of human history lack explanatory power and are morally wrong, as they deny the role of humans and ideas on history.
-		    Diamond says that the main reason for writting GGS was cut off racist interpretations of the fact that the West came to dominate.
-		    However the landscape did not cause the enlightenment, if anything its the landscale of our ideas that have far more powerful influence.
-		    Knowledge alone conversts landscapes into resources, humans alone who create explanatory knowledge and thus history.
+		    Diamond says that the main reason for writing GGS was cut off racist interpretations of the fact that the West came to dominate.
+		    However the landscape did not cause the enlightenment, if anything its the landscape of our ideas that have far more powerful influence.
+		    Knowledge alone converts landscapes into resources, humans alone who create explanatory knowledge and thus history.
 		    Ideas are the determinants of the broad sweep of history.
 
 - The idea that the future can be scientifically planned is one that reliably causes disaster.
 
-- We need the capacity to deal with unforseen and unforeseeable failures. For this we need a large and vibrant research community, interested in explanations and problem-solving. We wealth to fund it and technology to implement its discoveries.
+- We need the capacity to deal with unforeseen and unforeseeable failures. For this we need a large and vibrant research community, interested in explanations and problem-solving. We wealth to fund it and technology to implement its discoveries.
 
-- The world is buzzing with plans to reduce reduction in gas emissions at almost any cost. Instead we ought to be thinking about how to reduce the temperature, or how to thrive at higher temeratures, efficiently and cheaply.
+- The world is buzzing with plans to reduce reduction in gas emissions at almost any cost. Instead we ought to be thinking about how to reduce the temperature, or how to thrive at higher temperatures, efficiently and cheaply.
 
-- 
+- The growth of knowledge is a continual transition from problems to better problems, not from problems to solutions.
+
+- Infinite ignorance is a necessary condition for infinite growth of knowledge. Rejecting the idea that we are "nearly there" is a necessary condition to avoid dogmatism, stagnation, and tyranny.
+
+- Against Domesday argument (which attempts to estimate the life expectancy by assuming that the typical human is roughly halfway through the sequence of all humans):  Does not apply if the total number is going to be infinite or if the lifetimes become infinite.
+
+- Illness and old age are going to be cured soon -- certainly within the next few lifetimes. This would imply effective immortality for the whole human population.
+
+- Against superhuman minds: because human minds are universal constructors and explainers they already transcend parochial origins. There can be no such thing as a superhuman mind only further automation allowing th existing kind of human mind to be carried out faster and with fewer limitations (eg: memory). Universality implies that, in every important sense, humans and AIs will be other than equal.
+
+- What we know and do not know:
+  - Know: AI is possible (from universality) by writing computer programs; Dont Know: how to write them.
+  - Know: of working examples of qualia and creativity (inside of each of us) Dont know: what qualia are or how creativity works.
+  - Know: the genetic code; Dont Know: Why it has the reach it has.
+  - Know: People are of fundamental significance; Dont Know: whether we are among those people, (we may fail or give up)
+
+- There is only one way of thinking that is capable of making progress, or of surviving in the long run: through seeking good explanations through creativity and criticism.
