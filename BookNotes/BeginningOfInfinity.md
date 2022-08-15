@@ -16,6 +16,7 @@
   - Claim that we are uniquely posed to destroy ourselves
   - Hawking's fear of extraterrestrial civilizations
   - Human civilization as on the "final second" on the "last day" of the cosmic year
+  - Guns Germs and Steel is a bad explanation
 
 - Hero List:
   - Popper
@@ -497,4 +498,20 @@
 - Paradoxically it requires creativity to thrive in a static society -- one that explicitly suppresses creative acts. It requires the creativity to be less innovative than other people.
 
 - Replicating memes is the function for which creativity evolved. And that is why our species exists.
-	 
+
+- Contrary to Jared Diamond's argument in Guns Germs and Steel; the conditions for the beginning of infinity exist in almost every human habitation on earth.
+  Diamond think that psychology, philosophy and politics of historical events are not relevant "to the great river of history."
+  Counter argument: Why did the West win the cold war ? It has nothing to do with climate, minerals, flora, and diseases.
+  	  	    Mechanical theories of human history lack explanatory power and are morally wrong, as they deny the role of humans and ideas on history.
+		    Diamond says that the main reason for writting GGS was cut off racist interpretations of the fact that the West came to dominate.
+		    However the landscape did not cause the enlightenment, if anything its the landscale of our ideas that have far more powerful influence.
+		    Knowledge alone conversts landscapes into resources, humans alone who create explanatory knowledge and thus history.
+		    Ideas are the determinants of the broad sweep of history.
+
+- The idea that the future can be scientifically planned is one that reliably causes disaster.
+
+- We need the capacity to deal with unforseen and unforeseeable failures. For this we need a large and vibrant research community, interested in explanations and problem-solving. We wealth to fund it and technology to implement its discoveries.
+
+- The world is buzzing with plans to reduce reduction in gas emissions at almost any cost. Instead we ought to be thinking about how to reduce the temperature, or how to thrive at higher temeratures, efficiently and cheaply.
+
+- 
