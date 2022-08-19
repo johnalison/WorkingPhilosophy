@@ -1,5 +1,7 @@
 # 2022
 
+## [QED: The strange theory of light and matter](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/QED.md) (Richard Feynman)
+
 ## [The Meaning of it All](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MeaningOfItAll.md) (Richard Feynman)
 
 ## [Numbers Dont Lie](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NumbersDontLie.md) (Vaclav Smil)
