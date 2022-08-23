@@ -7,7 +7,7 @@
   - Instrumentalism
   - Spaceship Earth
   - Principle of Mediocrity: Dawkins argument that "Universe being is not only queerer than suppose, but it is queerer that we can suppose" 
-  - Martin Reese: "could be life and intelligence in forms we cant conceive"
+  - Martin Reese: "there could be life and intelligence in forms we cant conceive"
   - Boltzmann Brains 
   - Anthropic Arguments for fine-tuning puzzles
   - Daniel Dennett: who claims in Consciousness Explained that qualia dont exist
@@ -17,17 +17,15 @@
   - Hawking's fear of extraterrestrial civilizations
   - Human civilization as on the "final second" on the "last day" of the cosmic year
   - Guns Germs and Steel as a bad explanation
-  - Domesday argument: 
+  - Domesday argument 
   - AI supremacy: Universality implies that, in every important sense, humans and AIs will be other than equal.
 
 - Hero List:
   - Popper
   - Fallibilists
 
-
-
-- Books main argument is that all progress (theoretical and practical) come from creating better explanations.
-  This activity is both uniquely human and a fundamental fact about reality at the most "impersonal cosmic" level.
+- Books main argument is that all progress (theoretical and practical) comes from creating better explanations.
+  This activity is both uniquely human AND a fundamental fact about reality at the most "impersonal cosmic" level.
   The relationship between the cosmic and the human is a hint of the central role in _people_ in the cosmic scheme of things.
 
 - Although progress has no end (unbounded) it does have a beginning.
@@ -41,8 +39,8 @@
 - Although being dead wrong in terms of where scientific knowledge comes from Empiricism was a great step forward in both the history and philosophy of science.
     - It denied the legitimacy of traditional authorities in seeking answers.
     - However it did this by setting up two new false authorities:
-        - "raw" sensory experience
-	- "derivation" or induction of science from this sensory experience
+      - "raw" sensory experience
+      - "derivation" or induction of science from this sensory experience
 
 - The key to science is that our explanatory theories can be ***improved*** through: conjecture, criticism, and testing.
 
@@ -56,7 +54,7 @@
 
 - What is needed for the sustained rapid growth of knowledge is a tradition of criticism. This happened in the enlightenment which was a rebellion against authority in regard to knowledge.
 
-- Scientific theories are not derived from experience, but they can be tested be experience.
+- Scientific theories are not derived from experience, but they can be tested by experience.
 
 - Prediction is not, and cannot be the purpose of science.
 
@@ -64,14 +62,14 @@
 
 - Just as conflicting predictions are the occasion for experiment and observation; conflicting ideas (in a broader sense) are the occasion for all rational thought and inquiry.
 
-- Define a situation in which we experience conflicting ideas as a ***problem***.
+- Define a situation in which we experience conflicting ideas as ***problem***.
 
 - Since theories can contradict each other, but there are no contradictions in reality (Assumption?), every problem signals that our knowledge must be flawed or inadequate.
 
-- "Bad Explanations": The idea that even testable, explanatory theories are not the crucial ingredient that leads to progress. Whenever a wide range of variant theories can account for all the phenomenon they are trying to explain, there is no reason to prefer one over the others (apart from Occam's razor) So a great freedom to make drastic changes (as in eg: ancient mythical explanation for the seasons) is a fundamental flaw. These types of theories are not an effective way to understand the world; even if they make predictions than can be tested.  Whether it is easy to vary an explanation with the same prediction or to vary it to make different predictions, here experimental testing is almost useless for correcting their errors. These easily changed explanation are called "Bad Explanations". If a bad explanation is disproved in favor of another bad explanation, no real progress toward the truth is made. So the scientific mindset is not about testing theories, or even refuting theories, but in seeking better explanations of relevant phenomena. 
+- "Bad Explanations": The idea that even testable, explanatory theories are not the crucial ingredient that leads to progress. Whenever a wide range of variant theories can account for all the phenomenon they are trying to explain, there is no reason to prefer one over the others (apart from Occam's razor). So a great freedom to make drastic changes (as in eg: ancient mythical explanation for the seasons) is a fundamental flaw. These types of theories are not an effective way to understand the world; even if they make predictions than can be tested.  Whether it is easy to vary an explanation with the same prediction or to vary it to make different predictions, here experimental testing is almost useless for correcting their errors. These easily changed explanation are called "Bad Explanations". If a bad explanation is disproved in favor of another bad explanation, no real progress toward the truth is made. So the scientific mindset is not about testing theories, or even refuting theories, but in seeking better explanations of relevant phenomena. 
 
-- "Good Explanations" are hard to vary. It is only with good explanations that it even matters whether a theory is testable. (Bad explanations are useless even if testable)
-   Discoveries good explanations is hard, but the harder they are to find, the harder they are to vary once found.
+- "Good Explanations" are hard to vary. It is only with good explanations that it even matters whether a theory is testable. (Bad explanations are useless even if testable.)
+   Discoveries of good explanations is hard, but the harder they are to find, the harder they are to vary once found.
 
 - Quest for Good explanations is the basic regulating principle of not only science, but the Enlightenment in general.  It is the path (only?) to progress and truth.
 
@@ -82,25 +80,26 @@
 
 - Conjectures are the product of imagination, but imagination can create fiction much more easily than reflect reality.
 
-- The explanation-based conception of science is why we can know so much about ***unfamiliar*** aspects of reality
+- The explanation-based conception of science is why we can know so much about ***unfamiliar*** aspects of reality. #KnowReality
+    Although our senses cannot detect neutrinos or quasars or most other significant phenomena in the universe, our brains can understand them.
 
-- The "Reach" of an explanation is its ability to solve problems beyond those that it was created to solved (SUSY with DM and gauge coupling unification)
+- The "Reach" of an explanation is its ability to solve problems beyond those that it was created to solved (SUSY with DM and gauge coupling unification).
 
-- Make sense to also speak of the reach of a non-explanatory forms of knowledge ("Rules of thumb")
+- It makes sense to also speak of the reach of a non-explanatory forms of knowledge ("Rules of thumb").
     - eg: knowledge implicit in genes for biological adaptation)
 
-- To be elaborated on later:  There is something greatly significant about explanation in the cosmic scheme of things.
+- (To be elaborated on later:) There is something greatly significant about explanation in the cosmic scheme of things.
 
 - Scientific Instruments: correct errors through indirectness that is guided/inspired/designed by theory. Strips away illusions misleading perspectives and gaps.
    It is amazing that object exist that when we observe them take on the appearance, other properties of other objects that are elsewhere are very different.
-    (scientific instruments (and our sensory organs) are examples of these incredible things.
+    (scientific instruments -- and our sensory organs -- are examples of these incredible things.)
    Explanatory theories tell us how to build and operate devices in exactly the right way to make this miracle work.
-   Like conjuring tricks in reverse: these instruments fool our senses into seeing whats really there
+   Like conjuring tricks in reverse: these instruments fool our senses into seeing what is really there.
    It is ironic that scientific instruments bring us closer to reality when in purely physical terms they only ever separate us further from it.
-   (An example that all observation is theory laden)
+   (An example that all observation is theory laden.)
 
 - To say that we have genuinely observed a thing is to say that we have accurately attributed our evidence (which is always ultimately inside our own brains) to that thing.
-   Scientific truth is when we have accurately attributed physical reality to theory
+   Scientific truth is when we have accurately attributed physical reality to theory.
 
 - The Spaceship Earth metaphor and the Principle of Mediocrity are almost universally accepted among scientifically minded people.
   Despite the fact that naively they argue in opposite directions:
@@ -116,19 +115,16 @@
   The extent to which we are on a spaceship we are its designers and builders, before humans it was not a vehicle, but a heap of dangerous raw materials
 
 - Biological evolution did not provide us with enough knowledge to survive.
-   (Here with differ from most other species which do have all the knowledge they need encoded in their brains "by the biosphere"
-
-- Although our senses cannot detect neutrinos or quasars or most other significant phenomena in the universe, our brains can understand them
+   (Here we differ from most other species which do have all the knowledge they need encoded in their brains "by the biosphere")
 
 - The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to create new explanations, are necessarily parochial.
-   Which implies that science, despite all its successes and aspirations would turn out to be inherently parochial and anthropocentric.
-   and thus that at some level the universe must be inexplicable
+   Which implies that science, despite all its successes and aspirations would turn out to be inherently parochial and anthropocentric and thus that at some level the universe must be inexplicable.
 
 - Any assumption that the world is inexplicable can lead only to Bad Explanations
 
-- There is an intimate connection be explaining the world and controlling it. In the set of all conceivable transformation of physical objects, there are those never happen because they are forbidden by the laws of physics; those that happen spontaneously; and some that are possible given enough knowledge. And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, But all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
+- There is an intimate connection between explaining the world and controlling it. In the set of all conceivable transformation of physical objects, there are those never happen because they are forbidden by the laws of physics; those that happen spontaneously; and some that are possible given enough knowledge. And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, But all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
 
-- This is ultimately the source of the cosmic importance of people, They have the ability to create knowledge which is ultimately not limited by parochial factors, but only by universal laws.
+- This is ultimately the source of the cosmic importance of people; they have the ability to create knowledge which is ultimately not limited by parochial factors, but only by universal laws.
   Anything that can create explanatory knowledge has cosmic significance. Astrophysics is incomplete without a theory of people.
     eg: It is not true that the attributes of a supernova in general are independent of the presence or absence of people, or of what these people know and intend.
         Generally, if we want to predict what a star will do we have to know whether there are any people near it and if so, what knowledge they have and what they might want to do.
