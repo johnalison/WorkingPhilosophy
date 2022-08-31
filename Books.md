@@ -1,5 +1,7 @@
 # 2022
 
+## [Four Thousand Weeks](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FourThousandWeeks.md) (OliverBurkeman)
+
 ## [Viral](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Viral.md) (Alina Chan and Matt Ridley)
 
 ## [QED: The strange theory of light and matter](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/QED.md) (Richard Feynman)

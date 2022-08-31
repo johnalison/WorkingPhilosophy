@@ -24,6 +24,11 @@
   - Popper
   - Fallibilists
 
+- Assumptions:
+  - there are no contradictions in reality
+  - The world is fundamentally explicable: all regularities have explanations; the world is not supernatural
+  - Our brains are universal computers 
+
 - Books main argument is that all progress (theoretical and practical) comes from creating better explanations.
   This activity is both uniquely human AND a fundamental fact about reality at the most "impersonal cosmic" level.
   The relationship between the cosmic and the human is a hint of the central role in _people_ in the cosmic scheme of things.
@@ -120,9 +125,13 @@
 - The Principle of Mediocrity is paradoxical: it implies that all human abilities, including our special ability to create new explanations, are necessarily parochial.
    Which implies that science, despite all its successes and aspirations would turn out to be inherently parochial and anthropocentric and thus that at some level the universe must be inexplicable.
 
-- Any assumption that the world is inexplicable can lead only to Bad Explanations
+- Any assumption that the world is inexplicable can lead only to Bad Explanations.
 
-- There is an intimate connection between explaining the world and controlling it. In the set of all conceivable transformation of physical objects, there are those never happen because they are forbidden by the laws of physics; those that happen spontaneously; and some that are possible given enough knowledge. And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, But all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
+- There is an intimate connection between explaining the world and controlling it.
+  In the set of all conceivable transformation of physical objects, there are those never happen because they are forbidden by the laws of physics;
+  those that happen spontaneously; and some that are possible given enough knowledge.
+  And these are all the options. So all potential physical transformations are either impossible (excluded by the laws of physics) or possible with the right knowledge.
+  If there were transformations that technology could never achieve it would be a regularity that is testable in nature, but all regularities have explanations (assumption?) and so the explanation would be the consequence of a law of nature.
 
 - This is ultimately the source of the cosmic importance of people; they have the ability to create knowledge which is ultimately not limited by parochial factors, but only by universal laws.
   Anything that can create explanatory knowledge has cosmic significance. Astrophysics is incomplete without a theory of people.
@@ -131,17 +140,17 @@
 
     eg: The only phenomena that our best instruments can detect at stellar distances are 1) extremely bright objects 2) a few things that obscure these objects 3) the effects of certain types of knowledge designed for communication (lasers/radio transmitters etc)
 
-- Using knowledge to sustain life is not unique to humans; but is the basic method which cells use to stay alive. DNA is a coded description of knowledge of ancestral environments. The difference is what kind of knowledge they use (explanatory vs rule-of-thumb) and how its created (conjecture and criticism vs variation and selection of genes)
+- Using knowledge to sustain life is not unique to humans; but is the basic method which cells use to stay alive. DNA is a coded description of knowledge of ancestral environments. The difference is what kind of knowledge they use (explanatory vs rule-of-thumb) and how its created (conjecture and criticism vs variation and selection of genes).
 
 - Humans are Universal Constructors: factories for transforming anything into anything.
 
 - Why should only one adaptation (human intelligence, problem solving, knowledge creation) out of the trillions that have been tried have unlimited reach?
 
-- There cannot be intelligence in forms we cant conceive (contra to Martin Reese's claims) If there were some thing that we were qualitatively unable to understand this would be a claim that the world is not explicable and is the same as an appeal to the supernatural.
+- There cannot be intelligence in forms we cant conceive (contra to Martin Reese's claims). If there were some thing that we were qualitatively unable to understand this would be a claim that the world is not explicable and is the same as an appeal to the supernatural.
 
 - Minimum needed to affect change in the Universe is matter, energy and access evidence: the information needed to test scientific theories.
 
-- Access to evidence: As far we know all the constants of nature can be measured here and every fundamental law can be tested here. So everything needed for open-ended knowledge creation is available in the earths biosphere. Not one is the Universe full of evidence, it is full of the same evidence everywhere. All people in the Universe face the opportunities.
+- Access to evidence: As far we know all the constants of nature can be measured here and every fundamental law can be tested here. So everything needed for open-ended knowledge creation is available in the earths biosphere. Not only is the Universe full of evidence, it is full of the same evidence everywhere. All people in the Universe face the same opportunities.
 
 - In the Universe at large knowledge-friendliness is the rule, not the exception. Or person-friendliness to people who have the relevant knowledge; Death is the rule for people who do not.
 
@@ -160,21 +169,26 @@
 - When our brains learn of diverse phenomena in the Universe (eg a quasar), we have physical objects that are extremely different (brains and quasars) whose behavior is dominated by totally different physics with the same mathematical and casual structures -- and doing so more accurately over time.  Only knowledge can exhibit this underlying unity.
 
 - Only explanatory knowledge can be universal. (eg: the SETI instrument is precisely adapted to detecting something that has never yet been detected. Biological evolution could never do this)
-  Science (explanatory knowledge) can conjecture the existence of something, calculate its implications, and then construct an instrument to detect it. Non-explanatory knowledge cannot cross the conceptual gap that conjecture does
+  Science (explanatory knowledge) can conjecture the existence of something, calculate its implications, and then construct an instrument to detect it. Non-explanatory knowledge cannot cross the conceptual gap that conjecture does.
 
-- Humans and knowledge is not only objectively significant, they are by far the most significant phenomena in nature -- the only ones whose behavior cannot be understood without understanding everything of fundamental importance.  Eg: the behavior of humans wrt a champagne bottle in a SETI refrigerator depends on the existence of life in other solar systems. Similar proxy behaviors in other scientific labs.
+- Humans and knowledge are not only objectively significant, they are by far the most significant phenomena in nature -- the only ones whose behavior cannot be understood without understanding everything of fundamental importance.  Eg: the behavior of humans wrt a champagne bottle in a SETI refrigerator depends on the existence of life in other solar systems. Similar proxy behaviors in other scientific labs.
   Consider also how completely different the evolution of an environment with and without the presence of a tiny sliver of knowledge.
   Almost all regions of the universe are just waiting doing nothing at all, which if the right knowledge ever reached it, instantly and irrevocably burst into a radically different type of physical activity.
 
-- Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken. Science (the least parochial perspective available to us) implies that people are the most significant entities in the cosmic scheme of things.  They are not supported by their environment, but support themselves by creating knowledge.
+- Both the principle of Mediocrity and the Spaceship Earth idea are fundamentally parochial and mistaken.
+  Science (the least parochial perspective available to us) implies that people are the most significant entities in the cosmic scheme of things.
+  They are not supported by their environment, but support themselves by creating knowledge.
 
-- Apart from the thoughts of people, the only process known to create knowledge is biological evolution. However the knowledge it creates (apart from via people) is inherently bounded and parochial. 
+- Apart from the thoughts of people, the only process known to create knowledge is biological evolution.
+  However the knowledge it creates (apart from via people) is inherently bounded and parochial. 
 
 - Good adaptation and good explanations are hard to vary while still retaining their function.
 
-- Error Correction: Once they are physically embodied DNA and memes in human brains tend to cause themselves to remain so. This information is very unlikely to come into existence other than through the error correcting process of evolution and thought
+- Error Correction: Once they are physically embodied DNA and memes in human brains tend to cause themselves to remain so.
+  This information is very unlikely to come into existence other than through the error correcting process of evolution and thought.
 
-- In any good explanation of the origin of biological adaptation God cannot play the role assigned by creationism.  Who created God ? The answer can only be a bad explanation.
+- In any good explanation of the origin of biological adaptation, God cannot play the role assigned by creationism.
+  Who created God ? The answer can only be a bad explanation.
 
 - The existence of an unsolved problem in physics is not more evidence for supernatural explanation than the existence of an unsolved crime is that a ghost committed it.
 
@@ -186,7 +200,7 @@
 
 - Scientific discovery is profoundly unpredictable despite the fact that it is determined by the laws of physics. Before a discovery, not predictive process could reveal the content of the discovery; if it could it would be that discovery.
 
-- There is no better destiny for a theory that to point the way to a more comprehensive theory to which it lives on as a limiting case.j
+- There is no better destiny for a theory than to point the way to a more comprehensive theory to which it lives on as a limiting case.
 
 - Progress is made by creatively varying the ***_explanations_*** of a theory, not the predictions.
 
@@ -194,8 +208,10 @@
   These mathematical abstractions are not possible objects of any observation, and yet we come to know about them.
   (Plato concluded that this knowledge must come from the supernatural) However our knowledge of these abstract entities actually comes from conjecture, criticism, and seeking good explanations.
 
-- Common claim: "You can't derive an ought from an is, therefore morality cannot be justified by reason"  True, but you also cant derive a factual theory from an is either.
-  Factual evidence and moral maximums are independent, but factual and moral ***_explanations_*** are not. Factual knowledge can be useful in criticizing moral explanations.
+- Common claim: "You can't derive an ought from an is, therefore morality cannot be justified by reason"
+  True, but you also cant derive a factual theory from an "is" either.
+  Factual evidence and moral maximums are independent, but factual and moral ***_explanations_*** are not.
+  Factual knowledge can be useful in criticizing moral explanations.
    eg: Success at making factual discoveries implies many values that the scientists has to commit to.
          - Value of truth, good explanations, and be open to ideas and change.
 
@@ -210,20 +226,25 @@
   A computer, but not a steam engine, is a universal simulator.
   Expecting a computer to do whatever neurons can is not a metaphor.
 
-
-- There is no such thing as an universal analogue computer. Analogue computers cant do error correction (every value in an analogue could be correct) and without error correction, the growth of knowledge is bounded. So all universal computers are digital and all use error-correction. All jumps to universality occur in digital systems. eg: Spoken languages build words out of a finite set of elementary sounds.
+- There is no such thing as an universal analog computer.
+  Analog computers cant do error correction (every value in an analogue could be correct) and without error correction, the growth of knowledge is bounded.
+  So all universal computers are digital and all use error-correction.
+  All jumps to universality occur in digital systems.
+      eg: Spoken languages build words out of a finite set of elementary sounds.
 
 - All known jumps to universality have be done by humans except one: DNA
 
 - Initially the genetic code was evolving along with everything else in the organism, but became a point where the code itself stopped evolving, despite the fact that the organisms continued to.
-  When the DNA stopped evolving it was only coding for single-celled organisms. Despite that all organisms today have been based on exactly the same alphabet of bases, and three-base "words".
+  When the DNA stopped evolving it was only coding for single-celled organisms.
+  Despite that all organisms today have been based on exactly the same alphabet of bases, and three-base "words".
   Considered as a language, the genetic code has displayed phenomenal reach.
   DNA might have been the first universality to exist,
   We do not know why DNA which evolved to describe bacteria has enough reach to describe dinosaurs and humans. 
 
-- AI must be possible in principle because a universal computer is a universal simulator
+- AI must be possible in principle because a universal computer is a universal simulator.
 
-- In Consciousness Explained (some refer to it as Consciousness Denied) Dennet claims that qualia dont exist.  To deny them is a bad explanation.
+- In Consciousness Explained, -- some refer to it as Consciousness Denied -- Dennet claims that qualia dont exist.
+  To deny them is a bad explanation.
 
 - If you cant program it, you dont understand it
 
@@ -232,31 +253,50 @@
 - A chatbot responds as though it had created knowledge in composing a response to a question, in reality the knowledge was created earlier and elsewhere.
 
 - The field of AGI has made no real progress because there is an unsolved philosophical problem at its heart: we dont understand how creativity works.
-   Claim: One that is solved, programming AI will not be difficult.
+   Claim: Once that problem is solved, programming AI will not be difficult.
 
 - Mathematicians realized centuries ago that it is possible to work consistently and useful with infinity.
 
 - Case against Finitism: Problem, is there a real largest natural number or not ? Finitists have to deny the "law of the excluded middle" ie: A or ~A.
   Finitism is Instrumentalism applied to mathematics. It is a principled rejection of explanation. All access to abstract (and physical) entities, finite or infinite is via theory.
 
-- Universality of Reason: All branches of philosophy, science, and mathematics have inherent limitations. But there is no bound to reason.  Believing in a bound on the domain of reason is equivalent to the belief in the supernatural.
+- Universality of Reason: All branches of philosophy, science, and mathematics have inherent limitations.
+  But there is no bound to reason.
+  Believing in a bound on the domain of reason is equivalent to the belief in the supernatural.
 
 - The best explanation of anything eventually involves universality, and therefore infinity.
 
-- Whenever we refer to infinity we are making use of the infinite reach of some idea. Whenever an idea of infinity makes sense, it is because there is an explanation of why some finite set of rules for manipulating finite symbols refers to something infinite.  (This underlies our knowledge of everything else as well!)
+- Whenever we refer to infinity we are making use of the infinite reach of some idea.
+  Whenever an idea of infinity makes sense, it is because there is an explanation of why some finite set of rules for manipulating finite symbols refers to something infinite.
+  (This underlies our knowledge of everything else as well!)
 
-- There are uncountably many orders of infinity, each too large to be put into one-to-one correspondence with the lower ones. (Is the number of order of infinity the same as any one of the infinities?)
+- There are uncountably many orders of infinity, each too large to be put into one-to-one correspondence with the lower ones.
+  (Is the number of order of infinity the same as any one of the infinities?)
 
 - When we have unbounded growth of knowledge we are always (and forever) just scratching the surface.
 
-- The attributes of probable or improbable, rare or common, typical or untypical have literally no meaning in when comparing infinite sets of natural numbers. This is bad news for Anthropic arguments.
-  None of the Anthropic-reasoning theories that have been proposed provide any measure. Most are little more than speculations "What if there were universes with different parameters?"
+- The attributes of probable or improbable, rare or common, typical or untypical have literally no meaning in when comparing infinite sets of natural numbers.
+  This is bad news for Anthropic arguments.
+  None of the Anthropic-reasoning theories that have been proposed provide any measure.
+  Most are little more than speculations "What if there were universes with different parameters?"
 
-- The set of all functions is uncountably infinite, while the set of all programs is merely countably infinite => almost all mathematical truths have no proofs. They are unprovable truths. Most of all mathematical statements are undecidable: there is no proof that they are true and no proof that they are false. Each of them is either True or False, but there is no way of using physical objects (brains or computers) to discover which is which.  All undecidable statements are directly or indirectly about infinite sets. To finitists, this is because of the meaninglessness of these statements. To Deutsch it is further proof that abstractions exist objectively, these statements cannot merely be a convenient way of describing the behavior of some physical system.  Interestingly, very few questions are known to be undecidable, even though most are.
+- The set of all functions is uncountably infinite, while the set of all programs is merely countably infinite => almost all mathematical truths have no proofs.
+  They are unprovable truths.
+  Most of all mathematical statements are undecidable: there is no proof that they are true and no proof that they are false.
+  Each of them is either True or False, but there is no way of using physical objects (brains or computers) to discover which is which.
+  All undecidable statements are directly or indirectly about infinite sets.
+  To finitists, this is because of the meaninglessness of these statements.
+  To Deutsch it is further proof that abstractions exist objectively, these statements cannot merely be a convenient way of describing the behavior of some physical system.
+  Interestingly, very few questions are known to be undecidable, even though most are.
 
-- There is nothing mathematically special about the undecidable questions. They are distinguished by ***_physics_** only. Different physical laws would make different things infinite (?), different things computable, different truths (scientific and mathematical) knowable.  It is only the laws of physics that determine which abstract entities and relationships are modeled by physical objects such as mathematicians brains, computers, and sheets of paper. Our knowledge of whether a proposition is true or false ***_always_*** depends on knowledge about how physical objects behave; the mathematical proposition is independent of physics, but the proof of the proposition is a matter of physics only. There is no such thing as abstractly proving something (just as there is no such thing as abstractly knowing something)
+- There is nothing mathematically special about the undecidable questions.
+  They are distinguished by ***_physics_** only.
+  Different physical laws would make different things infinite (?), different things computable, different truths (scientific and mathematical) knowable.
+  It is only the laws of physics that determine which abstract entities and relationships are modeled by physical objects such as mathematicians brains, computers, and sheets of paper.
+  Our knowledge of whether a proposition is true or false ***_always_*** depends on knowledge about how physical objects behave; the mathematical proposition is independent of physics, but the proof of the proposition is a matter of physics only.
+  There is no such thing as abstractly proving something (just as there is no such thing as abstractly knowing something)
 
- All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties, and its scope and limitations are conditioned by the laws of nature
+  All mathematical truth is absolutely necessary and transcendent, but all knowledge is generate by physical properties, and its scope and limitations are conditioned by the laws of nature.
 
   #ConnectionOfMathAndPhysics 
 
