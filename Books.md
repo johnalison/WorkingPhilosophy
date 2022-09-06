@@ -1,6 +1,8 @@
 # 2022
 
-## [Four Thousand Weeks](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FourThousandWeeks.md) (OliverBurkeman)
+## [Dreams of a Final Theory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DreamsOfAFinalTheory.md) (Steven Weinberg)
+
+## [Four Thousand Weeks](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FourThousandWeeks.md) (Oliver Burkeman)
 
 ## [Viral](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Viral.md) (Alina Chan and Matt Ridley)
 
