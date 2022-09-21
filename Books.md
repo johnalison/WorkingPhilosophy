@@ -1,5 +1,7 @@
 # 2022
 
+## [The Character of Physical Law](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/CharacterOfPhysicalLaw.md) (Richard Feynman)
+
 ## [Dreams of a Final Theory](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DreamsOfAFinalTheory.md) (Steven Weinberg)
 
 ## [Four Thousand Weeks](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FourThousandWeeks.md) (Oliver Burkeman)
