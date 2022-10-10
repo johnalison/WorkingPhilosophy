@@ -1,5 +1,7 @@
 # 2022
 
+## [Waking Up](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WakingUp.md) (Sam Harris)
+
 ## [A Supposedly Fun Thing Ill Never Do Again](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASupposedlyFunThing.md) (David Foster Wallace)
 
 ## [Why Buddhism is True](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhyBuddhismIsTrue.md) (Robert Wright)
