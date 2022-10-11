@@ -1,5 +1,7 @@
 # 2022
 
+## [The World Without Us](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheWorldWithoutUs.md) (Alan Weisman)
+
 ## [Waking Up](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WakingUp.md) (Sam Harris)
 
 ## [A Supposedly Fun Thing Ill Never Do Again](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASupposedlyFunThing.md) (David Foster Wallace)
