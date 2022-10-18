@@ -22,4 +22,14 @@ If the answer is no, you might want to stop and think about that. If everything 
 
 - Argue with idiots, and you become an idiot.
 
-The most important thing is to be able to think what you want, not to say what you want. And if you feel you have to say everything you think, it may inhibit you from thinking improper thoughts. I think it’s better to follow the opposite policy. Draw a sharp line between your thoughts and your speech. Inside your head, anything is allowed. 
+The most important thing is to be able to think what you want, not to say what you want. And if you feel you have to say everything you think, it may inhibit you from thinking improper thoughts. I think it’s better to follow the opposite policy. Draw a sharp line between your thoughts and your speech. Inside your head, anything is allowed.
+
+- The thing about ideas, though, is that they lead to more ideas. Have you ever noticed that when you sit down to write something, half the ideas that end up in it are ones you thought of while writing?  The same thing happens in software.
+
+- The truthful answer would have been, we didn’t have any plans. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
+
+- The best intranet is the Internet.
+
+- A large part of what big companies pay extra for is the cost of selling expensive things to them. (If the Defense Department pays a thousand dollars for toilet seats, it’s partly because it costs a lot to sell toilet seats for a thousand dollars.)
+
+- many electrified fences don’t have any current running through them. The cows apparently learn to stay away from them, and after that you don’t need the current. 
