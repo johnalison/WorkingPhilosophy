@@ -32,4 +32,6 @@ The most important thing is to be able to think what you want, not to say what y
 
 - A large part of what big companies pay extra for is the cost of selling expensive things to them. (If the Defense Department pays a thousand dollars for toilet seats, it’s partly because it costs a lot to sell toilet seats for a thousand dollars.)
 
-- many electrified fences don’t have any current running through them. The cows apparently learn to stay away from them, and after that you don’t need the current. 
+- many electrified fences don’t have any current running through them. The cows apparently learn to stay away from them, and after that you don’t need the current.
+
+- Microsoft also happens to have been the beneficiary of one of the most spectacular blunders in the history of business: the licensing deal for DOS.  If IBM had required an exclusive license, as they should have, Microsoft would still have signed the deal. It would still have meant a lot of money for them, and IBM could easily have gotten an operating system elsewhere.
