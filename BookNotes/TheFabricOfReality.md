@@ -75,3 +75,19 @@
 - I may feel subjectively that I am distinguished among the copies as THE "tangible" one, beacuse I can directly percieve myself and not the others, but I must come to terms with the fact that all the others feel the same way about themselves.
 
 - Sumamry: in interference experiments there can be places in a shadow-pattern that go dark when new openings are made in the barrier casting the shadow. This remains true when the experiment is performed on individual particles. A chain of reasoning based on this fact rules out the possibility that the universe we see around us constitutes the whole of reality. In fact the whole of physical reality, the multiverse, contains vast numbers of parallel universes.
+
+- Not clear which is stranger the behavious of the shadows itself, or the fact that contemplating them can force us to revise so radically our conception of the structure of reality.
+
+- Observations of every smaller physical effects have been forcing ever greater changes in our world-view
+
+- Solipsism (that only our mind exists) cannot be logically disproved. Since solipsism is an infinite number of related theories are logically consistent with perceiving any possible observational evidence, it follows that you can logically deduce nothing about realty from observational evidence alone.  If scientific reason does not amount to logical deduction from evidence what does it amount to?
+
+ Theories that are more capable of giving more detailed explanation are automatically preferred.
+
+- A problem (when the explanations of our best theories seem inadequate) is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche.
+
+- Popper's theory that knowledge can grow only through conjecture and refutation (or criticism) "Evolutionary epistemology" and is an important unifying insight.
+
+- In science and biological evolution, evolutionary sucess depends on the creation and survival of objective knowledge, which in biology is called adaptation.
+
+- 
