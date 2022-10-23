@@ -90,4 +90,28 @@
 
 - In science and biological evolution, evolutionary sucess depends on the creation and survival of objective knowledge, which in biology is called adaptation.
 
-- 
+- There are a large class of theories related to solipsism, differing on where they draw the boundry demarkating the part of reality which is comprehensible and that to which science is inapplicable.
+
+- Against Solipsism:  Joke/argument against solipsism: Professor who give a lecture in defence of solipsism. The students agree with every word of it. 'One so seldom has the oppurtunity to meet fellow solipsists'. What actually did the students agree with? If they adopt the professors opinion, they will not be solipsists, and if they become solipsists, they will have become convinced that the professor is mistaken. If we take solipsism seriously -- if we assume that is is true and that all valid explanations must conform to it -- it self-destructs.  How does solipsism, taken seriously, really differ from the common-sense rival, realism? The difference is based on no more than a renaming scheme. The solipsists description of the world is in terms of interacting thoughts rather than interacting objects. But the thoughts are real and interact according to the same rules that the realist says govern the interaction of objects.
+
+- Explanations are not judged by how they were derived, but only by their ability, relative to rival explanations, to solve the problems they address.
+
+- Even purely mathematical arguments derive their reliability from the physical and philisophical theories that underpin them.
+
+- If something can kick back, it exists. Kick is when the object affects us in ways that require independent explanations.
+
+- The claim was maid above about the 'inescapable' conclusion that something must be coming throught the second pair of slits to prevent light from reaching the screen from the first. It is not ***logically*** inescapable, for if we were not looking for explanations we could just say that the photons we see behave AS IF something passing throught other slits had deflected them, but that in fact there is nothing there. Similarly, we could have said that our foot rebouded AS IF there was a rock there, but that in fact there was nothing there. (The Inquisition did say that the planets were seen to move as if they adn the Earth were in orbit around the Sun, but in that in fact they moved round the fixed Earth). But if the object of the exercise is to explain the motion of planets, or our foot, or photons, we must adopt the rule that if something behaves as if it existed -- by kicking back -- then one regards that as evidence that it does exist. Shadow photons kick back by interfering with the photons that we see, therefore shadow photons must exist.
+
+  We do not feel the presense of our counterparts in other universes. Nor did the Inquisition feel the Earth moving beneath their feet. And yet, it moves!
+  
+- We should regard as real those complex entities which, if we did not regard them as real, would complicate our explanations. Its not how hard something kickbacks that makes its existence compelling. What matters is its role in the explanations that the theory provides.
+
+- Physicists trying to avoid the many-worlds conclusion try to explain QM as "No shadow photons exist and what carries the effect of the distant slits on the photon we see is -- nothing. Some sort of action at a distance simply makes photons change course when a distant slit is opened" But this action at a distance is not simple, the photon is affected by distant objects exactly AS IF something were passing through the distant gaps and bounching off distant mirrors etc to intercept the photon at the right time and place. Doing the calculation woudl require the same computational effort of working out the history of a large number of shadow photons. A story that is in in effect about shadow photons necessarily appears in any explanation of the observed effects. The irreducible complexity of the story makes it philosophically untenable to deny that the shadow objects exist.
+
+- Bohms theory also requires the same computations as the what the shadow photons do.
+
+- Logically, reality need not be science-friendly in the sense that evidence for explanations can be found. Reality contains not only evidence, but the means (such as our minds, and our artefacts) of understanding it.
+
+- To the extent that theories are true - that is, they resemble in appropriate respects the concrete or abstract things they refer to - they give reality a new sort of self-similarity, the self-similarity we call knowledge. Some parts resemble other parts. It may be concrete: eg: physical images in a planetarium resembling the night sky, or abstract: when theories are printed in books.
+
+- Science and other forms of knowledge are made possible by a special self-similarity property of the physical world. It was not physicicists that first recognized and studied this property; it was mathematicians and computer scientists. They called it the theory of computation. 
