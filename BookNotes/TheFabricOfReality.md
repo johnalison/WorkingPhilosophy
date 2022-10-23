@@ -114,4 +114,24 @@
 
 - To the extent that theories are true - that is, they resemble in appropriate respects the concrete or abstract things they refer to - they give reality a new sort of self-similarity, the self-similarity we call knowledge. Some parts resemble other parts. It may be concrete: eg: physical images in a planetarium resembling the night sky, or abstract: when theories are printed in books.
 
-- Science and other forms of knowledge are made possible by a special self-similarity property of the physical world. It was not physicicists that first recognized and studied this property; it was mathematicians and computer scientists. They called it the theory of computation. 
+- Science and other forms of knowledge are made possible by a special self-similarity property of the physical world. It was not physicicists that first recognized and studied this property; it was mathematicians and computer scientists. They called it the theory of computation.
+
+- The theory of computation has been studied almost entiresly in the abstract, as a topic in mathematics. This is to miss the point of it. Computers are physical objects and computation is a physical process; what computers can and cannot do is determined by the laws of physics, not by pure mathematics.
+
+- A universal computer is usually defined as an abstract machine that can mimic the computations of any other abstract machine in a certain well-defined class.
+  The fact that universal computers are possible and can actually be built, is part of the self-similarity of physical reality that makes the world comprehensible.
+  Stated another way, the fact  that virtual reality is possible and that the multiverse has this property, makes science possible.
+
+- What constraints, if any, do the laws of physics impose on the repertoires of virtual-reality generators?
+  The laws of physics impose no limit on the range of accuracy of image generators.
+
+
+- One cannot certify that a virtual reality rendering is accurate, but experience can sometimes show that a rendering is in accurate.  This mirrors the case of theory and experiment in science.
+  If the environment is physically possible, rendering it is the equivelent to finding rules for predicting the outcome of all possible experiments that can be performed in that environment.
+
+- If we assume that any virtual reality generator that can in principle be built, can at least be built twice, then it follows that every virtual reality generator running a program is rendering SOME physically possible environment. It may be rendering others things as well, including physically impossible environments, but there is always some possible environment that it is rendering.
+
+- Imagination is a straightforward form of virtual reality. Our "direct" experience of the world throught our senses is virtual reality too, rendered to us by our unconscious minds from sensory data and complex inborn adn acquired theories (ie: programs) about how to interpret them.
+
+- We realists takt the view that reality is out there: objective physical and independent of thwat we believe about it. But we never experience this reality directly. All our experience is VR. And every last scrap of our knowledge -- including our knowledge of the non-physical worlds of logic, math and philosophy -- is encoded in the form of programs for the rendering of those worlds on our brains own VR generator.
+
