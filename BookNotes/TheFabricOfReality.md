@@ -135,3 +135,23 @@
 
 - We realists takt the view that reality is out there: objective physical and independent of thwat we believe about it. But we never experience this reality directly. All our experience is VR. And every last scrap of our knowledge -- including our knowledge of the non-physical worlds of logic, math and philosophy -- is encoded in the form of programs for the rendering of those worlds on our brains own VR generator.
 
+- The relationship between "ordinary" reality and virtual reality is part of the deep unexpected structure of the world which this book is about.
+
+- We know from QM that all relevant variables are quantized and thus that the set of possible programs that simulate reality is discrete.  (Each program specifies a particular set of values for physical variables) There are infinetely many possible programs, but each can only contain a finite number of symbols, because symbols are made of matter is reconginzible configurations. (JA: Then are there really an infinite number of possible programs ???)
+
+- The feasibility of a universal virtual-reality  generator depends on the existance of a universal computer - a single machine that can calculate anything that can be calculated.
+
+- Universality was first studied by mathematicians, they were trying to make precise the intuitive notion of computing (or "calculating" or "proving") but they failed to realize that mathematical calculation is a physical process. It is therefore impossible to to determine by mathematical reasoning alone what can or cannot be calculated mathematically.  That depends entirely on the laws of physics. 
+
+- Turing came up with the Universal calculator or Universal Turing maching which he conjecture could calculate anything that could be calculated. eg: everything computable by mathematics.
+
+- Quantum computers will be able to perform computations which no (human) mathematician will ever, even in principle, be able to peform.
+
+- If a question is non-computable, it does not mean that it has no answer or is in any sense ill-defined or ambiguous. It has an answer, it is just that there is physically no way of obtaining the answer.
+
+- Claim: The turing principle: It is possible to build a virtual reality generator whose repertoire includes every physically possible environment.
+  This is the strongest form of the Turing principle. It says that not only can various parts of reality resemble one another, but that one constructable object can perform the task of describing (mimicking) any other part of the multiverse. This is what makes reality comprehensible.
+
+- The laws of physics are to be comprehensible they must be capable of being embodied in another physical object -- the knower. It is also necessary that physical processes capable of creating such knowledge be physically possible. Such processes are called science.  The laws of physics seem to meet this criteria. B.c the Turing principle seems to be true, the laws of physics can be said to mandate their own comprehensibility. 
+
+- Define something as physically possible as something that actually occurs somewhere in the multiverse. 
