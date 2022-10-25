@@ -40,4 +40,5 @@ orthogonal packets, one for each value of s. Here the controversies over the int
 
 - The splitting into branches is thus unobserved.
 
-- EWG give no a priori interpretation to these coefficients. In order to find
+- EWG give no a priori interpretation to these coefficients. In order to find an interpretation they introduce an apparatus that makes repeated measurements on an ensemble of identical systems in identical states.
+

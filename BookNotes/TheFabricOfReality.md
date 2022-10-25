@@ -154,4 +154,21 @@
 
 - The laws of physics are to be comprehensible they must be capable of being embodied in another physical object -- the knower. It is also necessary that physical processes capable of creating such knowledge be physically possible. Such processes are called science.  The laws of physics seem to meet this criteria. B.c the Turing principle seems to be true, the laws of physics can be said to mandate their own comprehensibility. 
 
-- Define something as physically possible as something that actually occurs somewhere in the multiverse. 
+- Define something as physically possible as something that actually occurs somewhere in the multiverse.
+
+- There is no logical necessary connection between truth and explanatory power.  So then what justifies relying on theoies that are our best explanations as guides to practical decision-making ?
+  This is the modern form of the "problem of induction".
+
+- An "inductivist" is someone who things that the invalidity of the inductive justification is a problem for the foundations of science. eg: there a gap that must be filled, if not by induciton then by something else.  How to justify any conclusion about the future from past evidence.
+
+- Claim justification (which is always tentative) comes from the explanations provided by the relevant scientific theories.
+  Only arguement every justifies anything.
+
+- Theories postulating anomalies without explaining them are less likely than their rivals to make true predictions. Theories are postulated to solve problem, therefore any postulate which solves no problem is to be rejected. A good explanation qualified by such a postulate becomes a bad explanation.
+
+- It is an interesting FACT that the physical universe admits proecesses that create knowledge about itself. We should try to explain this fact in the same way as we explain other facts, through explanatory theories. I think that the Turing principle is the appropriate theore in this case. It says that it is possible to build a virtual-reality generator whose repertoire includes every physically possible environment. If the Turing principle is a law of physics (we I have argued that it is), then we should be surprised that we can form accurate theories about reality, b/c that is just VR in action.
+
+- An argument doesnt begin with "axioms" or end with "conclusions". It starts in the middle with a version that is incomplete, has gaps ambiguities and irrelevancies.
+  It is not the same species as a deduction, or the non-existent induction. It is not based on anything or justified by anything. It doesnt have to be, its purpose is to solve problems and to show that a given problem is solved by explanation.
+
+
