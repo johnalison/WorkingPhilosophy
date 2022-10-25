@@ -1,5 +1,7 @@
 # 2022
 
+## [The Mind Illuminated](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheMindIlluminated.md) (Culadasa)
+
 ## [The Fabric of Reality](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheFabricOfReality.md) (David Deutsch)
 
 ## [The World Without Us](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheWorldWithoutUs.md) (Alan Weisman)
