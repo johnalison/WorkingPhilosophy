@@ -171,4 +171,43 @@
 - An argument doesnt begin with "axioms" or end with "conclusions". It starts in the middle with a version that is incomplete, has gaps ambiguities and irrelevancies.
   It is not the same species as a deduction, or the non-existent induction. It is not based on anything or justified by anything. It doesnt have to be, its purpose is to solve problems and to show that a given problem is solved by explanation.
 
+- Claim: life is fundamental.  Something is fundamental if a deep understanding of the world depend on understanding that phenomena.
 
+- Not all fundamental phenomena have large effects. Some do, like gravity, some dont, like quantum interference. However QM intereferece is indeed fundamental b/c we need to understand it to understand a basic property of the world: the parallel universes.
+
+- Life is both fundamental and has large physical effects
+
+- To quantify adaptation we need to consider both the replicator in question and also a range of possible (but not actually realized) variants.
+  For highly adapted replictators we need consider only fairly small variations, b/c with most large variations they would no longer be replicators. So we are contemplating replacing replicators by broadly similar objects.
+  
+- The degree of adaptation of a replicator depends not only on what that one replicator does in its actual environment, but also on what a vast number of other possible alternatives WOULD DO in a vast number of possible environments. This is strikingly similar to accuracy of VR rendering which depends on what the user COULD DO in addition to what they actually do.
+
+- The most important factor determining a genes niche is usually that the genes replication depends on the presence of other genes.
+  An organism is not a replicator, it is part of th enevironment of replicators.
+
+- Life is a form of virtual reality generation. Living processes and VR renderings are the same sorts of process. they involve the physical embodying of general theories about an environment.
+
+- It is a piece of knowledge rather than a physical object that is or is not adapted to a certain niche.
+  Life is based on replicators, but life is really about knowledge. An entity is adapted to its environment if it embodies knowledge that causes the niche to keep that knowledge in existence.
+  Life is about the physical embodiment of knowledge. The turing priciple (a law of physics)  is also about knowledge. IT says that it is possible to embody the laws of physics, as they apply to every physically possible environment, in programs for a VR generator. Geners are such programs. Life is a means (presumably a necessary means) by which the effects refferred to in the Turing principle have been implemented in nature.
+
+- Astrologers used to believe that cosmic eventws influence human affairs; science believed for centuries that neither influcences the other; now we see that human affairs influence cosmic events.
+
+- In the universe as we see it, ife has affected nothing of significance, but we only see the past, and a small part of it at that. This is just a small part of physical reality.
+
+- All of the oxygen in our atmosphere -- 1e16 tons was created by plants ans was therefore a side effect of the replication of genes: molecules. Life achieves its effects not by being larger, more massive or more energetic than other physical processes, but by being more knowledgeable.
+
+- We need to take the multiverse view of QM to see that there is a difference between knowledge-bearing and non-knowledge-bearing objects, that depends neither on teh objects environment nor on the effects on the remote future, bot only on the objects' immediate physical conditions.  A single cosmic-ray strike on a single DNA molecule will in general cause a large range of different mutations to appear in different universes.
+  The multiversal perspective reveals additional physical structure in an organisms DNA. The sequences of base pairs that are in genes will tend to be replicated across universes, those same sequences in junk DNA which are not in genes will vary greatly between nearby universes.
+  If we are being too parochial (and looking only in our universe) we may be lead to the false conclusion that knowledge-bearing entities can be physically identical to non-knowledge-bearing entities, which casts doubts on the fundamental status/significance of knowledge.  However knowledge-bearing structures are physically distinct which looking across the multiverse. Knowlege is like a crystal in the multiverse.
+
+  The better adapted genes will have the same structure over a wider range of universes -- they will have bigger crystals.
+
+
+- Let us look around the universe. Waht will catch our eye will be the most striking structures: galaxies and clusters of galaxies. But those objects ahhave no discernible structure across the multiverse. Nothing extends far into other universes without its detailed structure changing unrecognizably. Except, that is in those few places where there is embodied knowlege.  Such places swould standout in the multiverse as the location of the processes of life and thought. These have generated the most distinctive structures in the multiverse.
+
+- Scientific progress since Galileo has seemed to refute the ancient idea that life is a fundamental phenomena in nature. Modern biology seems to have confirmed this. However life is associated with a fundamental principle of physics -- the Turing principle -- since it was the means by which VR was first realized in nature. Life is also significant on the largest scales of both time and space.  And the largest-scale regular structure ACROSS universes exists where knowlege-bearing matter, such as brains or DNA gene segments, have evolved.f
+
+- The direct connection between the theory of evolution and quantum theory is a striking and unexpected connection between the four strands of the fabric of reality.
+
+- (When we are considereing what a particular object may look like in other universes we must not look so far afield in the multiverse that it is impossible to identify a counterpart.) 
