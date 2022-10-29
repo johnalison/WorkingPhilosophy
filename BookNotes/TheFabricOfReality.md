@@ -210,4 +210,60 @@
 
 - The direct connection between the theory of evolution and quantum theory is a striking and unexpected connection between the four strands of the fabric of reality.
 
-- (When we are considereing what a particular object may look like in other universes we must not look so far afield in the multiverse that it is impossible to identify a counterpart.) 
+- (When we are considereing what a particular object may look like in other universes we must not look so far afield in the multiverse that it is impossible to identify a counterpart.)
+
+- All present-day computers are differnet implementations of the same CLASSICAL idea, the universal Turing machine. A quantum computer is a machine that uses unique QM effects, interference, to perfore wholly new types of calculation that would be impossible, even in principle, on any Turning machine.  It is therefore a new way of harnessing nature.
+
+- QC will be the first technology that will allow os to perform useful tasks in collaboration with the parallel universes. A QC essentially the components of a complex task across the vast number of parallel universes and the brings the results together in the end.
+
+- Feynman considered the computer simulation of QM objects: he showed that predicting the behavious of QM systems (ie: rendering the QM environments in VR) is in general an intractable task.
+
+- Chaos occur only in classical physics (Check this against quantum chaos...) The flapping of a butterflies wings does not in reality cause hurricanes, b/c the classical phenomena of chaos depends on perfect determinism which does not hold in any single universe.  Quantum systems are unpredictable because they behave differently in different universes and so appear random in most universes.
+
+- Whichever path you set a single photon on inside the apparatus it will emerge randomly. Only when interference occurs between the two paths is the outcome predictable. It follwos that what is present in the apparatus just before the end of the interference experiment cannot be a single photon on a single path. There must be something else present, preventing it from bouncing downwards.  We can construct further experiments to show that the "something else" has all the properties of a photon that travels along the other path and interferes with the photon we see, but with nothing else in our universe.
+
+- Computing this classically, since there are only two kinds of universe in this experiment, the calculation will take only twice as long as it would if the particle obeyed classical physics.
+   But Suppose that there are 1000 holes in the barrier, we must now calculate the mutual interference of 1000 parrallel-universe version of the photon. The computational complexity shows there is a lot more happening in the QM environment that meets the eye. This complexity is the core reason why it does not make sense to deny the existence of the rest of the multiverse. The number of different histories we have to calculate increases exponentially with the number of interacting particles.
+
+- It would appear that no practical VR rendering is possible for environments that show the effect of QM interference. However you can turn this around as say that the if it requires so much computation to work out what will happen in an interference experiment, then the very act of setting up such an experiment and measuring the outcome is tantamount to preforming the complex compuation.
+  There are computational tasks that are "intractible" if we attempt to perform them using an existing computer, but which would be tractable if we were to use QM objects as special-purpose computers. (Note that this requries that QM objects not be subject to chaos) Feynman conjecture, correctly it turned out, that all the QM properties of any target environment could be simulated by an array of qubits, a "universal quantum simulator". Deutsch proved there is also a universal quantum computer which could perform any computation that any other quantum computer could perform.
+
+- The fact that the repertoire of the universal quantum computer contains environments whose rendering is classically intractable implies that new classes of purely mathematical computation must have become tractable too.
+  
+- Prime factoring a 250 digit number would take over a millions years on a network of a million computers. When a quantum factorization engine is factorizing a 250 digit number the number of interfering universes will be of the order 1e500, which is why Shors algorithm makes factorization tractable. A few thousand operations, IN EACH UNIVERSE, being performed in parallel contributes to the answer through interference.
+
+- Challenge to those who still cling to the single-universe world-view: Explain how Shor's algorithm works.  Do not merely predict that it will, provide an explanation. When Shors algorithm has factorized a number using 1e500 times the computational resources that can be seen to be present, where was the number factorized ? There are only 1e80 atoms in the universe. If the visible universe were the extent of physical reality, physical reality would not even remotely contain the resources required to factorize such a large number. Then who did it? How, and where was the computation performed?
+
+- Unpredictablility caused by chaos is in general swamped by the indeterminacy caused by identical universes becoming different.
+
+- Our knowledge of mathematical truth depends on, and is no more reliable than, our knowledge of the physical world.
+
+- In the traditional view the crucial difference between a proof and experiment is that a proof makes no reference to the physical world and that when we have proved something we know with ABSOLUTE CERTAINTY that it is true.  The idea that mathematical knowledge and scientific knowledge come from different sources, and that the "special" source of mathematics confers absolute certainty, to this day this accepted by virtually all mathematicians.
+
+- The study of logic itself revealed that the scope of logical deduction as a means for discovering truth is severely limited.   By around 1900 there was a crises in mathematics, namely there was no foundations. Russell proved set theory inconsistent.
+
+- Intuitonism is the expression, in mathematics, of solipsism. In both cases there is a an over-reaction to the thought that we cannot be sure of what we know about the wider world. In both cases, the proposed solution is to retreat into an inner world which we can supposedly know directly and therefore (?) can be sure of truly knowing. In both cases the solution involves either denying the existence -- or at least renouncing the explanation -- of what lies outside. And in both cases this renunciation makes it impossible to explain much of what lies inside the favored domain.
+
+- The fatal flaw in intuitonism is revealed not when it is attacked, but taken seriously on its own terms as an explanation of its own.
+
+- Godel proved first that any set of rules of inference that is capable of correctly validating even the proofs of ordinary arithmetic could never validate a proof of its own consistency.
+  Second, Godel proved that if a set of rules of inference in some branch of mathematics IS consistent (whether provably so or not), then within that branch of mathematics there must exist valid methods of proof that those rules fail to designate as valid. This is called Godel incompleteness theorem.
+
+- Thanks go Godel, we know that there will never be a fixed method of determining whether a mathematical proposition is true, any more than there is a fixed way of determining whether a scientific theory is true. Nor will there ever be a fixed way of generating new mathematical knowledge.  Progress in math therefore will always depend on the exercise of creativity. It will always be possible and necessary, for mathematicians to invent new types of proof. They will validate them by new arguments and new modes of explanation depending on their ever improving understanding of the abstract entitites involved. Godels own theories were a case in point: to prove them, he had to invent a new method of proof.  Godels proofs are as compelling as any in mathematics, but only if one first understands the explanation that accompanies them.
+
+
+- One the basis of present day science, we must conclude that Plato had it backwards, We can perceive perfect circles in physical reality (ie: virtual reality) but we shall never perceive them in the domain of Forms.  When we imagine circles we are doing a VR rendering within our own brains.
+
+- Any physical esperiment can be regarded as a computation, and any computation is a physical experiment.  Proof is a physical process. A proof is a type of computation. "Proving" a proposition means performing a computation which establishes that the proposition was true. Neither the theorems of mathematics, nor the process of mathematical proof, nor the experience of mathematical intuition, confers any certainty. Nothing does.  Proof theory is not a branch of mathematics -- it is a science. Proofs are not abstract. There is not such thing as abstractly proving something, just as there is no such thing as abstractly calculating or computing something. Proof theory is about how to ensure that those physical processes that are the computations of proofs correctly mimic the abstract entities they are intended to mimic.
+
+- In the classical case, converting between a proof process and proof objects (the list of the steps in the calculation) is always a tractable task. With a Quantum computer there is no way to keep a record of everything that happened during the proof process. So creating an old-fashioned proof object woudl be infeasible. There are vastly more steps in the proof than there are atoms in the known universe.
+
+- Turing hoped that his universal computer was so simple and transparent that it would not depend on any assumptions about physics that could conceivably be falsified, and that it could therfore become the the basis of an abstract theory of computation that was independent of the underlying physics. "He thought that he understood paper" - Feynman. But we was mistaken. Real, QM paper is wildly different from the abstract stuff that the Turing machine uses. The Turing machine is entirely classical, and does not allow for the possibility that the paper might have different symbols written on it in differnt universes, and that those might interfere with one another. Turings intuition, b/c it included false assumptions from classical physics, caused him to abstract away some of the computational properties of his hypothetical machine, the very properties he intended to keep.
+
+- Mathematics is the study of absolutely necessary truths. The truths are absolutely certain, but that does not mean that our knowledge of those necessary truths is itself certain, nor does it mean that the methods of mathematics confer necessary truth on their conclusions.  Necessary truth is the subject matter, not the reward. The objective of mathematics is not and cannot be mathematical certainty. It is and must be mathematical explanation.
+
+- Why does mathematics work as well as it does? Why does it lead to conclusions, though not certain,  can be accepted and applied unproblematically for millennia ?  Ultimately the reason is that SOME knowledge of the physical world is also that reliable and uncontroversial. And when we understand the world well, we also understand which physical objects have properties in common with which abstract ones.
+
+- Mathematical entities are part of the fabric of reality b/c they are complex and autonomous. They exist objectively and have properties that are independent of the laws of physics. However it is physics that allows us to gain knowledge of this realm, and it imposes stringent constraints. Whereas everything in physical reality is comprehensible, the comprehensible  mathematical truths are precisely the infinitesimal minority which happen to correspond exactly to some physical truth. That is they are truths that can be rendered in VR. We have no choice but to assume that the incomprehensible mathematical entities are real too, b/c they appear inextricably in our explanations of the comprehensible ones.
+
+- 
