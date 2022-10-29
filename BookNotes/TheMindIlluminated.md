@@ -21,4 +21,14 @@
 
 - Reread "An overview of the Ten stages" when you are unsure where you are heading.
 
-- 
+- Isolated meditation experiences can happen at any time, but if they cant be repeated, consistently and intentionally they are of little use.
+
+- For householders who practice properly it is possible to master the Ten stages within a few months or years. What you need is a daily practice of 1 to 2 hours per day in combinaiton with supplemental practices described in the appendix.
+
+- If the skills and insights we learn on the cushion dont infiltrate our daily lives, progressw will be quite slow.
+
+- The most important factor for improving quickly is a clear understanding of each Stage: recognize the mental faculties you need to cultivate, adn the methods to overcome specific obstacles.
+
+- The untrained mind produces distractions that lead to forgetting that results in mind-wandering.
+
+- All we are doing in meditation is forming and holding specific conscious intention. Intentions lead to mental actions, and repeated mental actions become mental habits.
