@@ -305,4 +305,10 @@
 
 - Individually all four theories have explanatory gaps that can make them seem narrow, inhuman and pessimistic. But when taken together as a unified explanation of the fabric of reality, this property is reversed. Instead of denying free will, placing human values in a context where they appear trivial and insignificant, it is a fundamentally optimistic world-view that places human minds at the center of the physical universe, and explanation and understanding at the center of human purposes.
 
+- There is a historical tendency for physics to swallow up subjects that previous seemed unrelated to it.
+
+- The Turning principle (Church-Turing conjecture) is on par with conservation principles or thermodynamics. All othing theories conform to it.
+
+- The predictions of the theory of evolution follow logically from the laws of physics, but the explanations in the theory of evolution are not believed to follow from physics at all. A non-hierarchical explanatory structure allows for teh possibility of explanatory emergence.
+
 
