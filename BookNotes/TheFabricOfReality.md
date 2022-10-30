@@ -288,4 +288,21 @@
 
 - All four basic strands have the unusual status of being simultaneously accepted and rejected, relied upon and disbelieved, by most people working in those fields.
 
+- Kuhns theory explains the succession from one paradigm to another in sociological or psychological terms, rather than as having primarily to do wiht the objective merit of rival explanations.
+  This is a fatal flaw that forces Kuhan to deny that there has been objective improvement in successive scientific explanations, or that such improvement is even possible.
+  The growth of objective knowledge cannot be explaine in Kuhns theory
+
+- The Copenhagen interpretation was motivated to avoid the conclusion that reality is multi-valued,and for that reason alone it is incompatible with any genuine explanation of quantum phenomena
+  Generations of physicists have found it sufficient to regard interference as a "black box", where Quantum theory is used to predict the outcome, but they neither know nor care how the output comes about as a result of the input.  THere are two branches of physics where this attitude is impossible b/c the internal working of QM is the subject matter: Quantum computation and quantum cosmology.
+  
+- The idea AI is possible in principle is not taken for granted by the feild, however the opponents dont seem to understand that they are contradicting a fundamental principle (The turing principle) of a fundamental discipline.
+
+- Very few philosophers agree with Poppers claim that there is no longer a "problem of induction". Both Poppers and Everetts heretical innovation was the claim that the methodology has been valid all along.
+
+- Although Darwin made no ue of any specific law of Newtons, his discovery would he been inconceivable without the world-view underlying those laws. No one could have explained what life is under Keplers conception of a "law of physics" they would have been looking for a law that mandates elephants in the same way that Keplers lays mandate ellipses. This is the sense in which the problem of "What is consciouness?" is expected to depend on quantum theory. It will not invoke a specific QM process, but it will depend crucially on the QM (multiversal) world picture.  We dont know what consciouness is, but it is intimately related to growth and representation of knowledge within the brain.  We therefore need to understand knowledge as a physical process. Such an explanation has been elusive in the classical theory of computation. But, as  explained above, in quantum theory there is a good basis for one: complexity that extends across large numbers of universes.
+
+- On the face of it, the price of understanding interference is to create or exacerbate many philosophical problems. But we see that the very opposite is the case. The fruitfulness of the multiversal theory in contributing to the solution of long-standing philosophical problems is so great that it would be worth adopting even if there were no physical evidence for it at all.
+
+- Individually all four theories have explanatory gaps that can make them seem narrow, inhuman and pessimistic. But when taken together as a unified explanation of the fabric of reality, this property is reversed. Instead of denying free will, placing human values in a context where they appear trivial and insignificant, it is a fundamentally optimistic world-view that places human minds at the center of the physical universe, and explanation and understanding at the center of human purposes.
+
 
