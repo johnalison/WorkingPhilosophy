@@ -266,4 +266,26 @@
 
 - Mathematical entities are part of the fabric of reality b/c they are complex and autonomous. They exist objectively and have properties that are independent of the laws of physics. However it is physics that allows us to gain knowledge of this realm, and it imposes stringent constraints. Whereas everything in physical reality is comprehensible, the comprehensible  mathematical truths are precisely the infinitesimal minority which happen to correspond exactly to some physical truth. That is they are truths that can be rendered in VR. We have no choice but to assume that the incomprehensible mathematical entities are real too, b/c they appear inextricably in our explanations of the comprehensible ones.
 
-- 
+- The common sense theory of time is inherently nonsensical, not just factually inaccurate.  We do not experience time flowing or passing. What we experience are differneces between our present perceptions and our present memories of past perceptions. We interpret those differneces, correctly, as evidence that the universe changes with time. We also interpret them, incorrectly, as evidence that our consciouness or, or the present, or something moves through time. The idea of the flow of time really presupposes the existence of a second sort of time, outside the common-sense sequence-of-moments time. Our theories of physics are, unlike common sense, coherent and they first achieved this by dropping the idea of the flow of time.
+
+- In spacetime physics the future is not open. It is there with definite fixed contents, just like the past and present.  Spacetime is incompatible with the existence of cause and effect. C-and-E always involves statements about what have happened, if other things being equal, something else had beed different.  In spacetime exactly one thing happens in reality and everything else is fantasy.
+
+- physical reality is not a space time, it is a much bigger and more diverse entity, the multiverse. To first order the multiverse is like a very large number of co-existing and slightly interacting spacetimes. They are present in definite proportions, so it is meaningful to say that certain types of events are "rare" or "common" in the multiverse and that some events follow others "in most cases". Most logically possible universes are not present at all (eg: there are no universes where the charge on an electron is different) The multivese can thus be used to define cause and effect.
+
+- Other times are just special cases of other universes. It is tempting to suppose that the moment of which we are aware is the only real one, or is at least a little more real that the others. But that is just solipsism. All moments are physically real. The whole of the multiverse is physically real. Nothing else is.
+
+- If there were no VR programs that rendered time travel, then the Turing principle would imply that time travel was physically impossible (everything that is physically possible can be rendered).
+
+- Einsteins equations admit the existence of pathways into the past. Until recently, the accepted practice has been to systematically ignore these. This was because physicists were under the impression that time travel would "lead to paradoxes" and that such solutions must therefore be "unphysical". At present we know of nothing in the laws of physics that rulees out past-directed time travel.
+
+- Visitors from the future cannot know our future any more than we can, for they did not come from there. But they can tell us about the future of their universe, whose past was identical to ours.
+
+- Knowledge creation and biological evolution are physically significant processes. They create trans-universe structure by making different universes become alike. Pocession of a time machine would allow us access to knowledve form an entirely different source, the creativity of minds in other universes. A time machine is effectively a computational resource that allows certain types of computation to performed with enormously greater efficiency than they could on any individual computer. It achieves this by effectively sharing work among copies of itself in different universes.
+
+- Without time machines, the knowledge created in one set of snap shots reaches few others, namely those stacked in the future.
+
+- Time travel is not paradoxical. If one travels into they past one retains once normal freedome of action, but in general ends up in the past of a different universe.
+
+- All four basic strands have the unusual status of being simultaneously accepted and rejected, relied upon and disbelieved, by most people working in those fields.
+
+
