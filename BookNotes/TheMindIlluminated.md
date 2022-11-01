@@ -32,3 +32,43 @@
 - The untrained mind produces distractions that lead to forgetting that results in mind-wandering.
 
 - All we are doing in meditation is forming and holding specific conscious intention. Intentions lead to mental actions, and repeated mental actions become mental habits.
+
+- The two major objectives to meditation practice are stable attention and mindfulness.
+
+- We have two forms of conscious experience: attention and peripheral awareness. Attention dominates our conscious experience, but through awareness we are generally aware of things in the background.
+  (Similar to relationship between visual focus and peripheral vision)
+  Two different ways of knowing the world.
+
+- Starting your practice:
+  -) Relax your mind, take some moments to appreciate the fact that you're gifting yourself the time to do this.
+  -) Resolve to practice diligently for the whole session.
+  -) Allow your attention to stay centered on your meditation object while your peripheral awareness remains relaxed and open to anything that arises
+  -) As soon as you recognize that you have become distracted and have drifted away, take a momment to appreciate the fact that you have remember to meditate and give yourself a pat on the back
+  -) Repeate
+
+- Sustaining attention is harder than directing it. It is possible to voluntarily direct attention, however the part of the mind that sustains attention for more than a few moments works unconsciously.
+
+- Just by intending to observe an object and coming back to it when we get distracted, we're training that unconscious process to help us stay focused more continuously.
+  Formulating the conscious intention to focus on the meditation objects gives a new piece of information for unconscious processes to take into account.
+
+- Skillfully applying conscious intention can completely restructure the mind and transforme who we are. The is the essensce of meditation: we reprogram unconscious mental processes by repeating basic tasks over and over with a clear intention.
+
+- Mindfulness is the optimal interaction between attention and peripheral awareness. It allows us to recognize our options and choose our responses wisely.
+
+- Attention turns its objects into concepts or abstract ideas. Peripheral awareness is only minimally conceptual, it is concerned with the relationship among objects and to the whole.
+
+- Attention analyzes our experience and peripheral awareness provides the context.
+
+- Attention is self-centered.  Uses the filter of self-interest.
+
+- Peripheral awareness can observe the overall state of mind.
+
+- Who we are and how we behave, everything we think, feel, say, ect - depends on the interaction between awareness and attention. Mindfulness is the optimal interaction between the two.
+
+- Move of us have never learned to use peripheral awareness effectively.  They overuse attention because its under direct conscious control whereas peripheral awareness isnt.  In meditation, where other distractions are minimized, we can learn to use peripheral awareness effectively, and become skilled at using the two together.
+
+- Making your conscious more poweful is like weight training, where you practice sustaining close attention and strong peripheral awareness AT THE SAME TIME.
+
+- When you have cultivated mindfulness, life becomes richer, more vivid, and more satisfying and you wont take everything that happens so personally. You become more objective and clearheaded adn develop an enhanced awareness of the whole. 
+
+
