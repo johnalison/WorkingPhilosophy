@@ -71,4 +71,29 @@
 
 - When you have cultivated mindfulness, life becomes richer, more vivid, and more satisfying and you wont take everything that happens so personally. You become more objective and clearheaded adn develop an enhanced awareness of the whole. 
 
-
+- Stage One: Establishing a Practice
+  - The goal for stage one is to develop a regular meditation practice
+  - When your intention is strong and clear the appropriate actions naturally follow
+  - The basic practice used in this book is simple: direct your attentino to a well-defined meditation object. Whenever you attention wanders, redirect it back. Repeat.
+  - Diligence means engaging wholeheartedly in the practice rather than spending you time thinking of something else.
+  - Step One: Focus on the present. The only limitation you make on movements of attention is to remain here, now in the present. Disregard any thought not related to the present
+  - Mindfully observing thoughts is tricky, better to focus on sounds, smells and sensations.
+  - Let it come, let it be, let it go.
+  - Step Two: Focus on Bodily sensations: Whenever you notice your attention going to sound or thought bring it back to the body. Notice any plesant sensations; spend a few minutes enjoying the sensations.
+  - Repeat this as often as needed until the mind can rest easily with your attention focused only on bodily sensations. No need to hurry to the next step.
+  - Step Three: Focus on the bodily sensations associated to the breath: Without suppressing anything in your field of conscious awareness restrict your attention to breath-related sensations.
+  - Step Four: Focus on the breath at the nose: Aim is to tame the constant movements of attention, while at the same time, maintaining peripheral awareness of things in the background
+  - Counting your breaths at the start of the session helps to stabilize your attention
+  - Once you have moved through the four steps, count you breaths at the nose. Goal: to follow continuously for 10 consecutive breaths.
+    	 (For now, continuous = aware of both inhale and exhale and didnt loose count)
+  - Conisder the beginning of the out-breath as the start of the cycle.
+  - Stop counting (but keep observing the breath!) after 10
+  - If your mind wanders for a long time, dont immediatelhy return to the breath at the nose. Go back to step 2, focus on bodily sensations, then steop 3 and then come back to the nose.
+  - Counting is important no matter where you are on the path: it will give you valuable information on your state of mind and the distractions you're most likely to face.
+  - Emphasize relaxation, peacefulness and pleasure over willpower and effort.
+  - Once seated, you must train yourself gently and without self-judgement, to actually meditate rather than engage in some more entertaining mental activity.
+  - The real solution to obstacles is to enjoy your practice. A simple and powerful techinque is to intentionally savor all feelings of physicsal comfort and diliberatelycultivate the pleasure that can be found in the quietness
+  - Ideally, you shoudl meditate at the same time everyday. Strongly recommend at least one daily 45 min sit.
+  - Let go of expectations and generate an attitude of faith, trust and confidence: faith in the method, trust that the results will come with continued practice, and confidence in your own ability.
+  - Joyful effort and diligence are the right attitude. Rather than striving focus on the pleasant, positive elements of each session, joyfully repeating the same simple tasks as many times as needed to acheive the goal.
+  - Mastered stage one when you rarely if ever procrastinate on the cushion by thinking and planning or doing something besides meditating.
