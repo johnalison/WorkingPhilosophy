@@ -97,3 +97,30 @@
   - Let go of expectations and generate an attitude of faith, trust and confidence: faith in the method, trust that the results will come with continued practice, and confidence in your own ability.
   - Joyful effort and diligence are the right attitude. Rather than striving focus on the pleasant, positive elements of each session, joyfully repeating the same simple tasks as many times as needed to acheive the goal.
   - Mastered stage one when you rarely if ever procrastinate on the cushion by thinking and planning or doing something besides meditating.
+
+- All the mental skills needed in meditation are innate abilities we can selectively choose to cultivate.
+
+- Meditation is like mental exercise that train "mental muscles"
+
+- The capacities that we develop and use in meditation are comletely natural and normal, however, so too are the activities of the mind that can hinder our practice.
+  In daily life, these hinderences serve necessary and useful purposes.
+
+- There are five hinderences to overcome:  Worldy desire, Aversion, Laziness and Lethargy, Agitation due to worry and remorse, and Doubt.
+  These hinderences are evolutionary adaptations for improving survival + reproduction. 
+
+- To overcome them we need positive reinforcement of other natural tendencies of the mind. suppression or self-punishment will not work.
+
+- When we behave virtuously we dont create further causes for Remorse or Worry.
+
+- Virtue is the practice of inner purification, which RESULTS in good behavior.
+
+- Doubt is like a perverse faith in failure that saps our will and undermines our intentions.
+  The remedy is to envision the possibility of long-term success.
+
+- Meditation is about attention and awareness.
+
+- The antidote to the Monkey-mind is to get grounded in the body.
+
+- Insight: Pain is inevitable, but suffering is optional
+
+- The five hinderences are more than just obstacles to meditation. They are the same obstacles that thwart a happy, productive existence.
