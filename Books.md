@@ -1,5 +1,7 @@
 # 2022
 
+## [Life Ascending](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeAscending.md) (Nick Lane)
+
 ## [General Chemistry](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GeneralChemistry.md) (Linus Pauling)
 
 ## [The Mind Illuminated](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheMindIlluminated.md) (Culadasa)
