@@ -49,4 +49,25 @@
 
 - the common ancestor of bacteria and archaea was not a free-living organism at all, but a replictor of sorts, confined to porous rock.
 
+- Chlorophyll turns light from the sun into chemical energy.
+
+- Without photosynthesis there would be no free oxygen. There might not be oceans, without oxygen there is not ozone which block UV rays. UV rays split water into oxygen and hydrogen. Hydrogen evoporates.
+
+- Mars is dead. it is in near-perfect equilibrium.
+
+- All animal and plants depend on oxygen. Life, in a world without free oxygen, is microscopic.
+
+- All the oxygen put into the air by photosyntheisis (co2-> c + o2) is taken out by respiration (o2 + c (food) -> co2). The only way that a planet can gain an oxygen atmosphere is if plant matter is preserved intact... it must be buried. Preserved plant matter is buried as coal, oil, natural gas, soot, charcoal in rocks deep in the earth. There is ~25k times more dead organic carbn trapped in the earth than living in the biosphere; the vast majority of organic carbon is buried as microscopic detritus in rocks like shales, inaccessible to human industry.
+
+- There was an unprecedented rate of carbon burial in the Carboniferous era.
+
+- From 2B to 1B years ago ("the boring billion") almost nothing of note happened.
+
+- Oxygen liberated by photosynthesis comes from water, not co2. (This is the first step to solving the energy and climate crisis)
+
+- Solar energy splits water into H and O2. Photosynthesis can do this (we havent figured it how to yet) with gentle sunlight rather than UV rays.
+  We when figure out how to do it we will solve the worlds energy crisis; water is the most ubiquitous and raw material on our planet.
+
+- Photosynthesis is conceptually simple: its all about electrons. Add a few  electrons to CO2, along with a few protons to balance out charges and you get a sugar. Sugars are the ultimate source of all our food. Cyanobacteria split H2o to get the the electrons. Water is very stable: it has a high affinity for its electrons.
+
 - 
