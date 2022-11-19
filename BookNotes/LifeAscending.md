@@ -70,4 +70,54 @@
 
 - Photosynthesis is conceptually simple: its all about electrons. Add a few  electrons to CO2, along with a few protons to balance out charges and you get a sugar. Sugars are the ultimate source of all our food. Cyanobacteria split H2o to get the the electrons. Water is very stable: it has a high affinity for its electrons.
 
-- 
+- Today the gap between plants and animals is percieved as narrow, while a huge gulf has opened up between bacteria and the rest of complex life. The crossing of this gulf causes much disagreement among scientists: How did life go from simplicity of bacteria to the complexity of plants and animals ? Was it always likely to happen? Would it happen elsewhere in the universe?
+
+- On just one occasion a copmlex cell arose from bacteria, and went on to found all the great kindoms of complex life: plants, animals, fungi and algae. And this progenitor cell, is very different from a bacterium.  If we think of the tree of life, its as if bacteria make up the roots, while the familiar complex organisms make up branches. But whatever happened to the trunk?
+
+- Everything that is anything on earth is eukaryotic. Eukaryotic cells have a true nucleus, distinguishing them from bacteria and is the key to understanding how they evolved from bacteria.
+
+- For the first 3000 million years life (4000 to 1000 million years ago) bacteria dominated. They changed the world utterly, but barely changed themselves. The environmental changes brought about by bacteria were awesome, on a scale that humans can hardly conceive. All the oxygen in the air derives from photosynthesis. The "Great oxidation event" was when the air and oceans became flooded with oxygen around 2000 million years ago. Nothing is more conservative than bacterium.
+
+- The Cambrian explosion is an archetypal eukaryotic affair - where large animals appeard in the fossil record for the first time.
+
+- The transition from simple bacteria to complex eukaryotes was perhaps the single most important transition in the planets history.
+
+- When Darwin was writting, there really was a missing link in the fossil record. This has now been filled in; any claims that there is still a missing link are untrue.
+  It is the fine structure of genes, more than anything else, that has eliminated all the gaps.
+
+- All life on the planet falls into three big groups (domains)
+  Bacteria / Eukaryotes / Archaea 
+
+- Archaea were orginially thought to be just a minor component of the Bacteria. Claim all the differences between plants an animals are small compared to that between Bacteria and Archaea.
+  THey amount to a missing link between bacteria and eukaryotes.
+
+- The Eukaryotic cell did not evolve in s standard "Darwinian" way. but rather by some sort of big gene fusion: half archaea and half bacteria.
+
+- mitochondria generate energy using oxygen.
+
+- For biologists, respiration is the process in which food is reacted with oxygen to generate an internal voltage.
+
+- The world is split into two. There are the eternal prokaryotes and the constantly changing eukaryotes. The transition from one to the other seems to have been a rapid accident between two prokaryotes cells, one getting inside the other. The new cell faced a host of problems, but one great freedom: the freedom to expand in size. Selfish genes posed one problem for which a happenstance solution was the nucleus and sex. 
+
+- Sex is a strange randominzer of genes. No sooner has sex engineered a winning combination that it dissolves them again.
+
+- Most of us sense the magic of sex is the ability to pull a unique being from a hat every time. But its far from obvious that variety for variety's sake is a good thing. In fact, cloning gene comnbinations that have been found to be successful is often better.
+
+- The list of the disadvantages should put off any sane person from sex for good: Sex can blight lives directly.  Peacocks tail.
+
+- Rooted to the spot, plants are the most implausible of sexual organisms, yet the overwhelming marjority of them are.
+
+- Flowering plants swept the world 80 million years ago. Flowers are pure cost to plants. They must attract pollinators with their colors and shapes; produce sweet nectar to make these visits worthwhile (nectar is a quarter sugar by weight); and distribute themselves with finesse -- not too close (or inbreeding makes sex pointless) and not too far (or the pollinators will never make it to fertilise a partner).  Having settled on a pollinator of choice, the flower and pollinator, evolve in tandem.
+
+- No cost is more extreme than that paid by a tiny hummingbird for the static sex life of plants. The humming bird must be tiny, no larger bird could hover motionless over the flower. Its wings beating at 50 hz, requiring a colossal metabolic rate. Hummingbirds need to refuel constantly. They extract more than half their own weight in nectar every day. If forced to stop feeding for more than a couple of hours, they fall unconscious.  they have been seduced by they enchanged potions of plants into a life of bondage, moving relentlessly from flower to flower, distributing pollen, or collapsing in a coma.
+
+- A race of cloning femails ought to double in numbers every generation, a cloning female could swamp a population of a million sexually reproducing individuals in 50 generations.
+  For sex to spread, sexual individuals would have to produce twice as many surviving offspring each generation. And yet the even-handed mechanics of sex are well understood: for every winner there is a loser. The explanation for the sucess of sex must be at once subtle and gigantic, staring us in the face, yet invisible.
+
+- There must be big advantages for sex. The advantages are surprisingly hard to gauge and made the evolution of sex the "queen" of evolutionary problems though much of the 20 C.
+
+- Sex juggles genes into new combinations, combinations that may never have existed before, which creates greater variation for natural selection to act on.
+
+- Different mutations are most likely to occur in different individuals.
+
+- The unrelenting competition between parasites and their hosts provides an endlessly shifting backdrop needed for sex to offer a big advantage.

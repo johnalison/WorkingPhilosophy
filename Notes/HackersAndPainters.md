@@ -35,3 +35,11 @@ The most important thing is to be able to think what you want, not to say what y
 - many electrified fences don’t have any current running through them. The cows apparently learn to stay away from them, and after that you don’t need the current.
 
 - Microsoft also happens to have been the beneficiary of one of the most spectacular blunders in the history of business: the licensing deal for DOS.  If IBM had required an exclusive license, as they should have, Microsoft would still have signed the deal. It would still have meant a lot of money for them, and IBM could easily have gotten an operating system elsewhere.
+
+- If you’re in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.
+
+- To say that a certain kind of work is underpaid is thus identical with saying that people want the wrong things.
+
+- Materially and socially, technology seems to be decreasing the gap between the rich and the poor, not increasing it. If Lenin walked around the offices of a company like Yahoo or Intel or Cisco, he’d think communism had won. Everyone would be wear- ing the same clothes, have the same kind of office (or rather, cubi- cle) with the same furnishings, and address one another by their first names instead of by honorifics. Everything would seem ex- actly as he’d predicted, until he looked at their bank accounts.
+
+- You need rich people in your society not so much because in spending their money they create jobs, but because of what they have to do to get rich.  I’m not saying that if you let Henry Ford get rich, he’ll hire you as a waiter at his next party. I’m saying that he’ll make you a tractor to replace your horse.
