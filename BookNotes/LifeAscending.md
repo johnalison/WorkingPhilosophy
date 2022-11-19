@@ -121,3 +121,13 @@
 - Different mutations are most likely to occur in different individuals.
 
 - The unrelenting competition between parasites and their hosts provides an endlessly shifting backdrop needed for sex to offer a big advantage.
+
+- Rather than a radual accrual of complexity of motion over time, it seems that there was a sudden shoft after the great Permian extinction.
+  At the heart of all this innovation is a single invention that made it all possible: muscle.
+  Muscle is machines that convert chemical energy into mechanical force.
+
+- The explosion of colour in flowers and fruit was purely a response to the animal world.
+
+- Muscle contraction depends on the properties of two molecues: actin and myosin. Both are composed of repeating protein units to form long filaments (polymers)
+
+- The rate that myosin comsumes ATP dictates the speed at which a muscle contracts.
