@@ -148,3 +148,35 @@
   - "Relax and look for the joy; observe; let it come, let it be, let it go. Recite it every time you sit.
   - You have mastered this stage when you can consistently maintain your focus on the meditation object for minutes, while mind-wandering lasts only seconds.
   
+
+- Stage Three: Extended continutity of Attention and Overcoming Fogetting.
+  - The goal for stage three is to overcome forgetting and falling asleep
+  - You have mastered this stage when you no longer forget the breath
+  - Our field of conscious awareness contains much more than just the meditation object. Any one of these is a potential distraction, but an actual distraction is one that competes with the meditation object for you attention
+  - As you follow the breath. attention alternates between the breath and a changing variety of subtle distractions in the background
+  - You overcome fogetting by catching distractions before they cause you to forget. To do this, you first need to extend the periods of attention to the breath so you can look introspectively at the mind and see whats happening.
+  - The other key to overcoming forgetting is cultivating introspective awareness through labeling and "checking in"
+  - Once you perceive all major points in the breath cycle clearly and vividly, you need a bigger challenge. Practice recognizing the individual sensations that make up each in- and out- breath.
+  - Your intention should be to follow the breath with vividness and clarity, adn to be aware of very fine detail.
+  - As you engage more closely with the breath, its very important to maintain extrospective awareness: remain aware of bodily sensations and external stimuli
+    Hard but important, without this you will be more prone to forgetting and drowsiness.
+  - Goal is to exercise both attention and peripheral awareness.
+  - "Connecting" is an extention of following that involves making comparisons and associations
+  - Once you reach stages 4 and 5, introspective awareness will have improved enough that you can start connecting details of the breath cycle with states of mind.
+    This allows you to detect and become more fully aware of subtle and changing states of mind.
+  - With introspective awareness your aware of whats happening in you mind as you continue to focus attention on the breath.
+  - Use labeling to practice identifying the distraction in teh very moment you realize youre no longer focused on the breath.
+    Always avoid analyzing distractions which only creates more distraction; once youve labeled distraction, gently direct attention back to the breath.
+  - Introspective awareness will eventually be strong enough to alert you to a distraction before forgetting happens.
+  - "Checking-in": intentionally turn attention inwared to see whats happening in the mind. Requires longer periods of stable attention.
+  - Yes, checking in disrupts your focus on the breath, but it trains and strengthens introspective awareness by using attention, making awareness of the mind's activity a habit.
+  - When you notice a distraction, tighten up attention on the beath to prevent forgetting. It may help to take a moment to label the distraction before returning to the breath.
+  - Train yourself to check in regularly (eg: every 5-6 breaths, but dont count them) checking in should become a habit.
+  - Labelling distractions trains awareness to know which distractions to watch out for. When checking in you can also use labeling.
+  - Meditation on harmless sources of pain gives us Insight into the nature of desire and aversion by seeing how resistance and impatience create suffering.
+  - Physical pain is unavoidable, but suffering of every kind is optional.
+  - You have mastered stage three when forgetting and mind-wandering no longer occur, and the breath stays continuously in conscious awareness.
+    The mind still roams, but is teathered to the meditation object
+  - The ability to continuously sustain attention on the meditation object is remarkable, take satisfaction in your accomplishment. You can now do something most people cant.
+ 
+  
