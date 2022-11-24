@@ -128,27 +128,27 @@
   - The goal for stage two is to shorten the periods of mind-wandering and extend the periods of sustained attention to the meditation object.
   - Willpower cant prevent you from forgetting the breath, nor can you force yourself to become aware that the mind is wandering.
   - Instead, just hold the intention to appreciate the "aha" moment that recognizes mind-wandering, while gently but firmly redirecting attention back to the breath.
-  - You've mastered this Stage when episodes of mind-wandering are brief, while you attention to the breath last much longer.
-  - The combined problems of forgetting and mind-wandering will dominate your sessions in Stage Two
+  - You've mastered this Stage when episodes of mind-wandering are brief, while your attention to the breath last much longer.
+  - The combined problems of forgetting and mind-wandering will dominate your sessions in Stage Two.
   - Forgetting means we forget the meditation object.
   - Mind-wandering is what happens after we've forgotten what we were doing: the mind will wander from thought to thought, often for a long time, before we "wake up" to what is happening.
   - Selection pressures have favored spontaneously moving attention more strongly than stable attention.
   - Our natural tendency when we catch ourselves mind-wandering is to quickly return to the breath, often forcefully and with self-judgment. This misses a key opportunity for training the mind.
   - Use the "aha" moment of realizing that three's a disconnect between what you doing, and what you intended to do. 
-  - The process that discovered the "aha" moment isn't under you conscious control
+  - The process that discovered the "aha" moment isn't under you conscious control.
   - The way to overcome mind-wandering is to train this unconscious process to make the discovery and bring it into consciousness sooner and more often. Do this by taking a moment to take a moment to enjoy and appreciate "waking up". Savor the sense of being more fully conscious and present.  Conscious intention and affirmation powerfully influence our unconscious processes.
   - Avoid becoming annoyed or self-critical about mind-wandering. 
   - Dont try to limit peripheral awareness.
   - "You" are not in control of "Your" mind. Mind wandering happens constantly. we rarely notice it, which leads us to believe that we are in constant control. 
   - The mind is a collective of mental processes operating through consensus, or through temporary dominance of one over the others.
   - The basic rule for meditation is that you always intentionally select the locus of attention.
-  - The best way to avoid or resolve inpatients is to enjoy your practice.
+  - The best way to avoid or resolve impatience is to enjoy your practice.
   - Success comes with repetition with a relaxed attitude, rather than effortful striving.
   - "Relax and look for the joy; observe; let it come, let it be, let it go. Recite it every time you sit.
   - You have mastered this stage when you can consistently maintain your focus on the meditation object for minutes, while mind-wandering lasts only seconds.
   
 
-- Stage Three: Extended continutity of Attention and Overcoming Fogetting.
+- **Stage Three**: Extended continutity of Attention and Overcoming Fogetting.
   - The goal for stage three is to overcome forgetting and falling asleep
   - You have mastered this stage when you no longer forget the breath
   - Our field of conscious awareness contains much more than just the meditation object. Any one of these is a potential distraction, but an actual distraction is one that competes with the meditation object for you attention
