@@ -1,5 +1,7 @@
 # 2022
 
+## [Something Deeply Hidden](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SomethingDeeplyHidden.md) (Sean Carroll)
+
 ## [Life Ascending](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeAscending.md) (Nick Lane)
 
 ## [General Chemistry](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GeneralChemistry.md) (Linus Pauling)
