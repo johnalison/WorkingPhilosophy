@@ -157,13 +157,12 @@
   - The other key to overcoming forgetting is cultivating introspective awareness through labeling and "checking in".
   - Once you perceive all major points in the breath cycle clearly and vividly, you need a bigger challenge. Practice recognizing the individual sensations that make up each in- and out- breath.
   - Your intention should be to follow the breath with vividness and clarity, and to be aware of very fine detail.
-  - As you engage more closely with the breath, its very important to maintain extrospective awareness: remain aware of bodily sensations and external stimuli
-    Hard but important, without this you will be more prone to forgetting and drowsiness.
+  - As you engage more closely with the breath, its very important to maintain extrospective awareness: remain aware of bodily sensations and external stimuli -- Hard but important, without this you will be more prone to forgetting and drowsiness.
   - Goal is to exercise both attention and peripheral awareness.
-  - "Connecting" is an extension of following that involves making comparisons and associations
+  - "Connecting" is an extension of following that involves making comparisons and associations.
   - Once you reach stages 4 and 5, introspective awareness will have improved enough that you can start connecting details of the breath cycle with states of mind.
     This allows you to detect and become more fully aware of subtle and changing states of mind.
-  - With introspective awareness your aware of whats happening in you mind as you continue to focus attention on the breath.
+  - With introspective awareness you're aware of whats happening in your mind as you continue to focus attention on the breath.
   - Use labeling to practice identifying the distraction in the very moment you realize you're no longer focused on the breath.
     Always avoid analyzing distractions which only creates more distraction; once you've labeled distraction, gently direct attention back to the breath.
   - Introspective awareness will eventually be strong enough to alert you to a distraction before forgetting happens.
@@ -175,7 +174,7 @@
   - Meditation on harmless sources of pain gives us Insight into the nature of desire and aversion by seeing how resistance and impatience create suffering.
   - Physical pain is unavoidable, but suffering of every kind is optional.
   - You have mastered stage three when forgetting and mind-wandering no longer occur, and the breath stays continuously in conscious awareness.
-    The mind still roams, but is tethered to the meditation object
+    The mind still roams, but is tethered to the meditation object.
   - The ability to continuously sustain attention on the meditation object is remarkable, take satisfaction in your accomplishment. You can now do something most people cant.
  
   
