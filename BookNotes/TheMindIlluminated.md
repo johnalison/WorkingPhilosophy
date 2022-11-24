@@ -2,7 +2,7 @@
 
 - Great guide!
 
-- There is surprisingly little information about how the mind works and how to train it. This book is an attempt to fill that need
+- There is surprisingly little information about how the mind works and how to train it. This book is an attempt to fill that need.
 
 - Meditation is the systematic process of training the mind.  For your personal reality to be created purposefully rather than haphazardly, you must understand your mind and develop a deep intuitive understanding.
 
@@ -16,8 +16,7 @@
 
 - Stable attention + mindfulness + insight leads to Awakening. Awakening is an accident, but continued practice makes you accident-prone. 
 
-- Distinction made between attention and awareness
-  Supported by cognitive psychology and neuroscience
+- Distinction made between attention and awareness; supported by cognitive psychology and neuroscience.
 
 - Reread "An overview of the Ten stages" when you are unsure where you are heading.
 
@@ -71,7 +70,7 @@
 
 - When you have cultivated mindfulness, life becomes richer, more vivid, and more satisfying and you wont take everything that happens so personally. You become more objective and clearheaded and develop an enhanced awareness of the whole. 
 
-- Stage One: Establishing a Practice
+- **Stage One:** Establishing a Practice
   - The goal for stage one is to develop a regular meditation practice
   - When your intention is strong and clear the appropriate actions naturally follow
   - The basic practice used in this book is simple: direct your attention to a well-defined meditation object. Whenever you attention wanders, redirect it back. Repeat.
