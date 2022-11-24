@@ -124,7 +124,7 @@
 
 - The five hindrances are more than just obstacles to meditation. They are the same obstacles that thwart a happy, productive existence.
 
-- Stage Two: Interrupted Attention and Overcoming Mind-Wandering
+- **Stage Two**: Interrupted Attention and Overcoming Mind-Wandering
   - The goal for stage two is to shorten the periods of mind-wandering and extend the periods of sustained attention to the meditation object.
   - Willpower cant prevent you from forgetting the breath, nor can you force yourself to become aware that the mind is wandering.
   - Instead, just hold the intention to appreciate the "aha" moment that recognizes mind-wandering, while gently but firmly redirecting attention back to the breath.
