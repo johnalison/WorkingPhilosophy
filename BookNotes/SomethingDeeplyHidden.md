@@ -98,4 +98,15 @@
 - One way or the other, its indisputable that something went through both slits as the electron traveled to the screen.
   The double slit experiment makes it difficult to cling to the belief that the electron is just a single classical point, and the wave function simply represents our ignorance about where the point is. Ignorance doesnt cause interference patterns. There is something real about the wave function.
 
-- The simple geometric fact underlying the Born rule. Amplitudes donts add up to one, but there square do. That is exactly like an important feature of probability: the sum of probabilities for different outcomes add to one. The Born rule is essentially Pythagoras's theorm applied to the amplitudes of different branches. 
+- The simple geometric fact underlying the Born rule. Amplitudes donts add up to one, but there square do. That is exactly like an important feature of probability: the sum of probabilities for different outcomes add to one. The Born rule is essentially Pythagoras's theorm applied to the amplitudes of different branches.
+
+- Entanglement arises because there is only one wavefunction for the entire universe, not separate wave functions for each piece of it.
+
+- There are approximately 10^88 particles in the observable universe, mostly photons and neutrinos.
+
+- The other potentially doubtable assumption in Bells theorem seems uncontroversial at first glance: that measurements have definite outcomes. 
+  Bells result does not imply that we have to include spooky action at a distance in minimalist QM as it does for the boring old single-world theories.
+  The correlations dont come about because of any kind of influence being transmitted faster than light, but because of branching of the wave function into different worlds, in which correlated things happen.  If you're happy with many-worlds and trying to puzzle out how to map the theory onto our observed experience, Bells result is an automatic consequence of the underlying equations, not an additional constraint you need to worry about moving forward.
+
+- 
+
