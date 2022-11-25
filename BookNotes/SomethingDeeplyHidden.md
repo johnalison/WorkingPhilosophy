@@ -79,3 +79,18 @@
   2) the Schrodinger equation
 
   The entierity of the minimalist (Everett) formalism is the insistence that there is nothing else.
+
+- WE dont choose QM we can only choose to face up to it.
+
+- Planck siad that light of a fixed frequency is emitted in certian amounts of energy, while Einstein says that becuae light literally is discrete particles. Its the difference between saying that a certain coffee machine makes exactly one cup of at a time, and saying that coffee only exists in the form of one cup-size amounts.
+
+- Bohr was trying to account for the behaviour of electrons in atoms, he positied an ad hoc rule which said they could only move in certian orbits. This rule needed a new constant and to fit the data that constant ended up having a value that was the same as the new constant that Planck was fored to introduce when he was trying to account for teh behaviour of photons. This is the kind of thing that makes you think you are on the right track.
+
+- Rutherford and Borh worried about how electrons emit radiation.
+  When an electron in a high-energy orbit emitted light to jump down, it seemed to have a choice about exactly how far down to go, which lower orbit to end up in. What made that choice?
+  It seems like you have to assume that the electorns knows beforehad where it is going to stop, because it has to choose the right frequency of light to emit.
+  This business about electrons "deciding" where to go foreshadowed a much more drastic break iwth teh paradigm of classical physics.
+
+- QM does not describe a world that is fundamentally discrete and pixelated. Its actually the opposite; QM describes the world as a smooth wave function. But in the right circumstances where individual parts of the wave function are tied down in a certain way, the wave takes gthe form of a combination of distinct vibrational modes. The world is fundamentally wavy; its apparent discreteness comes from the particular way those wave are able to vibrate.
+
+- 
