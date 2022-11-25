@@ -93,4 +93,9 @@
 
 - QM does not describe a world that is fundamentally discrete and pixelated. Its actually the opposite; QM describes the world as a smooth wave function. But in the right circumstances where individual parts of the wave function are tied down in a certain way, the wave takes gthe form of a combination of distinct vibrational modes. The world is fundamentally wavy; its apparent discreteness comes from the particular way those wave are able to vibrate.
 
-- 
+- There are quantities that are not merely unknown but to not even exist, even though we can seemingly measure them.
+
+- One way or the other, its indisputable that something went through both slits as the electron traveled to the screen.
+  The double slit experiment makes it difficult to cling to the belief that the electron is just a single classical point, and the wave function simply represents our ignorance about where the point is. Ignorance doesnt cause interference patterns. There is something real about the wave function.
+
+- The simple geometric fact underlying the Born rule. Amplitudes donts add up to one, but there square do. That is exactly like an important feature of probability: the sum of probabilities for different outcomes add to one. The Born rule is essentially Pythagoras's theorm applied to the amplitudes of different branches. 
