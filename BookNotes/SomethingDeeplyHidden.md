@@ -108,5 +108,29 @@
   Bells result does not imply that we have to include spooky action at a distance in minimalist QM as it does for the boring old single-world theories.
   The correlations dont come about because of any kind of influence being transmitted faster than light, but because of branching of the wave function into different worlds, in which correlated things happen.  If you're happy with many-worlds and trying to puzzle out how to map the theory onto our observed experience, Bells result is an automatic consequence of the underlying equations, not an additional constraint you need to worry about moving forward.
 
-- 
+- Einsteins primary concerns about QM were not with randomness but with realism and locality.
 
+- One Wheelers favorite principles "Radical conservatism"
+
+- IF you know how the system evolves starting from two different states, the evolution of a superposition of both states will just be a superpositions of the two evolutions.
+
+- The schrodinger equation says that an accurate measuring apparatus will evolve into a macroscopic superposition which we will ultimately interpret as branching into separate worlds.
+  We didnt put the worlds in; they were always there (as possible states in the hilbert space), and the Sch eq inevitably brings them to life.
+  The problem is that we never seen to come accorss superpositions involving beg macroscopic objects in our experience of the world.
+  The traditional remedy has been to monkey with the fundamental rules of QM in one way or another. Some say that the Sch eq inst always applicable, others add hiden variables.
+
+- Everett didnt introduce anything new in QM; he removed some extraneous clunky pieces from the formalism. Every non-Everttian version of QM is a "disappearing worlds" theory.
+  If you are bothered by multiple worlds, you have to fiddle with either the nature of quantum states or their ordinary evolution to get rid of them. (Is it worth it?)
+
+- To the modern Everettian, decoherence is absolutely crucial to making sense of QM. It explains why wave functions seem to collapse when you measure the system and indeed what a "measurement" really is.
+  The simple process of macroscopic objects becoming entangled with the environment, which we cannot keep track of -- is decoherence; it comes with universe-altering consequences. Decoherence causes the wave function to split or branch into multiple worlds.
+
+- Being decohered means that the two parts of the electrons wave function can no longer interfere with each other. It means they cant interact at all. So for all intents and purposes, they are part of separate worlds.
+
+- The price we pay for such a powerful and simple unification of quantum dynamics is a large number of separate worlds.
+
+- We should treat QM in its own right as a fundamental theory without any dependence on classical physics, if fact, we must derive clasically physics from it.
+
+- Bryce DeWitt wrote a letter to Everett complaining that the real world obviously didnt "branch", since we never experience such things. The reply: "Do you feel the motion of the earth?"
+
+- 
