@@ -185,4 +185,24 @@
   Deutsch and Wallace have shown that if we live in a deterministic Many-Worlds universe it is rational to calculate our expected untility in exactly the same way.
 
 
+- Many-Worlds doesnt assume a large number of worlds. It assumes a wave function evolving according to teh Schrodinger eq. The worlds are there automatically.
+  Hilbert space is very big. Its not any bigger in many worlds than in other versions of QM; its exactly the same size, and that size is big enough to describe a large number of parallel realities.
+  If your doing QM at all the potential for many worlds is there and ordinary Schrodinger eq evolution brings them about, like it or not.
+  Other approaches just choose to somehow not make use of the full richness of Hilbert space.
+
+- Many worlds is pure minimalist QM, without any additional assumptions. If you want to introduce extra assuptions, do it, but then we can ask whether those new assumptions are testable.
+
+- The other worlds could be detected in principle; Decoherence makes it fantastically unlikely for one world to interfere with another, but not metaphysically impossible.
+
+- The number of branches of the wavefunction, like entropy only increases with time.
+
+- Many worlds doesnt say "everything thats possible happens" it says "the wave function evolves according to the Schrodinger eq" Just because many things happen in minimalistic QM doesnt mean everything does.
+
+- When one world divides in two, the energy in each world is basically the same as it previously was in the single world (as far as anyone living inside is concerned), but their contributions to the total energy of the wave function of the universe have divided in half, since the amplitudes have decreased. Each world got a bit "thinner" even thought the inhabitants cant tell.
+
+- Despite the unrivaled empirical success of quantum theory, the very suggestion that it may be literally true as a description of nature is still greeted with cynicism, incomprehension, and even anger.
+  Most poeple reject Everettian QM more out of a visceral sense of distaste than a principled set of worries. "I do not know how to refute an incredulous stare".
+
+- 
+ 
 
