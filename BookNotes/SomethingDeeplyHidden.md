@@ -133,4 +133,56 @@
 
 - Bryce DeWitt wrote a letter to Everett complaining that the real world obviously didnt "branch", since we never experience such things. The reply: "Do you feel the motion of the earth?"
 
-- 
+- What would it feel like if many worlds were true?
+  eg: The schrodinger eq is perfectly deterministic, Why do probabilities enter at all? And why do they obey the born rule?
+
+- Probability in many-worlds is a statement about what we should BELIEVE and how we shoudl ACT, not about how often things happen.
+  "What we should believe" isnt something that really has a place in the postulates of a physics theory, it should be implied by them.
+   There actually is neither any room for an extra postulate, nor any need for one.
+   Given the basic structure of QM, the Born rule is natural and automatic. Since we see the Born rule in nature, this should give us confidience that we are on the right track.
+   A framework in which an important result can be derived from more fundamental postulates should be preferred to one where it needs to be separately assumed.
+   The many worlds predicts a world that closely is approximated by classical physics except for quantum measurements, during which the probability of obtaining any particular outcome is given by the Born rule.
+
+- Amplitues squared naturally look like probabilities, they're positive and sum to one. The deeper issues is why there is anything unpredictable about Everttian QM at all, and if so, why there is any specific rule for attaching probabilies.
+
+- If Evertt is right there is 100% probability that each possibility is realized in some particular world (branch of the wavefunction).  There really are such worlds.
+  This is quite different from teh frequentist paradigm for probabilities. Instead use the epistemic probability, having to do with what we know rather than some hypothetical infinite number of trials.
+  But, in what sense is there anything we dont know about Everettian QM, its totally deterministic.  One answer that is tempting but wrong: "which world we end up in".
+  Wrong b/c it implicity relies on a notion of personal identity that simply isnt applicible in a quantum universe (We end up in all the worlds)
+  
+- At any one moment we have no trouble identifying a specific person that is undeniably "myself". QM suggests taht were going to have to modify this somewhat.
+  In a classical universe what matters to personal identity is the pattern that we form, and the continuity of the pattern with time,  especially the momories of the person under consideration.
+  The idea of a unified you is useful not beacues all of these different collection of atoms at different moments of time are literally the same, but because they are related to one another in an obvious way.
+  The new featues in QM is the duplication of that pattern when the wave function branches. Everyone of the people in the different branches has a reasonable claim of being "you". None of them is wrong
+  Each of them is a separate person, all of whom trace their beginnings back to the same person.
+
+- Instead of "which branch will I end up on", think about the moment immediately after decoherence (which is an extraordinarily fast process).
+  The branching happens first and we know about it slightly later. There are now two copies of you that are identical, each lives on a distinct branch, but neither knows which whone it is on.
+  There is "self-locating uncertianty" you know everything there is to know about the universe except where you are within it.
+  That ignorance is where the probabilities come in.  They can assign credence to being on one branch or the other. What should the credence be?
+  Two ways to go:
+      -) Use the structure of QM to pick out a preferred set of credences that rational observers should assign
+         (If you're willing to accept that, you'll end up assigning credences exactly according to the Born rule)
+      -) Deny that it makes sense to assign any definite credences at all.
+
+  Now, part of science is predicting what will be observed. IF there were an arbitrary collection of ways to assign credences, and each of them seemed just as reasonable as the other, we would be stuck.
+  But of the structure of the theory points unmistakably to one particular was to assign such credecnes -- and that way is in agreement with our experimental data -- we should adopt it.
+
+- If we didnt know about the Born rule, might think that the amplitudes are completely irrelevent to assigning probabilies.
+  Might try simply counting branches, can easily show that this doesnt work. (inconsistencies arise with repeated measurements p144) 
+  More restrictive version that says we need to assign equal probabilites when the amplitudes are the same. 
+  This turns out that this (+ the requirement that repeated measurements do not lead to inconsistencies ) is all you need to shows that when the branches have different amplitudes we should use the born rule.
+  
+
+- The hard part isnt deriving the actual formula, its providing a solid grounding for what probability means in a deterministic theory. Here we have explored one possible answer (credences for being on different branches immediately after the wave function branches)
+  All of your descendants will be in exactly the same epistemic position (assigning Born rule probabilities). So it makes sense that you adopt these probabilities now.
+  We have been forced to shift the meaning of what probability is from a simple frequentist model to a more robust epistemic picture, but how we calculate things goes through exactly as before.
+  Thats why physicists have been able to do interesitng work while avoiding these subtle questions all this time.
+
+- Decision theory is another way (maybe more popular in the foundations of physics) to derive the Born theory
+  A rational agent in an Everettian universe acts precisely as if they live in a nondeterministic universe where probabilities are given by the born rule.
+  If we liven in the world of textbook QM with wave function collapse, it would be rational to calculate our expectec utility in a certain way.
+  Deutsch and Wallace have shown that if we live in a deterministic Many-Worlds universe it is rational to calculate our expected untility in exactly the same way.
+
+
+
