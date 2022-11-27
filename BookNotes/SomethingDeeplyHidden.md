@@ -210,6 +210,10 @@
 - GRW can be thought of as many-worlds plus a random process that cuts off new branches of the wave function as they appear. Its a great example to bring up to friends who complain that many-worlds or
   other approaches to QM arent experimentally testable. You test theories in comparison with other theories, these two are manifestly different in their empirical predictions.
 
+- To each individual on some branch of the wave function, life goes on just as if they lived in a single world with truly stochastic quantum events.
+
+- Any one individual can trace their lives backward to a unique person but going forward will branch into multiple people. There is not one future self that is picked out as "really you" and its just as true that there is no one person constituted by all of those future individuals. They are separate, much like identical twins are distinct people, despite descending from a single zygote.
+
 - 
  
 
