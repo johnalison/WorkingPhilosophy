@@ -214,6 +214,29 @@
 
 - Any one individual can trace their lives backward to a unique person but going forward will branch into multiple people. There is not one future self that is picked out as "really you" and its just as true that there is no one person constituted by all of those future individuals. They are separate, much like identical twins are distinct people, despite descending from a single zygote.
 
+- Physicists start by taking a classical theory and quantizing it, but of course thats not the way that nature works. Nature is quantum mechanical from the start.
+  Many-worlds is uniquely suited to the task of throwing away all our classical intuition, being quantum from the start and determining how the approximately classical world that we see around us ultimately emerges from the wave function of the universe, spacetime and all.
+
+- Space is so important because interactions are local.
+
+- Nothing forces us to think of the wave function as describing multiple worlds, even after dechoherence has occurred. We could still talk of the entire wave function as a whole, its just really helpful to split it into worlds. But this is ultimately a convenience, not something the theory imposes on us.
+  For a quantum version of Laplaces demon, with exact knowledge of the quantum state of the universe, there would never be any need to divide the wave function into a set of branches describing a collection of worlds. But it enormously convenient and helful to do so, and we can exploit this convenience because the individual worlds dont interact with one another.
+  Everettian worlds are real in the same way that tables and chairs are real.
+
+- Emergence is not a generic feature of physical systems. It happens when theres a special way of describing the system that involves much much less information than a complete description would, but nevertheless gives us a handle on whats going on. The generic situation in physics is that you need to keep track of all the parts to know what the system will do next. Loose just a little bit, and you know nothing. Emergence happens when the opposite is possible: we can throw aways almost all the information, and still say quite a lot about what will happen.
+  This is the case for Everettian worlds; we dont need to keep track of the entire wave functino to make useful predictions, just what happens in an individual world. To a good approximation we can treat what happens in each world using classical mechanics, with just the occasional quantum intervention when we entangle with microscopic systems in superposition.
+  Our individual branch of the wave function describes an emergent almost-classical world.
+
+- Why do we end up seeing macroscopic objects with well-defined locations in space, rather than being in super positions of different locations ?
+  "Why space"? (The answer is not b/c the objects are big, we have no problem describing big objects as in superpositions. The real answer is more interesting)
+  Locality is what makes space special. Interactions occur between different objects that are close in space, not eg: close in momentum.
+  (Not a requirement, but one that seems to hold quite well in our world)
+  "Preferred-basis problem". Decoherence picks out a preffered basis based on interaction with the environment.
+  Whether a particle in the environment interacts with the object or not depends on where the object is.
+  The spactial basis of macroscopic objects are the ones we see beasue these objects interact consistently with their environments. "Pointer States"
+  The pointer states or basis is where a well-behaved classical approximation makes sense, therefore its that basis that defines emergent worlds.
+  Decoherence is the phenomenon that links the austere simplicity of minimalistic QM to the messy particularity of the world we see.
+
 - 
  
 
