@@ -203,6 +203,13 @@
 - Despite the unrivaled empirical success of quantum theory, the very suggestion that it may be literally true as a description of nature is still greeted with cynicism, incomprehension, and even anger.
   Most poeple reject Everettian QM more out of a visceral sense of distaste than a principled set of worries. "I do not know how to refute an incredulous stare".
 
+- The viture of many-worlds is the simplicity of its basic formulation: the wave function + Schrodinger eq. All else is commentary. Some of that commentary (split into systems and environment, decoherence, and the branching of the wave function) is extremely useful and needed for making sense of our world.
+
+- If you are repulsed by all of the worlds out there, the task you face is to modify many-worlds in some way.
+
+- GRW can be thought of as many-worlds plus a random process that cuts off new branches of the wave function as they appear. Its a great example to bring up to friends who complain that many-worlds or
+  other approaches to QM arent experimentally testable. You test theories in comparison with other theories, these two are manifestly different in their empirical predictions.
+
 - 
  
 
