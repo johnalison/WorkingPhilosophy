@@ -22,4 +22,14 @@
 
 - Iron readily combines with oxygen in moist air to form iron rust. whereas an alloy of iron with chromium and nickel (stainless steel) is found to resist rusting.
 
-- 
+-  Most bond lengths in molecults lie between 1 and 4 Angstroms (1A = 1e-10 m)
+
+- Equilibrium is not a situation where nothing is happening, but rather a situation in which opposing reactions are taking place at the same rate so there is no overall change.
+
+- Sublimation is the direct transition from solid (crystal) to gas or vice-versa.
+
+- ONe atmosphere is ~100 kN m^-2.
+
+- The g-factor of a proton (5.5855) is a suprising value and is evidence that the proton has complex structure and is not a simple partilce.
+
+START CH. 4
