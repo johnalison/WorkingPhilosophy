@@ -32,4 +32,10 @@
 
 - The g-factor of a proton (5.5855) is a suprising value and is evidence that the proton has complex structure and is not a simple partilce.
 
-START CH. 4
+- Cation is attacted to the cathode (the negatively charged terminal); anion, which is a negatively charged atom or molecule is attracted to the anode (the positive terminal).
+
+- Avogradros number is defined as the number of C-12 atoms in 12g of carbon 12.  6e23.
+
+- Elements in the same group are called congeners
+
+START CH. 6 
