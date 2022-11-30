@@ -38,4 +38,38 @@
 
 - Elements in the same group are called congeners
 
-START CH. 6 
+- A triple bond in the N_2 molecule is extremely strong, making N_2 very stable.
+
+- The power of attraction for the electrons in a covalent bond is called the electronegatively of the element.
+
+- Fluorine is by far the most electronegative element, with oxygen in 2nd place, nitrogen and chlorine in 3rd.
+
+- Hydrogen is found in most of the substances that constitute living matter, and in many inorganic substances. There are more compounds of hydrogen known that of any other element, carbon being a close second.
+
+- The crystal of graphite can be described as built of giant flat molecules, loosely held together in a pile.
+
+- Elementary Nitrogen occurs in nature in the atmosphere, where it makes up 80% by volume. It is a colorless, ordorless, tasteless gas of N_2 molecules.
+
+- Oxygen is the most abundant element in the earths mantle. 90% of water 20% of air and nearly 50% of the common minerals (silicates)
+
+- Flourine is the most reactive of all elements. Substances such as wood and rubber bursst into flames when help is a stream of fluorine.
+
+- The hydrocarbons are compounds of hydrogen and carbon alone.
+   Methane CH4 is an example. Natural gas is usually about 85% methane.
+   Gasoline is a mixture of C_7 H_16 and C_9 H_20
+   Kerosene a mixture of C_10 H_22 and C_16 H_34
+   Lubricating oils "Vaseline" and solid paraffin are mixtures of still larger molecules
+
+- lime is calcium oxide (CaO)
+
+- Benzene rings of 6 carbon atomas are often shown simply as a hexagon. Organic chemists also drop the attached hydrogen atoms.
+
+- Benzene and its derivatives are extremely important substances. They are used in the manufacture of drugs, explosives (TNT) and many other substances.  
+
+- Basic (that is, it can add protons)
+
+- An alcohol is obtained from a hydrocarbon by replacing one hydrogen atom by a hydroxyl group (-OH). Eg: methane CH4 gives methyl alcohol CH3-OH (causes blindness), and ethane C2H6 gives ethyl alchohol C2H5-OH (which is the active ingredite in alcoholic beverages.
+
+
+
+START CH. 8
