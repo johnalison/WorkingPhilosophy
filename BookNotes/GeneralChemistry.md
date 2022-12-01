@@ -70,6 +70,20 @@
 
 - An alcohol is obtained from a hydrocarbon by replacing one hydrogen atom by a hydroxyl group (-OH). Eg: methane CH4 gives methyl alcohol CH3-OH (causes blindness), and ethane C2H6 gives ethyl alchohol C2H5-OH (which is the active ingredite in alcoholic beverages.
 
+- Nearly half of all the interesting inorganic compounds involve nonmetallic elements bonded to oxygen atoms.
+
+- Carbon monoxide is poisonous because of its ability to combine with the hemoglobin on the bood in the same way that oxygen does.
+
+- Dry ice is solid carbon dioxide.
+
+- Free radica is an atom or group of atoms with one or more unshared electrons which can enter into chemical-bond formation.
+
+- Combustion is the process of combining with oxygen.
+
+- Gases differ remarkably from liquids and solids in that the volume of a sample of gas depends in a striking way on the temperature of the gas and the applied pressure.
+
+- Maxwell showed that according to the kinetic theory the viscosity of a gas should be independent of pressure and should increase with increasing temperature, rather than decrease.
+  These suprising preperties were verified by experiment, and the kinetic theory of gases was accepted long before a direct experimental determination of teh velocity distribution function could be carried out.
 
 
-START CH. 8
+START CH. 10
