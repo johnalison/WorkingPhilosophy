@@ -30,7 +30,8 @@ Mass:
 
 
 Energy: 
- - C (food calorie) ~4e3 J
+ - 1c ~ 3 J
+ - C (food calorie) ~ 3e3 J (4e3 J)
  - eV ~ 1e-19 J
 
 Chemistry:

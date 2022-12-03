@@ -85,5 +85,26 @@
 - Maxwell showed that according to the kinetic theory the viscosity of a gas should be independent of pressure and should increase with increasing temperature, rather than decrease.
   These suprising preperties were verified by experiment, and the kinetic theory of gases was accepted long before a direct experimental determination of teh velocity distribution function could be carried out.
 
+- 1 cal = 4.1840 J
+        ~ 3 J
 
-START CH. 10
+- The heat capacity of water is unusally large.
+
+- The principle commerical method of production of ammonia is the Haber process, rthe direct combination of nitrogen and hydrogen under high pressure (several hundred atmospheres) in the presence of a catalyst.
+
+- Waters physical properties are strikingly different from those of other substances, in wasy that determine the nature of the physical and biological world.
+ 
+- Ordinary water is impure: it usually contains dissolved salts and disolved gases.  The impurity that is hardest to keep out of the water is carbon dioxide, which disolves readily from the air.
+
+- Hard water is water containing cations of calcium, magnesium, and iron.
+
+- Water has a very large dielectric constant.
+
+- The unusual properites of water mentioned above are due to the power of its molecules to attract one another especially strongly. This power is associated with a the Hydrogen bond.
+  Only the most electronegative atoms - fluorine, oxygen, nitrogen - form these bonds. Wanter is especially suitible to form hydrogen bonds because each molecule as two attached hydrogen atoms and two unshared electron pairs, and so can form four hydrogen bonds. The tetrahedral arrangement of the electron pairs causes these four bonds to extend in the four tetrahedral directions of space, and leads to the characteristic crystal structure of ice. It is a very open structure; each molecule is surrounded by only four immediate neighbors. This gives ice an abnormally low density. When ice melts, this structure is partially destroyed, adn the molecules are packed more clsely togeter, causing water to have a higher density than ice.
+
+- One of the most striking properities of water its ability to dissolve many substances, forming aqueous solutions. Solutions are very important kinds of matter. The ocean is an aqueous solution that contains thousands of components. It was in this solution that the first living organisms developed, and from it that they obtained the ions and molecules neede for their growth and life. With time, organisms were evolved that could leave this aqueous environment, and move out onto the land and into the air. They achieved this abiliity by carrying the aqueous solutions with them, as tissue fluid, blood plasma, and cellular fluids containing the necessary supply of ions and molecules.
+
+- Air is a gaseous solution of nitrogen, oxygen, carbon dioxide, water vapor and the nobel gases.
+
+START CH. 14
