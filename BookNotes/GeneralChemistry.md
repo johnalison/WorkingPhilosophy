@@ -107,4 +107,30 @@
 
 - Air is a gaseous solution of nitrogen, oxygen, carbon dioxide, water vapor and the nobel gases.
 
-START CH. 14
+- An acid is a hydrogen-containing substance that dissociates on solution in water to produce hydorogen ions (protons).  A base is a substance containing hydroxide ions (OH-) that dissociates in water as the hydroxide ion. Acidic solutions have a characteristic sharp taste, dut to the hydronium ion H20+, and basic solutions have a brackish (?) taste, due to the hydroxide ion.  An acid is a proton donor a base is a proton receptor.
+
+- Pure water does not consist of simply H20 molecules, but contains hydronium and hydroxide ions in concentration 1e-7 moles per liter. This has been found out by the electrical conduction of water. Pure water with no ions would not conduct electricity. Instead of saying that the concentration of hydrogen ion in pure water is 1e-7 M, we say that the pH of water is 7.
+
+- The process of extracting a metal from the ore is called winning the metal. Refining is the purification of the metal that has been extracted from the ore. Metallurgy is the science and art of winning and refing metals.
+
+- The rate of many reactions at room temperature is approximately doubled for every 10C increase in temperature.
+
+- Little is known about the fundamental nature of catalytic activity and searches for catalysts is largely empirical. There is some evidence that some catalysts have a structure that leads to a strong interaction with the activated complex and only weak interaction with the reactants and products. This decreases the activiation energy.
+
+- Most of the chemical reactions in living organisms are catalyzed by certain protein molecules called enzymes.
+
+- 80 of the ~137 elementary substances are metals.
+
+- Modern civilization is based on iron and steel. The importance of these alloys is primarily due to their hardness and strength, which are a consequence of the presence in the metals of very strong bonds between atoms.
+
+- In metals each atom has a large number of neighbors.
+
+- The chemical properties of the transition elemets do not change so strikingly with atomic number as do those of the other elements.
+
+- Metals are malleable. When a non-metal eg: sodium cloride is deformed such that the ions are displaced by one atomic distance, then the sodium ions become adjacent to sodium ions and chlorine ions become adjecent to chlorine ions which causes the crystal to break. In a metal, the atoms are all of the same kind, and any atom can form bonds with any other.
+
+- A boundry between crystal grains can serve as a barrier to the motion of dislocation in the metal crystal, and in this way can decrease the plasticity and increase the hardness of a metal. If a piece of copper is hammered until the large crystal grains are broken up into small grains, the crystal boundries may interfere with slip by stopping the motion of dislocations. This is the mechanism of the hardening of copper and other metals by "cold work".
+
+
+
+START CH. 18
