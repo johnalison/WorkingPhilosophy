@@ -6,6 +6,10 @@ Approximate geometric means by averaging coefficient and exponents
 - 10^(1/2) = sqrt(10) ~ 3
 
 
+Nucleus:
+ Nucleons are packed together in a nucleus like a liquid (not a gas) so
+   R ~ A^(1/3) rp
+
 Distances:
 - 1in = 2.5 cm
 - km ~ 0.5 mi
