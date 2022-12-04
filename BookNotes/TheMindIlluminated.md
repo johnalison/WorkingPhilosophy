@@ -178,12 +178,20 @@
   - The ability to continuously sustain attention on the meditation object is remarkable, take satisfaction in your accomplishment. You can now do something most people cant.
  
 - Walking Meditation:
-  - Too often not taken seriously enough, but just as powerful as sitting for developing stable attentino and powerful mindfulness. Even more effective for some things, best way to make progress is to combine the two.
-  - The practices of walking and sitting are essentially the same: stablize your attention while sustaining or increasing peripheral awareness. However you fix on the sensations in the soles of you feet, rather than the breath at the nose.
+  - Too often not taken seriously enough, but just as powerful as sitting for developing stable attention and powerful mindfulness. Even more effective for some things, best way to make progress is to combine the two.
+  - The practices of walking and sitting are essentially the same: stabilize your attention while sustaining or increasing peripheral awareness. However you fix on the sensations in the soles of you feet, rather than the breath at the nose.
   - The progression of walking techniques follow the same sequence as for sitting practice.
   - Stage one: allow your attention to move freely while keeping awareness open as you walk. By the end of the state your attention will be continuously focused on the sensations of walking.
-  - When you catch your mind wandering simply bring yourselfback to the present by focusing your attention on the sensations in your feet.
-  - You attention can move from your feet to anything happening in the momemet, however these must always be intentinoal movements of attention.
+  - When you catch your mind wandering simply bring yourself back to the present by focusing your attention on the sensations in your feet.
+  - You attention can move from your feet to anything happening in the moment, however these must always be intentional movements of attention.
   - The relaxed quality of walking provides a valuable antidote to excessive striving.
-  - Checking-in: We stop walking when we realize forgetting or mindwandering has occured. Intentionally pause to address distractions.
+  - Checking-in: We stop walking when we realize forgetting or mind wandering has occurred. Intentionally pause to address distractions.
   - Think about walking as "staying in the PLEASANT moment"
+
+- Analytical Meditation:
+  - Structured thinking about something. Carefully choose a topic and systematically examine it with stable, clear, focused mind.
+  - Topics: teachings you want to understand deeply, problems you want to solve or decisions to make, and experiences or realizations that seem to point to insight.
+  - When selective comparison and combination in the the unconscious mind solve a problem, the answer appears in consciousness suddenly and unexpectedly.
+    This is called insight problem solving. "intuition" and "insight" refer to unconscious information processing.
+  - When it comes to working out complex and subtle problems non-insight problem solving isn't as effective, because consciousness is a single thread.
+    The unconscious mind involves large number of mental processes, running in parallel. 
