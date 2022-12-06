@@ -1,5 +1,7 @@
 # 2022
 
+## [Proof of Stake](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProofOfStake.md) (Vitalik Buterin)
+
 ## [Something Deeply Hidden](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SomethingDeeplyHidden.md) (Sean Carroll)
 
 ## [Life Ascending](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/LifeAscending.md) (Nick Lane)
