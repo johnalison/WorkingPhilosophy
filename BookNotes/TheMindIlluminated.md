@@ -194,4 +194,10 @@
   - When selective comparison and combination in the the unconscious mind solve a problem, the answer appears in consciousness suddenly and unexpectedly.
     This is called insight problem solving. "intuition" and "insight" refer to unconscious information processing.
   - When it comes to working out complex and subtle problems non-insight problem solving isn't as effective, because consciousness is a single thread.
-    The unconscious mind involves large number of mental processes, running in parallel. 
+    The unconscious mind involves large number of mental processes, running in parallel.
+
+- Three parts to Loving Kindness Meditation:
+   - Generate these feelings as strongly as you can in your mind,
+   - generate a strong wish for others to experience the same feelings,
+   - remind yourself that you too need to feel at peace.
+  
