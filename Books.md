@@ -1,5 +1,9 @@
 # 2022
 
+## [The Art of Graphic Design](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheArtOfGraphicDesign.md) (Bradbury Thompson)
+
+## [The Sparrow](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheSparrow.md) (Mary Doria Russell)
+
 ## [Proof of Stake](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ProofOfStake.md) (Vitalik Buterin)
 
 ## [Something Deeply Hidden](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SomethingDeeplyHidden.md) (Sean Carroll)
