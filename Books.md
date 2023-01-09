@@ -1,3 +1,7 @@
+# 2023
+
+## [Spacetime Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpacetimePhysics.md) (Taylor and Wheeler)
+
 # 2022
 
 ## [The Art of Graphic Design](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheArtOfGraphicDesign.md) (Bradbury Thompson)
