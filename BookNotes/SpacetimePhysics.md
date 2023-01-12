@@ -54,8 +54,85 @@
 
 - The velocity parameter (like the relative slope between frame in the Euclidean analogy) is not the simplest way to describe the relation between coordinate frames.
   Angle is a better measure of rotation and velocity parameter eta is the most convenient measure of velocity
+  Why is an angle more convenient than a slope? because angles are additive.
+      Complicated addition law for slopes (analogous to the velocity addition law for relativity) 
 
-- p48
-      
+  Velocity itself is also not the simplest measure of velocity. Velocity does not satisfy a simple law of addition.
 
- 
+  A photon shot with the speed of light form a fast rocket travels relative to the laboratory with a speed that is also the speed of light.
+    In the language of velocity parameters this is natural:  eta_gamma = infinity, eta_rocket = large.  infinity + large = infinity
+
+- The distinction between the sign in
+   cos^2 + sin^2 = 1 and cosh^2 - sinh^2 =1
+  has to do with the contrast between the length in euclidean and lorentzian geometry.
+
+- p58 the simplest demonstration that a Lorentz transformation preserves the invarance of the interval. Directly connected to cosh^2 - sinh^2 =1
+
+- Wheelers first moral principle: Never make a calculation until you know the answer. Make an estimation before every calculation, try a simple physical argument (symmetry! invariance! conservation!) before every derivation, guess the answer to every puzzle. Courage: no one else needs to know what the guess is. Make it quickly by instinct. A right guess reinforces the instinct. A wrong guess brings the refreshment of suprise. In either case life is more fun!
+
+- No one hae ever found a change in velocity without something to cause it. Therefore a force can be said to be some form of interaction.
+  -) When the presence of A brings about a change in the velocity of B, the presence of B also causes an alteration in the velocity of A
+
+  Thus instead of talking about the forces between particles we can talk about thier changes in momentum.
+  Indeed to discuss both momentum adn forces in the context of relativity is to complicate the story. In this account we will focus on momentum.
+
+- What makes classical momentum useful is that it is conserved in low-velocity collisions.  Observations show that mxv is not conserved in high-velocity collisions.
+  We must choose to either abandon the definition of momentum or the law of conservation of momentum.
+
+- We will start with the law of conservatino of momentum and from it __derive__ the expression for the momentum defined as that vector quantity which is conserved in all frams of reference.
+  We will use it three times each will produce a revolution in our way of looking at nature. 
+     -) Will use glancing elastic collision in two dimensions to derive the relativistic expression for momentum
+     -) applied to 1D collisions to derive the expression for the relativistic energy of a particle.
+     -) conservation will be applied to an inelastic collision to derive the equivalence of mass and energy.
+
+
+- All the laws and theories of physics have a deep subtle character, in that they both define for us the needed concepts and make statements about those concepts.
+  Contrast with the statement "Define your terms before you proceed"!
+
+  Physics provides a way to harmonize the experimental facts. No single experiment suffices to establish a conservatino law.
+  At least two are needed, one to establish the definition of the conserved quantity, the other to verify that this quantity is really conserved.
+
+- In an inertial frame, space is the same in all directions, isotropic. So the only unique direction associated with the motion of the particle that moves is a straight line is the direction in which the particle is moving.
+
+  We assume that the momentum is determined uniquely, both magnitude and direction,  by its momentum.
+
+  Conclusion, the momentum vector of a particvle points in the direction of its velocity.
+
+  requiring that the total momentum be conserved in an elastic collision, coupled with invariance of the inteval in Lorentz geometry will be enough to show that the Newtonain expression for momemntum
+  	   p = mass x (displacement per unit time) will have to be replaced by the relativistic formula
+	   p = mass x (displacement per unit of proper time)
+
+
+- Figure 82) if the collision pictured is elastic, then each ball changes its direction of motion but not (except temporarily) its speed;
+  the overall effect of the collision is to rotate the velocity vectors of both particles.
+
+  The x-direction of the reference frame can be chosen to lie in a direction such that the x component of the velocity of each particle does not change in the collision.
+
+  The y direction of each particle reverses direction.
+
+  We will study the total y-component of momentum and its conservation in this collisio. To do this most simply observe the collision in a frame in which ball A moves only in the y direction.
+
+  Objective is to find the momentum of a particle -- which may be moving near c -- from what we know from Newtonian physics about the momentum of a particle with low velocity.
+  To do this look at a glancing collision where the struck particle has an arbitrarily low velocity before and after the collision and therefore the Newtonioan expression holds p = mv
+
+  From the symmetry of the diagram: the momentum transfered is twice the momentum before it is struck 2 m dy/dt.
+  This momentum transfer is from a change in direction of the momentum vector, not from a change in magnitude.
+
+
+- Momentum is like displacement in that the transverse components of both vectors are unaffected by the motion of the observer.
+  Good reson for this! momentum is obtained from displacement by multiplication with (m d/dtau), which has the same value in all interial frames.
+
+- Note: we attribute all the difference between Newtonian and Relativistic momentum in terms of the d/dt -> d/dtau not any change in m.
+  (Some older discussion talk as if m changes)
+  However the most useful quantities in physics are often those, such as m and dtau that are invariants.
+
+- Newtonian momentum    = m Beta       = m tanh(eta)
+  Relativistic momentum = gamma m Beta = m sinh(eta)
+
+  The difference (gamma) is the same factor as the time dialation factor between laboratory time and proper time.
+
+  The presense of this factor implies that a particle can transport an arbitrarly large amount of momentum into a collision process if it travel arbitrarily close to the speed of light.
+  One would not expect this if use used the incorrect, Newtonian, formula. where the momentum would be bounded by mc.
+
+
+- p111
