@@ -1,5 +1,7 @@
 # 2023
 
+## [A Singularly Unfeminine Profession](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASingularlyUnfeminineProfession.md) (Mary k Gaillard)
+
 ## [Spacetime Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpacetimePhysics.md) (Taylor and Wheeler)
 
 # 2022
