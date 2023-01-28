@@ -1,5 +1,7 @@
 # 2023
 
+## [Secrets of Mental Math ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SecretsOfMentalMath.md) (Arthur Benjamin and Michael Shermer)
+
 ## [A Singularly Unfeminine Profession](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASingularlyUnfeminineProfession.md) (Mary k Gaillard)
 
 ## [Spacetime Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpacetimePhysics.md) (Taylor and Wheeler)
