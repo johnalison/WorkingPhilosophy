@@ -1,5 +1,9 @@
 # 2023
 
+## [Subtle is the Lord](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SubtleIsTheLord.md) (Abe Pais)
+
+## [Special Relativity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpecialRelativity.md) (A. P. French)
+
 ## [Secrets of Mental Math ](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SecretsOfMentalMath.md) (Arthur Benjamin and Michael Shermer)
 
 ## [A Singularly Unfeminine Profession](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ASingularlyUnfeminineProfession.md) (Mary k Gaillard)
