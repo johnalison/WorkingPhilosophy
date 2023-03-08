@@ -53,4 +53,62 @@
 
 - The mole is a useful unit because a mole of any substance always contains the same number of molecules.
 
-- 
+- JJ Thomson discovered that ordinary nonradioactive light elements also have isotopes. Not suprisingly he used the techinque of electric and magnetic deflection of rays produced in a cathode-ray tube. (but using the rays comming off the anode.
+
+- In electrolysis definite numbers of molecules of each type are produced when a given amount of electic charge flows through the wires and the battery.
+
+- "I am now convinced that we have recently become possessed of experimental evidence of teh discrete or grained nature of matter, which the atomic hypothesis sought in vain for hundreds and thousands of years" The evidence quoted by Ostwald was Perrins experiments on Brownian motion and Millikan's measuremnt of the electron charge
+
+- The great task after the discovery of the electron was to identify the positive material within the atom and described how electrons are arranged within it.
+
+- Xrays are emitted when electorns in the outer part of atoms drop into the inner orbits to replace electrons knocked out of the atom by the cathode ray,
+
+- Rutherfords discovery of the nucleus raised new questions as formidable as the ones he had answered. What deterimines the sizes and energies of the orbits of electorns in an atom? Why dont the orbiting electrons radiate EM waves? What keeps the nucleus from flying apart?
+
+- Radium is 1e6 times more radioactive than uranium.
+
+- The reason that alpha particles are commony emitted by radioactive elements is the same reason that helium is common in our universe: The helium nucleus is by far the most tightly bound of the lightest atomic nuclei.
+
+- There are some radioactive elemets (such as radium) whose 1/2 lives are short enough to be measured form teh rate at which their radioactivity decreases, and yet long enough to also be measured by assembling a sample of known mass and counting the radioactive disintegrations. These must agree, if the one has calculated the number of radioactive elements present in teh sample correctly.  One can turn this around and use the 1/2 from the decay of radioactivity together with teh number of disntigrations per second to determine Avogadros number.
+
+- The electric charge of teh nucleus can be determined by measuring the scattering cross section of alpha.
+
+- IF the "plum pudding" model was correct, then classical calculations of the alpha scattering cross section would have given the wrong answer and it would have been impossible to interpret the results until the development of QM.
+
+- Bohrs atomic model could be used to measure the nuclear charge from teh x-ray wavelengths.
+
+- It was not expected that nuclear charge simply goes up by one unit as we go from one element to the next in a list by atomic weights.
+  Thus, with few exceptions the number that gives the place of an element in the list when they are ordered by weight is the same as teh electrical charge of the nucleus in units of the charge of teh electron, now called the "atomic number"
+
+  IT was now possible to determine the nuclear charge of any element, and by inference the number of electrons in its atom, but justlooking at the list of elements ordered by weight.
+
+  Even more important it was now understood that the particular set of elements found on earth is not some random sampling of an infinetly diverse menu of elements, btu comprises essentially all the lements that could exist.
+
+  "Moseley called the roll of the elements, so that for the first time we could say definitely the number of possible elements between the beginning and the end, and the number that still remained to be found."
+  (Mosely was killed in WW1 during the Gallipoli campaign)
+
+- The atomic weight of an element is not just the number of nuclear particles it has; it also recieves a contribution from the internal energy of the nucleas. This it is not expected to be precisely a whole number.
+
+  By looking at the difference between the measured atomic mass and the neasrest whole number, we conclude that the internal energy (per particle) is lowest for teh nuclei of medium atmoic weight and larger for both lighter and heavier nuclei. Hence common isotopes of medium-weight nuclei are not radioactive, because they ahve no suplus of internal energy to get rid of; common isotopes of lighter nuclei are not radioactive, because the lighter nuclei into which they mgiht decay have an ever larger surplus of internal energy.  However, nuclei of large atomic weight have more surplus energy than the lighter nuclei into which they might decay, so they can and do release this energy in radioactivity.
+
+- For 20 years after the dicovery of the atomic nucleus, physicists generally thought that the nuclei of all elementws consisted of protons and electrons.
+
+- Stable nuclear valley: (nuclear energies platted against the number of protons and neutrons in the nucleus)
+
+  The stable valley grows steadily deeper as we move toward heavier elements, this is because the attraction caused by the nuclear forces increaes with increasing numbers of protons and neutrons.
+  Because of this, energy will be released if the nuclei of light elemets furse to form heavier nuclei; this is the source of the energy of stars like our sun.
+
+  For light nuclei the repulsive electrical forces among the protons are much weaker than the very strong nuclear forces among the neutrons and protons, btu the electircal forces build up for larger nuclei much more rapidly than the nuclear forces do, and they become important when there are more than about 20 protons. This has two effects: The floor of teh stabe valley start to rise again; and the valley veers toward the neutron-rich side of the map, since it is the charge of the protons that matters. 
+
+  The pattern of radioactive decauys is thus a sequence of alpha decaus interspersed with beta decauys, the alpha decays taking the nucleus down the valley toward lead but also somewhat out of the valley toward the neutron-rich side and the beta decaus returning the nucleus to teh neightborhood of the valley floor.
+
+- The energy of naturally radioactive elements was put into them by the neutrons released in the explosions of stars, and can ultimately be traced to the force of gravitational attraction which provided the energy for the stellar explosions.
+
+- The electroweak theory proposed that the dissimilarities between charged leptons and neutrinos are more apparent than real: the equations governing their feilds are actually symmetric between the two, the apparent differenes arise from the interactions of these fields with the cosmic environment (Higgs)
+
+- The large mass of teh top quark is not suprising. The W and Z can be regaurded as defining a natural mass scale and teh top quark is only about twice as heavy. Also the masses of the neutrinos is not suprising, the EW theory in its simpliest form require them to be massless, and so their masses can only come from tiny corrections to that theory, due to processes at extreemely high energy. What is suprising is the fact that all the other quarks besides the top and all teh charged leptons have masses much less than the W or Z particles. From this point of view the most mysterious of all the elementry partilces is the electron, the first disvovered among them all.
+
+- The deepest aim of science: to understand the complexity of nature in simple terms
+
+
+ 
