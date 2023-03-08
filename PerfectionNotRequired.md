@@ -94,4 +94,8 @@ Persistence (via John Danahan)
 - Dont try to be right, try to be less wrong.
   - One big mistake people repeatedly make is focusing on proving themselves right, instead of focusing on achieving the best outcome. This is the wrong side of right.
 
-- Somebody who gives their best effort at everything they do is going to go much further in life (and have a happier one) than somebody who is obsessed with coming in first place or who never earnestly tries. 
+- Somebody who gives their best effort at everything they do is going to go much further in life (and have a happier one) than somebody who is obsessed with coming in first place or who never earnestly tries.
+
+- Little things help:
+  "Though I do not believe that a plant will spring up where no seed has been, I have great faith in a seed... Convince me that you have a seed there, and I am prepared to expect wonders."
+  	  Thoreau

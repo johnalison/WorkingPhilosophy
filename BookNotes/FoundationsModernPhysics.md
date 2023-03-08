@@ -10,6 +10,12 @@
 
 - The fact that viscous draw is independent of gas density was regarded as a confirmation of the molecular theory of gas dynamics.
 
+- Millikans Oil drop experiment: Even more important (than measuring the value of the charge) the observation that droplet charges come close to interger multiples of a unit charge gave direct evidence for the discreteness of electric charge.
+
+- In the first decade of the 20C, Einstein had the idea of learning about fundamental constants from observation of teh diffusion of artificial particles.
+
+- The atomic theory underlying these measurements of microscopic parameters and the values found gained much credit from the consistency of the results.
+
 - Ernst Mach: As late as 1916, shortly before his death, declared "I can accept the theory of relativity as little as I can accept the existence of atoms and other such dogmas". This goes to show that a scientist can maintain his own principles, bravely holding out against a wide consensus of the scientific establishment, and still be wrong. #UsedToBelieve
 
 - Rutherford was lucky. He was calculating probabilities (for alpha particle recoil) using classical mechanics and got the right answer, even though at these velocities and separations QM would normally be needed. Scattering by inverse square law is special; it allows the use of classical mechanics in some circumstances where for any other force it would be necessary to use QM.

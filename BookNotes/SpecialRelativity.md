@@ -25,5 +25,4 @@
 - The main lesson to be learned from the above calculations (related to relativistic acceleration is a quantity of limited and questionable value in special relativity. Not only is it not an invariant, but the expressions for it are in general cumbersome, and moreover its different components transform in different ways. Certainly the proud position that it holds in Newtonian dynamics has no counterpart here.
 
 
-Stopped before the Dynamics section
 

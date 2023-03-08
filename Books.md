@@ -1,5 +1,7 @@
 # 2023
 
+## [The Discovery of Subatomic Partilces](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DiscoveryOfSubatomicParticles.md) (Steven Weinberg)
+
 ## [Subtle is the Lord](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SubtleIsTheLord.md) (Abe Pais)
 
 ## [Special Relativity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SpecialRelativity.md) (A. P. French)
