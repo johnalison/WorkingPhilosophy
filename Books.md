@@ -1,5 +1,7 @@
 # 2023
 
+## [Energy and Civilization](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EnergyAndCivilization.md) (Vaclav Smil)
+
 ## [The Discovery of Subatomic Partilces](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DiscoveryOfSubatomicParticles.md) (Steven Weinberg)
 
 ## [Subtle is the Lord](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SubtleIsTheLord.md) (Abe Pais)
