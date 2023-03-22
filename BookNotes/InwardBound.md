@@ -1,0 +1,127 @@
+# Inward Bound (Abraham Pais)
+
+- Along this incompletely traveled road inward man has established markers that later generations will rank among the principal monuments of the 20C.
+
+- These advances haveby no means come smoothly. Between times of progress and stagnation, or order and chaos, of clarity and confusion, of belief and incredulity, of the conventional and the bizarre; also of revolutionaries and conservatives, of science done by individuals and by consortia, of little gadgets and big machines, and of modest funds and big moneys.
+
+- The main part is the bistory between the period of 1895-1945.
+
+- There are are many (overlapping) histories as there are historians.
+  "He who isdeficient in the art of selection may, by showing nothing but the truth, produce all the effects of the grossest falsehoods. It perpetually happens that one writer tells less truth than another, merely because he tells more truths.
+
+- The emergence of theoretical physics as a semi-autonomous discipline is a 20C phenomena.
+
+- The revolution was kicked off by two accidental discoveries made in mid-career by well-established scientists. Roentgen (X-rays) and Bequerel (Radiation)
+
+- The most paper from Marie Curie is when she showed that radioactivity is a property of individual atoms of certain species, once of which she announced was thorium. This atomic interpretation led her to use radioactivity as a diagnostic tool in the discovery of new elements.
+
+- The discoveries in 1900 by Rutherford of a half life and, and later that same year, by Planck of the quantum theory signal the end of the era of classical physics. Neither of them was at once aware of how profoundly his work was to change the course of science.
+
+- Rutherford quote discussing an offer to go to Yale: "Why should I go there? They act as though the University was made for students" (
+
+- Three new themes emerge as we move further into the 20C: beta-spectra, atomic structure, then early ideas on nuclear structure.
+  (beta activity is one of teh main subjects of the book and will stay with us until the end)
+
+- Spectra signified that atoms has to have substructre, as Maxwell had been among the first to recognize. It is therefore not surprising that the search for atomic models began quite early, long before the discovery of the electron.
+
+- Rutherford was the only physicist to do his greatest work after receiving the Nobel Prize.
+
+- Quantum theory before 1925, the old quantum theory, was part craft part art. Old first principles had been found wanting, new ones had not yet been discovered.
+
+- It was Fermis great contribution to apply field theory to beta-decay and assert that electrons and neutrinos are created in teh very act of beta-disintegrations.
+
+- Fermis theory is one of three developments in the 30s that set the stage for the postwar era. The other two are: the first appearance of "isospin" adn the first attempts (by Yukawa) to associate nuclear forces with fields.
+
+- The discovery of the muon in 47 marks the beginning of a new and as yet unfinished chapter in the story of the structure of matter.
+
+- The neutral pion was the 2nd particle to be found at an accelerator. (The electron was the first)
+
+- The bizarre predicament of teh 1930s hwo can a theory be essentially correct when treated approximately yet fail when treated more rigorously?
+
+    Shelter Island conference: a new generation of refined spectroscopic experiments in hydrogen and other materials gave the first evidence that corrections to the leading order predictions of QED had been observed.
+
+    This old problems was revisited with far greater care.
+
+- The neutral K-complex is a veritable laboratory for the study not just of properties of specific partilces but also of far more general aspects such as the superposition principle of QM.
+  "There is scarcely a physical system that contains so many of the elements of modern physics."
+
+- The advent of new particles had made physicists become increasingly accustomed to selections rules, conservation laws, and symmetries that were, meant to apply to some but not to all interactions.
+  In 1956, simething different came to pass. Symmetries earlier believed to hold for all interactions, turned out not to be obeyed by weak interactions. It was the most startling development in all the physics of the 50s.  Lee and Yang noticied that invariance under P,C and T had never been tested in weak interactions and proposed ways of doing so.
+
+- Then CP was found to be violated. These new violations were very small and very puzzling.
+
+- Instant reply is not the noblest form of history nor even of memoir.
+
+- The first round of experiments at SLAC led to a discovery (1968) of seminal importance, comparable to the observation of the hard alpha-nucleus scattering sixy years earlier: high energy inelastic e-proton (or neutron) scattering is hard; very many more electrons are deflected at large angle than had been anticipated.
+
+- A consistent discription of the neutral current demands the existance of a new species of quarks "charmed quarks". Their discovery reaffirmed that the theory was moving in the right direction.
+
+- And so it goes, on and on, amidst a great deal of excitement. And also of confusion. In brief, business is continuing as usual.
+
+- Roenten wanted to have his own readings controlled by an unprejudiced observer. (Blinded analysis)
+
+- A man whose soul is in his work always makes more progress than one whose aim is something not immediately connected by his occupation.
+
+- The terrestial presence of He was only ascertained in 1895, not long before the discovery of alpha-rays; they were found to be present in a uranium bearing mineral.
+
+- names are one thing and science is another.
+
+- In "Medical Lessons from History" Lewis Thomas considers the early history of medicine to be an unrelivedly deplorable story and goes on to remark: "Virtually anything that could be thought up for the treatment of disease was tried out at one time or another, and, once tried, lasted decades or even centuries before being given up. It was, in retrospect, the most frivolous and irresponsible kind of human experimentation, based on nothing but trial and error, and usually resulting in precisely that sequence."
+
+- Radioactivity was discovered in 1986, the atomic nucleus in 1911. Thus some 25 years would pass before one could understand why some, and only some, elements are radioactive.
+
+- Between 1998 and the early 30s it happened three times that the discoveries of new natural phenomena were so unsettling as to make prominent physicists waver in their faith in the universal validity of the law of conservation of Energy.
+    Radioactivity (source of energy) / beta-decay spectra / Quantum effects (BKS proposal)
+
+- 1 g of radium can heat 1.3 g of water from the melting point to the boiling point in 1 hour. 10 W
+
+- The first determination of the half-life for a radioactive decay was made by Rutherford.
+
+- Radioactivity represents one instance among many of a situation in which physicists of earlier days were unwittingly dealing with quantum effects.
+
+- It seemed (in fact, it was true) that radioactive decays were contrary to the classical concepts of cause and effect. During the 1st two decades of the 20C physicists had no reason to suspect that these paradoxes were not by any means typical for radioactivity only.
+
+- Those who wisely left aside the question: "Why does a radioactive atom change?" and focussed on the more modest problem: "How does it change?" were able to make some further progress on a more descriptive level.
+
+- The lifetime problem simply did not lend itself to the statement of new hypotheses subject to test. The problem was so difficult that it was hard even to get a wrong idea about it.
+
+- George Gamow showed that alpha-decay was a consequence of quantum mechanical tunneling thought a potential barrier. The first explanation of the Geiger-Nuttal relation, known phenomenologically since 1912 which established a connection between the lifetime of an alpha-emitter and the range of the particles.
+
+- The Mossbauer effect, where a nuclear decay, even though it originates in a single nucleus, is properly described only by treating the decay as a collective quantum property of the entire crystal in wihch that nucleas sits.
+
+- Plancks 1900 paper the most outstanding example in the history of all science of the precept that to make a discovery is not necessarily the same as to understand a discovery.
+
+- Rutherford kept silent about the implications of the lifetime concept. Another example of a discoverer who did not at once grasp the enormity of what he had wrought.
+
+- Asked to designate just one single discovery in 20C physics as revolutionary I would unhesitatingly nominate Plancks.
+  I count it among Einsteins great achievements that he may well have been the first to realize that the advent of quntum theory represented a crisis in science.
+
+- The history of the prediction and discovery of the photon ranks among the most fascinating chapters of 20C science. Never to this day has the suggestion of a new particle caused more and longer-lasting confusion, the principal reason being thatone was not confronted with never yet seen phenomena but,instead with old phenomena in a new guise.
+
+- From the very first paper on the subject of relativity the theory was put on a firm, logically complete, axiomatic basis -- this is quite unlike the quantum theory which remained a logically muddled subject for the first 25 years. If in the early years of the 20C some physicists could not accept the quantum theory, that was because to them it seemed (as indeed it was) to be too complicated a hodgepodge of ad hor rules. IF at the same time some physicists  could not accept SR that was because for them the theory was too simple to grasp.
+
+- Revolutions in science are rarely brought about by revolutionary souls. Like the rest of humanity, physicists tend to cling tenaciously to what they know or think they know, and give up traditional thinking only under extreme duress.
+
+- Pitfalls of simplicity are neither avoidable nor a mark of stupidity. They should rather be considered a necessary evil. It is the scientists task to seek for simplicity at the fuzzy frountiers of knowledge. He is privileged in that his latitude for choice of simplicity, necessarily ill-defined, is held in tight check by experiment.
+
+- Until 1947 (when the muon was discovered) beta-decay was the only manifestation of a specific type of force (weak) rather than one among many.
+
+- Why did it take so long to observe that the beta-spectrum was continuous? Electrons were quite novel objects, there was no qualitative guidance about what to expect. Secondry effects strongly obscured the nature of teh primary spectrum.
+
+- The cloud chamber was a tool for counting the number of electrons per beta-disintegration was first used in 1926 by a group in Tokyo.
+
+- Hahn's new element (thorium) was probably "a mixture of Radium and stupidity"
+
+- With Rutherfords robust personality he was much in damand for lecturing to the engineers who were notoriously difficult to control.
+
+- Bohr said he had not been aware of Balmer until shortly before his work on the Hydrogen atom.
+
+- AS late as 1835 the French philosopher Auguste Compte had written "On the subject of the stars... We can conveive of the possiblility of determining their shapes, sizes, and motions we shall never be able by any means to study their chemical composition or mineralogical structure. ... We shall not at all be able to determine their chemical composition or density ... I regard any notion concerning the true mean temperature of the various stars as forever denied to us". Spectral analysis is but one branch of science which has taught pholosophers caution.
+
+- Kirchhoff and Bunsen founded spectral analysis.
+
+- "Spectrum analysis might be no less important for the discovery of elemets that have not yet been found" Splended example of how great advances in physics are possible in absence of first principles. In all those years, there was not a clue to the structure of the atom or the origin of the spectra, Yet the insight that an atomic spectrum is a unique label for an element was sufficient for making major progress.
+
+- Balmer was 60 years old and had never published any research paper.
+
+- Stopped on page 175

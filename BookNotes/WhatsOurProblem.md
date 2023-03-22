@@ -19,3 +19,5 @@
    #KeepYourPowderDry
 
 -  It’s the great catch-22 of our species: the biggest threat to humanity is low-rung humanity, and low-rung humanity persists because it has often been the best defense against this very threat.
+
+- Small individual bias can lead to large collective bias

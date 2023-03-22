@@ -186,4 +186,3 @@
   At the time there was great resistance to the idea that when the electron is "shaken" by the electric field of the photon at one frequency it should scatter this radiation at a lower frequency.
 
 
-- 
