@@ -1,5 +1,7 @@
 # 2023
 
+## [Effective Python](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EffectivePython.md) (Brett Slatkin)
+
 ## [Inward Bound](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/InwardBound.md) (Abraham Pais)
 
 ## [Energy and Civilization](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EnergyAndCivilization.md) (Vaclav Smil)
