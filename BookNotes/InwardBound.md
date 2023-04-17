@@ -124,4 +124,121 @@
 
 - Balmer was 60 years old and had never published any research paper.
 
-- Stopped on page 175
+- Maxwell thought that the atomic modl building would be a very difficult task "The spectroscope tells us that some molecules can execute a great many different kinds of vibration/ They must therefore be systems of a very considerable degree of complexity, having far more than six variables ... every additional varibale increases the specific heat ... every additional degree of complexity which we attribute to the molecure can only increase the difficulty of reconciling the observed with the calculated specific heat."
+  Thermodynamically there was not enough room for any additional variables. The resolution of this paradox belongs to the 20C.
+
+- The years 1858-64 where a vintage period in the discovery in science.
+  Clausius wrote of the motion we call heat, Maxwell discovered his velocity distribution in gases, Le Verrier found and anomaly in the precession of Mercury, Kirchhoff found sodium in the sun, Darwin published his Origin of Species, Kirchhoff and Bunsen founded sepctral analysis, Huggins realized that nebulae are gaseous clouds, and Maxwell wrote his equations.	
+
+- Progress in science depends on a backlog of experimental data in need of interpretation. In all of the 20C the experimental backlog in physics was never great than during its opening years.
+  For a century chemists had amassed data which called for physical interpretation, especially the period table of the elements. 50 years of spectroscopy had yielded a wealth of results about which, nothing was known other than that somehting in the atom was moving. It was known that atoms could break up by ionization, emitting electrons. It was known that some species of particles could break up in more violent ways.
+
+- Early in 1909 when he realized that he did not know enough probability theory for handling small samples of data, the Nobel laureate (Rutherford) became a regular studnet in a course on the subject by Horace Lamb.
+
+- The early successes of Rutherfords models were a mark of hus ingenuity and of very good luck. All data at that time were obtained from scattering of low energy 5 MeV alpha on targets with high nuclear charge. Therefore the penetration of the neclear Coulomb barrier was negligible so that deviations from the Rutherford formula due to the strong interactions were unimportant.
+  Moreover for a Coulomb potential the classical and quantum scattering cross sections are identical.
+
+- First there was Plank who in 1900 started it all with his blackbody radiation law. Five years later, Einstein introduced light-quanta, an idea so alien to Planck that he resisted it for a long time. Then Einstein ushered in the quantum theory of the solid state in order to explain long-standing specific heat anomalies. Common to these three roads is their origin in statsitical mechanics. The first strides on the fourth, dynamical road, were made by Bohr.
+
+- Bohrs first postulate: an atom has a state of lowest energy which, by assumption, does not radiate, was one of the most audacious hyphothese every introduced in physics.
+  It contradicted Maxwells equations.
+  The derivation of the Balmer formula is the 1st triumph of quantum dynamics.
+
+  R(He+)/R(H) = 4.0016 instead of the niave guess 4. Bohr at once rose to the occasious; he had neglected the mass of the electron relative to the mass of the nucleus. In addition to Z one had to use the reduced mass. Doing so he found exact agreement!
+
+- Stern and Von Laue: said that if the Bohr model turned out to be corret they would leave physics. It did and they didnt.
+
+- A horseshoe hung over the entrance of Bohrs house. His guess asked him if he really believed in it. He said "Of course not, but I am told that it works even if you dont believe in it."
+  The old quantum theory, was much like the horseshoe.
+
+- The first to raise the issue of casality in regard to Bohr thoery was Rutherford. How does an electron decide with what frequency it is going to vibrate when it passes from one stationary state to another ? It seems that you would have to assume that the electron knows beforehand where it is gong to stop. (Interesting that Rutherford made this comment about Bohrs model, but failed to notice the same issues in his lifetime model of the nucleus.
+
+- Bohr was among the last to accept the photon as a real particle.
+
+- Mosely was ready to call the roll of the elements. Ending with Uranium there had to be 92 of them. Seven were missing. All these have since been discovered, some by X-ray analysis some by later techniques. Rutherford put Moseleys work on a par with the discovery of the periodic table.
+
+- The H-particle-electron picture of the nucleus is another example of simplicity as a necessary evil. It was a model as inevitable as it is wrong.
+
+- No consequence of Maxwells theory was more profound than the unification of light with electromagnetism. No part of the new theory appeared to be better understood than the wave nature of light as it travels through empty space. Consequently no part of the old quantum theory appeared more dubious than Einsteins idea that under certain circumstances light behaves as if it has particle structure.
+
+- The introduction of probability in the sense of QM may well be the most drastic scientific change yet effected in the 20C.
+
+- The era of the old quantum theory, from 1900 to 1925 constitues the most protracted revolutionary period in modern science. Six theoretical papers appeared during that time which are revolutionary:
+   Planck on the discovery of Quantum theory
+   Einstein on light quantum
+   Bohr on the hydrogen atom
+   Bose on quantum stastistics
+   Heinsenberg on matrix mechanics
+   Schrodinger on wave mechanics
+  These papers each contain at least one step which could not be justified
+
+- The end of this revolutionary period was brought about by four people: Heinsenberg, Schrodinger, Born and Bohr.
+  Schrodinger never found peace with what he had wrought
+
+- Borns great novelty, the correct transition probabilty concept, entered physics by way of a footnote.
+
+- The motion of particles follows probability laws but the probability itself propogates according to the law of causality.
+
+- "Unknowablity relations" is a better term than uncertianty relation
+
+- "It seems to me that the deliberate utilization of elementary symmetry properties is bound to correspond more closely to physical intuition than the more computational treatment." - Wigner
+
+- The QM linearity, the real novelty, is directly related to the superposition principle: in QM one can add two states. There is nothing like this in classical physics. Linearity is also the basic reason why symmetries in QM determine, all by themselves, many properties of systems.
+
+- Bose's derivation of Planks lay is a confused masterpiece. His reasoning is correct, but as he himself once said, he had no idea that it was novel.
+
+- In QFT the Hydrogen atom can no longer be considered to consist of just one proton and one electron. Rather in contains infinitely many particles.
+
+- It may well be that other had seen positrons before Anderson. But then many people had seen apples fall from trees before Newton.
+
+- 25 years after the light-quantum did the second prediction of a new partilce, the anti-electron, enter physics.
+  (Half a year earlier Pauli had suggested the neutrino, but was not yet prepared to publish.)
+
+- The discovery of the positron was wholly accidental.
+
+- 1920-1930 was the final decade in which the physics at the frontiers was quintessentially European. Moving into the 30s we encounter fundamental contributions to QFT from the US and Japan.
+
+- Oppenheimer played the lead role in bringing QED to teh US and making it flourish there.
+
+- Oppenheimer: vast insecurities lay forever barely hidden behind his charismatic exterior, whence an arrogance and occasional cruelty befitting neither his age nor his stature.
+  "In Oppenheimer the element of earthiness was feeble"
+
+- Oppenheimer entered practical QED on the ground floor. He was Americas leading teacher in QFT. He created the greatest school of theoretical physics that the US has ever known.
+  "His physics was good but his arithmetic was awful"
+
+- Dilemma in QED: Lowest-order effects are finite and work well. Higher-order contributions are small but infinite, small because of powers of alpha, infinite because of the integrations.
+
+- Thus the classical answer returns if one makes the absurd assumption of an electron radius large compared with the compton wavelength. Whatever the future may hold, the tiny marble with energy e^2/a is gone forever.
+
+- Light-by-light scattering implies that Maxwells equations are no longer linear.
+
+- In the 1930s the tools to push the theory much further were in hand, but teh experimental incentive was lacking and there were so many other interesting things to do in theoretical physics: nuclear physics, beta decay, cosmic rays, mesons, ...
+
+- The scattering and the absorption of neutrons became a main source of information about nuclear structure. Neutron bombardment led to the discovery of nuclear fission. Nuclear fission changed the world in which we try to live.
+
+- Two main themes dominate the physics of the 30s: struggle with QED, first rational theory of nuclear phenomena
+
+- Its hard to overrate Fermis contribution (theory of beta-decay) He showed how beta-radioactivity is due to a new force. He liberated the neutron from the vestages of the proton-electron model. And he silenced Bohrs conjectures about non-conservation of energy.
+
+- In nuclear physics the deuteron matches in imporatance, but not in simplicity, the hydrogen atom in atomic physics.
+
+- After teh discovery of the neutron with an alpha source (in  Feb 1932) all basic particles are discovered either in cosmic rays, or with accelerators or reactors.
+
+- Heisenberg observed that the higher-order processes became more important than the lower-order ones at a sufficiently high energy, which he estimated to be ~1000 MeV. perturbation theory breaks down at such energies. "In this way fermi theory gives a quantitative explanation for the creation of cosmic ray showers.
+
+- Yukawa's paper is a primitive improvization, yet it contains three major lasting points: the dissociation of the strong nuclear force from the weak beta-decay force; a sensible first estimate of the meso mass; and the remark "the massive quanta may also have some bearing on teh showers produced in cosmic rays."
+
+  It is Yukawas great and lasting contribution that he has changed our thinking about fources. To this day his extension to the strong interaction of the relation between forces and virtual particle exchange, his analogy with QED, has remained our guide to thinking about all fundamental forces.
+
+- The first prediction of a particle on symmetry grounds: Neutral pion. There was no evidence for a neutral meson, but it could easily have escaped detection since it can decay into photons with a lifetime of 1e-16s. 
+
+- "The energy produced by the breaking down of the atom is a very poor kind of thing. Anyone who expects a source of power from the transformation of these atoms is talking moonshine" - Rutherford
+  When Lawrence was asked for his reaction to this statement he said "Personally I have no opinion as to whether it can ever be done, but we're going to keep on trying to do it"
+
+- Abe Pais gave an invited paper while he was living in hiding from the Nazis. He often discussed his ideas with Kramers, the only physicist who knew where he was and who would visit him from time to time.
+
+- p451
+
+
+
+

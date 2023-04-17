@@ -1,5 +1,7 @@
 # 2023
 
+## [Whats our Problem](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhatsOurProblem.md) (Tim Urban)
+
 ## [Effective Python](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EffectivePython.md) (Brett Slatkin)
 
 ## [Inward Bound](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/InwardBound.md) (Abraham Pais)

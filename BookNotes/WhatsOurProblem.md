@@ -21,3 +21,18 @@
 -  It’s the great catch-22 of our species: the biggest threat to humanity is low-rung humanity, and low-rung humanity persists because it has often been the best defense against this very threat.
 
 - Small individual bias can lead to large collective bias
+
+- Eisenhower, who was in attendance, said the scene was “unpardonable—and a complete negation of the spirit of democracy. I was bitterly ashamed. re:1964 republican primaries
+
+- Re:Equity Meme:   The thing about moving those boxes around is that if activists are wrong about the specifics of the fence, moving boxes may be counterproductive and potentially a form of injustice itself.
+
+- Oppression has been a regular feature of human societies since the dawn of time, and in the Power Games, the primary tool to fight oppression has been violence. Free speech offers a better way. The rich are protected and empowered by their money, the elite by their connections, the majority by their vote, while minority views often end up left out. But free speech gives the powerless a voice—the ability to spark a mind-changing movement that gains so much momentum, it moves our beliefs and our cultural norms, which in turn moves the Overton window, which moves policy, and then law.
+
+  Throughout American history, free speech has been much more than protection against tyranny. It’s been the country’s brain, its compass, and its conscience.
+
+- It’s the job of the progressive to never be satisfied with progress
+
+- It’s only the idea supremacist on campus who says, “No one on campus is allowed to express ideas I find reprehensible, whether I’m in the room or not.” Which is another way of saying, “No one on campus is allowed to hear ideas that I find reprehensible.”
+
+- The great thing about social media was how it gave a voice to voiceless people, but we’re now creating a surveillance society, where the smartest way to survive is to go back to being voiceless.”
+
