@@ -237,7 +237,30 @@
 
 - Abe Pais gave an invited paper while he was living in hiding from the Nazis. He often discussed his ideas with Kramers, the only physicist who knew where he was and who would visit him from time to time.
 
-- p451
+- What else was the muon good for other than being the pions favorite decay product ? The divine laughter continues unabated.
+
+- The need for renormalizing mass and charge implies that the the theory cannot predict their values but borrows them from experiment.  These are phemenological parameters. QED is nevertheless a theory with enormous predictive power. A finite number of parameters treated phenomenologically make possible an infinite number of prediction. Such a theory is called renomalizable.
+
+- QED cannot predict the electrons mass because it is the only scale. m is therefore as uncalculable in this theory as Planks constant is in quantum theory, or c is in relativity. It is not unreasonable to hope that these may be explained by theories with larger particle content.
+
+- Does the expansion of the renormalized amplitude converge? We do not know, but especially as a result of leassons learned from simpler but non-trivial model theories, we believe the answer is probably no.
+
+  Beginning with O(alpha^2) one finds in the guts of the radiative corrections contributions from all species of charged particles in the physical world.
+  This shows that the question of convergence will not say much about the real world.
+
+- In Rutherfords day scintillations were observed in solids of a kind which rapidlh absorb the light flashs.  When it was found that certain organic crystals (like naphthalene, anthracene) were transparent to their own fluorescent radiation, one was able to use a large amount of such substances and send the radiation into a photomultiplier. Thus was the scintillation counter created.
+
+- In 1950 a new particle (pi0) was discovered in an accelerator experiment for the first
+
+- Isospin invariance first introduced in phenomenological nuclear potentials, then built into Yukawa equations, became a free-floating invariance in search of a badly needed appropriate dynamics. This was to recur in subsequent years: start with dynamical equations, abstract some of their general features, forget the starting points.
+
+- G-parity in its simplest, though not most general, form says that an even number of neutral pionss cannot go into an odd number and vice versa
+
+- The rho, omega and eta mesons where all discovered by the bubble chamber.  It has enormous advantages over the cloud chamber in respect of sensitivity, rapid cycling, spatial resolution, and high stopping power.
+
+- Alvarez stressed in 1955 "data analysis is the bottleneck in cloud chamber and emulsion work all over the world...The rate at which interesting events will occur in the large bubble chamber is very much greater. One day of bubble chamber operation could keep a gropu of "cloud chamber analysts" busy for a year. He concluded that track and scanning needed to become semi-automatic; computers shoudl be used for analysis and storage of data. And that is exactly what happened. Such were the techniques which led to teh discovery of the rho, omega and eta meson. There were initial reservtino of quite a few members of the profession in regard to Alvarez' managerial approach which they felt, would remove physicists yet another step from experimentation done in the old ways.
+
+- p493
 
 
 
