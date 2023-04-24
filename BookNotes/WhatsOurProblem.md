@@ -36,3 +36,13 @@
 
 - The great thing about social media was how it gave a voice to voiceless people, but we’re now creating a surveillance society, where the smartest way to survive is to go back to being voiceless.”
 
+- Think about your identity. The truth is, you’re not a progressive or a conservative or a moderate or radical or some other political noun. Those are words for ideas, not people. Your mind is way too weird and particular to be locked in a noun or adjective prison. Attaching a political category to your identity is a heavy piece of baggage to carry around, and putting it down makes learning and exploring much easier and less stressful.
+
+- I’ve been using a little mantra. When I’m down on the low rungs and I have a moment of self-awareness where I realize I’m on the low rungs, I say in my head:
+
+  Climb.
+
+  It’s not a scolding moment, it’s a moment of self-compassion. I’m doing that thing that every human does sometimes. It’s okay. I caught myself. Climb.
+
+- There was no shortage of ideas in this book, but I believe one stands out above all: Us vs. Them is always a delusion.
+
