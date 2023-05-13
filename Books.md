@@ -1,5 +1,7 @@
 # 2023
 
+## [The Second Creation](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheSecondCreation.md) (Robert Crease and Charles Mann)
+
 ## [Whats our Problem](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhatsOurProblem.md) (Tim Urban)
 
 ## [Effective Python](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/EffectivePython.md) (Brett Slatkin)

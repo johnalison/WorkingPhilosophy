@@ -43,3 +43,16 @@ The most important thing is to be able to think what you want, not to say what y
 - Materially and socially, technology seems to be decreasing the gap between the rich and the poor, not increasing it. If Lenin walked around the offices of a company like Yahoo or Intel or Cisco, he’d think communism had won. Everyone would be wear- ing the same clothes, have the same kind of office (or rather, cubi- cle) with the same furnishings, and address one another by their first names instead of by honorifics. Everything would seem ex- actly as he’d predicted, until he looked at their bank accounts.
 
 - You need rich people in your society not so much because in spending their money they create jobs, but because of what they have to do to get rich.  I’m not saying that if you let Henry Ford get rich, he’ll hire you as a waiter at his next party. I’m saying that he’ll make you a tractor to replace your horse.
+
+
+- If there is an overlap, in different concepts of beauty, can we use one field’s discoveries about beauty to help us in another
+
+- if you can imagine someone surpassing you, you should do it yourself.
+
+- Aiming at timelessness is also a way to evade the grip of fashion.
+
+- IF anything you should cultivate dissatisfaction.
+
+- The only style worth having is the one you cant help
+
+- 
