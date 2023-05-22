@@ -6,7 +6,7 @@
 
 - Empathy is probably the single most important difference between a good hacker and a great one. Some hackers are quite smart, but practically solipsists when it comes to empathy. It’s hard for such people to design great software, because they can’t see things from the user’s point of view
 
-- One way to tell how good people are at empathy is to watch them explain a technical matter to someone without a technical background. We probably all know people who, though otherwise smart, are just comically bad at this. If someone asks them at a dinner party what a programming language is, they’ll say something like “Oh, a high-level language is what the compiler uses as input to generate object code.” High-level language? Compiler? Object code? Someone who doesn’t know what a programming language is obviously doesn’t know what these things are, either.
+- One way to tell how good people are at empathy is to watch them explain a technical matter to someone without a technical background. We probably all know people who, though otherwise smart, are just comically bad at this. If someone asks them at a dinner party what a programming language is, they’ll say something like “Oh, a high-level language is what the compiler uses as input to generate object code.” High-level language? Compiler? Object code? Someone who doesn't know what a programming language is obviously doesn't know what these things are, either.
 
 - Programs should be written for people to read, and only incidentally for machines to execute.
 
@@ -55,4 +55,53 @@ The most important thing is to be able to think what you want, not to say what y
 
 - The only style worth having is the one you cant help
 
-- 
+- The more you have to say to get something done, the harder it is to see bugs.
+
+- IF you use a language for long enough, you start to think it in.
+
+- The fundamental operators are the most important factor in a languages long term survival.
+  The rest you can change. Its like the rule of buying a house, you should consider location first of all. The rest you can fix later.
+
+- The main branches of the evolutionary tree of languages passes through those that have the smallest, cleanest cores. The more of a language you can write in itself, the better.
+
+- As technologies improve, each generation can do things that the previous generation would have considered wasteful.
+
+- SUVs are gross b/c they're the solution to a gross problem. How to make minivans look more masculine.
+
+- Object-orientated programming offers a sustainable way to write spaghetti code.
+
+- Lisp is so great no because of some magic quality visible only to devotees, but because it is simply the most powerful language available.
+
+- The idea that one language can be more powerful than another is rarely followed to its conclusion. After a certain age programmers rarely switch languages voluntarily.
+  Whatever language people happen to be used to, they tend to consider just good enough.
+
+- The only programmers in a position to see all the differences in power between the various languages are those who understand the most powerful one.
+
+- Many languages have something called a macro. But Lisp macros are unique.
+  Marcos in Lisp are programs that write programs
+
+- If you understand how compilers work, what really going on is not so much that Lisp has a strange syntax as that Lisp has no syntax.
+  You express programs directly in the parse trees that get built behind the scenes when other languages are parsed, and these trees are made of lists which are Lisp data structures.
+
+- Programming languages are not just technology, but what programmers think in. They're half technology and half religion.
+
+- Lisp, a 1950s language is not obsolete because it was not technology but math, and math doesn't get stale.
+
+- When it was first developed, Lisp embodied nine new ideas. Two are still unique to Lisp.
+
+- Let yourself be second guessed.
+
+- Many "temporary" buildings built at so many universities during WWII often were made permanent.
+
+- A friend of mine rarely does anything the first time someone asks him. He knows that people sometimes ask for things they turn out not to want. To avoid wasting his time, he waits till the third or fourth time hes asked to do something.  Most people have learned to do a similar sort of filtering on new things they hear about. They dont even start paying attention until they've heard about something ten times. They're perfectly justified: the majority of hot new whatevers do turn out to be a waste of time, and eventually go away. By delaying learning VRML, I avoided having to learn it at all.
+
+- Its not when people notice you're there that they pay attention; its when they notice you're still there.
+
+- The best writing is rewriting.
+  Committees yield had design. The worst danger of committees is that they interfere with redesign.
+
+- Worse is better. Was discovered in drawing during the Renaissance. Now almost every drawing teacher will tell you that the right way to get an accurate drawing is not to work your way slowly around the contour of an object, bc errors will accumulate and you'll find at the end that the lines dont meet. Instead you should draw a few quick lines in roughly the right place, and then gradually refine this initial sketch.
+
+- What made oil painting so exciting when it first came out in the 15C was that you could make the finished work from the prototype. You could make a preliminary drawing if you wanted to, but you weren't held to it.
+
+- Morale is key in design. I'm surprised people dont talk about it more. One of my first drawing teachers told me: if you're bored when you're drawing something, the drawing will look boring. Eg: suppose you have to draw a building, and you decide to draw each brick individually. You can do this if you want, but if you get bored halfway through and start making the bricks mechanically instead of observing each one, the drawing will look worse than if you had merely suggested the bricks. 

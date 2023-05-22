@@ -1,5 +1,7 @@
 # 2023
 
+## [Hackers and Painters](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HackersAndPainters.md) (Paul Grahm)
+
 ## [Fragile by Design](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FragileByDesign.md) (Charles Calomiris and Stephen Haber)
 
 ## [The Second Creation](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheSecondCreation.md) (Robert Crease and Charles Mann)
