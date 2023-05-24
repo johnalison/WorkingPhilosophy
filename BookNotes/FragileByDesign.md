@@ -57,6 +57,45 @@
 
 - The bank insiders need outsiders to invest their wealth in the bank in order to make the bank stable enough to attract depositors, but in doing so the insiders transfer the rist from depositors to equity investors.
 
-- p32
+- The government has a conflict of interest when it comes to banks: it simultaneously regulates them, borrows from them, or taxes them.
+
+- Deposit insurance destabilizes the banking system. Depositors no longer have an incentive to discipline the bank insiders b/c their funds are no longer at risk. The insiders are now free to make riskier bets.
+
+- The burden of inflation tax falls disporportionately on the poor.
+
+- Liberal believe the function of voting is to control the officals and no more. Elections allow voters to replace corrupt or venal public officials and thus constrain tyranny. There is nothing inherently good, wise, or just about the choices made through voting. Unless there are institutions that allow minorities to veto majorities, mass suffrage can, paradoxically, undermine the very goal of democracy -- the existence of a free and just society.  Freedom is enjoyed by individuals and is defined by the absence of tyranny; in the populist conception, freedom means the ability to use the government to implement the collective will of the people.
+
+- In the worlds older democracies -- those established in the 18 and 19C -- liberal elements tend to carry considerable weight, b/c those democracies were set up as replacements for monarchich systems that were almost synonymous with tyranny.
+
+- Bankers in a populust government have a perverse option in the game of banking: they can join the populists in a coalition in favor of debtor relief. Doing so puts them in a position to ask for a government bailout in the short run and deposit insurance in the longer run. Both measures transfer losses associated with debt forgiveness away from banks and onto taxpayers.
+
+- Chartered banks and nation-states emerged at the same time. This was not a coincidence. The two institutions coevolved b/c banks help align the incentives of three groups crucial to the creation of viable states: rules, merchants and financiers.  Merchants needed a powerful entity -- a state -- that could defend their expanding trading routes and inforce their contracts. Rulers needed merchants to build the commercial networks that glued their states together and sustained their overseas empires. Both merchants and rulers needed financiers.  Financiers needed a state to enforce contracts with one another with merchants and with foreign states.
+
+- Two factors appear to have been crucial in determining which states emerged as dominant: access to the Atlantic and the ability to forge durable partnerships with teh social and economic groups that carried out trande and financed the state.  A lack of access to the Atlantic probably explains why the city-states of Venice and Genoa failed to keep up with the state and empire building enterprises of Spain, Portugal, France Britain and the Dutch Republic.
+
+- Empire building was an expensive undertaking. Europes rules subcontracted much of the business of conquest, colonization and trade to private companies. The conquests of the Aztec and Inca empires had been carried out by private companies: the conquistadors were shareholders, more of whom had never swung a sword before.
+
+- Paper currency was orignally invented (in Amsterdam) as a means of fighting inflaction from poeple clipping gold and silver coins. In one of history's supreme ironies, governments soon figured out haw to turn the ability to issue paper money into a new fiscal tool -- the inflation tax -- a means of forcing people  to suffer erosion of the value of the wealth they held in the form of cash assets to the benefit of the government.
+
+- Universal male suffrage and the rise of trade unionism and labor parties politicized monetary and fiscal policymaking. The rise of the welfare state and the post WWII commitment to full employment sharpened the trade-off between internal and external balance. This shift ... diminished the credibility of the aurhorities resolve to defend the currency peg.
+
+- The bank of England was a monopoly set up to finance a government that spent more that it taxed and which was therefore willing to trade a set of lucrative privileges to a group of financiers in exchange for loans to the government.
+
+- When the dust settled at the end of the Napoleonic Wars in 1815, there was only one world power: Britian. France had been vanquished and would never threaten Britian again.
+
+- What varries across democracies is the extent to which they give minorities power beyond their numbers.
+
+- The Thatcher government proved that a majority of citizens would support a reform program with front-loaded social costs and long-term social gains, one that reduced government spending and redistribution in the name of promoting growth. Refutes that quote that "the majority will always vote for the candidates who promise the most benefits from the public treasury, with the result that every democracy will collapse due to loose fiscal policy."
+
+- The fact that a coalition of farmers and small bankers was able to dismantle the banking institutions set up by Alexander Hamilton, and that it was able to establish an inefficient and unstable alternatve that endured for more than 150 years, implies that something about this coalition was woven into the fabric of Americas political institutions.
+
+- The 13 colonies that were to become the US were a backwater surrounded by hostile neighbors.  In order to be viable the 13 colonies had to be an armed camp. They had no obvious source of wealth to pay for a large standing army. The one thing that they did have was endless expanses of farmland suitable for tobacco, corn and wheat -- provided those lands could be cleared of Indians. The combination of these factors -- hostile neighbors abundant land, and storable crops that coule be grown on small production units -- meant that British Anerica was a society of small freeholding farmers whow were armed to the teeth.
+
+- Americas common people were therefore able to achieve something that no group of small farmer had achieved since the Roman Republic: the right to vote. Americas colonies mgiht have had governors appointed by the King, but they also had colonial assemblies -- houses of burgesses -- that were popularly elected.
+
+p157
+  
+
+- 
 
 
