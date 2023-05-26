@@ -93,9 +93,41 @@
 
 - Americas common people were therefore able to achieve something that no group of small farmer had achieved since the Roman Republic: the right to vote. Americas colonies mgiht have had governors appointed by the King, but they also had colonial assemblies -- houses of burgesses -- that were popularly elected.
 
-p157
-  
+- When Americas colonial elites decided to move for independence, they had to mobilize this class of armed independent farmers against the British. That was no easy task: they were asking them to go toe to toe against the most disciplined and best-equipped army in the world. Motivating them to do so required appeals to liberty, freedom, and equality. Once these had been offered, there was no puttting the genie back in the bottle. The process of revolution was a profoundly radicalizing process. After indpendence, to the shock of America's elites, the farmers who Washington led to victory would no longer defer to their social betters in politics. Household employees now refused to use the terms master and mistress in addressing their employers, but adopted the word boss instead.  Not surprisingly within a few decades of independence the successors of the group of gentleman who led the country in revolution were pushed out of the way in the populist election of Andrew Jackson.
 
-- 
+- States had fiscal incentives to creat bank charters and to do whatever necessary to maximize the value of the charters. They thus enabled monopolies within state boarders. Since they recieved no charter fees from banks incorporated in other states, they prohibited interstate banking. Banking in the early republican US was characterized by segmented monopolies.
+
+- The civil war led to the creation of the US; first government-issued paper currency that had the status of legal tender. Until 1861 the dollar was defined only as a given amount of gold or silver. The medium of exchanges was gold and silver coins produced at the US mint. Paper money was issued by private banks and did not have the status of legal tender. In 1862 the federal government issued US note "greenbacks" a paper currency with teh status of legal tender, which could not be converted in to gold or silver.
+
+- The creation of the FDIC was designed to prop up unit banks and preserve their monopoly rents by insulating them from competition. Althought touted as a neccessary step to save teh banking system, all teh evidence indicates otherwise: it was the product of lobbying by unit bankers who wanted to stifle the growth of branch banking.
+
+- The populist-unit banker coalition was so strong that it turned the financial panics of the 19C  and the great depression to its advantage. These shocks did not end unit banking, but resulted in teh Federal Reserve, deposit insurance, and laws that capped the bank interest rate. They even convinced the public that these institutions ahd been created to protect them from avaricious big city bankers eg: Its a Wonderful Life.
+
+- "The genius of you Americans is that you never make clear-cut stupid moves, only complicated stupid moves which make us wonder at the possibility tha there may be something to them that we are missing" -- Gamal Nasser
+
+- 1994 marked the end of the barriers to interstate banking. THe US was now in a position to have a bankings structure that was not fragile by design.
+
+- The subprime crisis was notible not just for the spectacular magnitude of the economic collapse it caused but also for the unprecedented steps that the FED and US government took to head off the economy's downward spiral. Quantitative easing -- essentially printing mony in order to buy government debt
+
+- The Fed and the treasury account for the vast majority of American mortgage funding.
+
+- How was a system taht should have been makde more stable by consolidation become spectacularly less so? Everyone agrees that the crisis was led by "subprime" loans.
+
+- Banking systems are susceptible to collapse only when two conditions are met in combination: banks must take on sufficient risk and they must have inadequate capital to absorb the losses.
+
+- The acceptance of higher mortgage risk and low levels of bank and GSE capitial were both essential aspects of a political bargain. Once branching limits were removed bankers had ambitious plans for mergers. These plans were subject to political constraint.
+
+- We cannont emphasis this fact strongly enough: when Fannie and Freddy agreed to puchase loans that required only a 3 percent down payment, no documentation of income or employment, and a far-from-perfect credit score, they changed the risk calculus of millions of American families, not just the urban poor. With new underwritting standards, middle class families could leverage up and buy a much bigger house in a nicer neighborhood.
+
+- The power of a political coalition is precisely the power to get a public official to go along with somehting that he knows is not in the long-run public interest because it is in his own short-term interest.
+
+- The US was unusual in deciding to address inequality and urban poverty through bank regulation. Western Europe increased the scope of welfare programs.  The political concessions made to the urban poor in the US were to "let then eat credit". This was explicitily championed by Bill Clinton.
+
+- The CRA (Community reinvestment act) compliance had real costs: banks were forced to make loans that they would not have made otherwise. This misrepresented invisible taxes and transfers of wealth as nonexistent ones.
+
+- The new US banking bargain combined new and unlikely partners. It began as a rent-sharing game between activist groups and regional banks looking to merge to become national megabanks.
+
+- p256
+
 
 
