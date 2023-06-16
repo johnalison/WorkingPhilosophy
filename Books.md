@@ -1,5 +1,7 @@
 # 2023
 
+## [The Emergent Multiverse](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEmergentMultiverse.md) (David Wallace)
+
 ## [Hackers and Painters](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HackersAndPainters.md) (Paul Grahm)
 
 ## [Fragile by Design](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FragileByDesign.md) (Charles Calomiris and Stephen Haber)
