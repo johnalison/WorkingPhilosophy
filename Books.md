@@ -1,5 +1,7 @@
 # 2023
 
+## [Titan](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Titan.md) (Ron Chernow)
+
 ## [The Emergent Multiverse](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEmergentMultiverse.md) (David Wallace)
 
 ## [Hackers and Painters](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HackersAndPainters.md) (Paul Grahm)
