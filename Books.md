@@ -1,5 +1,7 @@
 # 2023
 
+## [God's Debris](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GodsDebris.md) (Scott Adams)
+
 ## [Titan](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Titan.md) (Ron Chernow)
 
 ## [The Emergent Multiverse](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheEmergentMultiverse.md) (David Wallace)
