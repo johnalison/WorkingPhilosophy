@@ -30,6 +30,8 @@
 
 -rw-r--r--  1 johnda  staff  2603 Aug  3  2022 ManyMindsInterpretationsOfQM.md
 
+-rw-r--r--  1 johnda  staff  4694 Jul 27  2022 SMParametersInYourEverydayLife.md
+
 -rw-r--r--  1 johnda  staff   740 Apr 20  2022 MeasurementCjetMistaggingEffintTTbarATLAS.txt
 
 -rw-r--r--  1 johnda  staff  2163 Apr 15  2022 NewMethodForCharmCalibration.md
@@ -37,10 +39,13 @@
 
 
 
-
-
-
-
+-rw-r--r--  1 johnda  staff   890 Jan 17  2022 PowerOfEnviroment.md
+-rw-r--r--  1 johnda  staff   319 Jan 12  2022 LowEnergyLeptonsForHEP.md
+-rw-r--r--  1 johnda  staff  1323 Jan  7  2022 FlowBasedDeepGenerativeModels.md
+-rw-r--r--  1 johnda  staff  1263 Jan  7  2022 NormalizingFlowsTutorial.md
+-rw-r--r--  1 johnda  staff   135 Jan  4  2022 AutoregressiveModels.md
+-rw-r--r--  1 johnda  staff  1780 Jan  4  2022 NormalizingFlowModels.md
+-rw-r--r--  1 johnda  staff   857 Jan  4  2022 WhatAreNormalizingFlows.md
 
 
 
