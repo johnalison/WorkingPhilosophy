@@ -1,5 +1,7 @@
 # 2023
 
+## [The Storm Before the Storm](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStormBeforeTheStorm.md) (Mike Duncan)
+
 ## [God's Debris](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GodsDebris.md) (Scott Adams)
 
 ## [Titan](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Titan.md) (Ron Chernow)
