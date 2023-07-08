@@ -1,5 +1,7 @@
 # 2023
 
+## [Antifragile](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Antifragile.md) (Nassim Taleb)
+
 ## [The Storm Before the Storm](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStormBeforeTheStorm.md) (Mike Duncan)
 
 ## [God's Debris](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GodsDebris.md) (Scott Adams)
