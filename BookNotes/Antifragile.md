@@ -43,4 +43,35 @@
 
 - Some people have fallen for the naive belief that the world is getting safer: it is exactly like saying that nuclear bombs are safer b/c they explode less often.
 
-- p100
+- iatrogenics are harmful unintended side effects
+
+- Iatrogenics is, should be, an important part of political science, economics, urban planning, education ...
+   Iatrogenics of newspapers: They need to fill their pages everyday with a set of news items.
+   Newpapers should be of two-line length on some days, and two hundred pages on other.
+
+- Those who do too much somewhere do too little elsewhere. Those who tend to overedit also tend to miss the real typos.
+
+- Hard to find heroes who became heros for nonaction.
+
+- Procrastination is our natural defense, letting things take care of themselves and exercise their antifragility.
+    Taleb uses procrastination as a messeage from his inner self to figure out what is worth writting about:
+    	  "I write only if I feel like it and only on a subject I feel like writting about -- and the reader is no fool"
+
+
+- Buffet: Invest in businesses that are "so wonderful that an idiot can run them. Because sooner or later, one will.
+
+- Wisdom in decision making is vastly more important than knowledge. #BeTheGood
+
+- Invest in good actions. Things can be taken away from us -- not good deeds and acts of virtue.
+
+- Upside in good deads: All good deads are expenditure; if any one returns it, that is a clear GAIN; if he does not return it, it is not lost, you gave for the sake of giving.
+
+- The first step toward antifragility consists in first decreasing downside by lowering exposure to negative Black Swans adn letting natural antifragility work by itself.
+
+- Antifragility: agressiveness plus paranoia : clip your downside, protect yourself from extreme harm, and let the upside, the positive Black swans, take care of itself.
+
+- An option is what makes you antifragile and allows you to benefit from the positive side of uncertianty, without a corresponding harm from the negaive side.
+
+- Nature is all about the exploitation of optionality; it illistrates how optionalaity is a substitute for intelligence.
+
+- p213
