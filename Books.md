@@ -1,5 +1,7 @@
 # 2023
 
+## [ANSI Common Lisp](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ANSICommonLisp.md) (Paul Graham)
+
 ## [Antifragile](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Antifragile.md) (Nassim Taleb)
 
 ## [The Storm Before the Storm](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStormBeforeTheStorm.md) (Mike Duncan)
