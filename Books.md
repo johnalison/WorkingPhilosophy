@@ -1,5 +1,7 @@
 # 2023
 
+## [Ten Arguments for Deleting Your Social Media Accounts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TenArgumentsDeleteSocialMedia.md) (Jaron Lanier)
+
 ## [ANSI Common Lisp](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ANSICommonLisp.md) (Paul Graham)
 
 ## [Antifragile](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Antifragile.md) (Nassim Taleb)
