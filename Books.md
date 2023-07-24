@@ -164,7 +164,7 @@
 
 ## [You are not a Gadget.](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/NotAGadget.md)  (Jaron Lanier)
 
-## [Third Thoughts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThirdThougts.md)  (Steven Weinberg)
+## [Third Thoughts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThirdThoughts.md)  (Steven Weinberg)
 
 ## [Personal MBA](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PersonalMBA.md)  (Josh Kaufman)
 

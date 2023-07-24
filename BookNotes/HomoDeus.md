@@ -208,7 +208,7 @@
 
 - The main product of the 21C will be bodies, brains and minds, and the gap between those who know how to engineer bodies and brains and those who do not will be far bigger than the gab between Dickens Britain and Mahdi's Sudan. In the 21C, those who ride the train of progress will acquire divine abilities of creation and destruction, while those left behind will face extinction. #NowIsDifferent 
 
-- Liberals value individual liberty so much because they believe that humans have free will.#Politics #FreeWill
+- Liberals value individual liberty so much because they believe that humans have free will. #Politics #FreeWill
 
 - The contradiction between free will and contemporary science is the elephant in the laboratory, whom many prefer not to see as they peer into their microscopes and fMRI scanners. #FreeWill
 
