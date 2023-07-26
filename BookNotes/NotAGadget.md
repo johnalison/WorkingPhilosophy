@@ -28,9 +28,13 @@
 
   - Democracy can be thought of as a low-pass filter, smoothing out struggles for consensus. Reduces the potential for the collective to overreact.
 
+    #Politics
+
   - Information under-represents reality: Computers cannot presently represent thought or human relationships.  Facebook and system standardized testing assume they can.
     Software should only be designed to perform tasks that can be successfully performed at a given time. This is not the attitude in which the internet software is designed.
     "When we deploy a computer model of something like learning or friendship in a way that has an effect on real lives, we are relying on faith."
+
+    #Buddhism
 
   - The binary character of computers appear at a higher level.  eg: far easier to tell a program to run or not, than to sort-of-run with more or less intensity depending on the situation.
 
@@ -39,6 +43,8 @@
   - Limits to libertarian-ism: Good that we have one currency, one court system and one military. fluid commerce has to flow through channels that amount to government.
 
   - The process of reinvention of youth through music seems to have stopped. This is the first time since electrification that mainstream youth culture has cloaked itself mainly in retro nostalgic styles.
+
+  #NowIsDifferent
 
   - Colors and sounds can be measured in rulers. Smells need to be looked up in a dictionary.
 

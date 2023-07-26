@@ -1,6 +1,6 @@
 # Little Bets (Pets Sims)
 
-- Good. Way too repetitive. bailed on Chapter 3 (reconsidering...)
+- Good. Way too repetitive. bailed on Chapter 3.
 
 - Critical to gradually build up to breakthroughs through iterative experimental trial and error.
   You need to do things to discover what to do.

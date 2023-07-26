@@ -4,11 +4,13 @@
 
 - Was not until the 18C that the brain was thought to be the seat of consciousness. Before then, other candidates included the heart and spleen.
 
+  #UsedToBelieve
+
 - BF Skinner "Verbal Behavior" (Curiously a review of the book became as famous as the book itself and killed off behaviorism)
 
 - In 2001, argument that improvement in image recognition from increasing size of data by 10-100 outweighs any improvement from teaching algorithm.
 
-- Better to design measures according to what you actually want to achieve rather than how you think the agent should behave.
+- It is better to design measures according to what you actually want to achieve rather than how you think the agent should behave.
 
 - Rationality maximizes expected performance, perfection maximizes actual performance.
 
@@ -16,10 +18,14 @@
 
 - Things that are hard to learn end up in the genome, things that are easy to learn, need not.
 
+ #WhoWeAre
+
 - When uncertainty enters, possibilities are multiplied enormously and forming detailed plans of action becomes pointless b/c the world is not going to play along.
 
-- After humanity spent 1000s of years improving our tactics, computers tell humans they are completely wrong. I would go so far as to say not a single human has touched the edge of the truth of Go"
+- After humanity spent 1000s of years improving our tactics, computers tell humans they are completely wrong. I would go so far as to say not a single human has touched the edge of the truth of "Go"
    Alien type of intelligence re: alpha-zero.
+
+ #AI
 
 - Mu Zero operates without even being told the rules of the game. 
 
@@ -46,13 +52,19 @@
 
 - The decomposition of large probabilistic domains into weakly connected subsets through conditional independence is one of the most important developments in AI.
 
+ #AI
+
 - The utility of money is almost exactly proportional to the logarithm of the amount.
 
 - One of the most important parts of decision making is know what questions to ask.
 
-- Information has values to the extent that it is likely to cause a change of plan and to the extent that th e new plan will be significantly better than the old.
+- Information has values to the extent that it is likely to cause a change of plan and to the extent that the new plan will be significantly better than the old.
+
+ #Rationality
 
 - If all perturbations of the parameters leave the optimal decision unchanged, then it is reasonable to assume its a good one. If however, the optimal decision changes considerably with the parameters of the model, then there is a good chance that the model may produce a decision that is substantially sub-optimal.
+
+  #Rationality #MentalModels #CheckList
 
 - Models of concurrent action have been a major focus of research in CS for decades, but no definitive model has prevailed. 
 
@@ -72,7 +84,7 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 
 - L1 regularization tends to produce sparse models. Takes the dimensional axes seriously, while L2 treats them as arbitrary. 
 
-0 Trick of locality-sensitivity Hash (LSH). Need has function g(x) with property that the probability  that two points have same hash is small if distance is large and high if distance is small. Create multiple random projections and combined. g_1, ... g_l. Fetch set of points in bin g_i(x_q) of each hash table and take the union to define candidates. 
+- Trick of locality-sensitivity Hash (LSH). Need has function g(x) with property that the probability  that two points have same hash is small if distance is large and high if distance is small. Create multiple random projections and combine. g_1, ... g_n. Fetch set of points in bin g_i(x_q) of each hash table and take the union to define candidates. 
 
 - Locality weighted regression advantages of nearest neighbors w/o discontinuities.  Avoid discontinuities in h(x) by avoiding discontinuities in the set of example to estimate h(x). 
   Decrease weight over distance gradually (width matters more than shape)
@@ -81,7 +93,7 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 
 - The most important factor in success of ML projects is the features used. 
 
-- Random Forrest good when you have a lot of categorical features with many that are irrelevant. 
+- Random Forrest: good when you have a lot of categorical features with many that are irrelevant. 
 
 - Nonparametric: good when lot of data, no prior knowledge and dont want to worry about getting wrong features. 
 
@@ -94,11 +106,15 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 - If you need ML, then the problem is complex, you shouldn't expect a simple explanation.
   (Which would you trust: experimental aircraft never flown, but with a detailed explanation of why it is safe? or, an aircraft that completed 100 flights with no guaranteed explanation?)
 
+  #AI
+
 - Beta distributions B(T,a,b) = \alpha T^(a-b) (1-T)^b-1 is closed under Bayes updates.
 
 - A sufficiently large NN can implement a lookup table
 
 - One hot encoding generally better than mapping values to ints. (One hot ignores numerical adjacency)
+
+  #AI
 
 - When comparing networks with similar numbers of parameters, the deeper network typically generalizes better
 
@@ -114,27 +130,39 @@ Cons: Can have sub-optimal accuracy / if deep, expensive to run / unstable one n
 
 - Why we see color: fruit is a bribes trees offer animal to carry their seeds. Signal the bribe with colors. Fruits starts green then changes to red or yellow when ripe.  Fruit eating animals need to see these changes.
 
+#WhoWeAre
+
 - Have realized deep network better and over fitting fears overblown.
 
 - Critics of weak AI objected to the very possibility of intelligent behavior (now seen as short sighted)
 
-- Autonomous weapons scalable weapons of mass destruction. Scale of attach is proportional to amount of hardware one can afford. 
+- Autonomous weapons scalable weapons of mass destruction. Scale of attack is proportional to amount of hardware one can afford. 
    | Leave property intact.  Can be applied selectively - possible untraceable
 
 - k anonymity: a database is k-anonymous  if every record in the database is indistinguishable from at least k-1 others.
 
-- explanations are not decisions, they are stories about decisions
+- Explanations are not decisions, they are stories about decisions
+
+  #AI
 
 - In 1900, 40% of US in agriculture, in 2000 only 2%, in 2010 25% played farmville.
 
 - Almost any tech in the wrong hands can cause harm, but with AI the hands might be operating on their own.
 
+  #AI
+
 - Krakova 2018 (AI agents that have gamed the system)
 https://deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity
+
+ #AI
 
 - Trying to write down all the rules so that the robot always does the right thing is almost certainly hopeless.  
    eg: trying to write loophole-free tax code for several thousand years without success. Better to make a robust sense of "I want to pay my taxes"
 
+#AI #Leadership #Invert
+
 - Some warn we have no experience controlling powerful non-human entities with superhuman capabilities. Not quite true, centuries of experience with nations and corporations. Our record of controlling these entities is not very encouraging. (Wars / Global warming ect)
+
+#AI
 
 - "Money is like gasoline during a road trip. You dont want to run out of gas on your trip, but your not doing a tour of gas stations. You have to pay attention to money, but it shouldn't be all about money."
