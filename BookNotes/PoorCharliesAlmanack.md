@@ -2,9 +2,9 @@
 
 - Excellent.  Beginning slow. Repetitive in places.
 
-
 - Any year where you dont destroy one of your best-loved ideas is probably a wasted year. "John Galbraith"
 
+ #Advice
 
 - Charlies most fundamental guiding principles are: preparation, patience, discipline, and objectivity.
    Preparation: More important than the will to win is the will to prepare
@@ -12,17 +12,25 @@
    		Dont overlook the obvious by drowning in the minutiae. 
    Discipline: Reputation and integrity are you most valuable assets and can be lost in a heartbeat
    
+ #Munger #Advice #Dependability
 
 - "Track records are very important. If you start early to have a perfect track record in some simple thing like honest, you're well on your way to success in this world."
    Charlie Munger
 
+ #Advice
+
 - We dont claim to have perfect morals, but at least we have a huge area of things that, while legal, are beneath us.
   There should be a huge area between everything you should do and everything you can do without getting into legal trouble.
 
+  #Ethics
 
 - The idea that it is hard to find good investments, so concentrate in a few, seems to me to be an obviously good idea. But 90% of the investment wold doesn't think this way.
 
+  #UnpopularTruth
+
 - The ethos of not fooling yourself is one of the best you can possible have.  Its powerful because its so rare.
+
+  #Advice
 
 - Organized common (or uncommon) sense -- very basic knowledge -- is an enormously powerful tool. There are huge dangerous with computers. People calculate too much and think too little.
 
@@ -44,21 +52,29 @@ Elementary Wordly Wisdom:
     - Apply elementary multidisciplinary wisdom, never relying entirely upon others
     - Watch out for combinations of factors ("Lollapalooza effects")
 
+ #Advice #Munger
+
 - If you always tell people why, they will understand better.
    The human mind is not constructed so that it works well without having reasons. You've got to hang reality on a theoretical structure with reasons.
    That the way it hangs together in a usable form. 
 
+ #Leadership
+
 - I asked the guy who sold fishing tackle, "My God, they're purple and green.  Do fish really take these lures ? " He says "Mister, I dont sell to fish"
+
+  #Invert
 
 - Heavy ideology is one of the extreme distorters of human cognition.
 
-
-- Envy: Crime that it is not discussed in academic psychology! Envy made it into 2 or 3 of the 10 commandments!
+- Envy: It is a crime that envy is not discussed in academic psychology! Envy made it into 2 or 3 of the 10 commandments!
 
 - Its very very important to create human systems that are hard to cheat. Otherwise you risk ruining civilization b/c these big incentives will create incentive-caused bias and people will rationalize that their behavior is OK.
 
+  #Ethics
 
 - You have got to know what you know and what you dont know. What could possible be more useful in life than that ?
+
+  #Advice  
 
 - Academic Psychology: Academic psychology departments are immensely more important and useful than other departments think.
   At the same time the psychology departments are immensely worse than most of their inhabitants think.
@@ -67,11 +83,15 @@ Elementary Wordly Wisdom:
 
 - "There is no limit to what a man can do or where he can go if he doesn't mind who gets the credit" Robert Woodruff
 
+  #Advice #ExtremeOwnership #Leadership
+
 - Meetings are indispensable when you dont want to get anything done. "John Galbraith"
 
 - The only function of economic forecasting is to make astrology look respectable. "John Galbraith"
 
 - Thomas Morgan banned the Friden calculator (computer substitute then available) from the biology department. When asked "what the hell are you doing?" He said will I am like a guy who is prospecting for gold along the banks of a river. With a little intelligence, I can reach down and pick up big nuggets of gold. And so long as I can do that, I'm not going to let any people in my department waste resources on panning for gold.
+
+  #Invert
 
 - Often too much emphasis on macroeconomics and not enough on micro. Its like trying to master medicine without knowing any anatomy and chemistry.
 
@@ -81,17 +101,18 @@ Elementary Wordly Wisdom:
 
 - I feel that I'm not entitled to an opinion unless I can state the arguments against my position better than the people who are in opposition.
 
+  #Protocol
+
 - Self-pity is always counterproductive.
 
 - "To persuade, appeal to interest, not reason" - Ben Franklin
 
-
-The Psychology of Human Misjudgment: 
+- The Psychology of Human Misjudgment: 
   "I sought good judgment by collecting instances of bad judgment, then pondering ways to avoid such outcomes."
  1) Reward and Punishment Super-response Tendency:
     - Never, ever, think about something else when you should be thinking about the power of incentives
     - Especially fear professional advice when it is especially good for the advisor.
-    - learn to use the basic elements of your advisors trade as you deal with your advisor
+    - Learn to use the basic elements of your advisors trade as you deal with your advisor
     - Double check, disbelieve, or replace much of what you're told.
     - People who create things (like cash registers) which make dishonest behavior hard to accomplish, are some of the effective saints of civilization; bad behavior is intensely habit forming when it is rewarded.
     - The extreme success of free-market capitalism owes much to its prevention of many bad effects from incentive-caused bias; most capitalist owners in a free market economy are selected for their ability to prevent all waste in their operation. Replacing these owners by salaried employees of the state and you will normally get a substantial reduction in overall efficiency.
@@ -135,3 +156,9 @@ The Psychology of Human Misjudgment:
  24) Reason-Respecting Tendency: Man loves reasons
  25) Lollapalooza Tendency
      - Can get extreme consequences from confluences of psychological tendencies acting in favor of a particular outcome.
+
+ #Munger
+
+- Dread and avoid as much as possible rewarding people for what can be easily faked.
+
+  #Advantage

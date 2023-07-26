@@ -12,14 +12,12 @@
   - Universality is a much more widespread phenomena.
   - Interesting take on Godel's Incompleteness theorem
 
-
 - Like the idea of explicitly categorizing all possibilities and searching through them systematically.
 
 - Studies suggest, if the rules of the system are sufficiently simple, then you can only ever get purely repetitive behavior.
-  IF the rules are more complex, nesting will often appear, and to get complexity in the overall behavior of the system need to go beyond some threshold of complexity.
+  If the rules are more complex, nesting will often appear, and to get complexity in the overall behavior of the system need to go beyond some threshold of complexity.
   Surprising finding is that the threshold is typically extremely low. 
    (of course as is one of the main problems with the book most of this is simply the author's opinion. And things like "sufficiently", "complexity" and threshold are not defined in any meaningful way)
-
 
 - Adding more dimensions does not ultimately seem to have much effect on the occurrence of behavior of any significant complexity.
 
@@ -41,18 +39,23 @@
 
 - A universal system means that by setting up an appropriate initial condition, it is possible to get the system to emulate any type of behavior that can occur in any other system.
 
+  #Computers
+
 - In the past it was assumed that universality is a rare and special quality, only possessed by systems that are specifically constructed to have it. Universality is a much more widespread phenomena.
 
 - Nothing fundamental can ever be gained by using rules that are more complicated than those for the universal cellular automaton. Given the universal cellular automaton, more complicated rules can always be emulated just by setting up initial conditions. (JA: suggests a fundamental rules vs initial conditions trade off) 
 
 - As one looks at cellular automata with progressively greater computational capabilities, one will eventually pass the threshold of universality. Once past this threshold, the set of computations that can be performed will always be exactly the same. (JA: agree in principle. In practice you need to know how to "program" the cellular automata, and have constraints on time and memory. Not clear all are really qualitatively equal. Are there fundamental physical limitations to these "practical" concerns ? eg: enough bits/time in the universe. undecidable search needed to fine the right ICs ect.  )  
 
-
 - In a proof system, as soon as the question of whether a particular string can even be reached is undecidable it immediately follows that there must be either incompleteness or inconsistency. To say that such a question is undecidable is to say that it cannot in general be answered by any procedure guaranteed to finish.
 
-- There must be integer equations that have no solutions but where this fact cannot be proved from the normal axioms of arithmetic. At some level it is a consequence of the involvement of infinity. To have a finite way to address questions about infinite numbers of possible integers, is the main justification for setting up a system of axioms.  Instead of handling objects like integers directly, axiom systems can just give abstract rules for manipulating statements about them. Within such statements one can refer to infinite sets of integers just by a single symbol. (JA: Godels incompleteness as a limit on power to generalize/summarize an infinite system). There has been tremendous sucess in mathematics that can be attributed to this approach. but the remarkable fact (from Godels incompleteness theorm) is that whatever one does there will alway be cases where the approach must ultimately fail. 
+  #Incompleteness
 
-- Claim: Simple infiite quantities like 1/0 or the total number of integers can readily be summarized in finite ways in symbols, the same is not true of all infinite processes. 
+- There must be integer equations that have no solutions but where this fact cannot be proved from the normal axioms of arithmetic. At some level it is a consequence of the involvement of infinity. To have a finite way to address questions about infinite numbers of possible integers, is the main justification for setting up a system of axioms.  Instead of handling objects like integers directly, axiom systems can just give abstract rules for manipulating statements about them. Within such statements one can refer to infinite sets of integers just by a single symbol. (JA: Godels incompleteness as a limit on power to generalize/summarize an infinite system). There has been tremendous success in mathematics that can be attributed to this approach. but the remarkable fact (from Godels incompleteness theorem) is that whatever one does there will always be cases where the approach must ultimately fail. 
+
+  #Incompleteness
+
+- Claim: Simple infinite quantities like 1/0 or the total number of integers can readily be summarized in finite ways in symbols, the same is not true of all infinite processes. 
 
 - Human artifacts are biased by the fact that they must be simple enough so we know what they will do when used. Nature operates under no such constraint. 
 
