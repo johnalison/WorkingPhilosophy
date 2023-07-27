@@ -4,7 +4,11 @@
 
 - Recruit for Attitude, Train for Skill
 
+  #Leadership
+
 - Two qualities I was taught to value most in selecting others for promotion was initiative and aggressiveness.
+
+  #Leadership
 
 - Marines assign an expanded reading lit to everyone promoted to a new rank.
 

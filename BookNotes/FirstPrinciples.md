@@ -29,6 +29,8 @@
 - As circumstances change, be ready to change views and abandon assumptions. Listen to dissenters and know how to weight alternatives.
      Lessons learned by Washington.
 
+     #Advice
+
 - Scotland's influence on American history was profound and remains underappreciated.
 
 - One measure of the significance of a new idea is the degree to which it spurs new thinking in other areas.
@@ -54,13 +56,19 @@
 
 - Being indecisive is decidedly preferable to being decisively wrong.
 
+  #Leadership #Rationality
+
 - Most 18C armies did not fight in the winter b/c it was too hard to supply and army in the field. The American militias were unusually effective in the cold season, for two reasons
   - Farmers serving in the militias were not as busy with crops
   - supplies were harder for the British to come by, forcing foraging parties to march further afield.
 
 - Madison: The purpose of a national government is not just to deal with foreign powers and settle interstate disputes, but to ensure the security of private rights and the steady dispensation of Justice.
 
+  #Politics
+
 - It was Caesar the liberal who overturned the republic, while it was Cato the conservative who died for it.
+
+  #Politics
 
 - The election of 1800 and the peaceful transition from Adams to Jefferson in 1801 is as historically significant as was Washington's stepping down four years earlier.
 
@@ -68,4 +76,6 @@
 
 - The republic had built into it a fatal contradiction: It was founded on a faith in freedom yet on the fact of slavery.
 
-- I'd rater speak sense in one plan and expressive language, than speak nonsense in fifty
+- I'd rater speak sense in one plane and expressive language, than speak nonsense in fifty.
+
+  #PerfectionNotRequired

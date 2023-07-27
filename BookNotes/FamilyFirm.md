@@ -4,6 +4,8 @@
 
 - Family life is a series of day-to-day logistical challenges, punctuated by big complicated, weighty, consequential decisions that you often have no idea how to even think about.
 
+  #Kids  
+
 - Many of the tools needed to run a family are the same as that you need to run a business.
 
 - Making big decision up front will allow you to make smaller decisions faster. This book advocates taking serious time to think about the question of family meals.

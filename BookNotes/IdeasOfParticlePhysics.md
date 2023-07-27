@@ -12,11 +12,13 @@
 
 - Intrinsic parity has meaning only because particles can be created or destroyed. If particles where conserved, then the product of intrinsic parities would always be the same.
 
+  #Physics
+
 - Can determine pion spin from p+ p->d + pi and pi + d -> p +
 
 - Spin splitting from B-field is like mass splitting of isospin from charge.
 
-- 1st massive accelerator experiment In 25 days produced 10^14 nus and got 51 muons
+- 1st massive accelerator experiment: In 25 days produced 10^14 nus and got 51 muons
 
 - Kaons produced by strong interactions (ks or \bar{k}) but they decay as k_L or k_S
 
@@ -49,11 +51,14 @@
 - Number of fundamental particles in SM:
    45 spin-1/2:
        15 * 3(families) = (1 nu (L-only) + 2 charged-leps (Land R) + 3(colors)*2(flavors)*2(helicities))x 3
-   12 gauge bosons:
+   12 gauge bosons: (27 DoF)
        8 gluons + W+ W- Z + gamma
+       8*2 + 3x3 + 2 = 27
    1 Higgs boson
 
 - Question: How to think about anomalies in an EFT ?
+
+  #Question
 
 - 19 Free parameters in the SM
    18 + 1 (theta QCD ~0) 

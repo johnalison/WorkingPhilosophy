@@ -1,18 +1,26 @@
 # Our Oriental Heritage (Will Durant)
 
-- Man differs from beast on by education, which can be defined as the technique of transmitting civilization.
+- Man differs from beast by education, which can be defined as the technique of transmitting civilization.
 
 - Let us, before we die, gather up our heritage, and offer it to our children.
 
 - The moment man begins to think about tomorrow he passes out of the Garden of Eden into the vale of anxiety; the pale cast of worry settles down upon him, greed is sharpened, property begins, and the good cheer of the "thoughtless" native disappears.
 
+  #WhoWeAre #Buddhism
+
 - Most of history is guessing, the rest is prejudice.
+
+  #History
 
 - Property was the mother, war the father, of the state
 
 - Power, like taxes, succeeds best when it is invisible and indirect.
 
-- Custom gives the same stability to the group that heredity and instinct give to the species, and habit to the individual. It is the routine that keeps men sane; for if there were no grooves along which thought and action might move with unconscious ease, the mind would be perpetually hesitant, and would soon take refuge in lunacy. #WhoWeAre
+  #Leadership
+
+- Custom gives the same stability to the group that heredity and instinct give to the species, and habit to the individual. It is the routine that keeps men sane; for if there were no grooves along which thought and action might move with unconscious ease, the mind would be perpetually hesitant, and would soon take refuge in lunacy.
+
+  #WhoWeAre
 
 - Liberty is a luxury of security; the free individual is a product and mark of civilization.
 
@@ -20,17 +28,23 @@
 
 - Men are more easily ruled by imagination than by science.
 
+  #Politics #Science
+
 - Civilization is an accumulation, a treasure-house of arts and wisdom, manners and moral , from which the individual, in his development, draws nourishment for his mental life. It owes its life to education.
 
-- when Thoth revealed his discovery of the art of writing to King Thamos, the good King denounced it as an enemy of civilization. "Children and young people who had hitherto been forced to apply themselves diligently to learn and retain whatever was taught them would cease to apply themselves and would neglect to exercise their memories"
+- When Thoth revealed his discovery of the art of writing to King Thamos, the good King denounced it as an enemy of civilization. "Children and young people who had hitherto been forced to apply themselves diligently to learn and retain whatever was taught them would cease to apply themselves and would neglect to exercise their memories"
 
 - If the sense of beauty is not strong in primitive society it may be because the lack of delay between sexual desire and fulfillment gives no time for that imaginative enhancement of the object which makes so much of the objects beauty.
 
 - In one sense all human history hinges on two revolutions: the neolithic passage from hunting to agriculture, and the modern passage from agriculture to industry; no other revolutions have been quite as real or basic as these.
 
+  #History
+
 - The earliest appearance of writing marks that ever-receding point at which history begins.
 
 - History, said Bacon, is the planks of a shipwreck; more of the past is lost than has been saved. We console ourselves with the thought that as the individual memory must forget the greater part of experience in order to be sane.
+
+  #History
 
 - King Manishtusu of Akkad announced frankly that he was invading Elam to get control of its sliver mines, and to secure diorite stone to immortalize himself with statuary - the only instance known of a war fought for the sake of art.
 
@@ -44,11 +58,11 @@
 
 - The recovery of Egypt is one of the most brilliant chapters in archaeology. The Middle Ages know of Egypt as a Roman colony and a Christian settlement; the Renaissance presumed that civilization had begun with Greece; even the Enlightenment, though it concerned itself intelligently with China and India, know nothing of Egypt beyond the Pyramids. Egyptology was a by-product of Napoleonic imperialism.
 
-- The first person in known history is not a conqueror or a king bug an artist and a scientist - Imhotep, physician, architect and chief adviser of King Zoser (3150 BC).
+- The first person in known history is not a conqueror or a king but an artist and a scientist - Imhotep, physician, architect and chief adviser of King Zoser (3150 BC).
 
 - Civilization like life, destroys what it has perfected.
 
-- the alternation between centralized and decentralized power is one of the cyclical rhythms of history, as if man tried alternately of immoderate liberty and excessive order.
+- The alternation between centralized and decentralized power is one of the cyclical rhythms of history, as if man tried alternately of immoderate liberty and excessive order.
 
 - Ancient civilizations where little isles in a sea of barbarism, prosperous settlements surrounded by hungry, envious and warlike hunters and herders; at any moment the wall of defense could be broken down.
 
@@ -70,6 +84,8 @@
 
 - Sometimes thought overcomes belief, and men no longer know how or why they should live. Such periods do not endure; hope soon wins the victory over thought; the intellect is put down to its customary menial place, and religion is born again, given to men the imaginative stimulus apparently indispensable to life and work.
 
+  #Religion
+
 - The effect or remembrance of what Egypt accomplished at the very dawn of history has influence in every nation and every age.  We shall do well to equal it.
 
 - No one looking at the site of ancient Babylon today would suspect that this land was once the rich and powerful capital of a civilization that almost created astronomy, added richly to the progress of medicine, established the science of language, prepared the first great codes of law, taught the Greeks the rudiments of mathematics, physics, and philosophy, gave the Jews the mythology which they gave to the world, and pass on to the Arabs part of that scientific lore with which they aroused the dormant soul of medieval Europe.
@@ -88,6 +104,8 @@
 
 - A nation is born stoic, and dies epicurean. At its cradle religion stands, and philosophy accompanies it to the grave.
 
+   #Stoic #Religion #Philosophy #Epicurean
+
 - Evil does not destroy faith, but strengthens it.
 
 - It was from Babylonia, rather than from Egypt, that the roving Greeks brought their city-states and thence to Rome and ourselves, the foundations of mathematics, astronomy, medicine, grammar, lexicography, archaeology, history and philosophy.
@@ -102,7 +120,9 @@
 
 - From those troubled times till ours that Law has been the central fact in the life of the Jews; and their loyalty to it through all wanderings and tribulations has been one of the most impressive phenomena of history.
 
-- Nowhere is there so much killing as in the Old Testament; its chapters oscillate between slaughter and compensatory reproduction. The prophets were not pacifists and the priests were almost as fond of was as of preaching. Among the nineteen kings of Israel eight were assassinated.
+- Nowhere is there so much killing as in the Old Testament; its chapters oscillate between slaughter and compensatory reproduction. The prophets were not pacifists and the priests were almost as fond of war as of preaching. Among the nineteen kings of Israel eight were assassinated.
+
+ #Religion
 
 - Men look to love and life for everything; they receive a little less than that; and imagine they have received nothing; #WhoWeAre
 
@@ -119,6 +139,8 @@
 - Zoroastrians: All in all it was a splendid religion, less warlike and bloody, less idolatrous and superstitions, than they other religions of its time; it did not deserve to die so soon.
   But humanity loves poetry more than logic, and without a myth the people perish.
 
+#Religion
+
 - It is unfair to judge the people from their kings; virtue is not news, and virtuous men, like happy nations, have no history.
 
 - It is in the nature of an empire to disintegrate soon, for the energy that create it disappears from those who inherit it, at the very time that its subject peoples are gathering strength to fight for their lost liberty.
@@ -126,6 +148,8 @@
 - Nothing should more deeply shame the modern student than the recency and inadequacy of his acquaintance with India.
 
 - The invasion and conquest of India by the Aryans was part of that ancient process whereby, periodically, they north has swept down violently upon the settled and pacified south; this has been one of the main streams of history, on which civilizations have risen and fallen like epochal undulations.  Forever the north produces rulers and warriors, the south produces artists and saints, and the meed inherit heaven.
+
+  #Religion #History
 
 - A nation, like an individual, begins with poetry and ends with prose.
 
@@ -135,9 +159,13 @@
 
 - Upanishads are the oldest extant philosophy and psychology of our race; the surprisingly subtle and patient effort of man to understand the mind and the world, and their relation. The Upanishads are as old as Homer, and as modern as Kant.
 
+  #Buddhism #Philosophy
+
 - The essences of ourselves is not the body, or the mind, or the individual ego, but the silent and formless depth of being with us, Atman.
 
 - Happiness is possible neither here, as paganism thinks, nor hereafter, as many religions think. Only peace is possible, only the cool quietude of craving ended, only Nirvana.
+
+  #Happiness #Buddhism
 
 - Buddha was more patient and considerate than any other of the great teachers of mankind.
 
@@ -149,7 +177,11 @@
 
 - It is foolish to suppose that another can cause us happiness or misery. These are always the product of our own behavior and our own desires.
 
+  #Happiness
+
 - The transcendental unity of perception, this "mind" that waves sensations and perceptions into thought, is a ghost; all that exists is the sensations and perceptions themselves, falling automatically into memories and ideas.
+
+  #Buddhism
 
 - If there is no soul, how can it pass into other existences, to be punished for the sins of this embodiment? Here is the weakest point of Buddha's philosophy; he never quite faces the contradiction between his rationalistic psychology and his uncritical acceptance of reincarnation.
 
@@ -161,14 +193,18 @@
 
 - (From a footnote) Vikramaditya, who ruled the Chalyukans for half a century (1076-1126), was so successful in war that he proposed to found a new chronological era, dividing all history into before him and after him. Today he is a footnote.
 
+  #History
+
 - The Mohammedan conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precarious thing, whose delicate complex of order and liberty, culture and peace may at any time be overthrown by barbarians invading from without or multiplying from within. For 400 years (600- 1000 AD) India invited conquest; and at last it came. 
   The invaders were armed with a religion militaristic in operation, but far superior in its stoical monotheism to any of the popular cults of India.
   The bitter lesson that may be drawn from this tragedy is that eternal vigilance is the price of civilization. A nation must love peace, but keep its power dry.
-  #Politics
+  #Politics  #KeepYourPowderDry
 
 - In the 7C the Arabs captured Persia and Egypt, and thereafter trade between Europe and Asia passed through Muslim hands; hence the Crusades, and Columbus.
 
-- Should marriage be arrange to coincide with sexual maturity, or should it be postponed, as in America, until the male arrives at economic maturity? The first solution apparently weakens the national physique, unduly accelerates the growth of the population, and sacrifices the women almost completely to reproduction; the second solution leaves the problems of unnatural delay, sexual frustration, prostitution, and venereal disease.
+- Should marriage be arranged to coincide with sexual maturity, or should it be postponed, as in America, until the male arrives at economic maturity? The first solution apparently weakens the national physique, unduly accelerates the growth of the population, and sacrifices the women almost completely to reproduction; the second solution leaves the problems of unnatural delay, sexual frustration, prostitution, and venereal disease.
+
+  #History
 
 - Life is a stage with one entrance, but many exits.
 
@@ -181,15 +217,21 @@
 - Karma is not Fate; Fate implies the helplessness of man to determine his own lot; Karma makes him the creator of his own destiny.
   Biologically there is much truth in this doctrine. We are the reincarnations of our ancestors, and will be reincarnated in our children; and the defects of the fathers are to some extent visited upon the children, even through many generations.
 
+ #Buddhism
+
 - To explain evil, and to find for man some scheme in which they may accept it, if not with good cheer, then with peace of mind - this is the task that most religions have attempted to fulfill.  Since the real problem of life is not suffering but undeserved suffering, the religion of India mitigates the human tragedy by given meaning and value to grief and pain. #Religion
 
 - The East, until reached by the Industrial Revolution, could not understand the zest with which the Occident has taken to life; it saw only superficiality and childishness in our merciless busyness, our discontented ambition, our nerve-racking labor-saving devices, our progress and speed; it could no more comprehend this profound immersion in the surface of things, this clever refusal to look ultimate's in the face, than the West can fathom the quiet inertia, the "stagnation" and "hopelessness" of the traditional East. Heat cannot understand cold.
+
+  #Happiness
 
 - Man after man dies, seeing this man still moves about as if they where immortal
 
 - India has enjoyed a freedom of thought far greater than that of medieval Europe. There has been comparatively little sectarian animosity within the Hindu community, and no blood has been shed for religion in India except by its invaders. Intolerance came with Islam and Christianity.
 
 - There is no humorist like history.
+
+  #History
 
 - Fools can invent more hypotheses than philosophers can ever refute, and philosophers often join them in the game. #Philosophy
 
@@ -213,12 +255,16 @@
 
 - If resistance is encountered, the wiser course is not to quarrel, fight, or make war, but to retire silently, and to win, if at all, through yielding and patience; passivity has its victories more often than action. - Lao-tze
 
+  #RespondDontReact
+
 - One must have a long urban background in order to write rural poetry.
 
 - If one follows nature and acts naturally he is much more likely to murder and eat his enemies than to practice philosophy; there is small chance of his being humble, and less of his being silent. Even the painful tillage of the soil goes against the grain of a species primordially wont to hunt and kill; agriculture is as "unnatural" as industry. #WhoWeAre
 
 - The foundation of character is sincerity. He acts before he speaks and afterwards speaks according to his actions.
   He is modest in his speech but exceeds in his actions. He seldom speaks; when he does he is sure to hit the point.
+
+  #BeTheGood
 
 - Is there one word which may serve as a rule of practice for all ones life?  Yes, reciprocity.
 
@@ -244,11 +290,15 @@
 
 - The first lesson of philosophy is that we may all be mistaken.
 
+  #Philosophy
+
 - "Foolish men, while doing cooked things, offer their prayers to questionable gods, striving to obtain happiness" - Ekkens philosophy
 
 - More from Ekken:
 
    Do not let a day slip by without enjoyment .. Do not allow yourself to be tormented by the stupidity of others. The world has never been free of fools. Sake is the beautiful gift of Heaven. Drunk in small quantities it expands the heart, lifts the downcast spirit, downs cares, and improves health. Thus it helps a man and also his friends to enjoy pleasures. But he who drinks too much loses his respectability.
+
+   #Happiness
 
 - The "Battle of the Sea of Japan" was a turning point in modern history. Not only did it end the expansion of Russia into Chinese territory; it ended also the rule of Europe in the East, and began that resurrection of Asia which promises to be the central political process of our century.
 
