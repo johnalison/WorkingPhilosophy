@@ -6,6 +6,8 @@
 
 - The Russian Revolution and subsequent civil war were perhaps the most significant events in the 20th C.
 
+  #History
+
 - He himself was a real soldier, for he was hard on himself, but it seemed that he dared not demand too much from his subordinates.
 
 - Europe's policy is dictated by the following causes: the post-war industrial revival demands raw-materials, there is shortage of the materials which formerly came from Russia, and the gap cannot be filled from elsewhere. 

@@ -16,7 +16,6 @@
   - Each goal is recorded on no more than a single page. The goal and the performance standard should take no more than 250 words.
   - A philosophy of "No Surprises", everyone knows what is expected from the beginning.
 
-
 - A problem only exists if there is a difference between what is _actually_ happening and what you _desire_ to be happening.
 
 - Tell your people that:
@@ -26,18 +25,22 @@
   - Caution them that this might be uncomfortable at first. (b/c most managers dont manage this way and people aren't used to it.
   - Assure them that feedback will be a big help to them.
 
+#Leadership
+
 - Try to catch your subordinates doing something right.
 
 - Help people reach their full potential, catch them doing something right.
 
 - If you have been doing your job for some time and you know how to do it well, and you make a mistake, the one minute manager is quick to respond.
-  - he comes to see me.
+  - He comes to see me.
   - First confirms the facts
   - Then explains precisely what I did wrong, and how he feels about it.
   - He lets it sink in.
   - Then he lets me know how competent he think I am usually.
 
 - The best minute you spend is the one you invest in people.
+
+#Leadership
 
 - How long would you want to bowl if there were no pins?
 
