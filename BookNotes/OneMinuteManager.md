@@ -60,4 +60,6 @@
      they said, "You know who's really starting to come around -- the PM". So they brought him into office.
   - Moral: If you are first tough on behavior, then supportive of the person, it works.
 
-- Ask brief, important questions; speak simple truth; laugh, work and enjoy. 
+- Ask brief, important questions; speak simple truth; laugh, work, and enjoy.
+
+#Advice #Protocol
