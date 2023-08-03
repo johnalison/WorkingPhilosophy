@@ -8,6 +8,8 @@
 
 - The awakening described in this book is a fundamental recognition of the inherent insubstantially or emptiness of the person you take yourself to be and a radical shift in your identity from being the suffering separate self to being the eternal witness, the limitless space or ground in which all experiences arise.
 
+#WhoWeAre
+
 - When you awaken you realize that the separate person you took yourself to be is just a construct, a mental fabrication -- a collection of thoughts, feelings, memories, beliefs, and stories that have been woven together by the mind in to the appearance of a substantial, continuous someone which certain abiding qualities and characteristics.
 
 - You are being itself. Which cannot be located or grasped with the hands or mind but can be directly intuited or perceived.
