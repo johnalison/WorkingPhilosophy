@@ -34,7 +34,7 @@
 
 - Equality is unnatural; and where ability and subtlety are free, inequality must grow until it destroys itself in the indiscriminate poverty of social war; liberty and equality are not associates but enemies. The concentration of wealth begins by being inevitable and ends by being fatal.
 
-  #Politicis #DEI
+  #Politics #DEI
 
 - The Greeks spread into all of southern Europe the seeds of that subtle and precarious luxury called civilization, without which life would have no beauty, and history no meaning.
 
