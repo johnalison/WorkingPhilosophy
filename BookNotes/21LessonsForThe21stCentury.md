@@ -58,7 +58,7 @@
 
 - How do you regulate the ownership of data ? This may well be the most important political question of our era. #Questions
 
-- Pundits often blame feelings of alienation on the decline of religious and national bonds, but losing touch with your body is probably much more important. Humans have lived for millions of years with out churches and without nation states. #Political #WhoWeAre
+- Pundits often blame feelings of alienation on the decline of religious and national bonds, but losing touch with your body is probably much more important. Humans have lived for millions of years with out churches and without nation states. #Politics #WhoWeAre
 
 - We know of no upper limit to the size of a group  with which people can identify. Most present day nations include more people than the entire world population 10k years ago. 
 
