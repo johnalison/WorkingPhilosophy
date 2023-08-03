@@ -58,7 +58,7 @@
 
 - Question: How to think about anomalies in an EFT ?
 
-  #Question
+  #Questions
 
 - 19 Free parameters in the SM
    18 + 1 (theta QCD ~0) 

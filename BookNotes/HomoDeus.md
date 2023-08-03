@@ -6,7 +6,7 @@
 
 - For the first time in history, more people die today from eating too much than from eating to little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined. #NowIsDifferent
 
-- Humankind in the 21st century needs to ask itself an unprecedented question: what are we going to do with ourselves ? In a healthy, prosperous and harmonious world, what will demand our attention and ingenuity? #NowIsDifferent #Question
+- Humankind in the 21st century needs to ask itself an unprecedented question: what are we going to do with ourselves ? In a healthy, prosperous and harmonious world, what will demand our attention and ingenuity? #NowIsDifferent #Questions
 
 - Mass famines still strike some areas from time to time, but they are exceptional, and they are almost always caused by human politics rather than natural catastrophes. There are no longer natural famines in the world; there are only political famines. #Politics #NowIsDifferent
 
