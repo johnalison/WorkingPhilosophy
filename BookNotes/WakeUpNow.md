@@ -12,16 +12,26 @@
 
 - When you awaken you realize that the separate person you took yourself to be is just a construct, a mental fabrication -- a collection of thoughts, feelings, memories, beliefs, and stories that have been woven together by the mind in to the appearance of a substantial, continuous someone which certain abiding qualities and characteristics.
 
+#WhoWeAre
+
 - You are being itself. Which cannot be located or grasped with the hands or mind but can be directly intuited or perceived.
   You can know with certainty what you are, but are not quite able to describe how you know.
+
+#WhoWeAre
 
 - Everything you can hear, see, smell, taste, touch, feel, and think -- everything with qualities or characteristics -- is an experience, an object of your observation, and therefore cant possibly be the you who experiences or observes. The real question is who or what is this you, this me? Spiritual awakening means waking up to the experiencer, the witness, pure being itself, the one who is eternally aware.
 
 - Recognize that you are the light of consciousness, pure awareness, the impersonal witness.  Then deepen to know that the witness and what is witnessed, observer and observed, subject and object, you and the objects of your experience, are inseparable. They are both manifestations of some deeper reality or mystery that enlivens, encompasses, and gives rise to everything else.
 
+#WhoWeAre
+
 - Everyday reality is merely a reflection of some deeper truth that's close at hand but hidden from view.
 
+#ImportantUnpopularTruth
+
 - The Truth cannot be found through seeking, but only seekers find it.
+
+#Paradox
 
 - Against the progressive approach:
     The danger of investing your energy in seeking is that you ll end up a perpetual seeker, without ever finding what you were looking for in the first place.
@@ -31,7 +41,7 @@
 
 - You come to see that the separate self is just a construct and the feeling are just that -- merely feelings -- and have noting to do with who you really are, which is the limitless space in which thoughts and feelings arise.
 
-- Whatever  concepts you have about yourself cannot be true.
+- Whatever concepts you have about yourself cannot be true.
 
 - You are awareness. Awareness is another name for you. Since you are awareness, there's no need to attain or cultivate it. You are the welcoming space in which reality reveals itself.
 
@@ -51,6 +61,8 @@
 
 - In the end meditation is supremely simple, just sit down and let everything be as it is. Any attempt to manipulate or calm the mind or make meditation happen just interferes with you natural state of true meditation. Remain as you are without question or doubt, that's your natural state.
 
+#Protocols
+
 - Eventually the sense of a separate experiencer may drop away and only experiencing remains. No separation between subject and object -- just this!
 
 - Experiencing arises in a limitless stillness and silence that cant be experienced in any way. This is your own Self, unconditional presence consciousness without a second, the source of all experience.
@@ -63,9 +75,11 @@
 
 - The space and openness that reveals itself in the gaps between you're feeling of a substantial self, is your true nature.
 
-- In self-inquiry, you generally  start out looking for what you are but end up encountering everything you;re not -- your body, your sensate experiences, your thoughts, your emotions -- until you find yourself on the outer margins of the known, at the precipice of the unknown. Once the mind exhausts itself in the search, which is the purpose of the self-inquiry, you're available to be taken by the realization of what you are, not as another thought or experience, but as a living reality.
+- In self-inquiry, you generally  start out looking for what you are but end up encountering everything you're not -- your body, your sensate experiences, your thoughts, your emotions -- until you find yourself on the outer margins of the known, at the precipice of the unknown. Once the mind exhausts itself in the search, which is the purpose of the self-inquiry, you're available to be taken by the realization of what you are, not as another thought or experience, but as a living reality.
 
-- When you fully realize that what you;re looking seeking doesn't exist in manifestation and cant be found "out there" in experiences or states of any kind, there's a relaxation of being and a cessation of seeking.
+#WhoWeAre
+
+- When you fully realize that what you're seeking doesn't exist in manifestation and cant be found "out there" in experiences or states of any kind, there's a relaxation of being and a cessation of seeking.
 
 - Anything you can perceive, no matter how intimate -- including  physical body and the cluster of images, memories, thoughts, feelings, and beliefs that constitute the mind -- is merely an object of perception; it cant possibly be the preceiver, the "I" in "I notice, I think, I feel".
 
@@ -79,6 +93,8 @@
 
 - Where do you suppose your thoughts arise ? If you say, "In my head" then try to locate them. Where exactly does your thought occur? How big are your thoughts ? What color, shape, and density? They seem to have so much reality, but can you point to them or describe them with any degree of accuracy ? What happens to you thoughts when you try to describe them?
 
+#Protocols
+
 - Consciousness and its objects are one.
 
 - Instead of practicing presence, rest as primordial awareness itself.
@@ -87,11 +103,11 @@
 
 - Rather than localizing yourself in the brain, you now recognize that thoughts, images, feelings, and memories actually arise in a timeless, boudaryless space.
 
-- The next step is to recognize that everything with exception has ultimate value and meaning because everything is not not separate from who you are.
+- The next step is to recognize that everything without exception has ultimate value and meaning because everything is not not separate from who you are.
 
 - If you over emphasize emptiness, you risk becoming detached, distant and uncaring. If you overemphasis form, you risk becoming embroiled in the dream once again.
 
-- The everyday world is nothing other than the lofty spiritual reality we're searching for, yet the spiritual reality doesn't;t exist in some distant abstract dimension, but inevitable and spontaneously expresses itself as the everyday world.
+- The everyday world is nothing other than the lofty spiritual reality we're searching for, yet the spiritual reality doesn't exist in some distant abstract dimension, but inevitable and spontaneously expresses itself as the everyday world.
 
 - Find yourself "behind" in the back of the head, rather than in the "thought factory" of the neocortex.
 
@@ -103,6 +119,6 @@
 
 - Who do I take myself to be ? What is my original face before the ego was born? Who am I really?
 
-- When I look within and see that I;m nothing, that's wisdom. When I look without and see that I'm everything, that's love.
+- When I look within and see that I'm nothing, that's wisdom. When I look without and see that I'm everything, that's love.
 
-
+#WhoWeAre
