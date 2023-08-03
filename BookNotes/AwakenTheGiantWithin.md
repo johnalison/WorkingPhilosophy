@@ -4,7 +4,7 @@
 
 - Our belief are like unquestioned commands, telling us how things are, what is possible and impossible.
 
-- The best strategy in almost any case is to find a role model. Someone who's already getting the results you want and then tap into their knowledge. #RoleModel #MentalModels #Rationality
+- The best strategy in almost any case is to find a role model. Someone who's already getting the results you want and then tap into their knowledge. #RoleModels #MentalModels #Rationality
 
 - Lots of people know what to do, but few actually do what they know. #BeTheGood
 
