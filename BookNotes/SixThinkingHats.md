@@ -132,7 +132,7 @@
 
 - One of the weakest aspects of creativity is the "harvesting" of ideas.
 
-- Would be nice if everyone could see in an idea the brilliance and potential that is obvious to the originator. This is often not the case. Part of the create process is to shape the idea so that it better fits the need profile of those who are going to have to "buy" the idea. #AdjacentPossible #SeeTheGood #SeelTheGood
+- Would be nice if everyone could see in an idea the brilliance and potential that is obvious to the originator. This is often not the case. Part of the create process is to shape the idea so that it better fits the need profile of those who are going to have to "buy" the idea. #AdjacentPossible #SeeTheGood #SeeTheGood
      eg: Is there a way this idea can be seen as saving money ?
      	 How can this been seen as an extension of what we are currently doing ?
 
