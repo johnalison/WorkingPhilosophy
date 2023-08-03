@@ -6,7 +6,7 @@
 
 - Will also implement the slip box system.
 
-- p0: Thinking is something that is best done externally, in notes or in conversation, not all in ones head. #Systems
+- p0: Thinking is something that is best done externally, in notes or in conversation, not all in ones head. #SystemsNotGoals
 
 - p1: Writing critical to thinking and the end product of knowledge work, yet crazy how little time/effort is put into training us on how to do it right. Most training skips the most important aspects of learning/developing ideas, which is how to take good notes. #ShouldTeachKids
 
