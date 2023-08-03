@@ -57,7 +57,7 @@
     T = ln2 / R
     ln2 ~ 72
 
-    #Protocol
+    #Protocols
 
 - Dollar-cost averaging prevents the investor from concentrating his buying at the wrong times.
    "No one has yet discovered any other formula for investing which can be used with so much confidence of ultimate success, regardless of what may happen to security prices, as Dollar Cost Averaging.
@@ -142,7 +142,7 @@
 - You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.  
      Protocol: Cherish the times that you are out of step with the crowd, here lies money.. if you are right.
 
-     #Protocol
+     #Protocols
 
 - To achieve satisfactory investment results is easier than most people think; to achieve superior results is harder than most people think.
 

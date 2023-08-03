@@ -116,7 +116,7 @@
 
 - Scientists dont know how a collection of electrical brain signals creates subjective experiences. Even more crucially, they dont know what could be the evolutionary benefit of such a phenomenon. Ironically the better we map the brain, the harder it becomes to explain conscious feelings, the more redundant the mind seems. IF the entire system works by passing electrical signals from here to there, why the hell do we also need to feel fear ? #Consciousness #Paradox
 
-- If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? #Question #Consciousness
+- If we cannot explain the mind and if we dont know what function it fulfills, why not just discard it? #Questions #Consciousness
 
 - Everything a human does -- including reporting on allegedly conscious states -- might in theory be the work of non-conscious algorithms. #Consciousness
 
