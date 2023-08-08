@@ -4,7 +4,7 @@
 
 - The book argues explicitly for a position that many think flies in the face of common sense "That we are not selves", nor do we have selves. I will not argue that we do not exist. (That would be madness) But I will argue that we exist not as selves, but as persons.
 
-- too often what masquerades as common sense is in fact nonsense. Any philosophical program that takes our commonsense intuitions for granted, and then takes as its task to defend them by elucidating them, or making them more precise, may simply ramify confusion instead of generating clarity.
+- Too often what masquerades as common sense is in fact nonsense. Any philosophical program that takes our commonsense intuitions for granted, and then takes as its task to defend them by elucidating them, or making them more precise, may simply ramify confusion instead of generating clarity.
 
 - Many people take themselves to be selves and not persons in the relevant sense and that are wrong to do so.
 
@@ -44,6 +44,8 @@
 
 - A complete inventory of the basic constituents of the world, even if it contains chariot parts, contains no chariots. This is how we should think of the person and his relation to that name. He is no singular entity. He is neither identical to no distinct from his parts. A final account of the basics constituents of the world, even were it to contain his hair, fingers, desires, and experiences, could not contain the person. He does not exist in the way we might have imagined him to exist before we considered the matter with care.
 
+#WhoWeAre
+
 - Any account of personal identity must explain how and why we persist over time. A self would seem to do that; in its absence, we need an alternative account.
 
 - We are causally and cognitively open continua of psychophysical processes. No one of these processes by itself captures who we are; none persist unchanged over time; none are independent of the others. Together they constitute our conventional identity, an identity we can now see to be very robust indeed. We do not stand over and against the world as isolated subjects; we do not act on the world as transcendent agents. Instead, we are embedded in the world as part of an interdependent reality.
@@ -66,7 +68,9 @@
 
 - The complex of perceptual processes realized in our nervous systems creates an experience for us. But it cannot do this by somehow transporting external objects and their properties into our skulls. What we construct in response to the causal interaction with our sense organs depends not only on what impinges on them, but on the kinds of sense organs we have, and the kings of processing that occurs in our nervous system.   This means that the world we experience is not dually related to us, and independent, but one that we construct in our ongoing engagement with our environment.
 
-- Much of our live is structured by the illusion that we just find what we in fact construct; but the fact that this illusion (the dichotomy of self and other) structures so much of our experience does not mean that it is not an illusion.
+#WhoWeAre 
+
+- Much of our life is structured by the illusion that we just find what we in fact construct; but the fact that this illusion (the dichotomy of self and other) structures so much of our experience does not mean that it is not an illusion.
 
 - Among the illusions for which we seem to be wired is the illusion that our decisions to act are uncased.
 
@@ -81,7 +85,7 @@
 - The self is taken to be preexisting, primordial, unitary, and transcendent of the world of objects, independent of body, mind, and social context. The person is constructed; The person is dependent on the psychophysical and social network in which it is realized. The person is complex, embodied and embedded. That is the difference between the actor and the role. We are roles, not actors.
 
 - By distinguishing from the self and the person we can separate what we are from what we naively take ourselves to be; we can distinguish the reality of our existence from its appearance. We can come to see just how powerfully cognitive instinct can shape our sense of who and what we are. And this in turn can dislodge an entire set of seductive myths to  which we also unreflectively subscribe, all myths grounded in the self illusion:
-  -) That we know know ourselves immediately and infallibly as selves
+  -) That we know ourselves immediately and infallibly as selves
   -) there is something irreducibly special or transcendent about our mode of existence
   -) that the so-called first person perspective involves a specially kind of immediate self-access
  To dispel these myths is philosophical progress 
@@ -89,6 +93,8 @@
 - The Cartesian argument for the self (I think, therefore I am) occurs much earlier in the work of the Indian philosopher Uddyotakara
 
 - Another central premise of the Cartesian argument is manifestly false: that only substances can act or have properties. Such composite, non-substantial entities as corporations, committees, colleges, and nations have plenty of properties and perform plenty of actions.
+
+#UsedToBelieve
 
 - There is no reason not to believe that composite, non-substantial persons can have properties, such as thinking, as well.
 
@@ -104,7 +110,7 @@
 
 - If I am truly immersed in an experience, my own subjectivity is the furthest thing from my mind. If I am just a stream of psychophysical processes there may be nothing beyond the stream of which to be aware.
 
-- Tsongkhapa;s advice is that only long-term meditative exercise is capable of ridding us of the innate sense of self; it is too wired into our psyche to be extirpated just by doing philosophy. This is indeed why meditative practice is so important in Buddhist traditions: it is a vehicle through which philosophy can be transformative, by allowing that philosophy to seep so deeply into our consciousness that it comes to shape our experience.
+- Tsongkhapa's advice is that only long-term meditative exercise is capable of ridding us of the innate sense of self; it is too wired into our psyche to be extirpated just by doing philosophy. This is indeed why meditative practice is so important in Buddhist traditions: it is a vehicle through which philosophy can be transformative, by allowing that philosophy to seep so deeply into our consciousness that it comes to shape our experience.
 
 - We dont succumb to the illusion of the self at every waking moment. There are times when we dont represent ourselves as selves  at all, when we spontaneously engage with the world in ways that implicate no sense of self.
 

@@ -13,9 +13,9 @@
 
 - Money also serves as a unit of account: a metric with which to measure interpersonal value.
 
-- Historically different media served the function of money during a period which it had one of the best stock-to-flow ratios available to its population, but stopped when it lost that property.
+- Historically, different media served the function of money during a period which it had one of the best stock-to-flow ratios available to its population, but stopped when it lost that property.
 
-- gold is so chemically stable that it is virtually impossible to destroy; gold is impossible to synthesize from other materials and can only be extracted from its unrefined ore, which is extremely rare on our planet.
+- Gold is so chemically stable that it is virtually impossible to destroy; gold is impossible to synthesize from other materials and can only be extracted from its unrefined ore, which is extremely rare on our planet.
 
 - Silver may maintain its sporting connection for second place, but with notes that allow payments without having to move the monetary unit itself, second place in monetary competition is equivalent to losing out.
 
@@ -53,6 +53,8 @@
 
 - In the presence of fiat money to finance government, political differences between parties disappear as politics no longer contains trade-offs and every candidate can champion every cause.
 
+#Politics
+
 - Hyperinflation is a form of economic disaster unique to government money. There was never an example of hyperinflation with economies that operated a gold or silver standard.
 
 - The problem with government money is that its hardness depends entirely on the ability of those in charge to not inflate its supply. Only political constraints provide hardness, and there are no physical, economic, or natural constraints on how much money government can produce.
@@ -67,10 +69,12 @@
 
 - Increasing the supply of the monetary medium does not increase the wealth of the society using it.
 
-- golds monetary role is a result of it being the metal likely to attract the **_least_** human and capital resources toward its mining compared to all others.
+- Golds monetary role is a result of it being the metal likely to attract the **_least_** human and capital resources toward its mining compared to all others.
   Mining monetary gold would be less profitable than mining any other metal assuming a monetary role. If any other metal were used as the monetary medium, savings would be effectively stolen form the savers to reward people who engage in mining metals at quantities far beyond their economic use.
 
 - The folly of Keynes condemning gold as money because its mining is wasteful is that it is the **_least_** wasteful of all potential metals to use as money. The folly is doubly compounded by Keynes' "solution" to this shortcoming being to propose a fiat monetary standard which has ended up dedicating far more human time, labor and resources toward the management of the issuance of the money supply and the profiting from it.
+
+  #UnpopularTruth
 
 - Moneys marginal utility declines far slower than any other good, because it declines along with the utility of wanting any good, not one particular good.
 
@@ -112,18 +116,17 @@
 
 - Bitcoin as Digital Cash
 
-
-
    Cash payments:
      Advantages: immediate and final, require no trust on the part of either transacting party. No delay in the execution of the payment. no third party can effectively intervene to stop such payments. 
      Disadvantages: need for two parties to be physically present in the same place at the same time.
-
 
    Intermediated payments:
      Advantages: allow payment without two parties in the same location at the same time. payer can make payment without carrying their money on them. 
      Disadvantages: Require a third party. Costs to make and clear payments
 
   Bitcoin has the upsides of both with out the disadvantages.
+
+  #Crypto
 
 - As more transactions take place at a distance (eg: over the internet) physical cash transactions become impractical
 
@@ -168,3 +171,4 @@
 - Its not the currency or the transactions that require so much processing power; make the entire system trustless does.
 
 - Any change in bitcoins protocol that increases the size of the blockchain is highly unlikely to pass it would likely prevent most node operators from managing to run their own nodes.
+
