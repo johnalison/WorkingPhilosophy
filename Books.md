@@ -1,5 +1,7 @@
 # 2023
 
+## [How the Scots Invented the Modern World](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheScotsInventedTheModernWorld.md) (Arthur Herman)
+
 ## [The Third Chimpanzee](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheThirdChimpanzee.md) (Jared Diamond)
 
 ## [Ten Arguments for Deleting Your Social Media Accounts](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TenArgumentsDeleteSocialMedia.md) (Jaron Lanier)
