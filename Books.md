@@ -1,5 +1,7 @@
 # 2023
 
+## [Who Owns the Future?](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhoOwnsTheFuture.md) (Jaron Lanier)
+
 ## [How the Scots Invented the Modern World](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheScotsInventedTheModernWorld.md) (Arthur Herman)
 
 ## [The Third Chimpanzee](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheThirdChimpanzee.md) (Jared Diamond)
