@@ -1,5 +1,7 @@
 # 2023
 
+## [More From Less](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MoreFromLess.md) (Andrew McAfee)
+
 ## [Who Owns the Future?](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhoOwnsTheFuture.md) (Jaron Lanier)
 
 ## [How the Scots Invented the Modern World](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowTheScotsInventedTheModernWorld.md) (Arthur Herman)
