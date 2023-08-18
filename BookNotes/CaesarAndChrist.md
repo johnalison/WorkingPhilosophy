@@ -6,6 +6,8 @@
 
 - We shall learn more of the nature of man by watching his behavior through sixty centuries than by reading Plato, Aristotle, Spinoza, and Kant.
 
+#History #Philosophy
+
 - The study of antiquity is properly accounted worthless except as it may be made living drama or illuminate our contemporary life. The rise of Rome from a crossroads town to world mastery, its achievement of two centuries of security and peace from the Crimea to Gibraltar, and from the Euphrates to Hadrian's Wall, its spread of classic civilization over the Mediterranean and western European world, its struggle to preserve its ordered realm from a surrounding sea of barbarism, its long, slow crumbling and final catastrophic collapse into darkness and chaos -- this is surely the greatest drama ever played by man; unless it be that other drama which began when Caesar and Christ stood face to face in Pilate's court and continued until a handful of hunted Christians had grown by time and patience, and through persecution and terror, to be first the allies, then the masters, and at last the heirs, of the greatest empire in history.
 
 - No other country has been so long the hub of history -- at first in government, then in religion, then in art. For seventeen hundred years, from Cato Censor to Michelangelo, Rome was the center of the Western world.
@@ -13,6 +15,8 @@
 - The Etruscans are among the irritating obscurities of history. They ruled Rome for a hundred years or more, and left upon Roman ways so varied an influence that Rome can hardly be understood without them; yet Roman literature is as mute concerning them as a matron anxious to forget, publicly, the surrenders of her youth.
 
 - Contentment is a rare among men as it is natural among animals, and no form of government has ever satisfied its subjects.
+
+#Politics #Happiness
 
 - By a pleasant custom the members of the Senate brought their sons with them to attend in silence, and to learn statesmanship and chicanery at first hand.
 
@@ -26,11 +30,15 @@
 
 - The Second Punic War changed the face of the western Mediterranean.  It gave Spain and all its wealth to Rome, providing the funds for the Roman conquest of Greece. It reunited Italy under Rome’s unquestioned mastery and threw open all routes and markets to Roman ships and goods. But it was the most costly of all ancient wars. It ravaged or injured half the farms of Italy, destroyed 400 towns, killed 300,000 men; southern Italy has never quite recovered from it to this day. It weakened democracy by showing that a popular assembly cannot wisely choose generals or direct a war. It began the transformation of Roman life and morals by hurting agriculture and helping trade; by taking men from the countryside and teaching them the violence of battle and the promiscuity of the camp; by bringing the precious metals of Spain to finance new luxuries and imperialistic expansion; and by enabling Italy to live on the extorted wheat of Spain, Sicily, and Africa. It was a pivotal event for almost every phase of Roman history. To Carthage it was the beginning of the end.
 
+#History
+
 - What increases with civilization is not so much immorality of intent as opportunity of expression.
 
 - On the farm, children, like wives, were economic assets, not biological toys.
 
 - Man placed an iron ring upon the fourth finger of the girls left hand, because it was believed that a nerve ran thence to her heart.
+
+#UsedToBelieve
 
 - Roman men became brave by proxy; they crowded the amphitheater to see bloody games, and hired gladiators to fight before them at their banquets.
 
@@ -60,7 +68,7 @@
 
 - The Revolt of Italy: Marius emerged from his solitude, took command, and won victory after victory while all other Roman generals but Sulla met defeat. In three years of war 300k men fell, and central Italy was devastated.
 
-- Sulla was unique in his origins, character and fate. Boor poor, he became the defender of the aristocracy, as the aristocratic Gcacchi, Drusi, and Caesar became leaders of the poor.
+- Sulla was unique in his origins, character and fate. Born poor, he became the defender of the aristocracy, as the aristocratic Gcacchi, Drusi, and Caesar became leaders of the poor.
 
 - Had his patience and insight equaled his ruthlessness and courage, Sulla might have saved Rome a half century of chaos and given her in 80 BC the peace and security, order and prosperity, that Augustus would bring back from Actium. He restored the old when he should have created the new. Under Sulla, antiquity had never known so rich, so and so corrupt a government.
 
@@ -71,6 +79,8 @@
 - Cicero: Not since Plato had wisdom worn such prose.
 
 - Age as well as youth has its glories -- a tolerant wisdom, the respectful attention of children, desire and ambition's fever cooled. Age may fear death, but not if the mind has been formed by philosophy. Beyond the grave there will be, at the best, a new and happier life; and at the worst there will be peace.
+
+#Happiness
 
 - When Cato, suspecting Caesar's complicity with Catiline, challenged him in the Senate to read aloud a note just brought to him, Caesar passed it to Cato without comment; it was a love letter from Cato's half sister.
 
@@ -92,9 +102,11 @@
 
 - Augustus persuaded most of the kings of client states to send their sons to live in his palace and receive a Roman education; by this generous arrangement the youths served as hostages until their accession, and then as unwitting vehicles of Romanization.
 
-- At his death the Empire covered over 3 million square miles, more than the mainland of the United States, and over a hundred time s the area of Rome before the Punic Wars. Augustus advised his successor to be content with this, the greatest empire yet seen; to seek rather to unite and strengthen it within than to extend it without. He expressed his surprise "that Alexander did not regard it as a greater task to set in order the empire that he had won than to win it". The Pax Romana had begun.
+- At his death the Empire covered over 3 million square miles, more than the mainland of the United States, and over a hundred times the area of Rome before the Punic Wars. Augustus advised his successor to be content with this, the greatest empire yet seen; to seek rather to unite and strengthen it within than to extend it without. He expressed his surprise "that Alexander did not regard it as a greater task to set in order the empire that he had won than to win it". The Pax Romana had begun.
 
 - "if some god where for taking you back to those days in the past you would refuse every time" the chief charm of the past is that we know we need not live it again.
+
+#History
 
 - Sanity, like government, needs checks and balances; no mortal can be omnipotent and sane.
 
@@ -106,13 +118,19 @@
 
 - Philosophy is the science of wisdom, and wisdom is the art of living.  Happiness is the goal, but virtue, not pleasure, is the road. The old ridiculed maxims are correct and are perpetually verified by experience; in the long run honesty, justice, forbearance, kindliness, bring us more happiness than ever comes from the pursuit of pleasure.
 
+#Happiness #Advice #Ethics #Protocols
+
 - But how does one acquire wisdom? By practicing it daily, in however modest degree; by examining your conduct each day at its close; by being harsh on your faults and lenient to those of others; by associating with those who excel you in wisdom and virtue; by taking some acknowledged sage as your invisible counselor and judge.
+
+#Advice #SystemsNotGoals #Ethics #Protocols
 
 - In philosophy all truth is old, and only error is original.
 
 - When we compare the chief legacy of Roman natural science to the Middle Ages to the corresponding works and temper of the Greeks four hundred years earlier, we begin to feel the slow tragedy of a dying culture. The Romans had conquered the Greek world, but they had already lost the most precious part of its heritage.
 
 - Clearness is the first essential, then brevity, beauty, and vigor. Correct repeatedly and stoically. -Quintilian
+
+#Advice
 
 - We must consider the Roman fiscal system one of the most successful and stable in history. For two centuries a single monetary standard was honored throughout the Empire.
 
@@ -122,9 +140,13 @@
 
 - Originality is, like parentage, a novel combination of pre-existing elements.
 
+#AdjacentPossible
+
 - Law was the most characteristic and lasting expression of the Roman spirit. As Greece stands in history for freedom, so Rome stands for order; and as Greece bequeathed democracy and philosophy as the foundations of individual liberty, so Rome left us its laws, and its traditions of administration, as the bases of social order.
 
-- Law tends to large behind moral development, bot because law cannot learn, but because experience has shown the wisdom of testing new ways in practice before congealing them into law.
+- Law tends to lag behind moral development, not because law cannot learn, but because experience has shown the wisdom of testing new ways in practice before congealing them into law.
+
+#Politics
 
 - Greek science and philosophy, Judeo-Greek Christianity, Greco-Roman demacracy, Roman law - these our are supreme inheritance from the ancient world.
 
@@ -146,6 +168,8 @@
 
 - one may be sure a man has many virtues if he admires those of others.
 
+#Ethics  #Protocols
+
 - For 400 years Stoicism has been to the upper classes a substitute for religion; now the substitute was put aside, and the ruling orders turned back from the books of the philosophers to the altars of the gods.
 
 - The ruins of Roman forums, temples, aqueducts, and theaters on now arid wastes reveal the reach and wealth of Roman Africa. Those fields decayed and became dead sand not through a change in climate but through a change in government.
@@ -164,11 +188,17 @@
 
 - Philosophy does not mean reading books about wisdom, it means training oneself in the practice of wisdom.
 
+#Stoicism
+
 - "Seek not that the things which happen to you should happen as you wish, but wish that the things that happen to be as they are, and you will find tranquility" - Epictetus
+
+#Stoicism
 
 - What is the best life? Lucian answers:
 
     The life of the ordinary man is the best and most prudent choice. Cease from the folly of metaphysical speculation and inquire into origins and ends; count all this clever logic as idle talk, and pursue one end alone - how you may do what you hand finds to do, and go your way with never a passion and always a smile.
+
+#Advice
 
 - If we sum up Greek thought in the first two centuries of our era, we find it, despite Lucian, overwhelmingly religious. Men had once lost faith in faith and taken to logic; now they were losing faith in logic and were flocking back to faith.
 
@@ -210,11 +240,15 @@
 
 - All in all, no more attractive religion has ever been presented to mankind. It offered itself without restriction to all individuals, classes and nations; it was not limited to one people, like Judaism, nor to the freeman of one state, like the official cults of Greece and Rome. Christianity announced the basic equality of men.
 
+#Religion
+
 - To men and women imprisoned in the prose of poverty and toil it brought the poetry of the sacraments and the Mass, a ritual that made every major event of life a vital scene in the moving drama of God and man. Into the moral vacuum of a dying paganism, into the coldness of Stoicism and the corruption of Epicureanism, into a world sick of brutality, cruelty, oppression, and sexual chaos, into a pacified empire that seemed no longer to need the masculine virtues or the gods of war, it brought a new morality of brotherhood, kindliness, decency, and peace.
+
+#Religion
 
 - We should misjudge the function of history -- which is to illuminate the present through the past -- were we to detail the varieties of religious belief that sought and failed to capture the growing Church.
 
-- Historically the belief in heave and the belief in utopia on earth are like compensatory buckets in a well: when one goes down the other comes up. When the classic religions decayed, communistic agitation rose in Athens (430 BC) and revolution began in Rome (133 BC); when these movement filed, resurrection faiths succeeded, culminating in Christianity; when in our eighteenth century, belief weakened, communism reappeared. In this perspective the future of religion is secure.
+- Historically the belief in heaven and the belief in utopia on earth are like compensatory buckets in a well: when one goes down the other comes up. When the classic religions decayed, communistic agitation rose in Athens (430 BC) and revolution began in Rome (133 BC); when these movement filed, resurrection faiths succeeded, culminating in Christianity; when in our eighteenth century, belief weakened, communism reappeared. In this perspective the future of religion is secure.
 
 - Of minor heresies there was no end. The Church overcame them by its superior organization, its doctrinal tenacity, and its better understanding of the ways and needs of men.
 
@@ -225,6 +259,8 @@
 - This adoption of Oriental despotism by the son of a slave, this identification of god and king, meant the final failure of republican institutions in antiquity, the surrender of the fruits of Marathon; it was a reversion, like Alexander's, to the forms and theories of Achaemenid and Egyptian courts, of Ptolemaic, Parthian, and Sassanid kings. From this Orientalized monarchy came the structure of Byzantine and European kingdoms till the French Revolution. Byzantinism began with Diocletian.
 
 - There is no greater drama in human record than the sight of a few Christians, scorned or oppressed by a succession of emperors, bearing all trials with a fierce tenacity, multiplying quietly, building order while their enemies generated chaos, fighting the sword with the word, brutality with hope, and at last defeating the strongest state that history has known. Caesar and Christ had met in the area, and Christ had won.
+
+#History
 
 - A real believer would have been a Christian first and a statesman afterword; with Constantine it was the reverse. Christianity was to him a means, not an end.
 
@@ -239,3 +275,4 @@
 - It is easier to explain Rome's fall than to account for her long survival. This is the essential accomplishment of Rome -- that having won the Mediterranean world she adopted its culture, gave it order, prosperity, and peace for 200 years, held back the tide of barbarism for two centuries more, and transmitted the classic heritage to the West before she died.
 
 - Rome achieved democracy of freeman, and then destroyed it with corruption and violence.
+
