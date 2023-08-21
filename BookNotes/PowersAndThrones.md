@@ -4,13 +4,13 @@
 
 - Great forces beyond our control: Climate change, mass migration, pandemic disease, technological change, and global network, sound like very modern or even postmodern concern, but they shaped the medieval world too.
 
-- it is important to recognize how similar we are to medieval people.
+- It is important to recognize how similar we are to medieval people.
 
 - For much of their history Romans where blessed with good weather.
 
-- The underpinning of Roman military hegemony was the empires ability to absorb defeat, escalate conflict, and exact pitiless revenge; Rome lost many battles but previous few wars.
+- The underpinning of Roman military hegemony was the empires ability to absorb defeat, escalate conflict, and exact pitiless revenge; Rome lost many battles but precious few wars.
 
-- overwhelming military power and reach alone did not distinguish Rome from other broadly contemporaneous superpowers of the classical world (eg: Macedonian empire, Persian empires and China). What made Rome so dominate in the Mediterranean world and beyond was the fact that overwhelming armed force developed in tune with a sophisticated civic machinery: a mesh of state-of-the-art social, cultural, and legal systems that Romans considered to be virtuous in and of themselves.
+- Overwhelming military power and reach alone did not distinguish Rome from other broadly contemporaneous superpowers of the classical world (eg: Macedonian empire, Persian empires and China). What made Rome so dominate in the Mediterranean world and beyond was the fact that overwhelming armed force developed in tune with a sophisticated civic machinery: a mesh of state-of-the-art social, cultural, and legal systems that Romans considered to be virtuous in and of themselves.
 
 - The root purpose of the Roman empire was to funnel wealth to be spent in Rome: in that sense it was a racket based on rampant exploitation.
 
@@ -22,13 +22,13 @@
 
 - Rome was the historical foundation on which everything in the Middle ages was built.
 
-- (5 Century AD) Although Rome would live on largely untouched in the east, where it thrived in mutant form as a Greek-speaking Byzantium, the future of the Roman west now lay in the Hans of newcomers. The age of the barbarian had dawned.
+- (5 Century AD) Although Rome would live on largely untouched in the east, where it thrived in mutant form as a Greek-speaking Byzantium, the future of the Roman west now lay in the hands of newcomers. The age of the barbarian had dawned.
 
 - The antique world can be said to have crumbled -- and the Middle Ages begun -- on the banks of the Volga in the year AD 370. In that year there appeared crowds of people known as the Huns, who had left their homelands 1000s of miles away on the steppe north of China. There origins are sketchy, but their effect was profound. They were what we call today climate migrants or refugees.
 
 - In 370 it was not the Huns that were the problem, but the people they had displaced. A climate emergency in Asia fed a secondary migrant crisis in eastern Europe.
 
-- One the policy of admitting vast numbers of refugees into the empire had been set, it proved impossible to reverse. Thrace slowly became home to thousands of disaffected and mistreated Gothic migrants. The Balkans were becoming a tinderbox.
+- Once the policy of admitting vast numbers of refugees into the empire had been set, it proved impossible to reverse. Thrace slowly became home to thousands of disaffected and mistreated Gothic migrants. The Balkans were becoming a tinderbox.
 
 - Eight hundred years had passed since Rome had last been sacked. Celts in 387 BC and Visigoths in 410 AD. The terrible symbolism of an assault on a world superpower far outweighed the immediate physical damage done. The Goths struck at the heart of the Roman Empire, leaving scars that only hardened and deepened as the years went by.
 
@@ -58,6 +58,8 @@
 
 - Many historians see the failure of the second Arab siege of Constantinople as a turning point in Western history: the moment when the spread of the first Islamic armies toward the Balkans was halted.
 
+#History
+
 - Around the year 700 the Arabian leader ordered that public servants across the Islamic world should use only Arabic. This simple administrative change was in fact a moment of juddering cultural importance in the history of the Islamic world -- for it ensured that there would be an Islamic world in perpetuity, rather than a short-lived federation of former Roman and Persian territories ruled over by a thin monotheistic elite.
 
 - The defeat of the Arabs at the battle of Tours saved all of Europe form Islamification and prevented an alternative history from unfolding.
@@ -72,9 +74,11 @@
 
 - The pope would turn to the Franks as his secular defenders and throw his legitimizing influence behind the new Carolingian monarchy -- if in return they would move South over the Alps and save the papacy from its enemies. It was a high-stakes deal on both sides. In retrospect it has come to represent a seminal moment in western history: the moment at which the bishops of Rome no longer looked east to Constantinople for support, but to the barbarian-descended peoples of the west.
 
+#History
+
 - Like Alexander, Charlemagne had built an empire that proved itself possible only as an extension of one mans political self.
 
-- It would take nearly a thousand years for one ruler to once again hold the whole Carolingian inheritance in his hands. He was Napoleon Bonaparte. It has only been possible to unit Europe once or twice in every millennium, and even then, not for very long.
+- It would take nearly a thousand years for one ruler to once again hold the whole Carolingian inheritance in his hands. He was Napoleon Bonaparte. It has only been possible to unite Europe once or twice in every millennium, and even then, not for very long.
 
 - By the late 11C abbots of Cluny were on even terms with kings and popes, and participated in the highest conversations and conflicts of their age.
 
@@ -94,7 +98,9 @@
 
 - What they had thought was "King David" grandson of Prester John and savior of the Christian west, was in fact Genghis Khan.
 
-- although the Mongols period of global preeminence lasted only 150 years, their achievement in that time stood in comparison with those of ancient Macedonians, Persians, or Romans.
+- Although the Mongols period of global preeminence lasted only 150 years, their achievement in that time stood in comparison with those of ancient Macedonians, Persians, or Romans.
+
+#History
 
 - Mongols rebooted the whole shape of trade and interaction across Asia and the Middle East.
 
@@ -112,7 +118,7 @@
 
 - In the grand scheme of western history, the Middle Ages were a period of stagnated economic development, which lasted several hundred years.
 
-- It had taken the Polo family 3 full years to make their was from Venice to China.
+- It had taken the Polo family 3 full years to make their way from Venice to China.
 
 - Double-entry bookkeeping became a western business norm only in the 14C.
 
@@ -136,7 +142,7 @@
 
 - The population loss stood the existing economic structure on its head and put labor at a premium, driving up wages. Land became dirt cheap and landlords scrambled to find tenants. The double whammy of soaring wages and plummeting rents shocked the political system. Legislation was enacted that fixed wages and required that all able-bodied people worked.  
 
-- One of the reasons that the 14C renaissance lasted so long is that the most powerful people were growing much wealthy than the generations before from new sources of gold and good from the New World.
+- One of the reasons that the 14C renaissance lasted so long is that the most powerful people were growing much more wealthy than the generations before from new sources of gold and good from the New World.
 
 - Constantinople fell in 1453 after 1100 years of Christian emperors. The Roman Empire was dead. After the fall the whole world would be transformed.
 
@@ -149,6 +155,8 @@
 - It was known that sub-Saharan Africa existed and had valuable resources. The Portuguese main goal was to find a route to central Africa that avoided the Islamic camel trains through the Saharan to the Mediterranean.
 
 - History does not have to be made by nice people; the history of the Middle Ages demonstrates that it very rarely is.
+
+#History
 
 - The line from Magellan and Elcano's circumnavigation to our current age of satellite surveys was long, but it was direct.
 
