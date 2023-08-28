@@ -1,5 +1,7 @@
 # 2023
 
+## [A Matter of Degrees](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AMatterOfDegrees.md) (Gino Segre)
+
 ## [More From Less](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MoreFromLess.md) (Andrew McAfee)
 
 ## [Who Owns the Future?](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WhoOwnsTheFuture.md) (Jaron Lanier)

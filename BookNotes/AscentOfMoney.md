@@ -25,3 +25,5 @@
 - There was a time when academic historians felt squeamish about claiming that lessons could be learned from history; this is a feeling unknown to economists.
 
 - Sometimes the most important historical events are the non-events: the things that did not occur.
+
+    #Invert #History

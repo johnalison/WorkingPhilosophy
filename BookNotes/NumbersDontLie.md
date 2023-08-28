@@ -4,6 +4,8 @@
 
 - Rigid raking based on minuscule differences misleads rather than informs. Rounding and approximation is superior to unwarranted and unnecessary precision.
 
+#PerfectionNotRequired
+
 - The age of first menstruation has been decreasing from about 17 years in preindustrial societies to less than 13 years in today's Western world
 
 - The easiest way to improve a child's chance of growing taller is for them to drink more milk.
@@ -11,6 +13,8 @@
 - Advantage of bipedalism: A quadruped can only take a single breath per locomotive cycle, its chest must absorb the impact on the front limbs. We can choose other breathing patterns that lets us use energy more efficiently.
 
 - Sweating is our extraordinary ability to regulate our body temperature. A horse can loose about 100 g of water per square meter of skin. a camel 250g/m^2, whereas a human can easily shed 500 g/m^2.
+
+#WhoWeAre
 
 - Indian population will surpass China no later than 2025.
 

@@ -1,6 +1,6 @@
 # The Meaning of it All (Richard Feynman)
 
-- It not always a good idea to be too precise.
+- Its not always a good idea to be too precise.
 
 - To keep trying new solutions is the way to do everything
 
@@ -10,7 +10,7 @@
 
 - (About newspapers reporting that Faraday's discoveries are important for chrome plating) Electricity and Chemistry were suddenly discovered to be two aspects of the same thing -- chemical changes where the results of electrical forces. So to say merely that the principles are used in chrome plating is inexcusable.
 
-- It was thought in the Middle ages that people simply make many observations and from them come to know the laws. But it doesn't work that way. It take imagination, Where do the ideas come from ? It doesn't make any difference as long as they come. In science we are not interested in where an idea comes from. Their real origin is unknown; we call it the imagination of the human brain.
+- It was thought in the Middle ages that people simply make many observations and from them come to know the laws. But it doesn't work that way. It takes imagination, Where do the ideas come from ? It doesn't make any difference as long as they come. In science we are not interested in where an idea comes from. Their real origin is unknown; we call it the imagination of the human brain.
   (It is surprising that people do not believe in imagination in science, It is a very interesting kind of imagination, unlike that of the artist)
 
 - It is interesting that human relationships, if there is an independent way of judging the truth, can become unargumentative.
@@ -33,7 +33,11 @@
 
 - The US was developed under the idea that nobody knew how to make a government or how to govern. The result is that they invented a system to govern when you dont know how.
 
+#PerfectionNotRequired
+
 - We have plenty of time to solve problems, the only was that we will make a mistake is that we decide we already know the answer.
+
+#PerfectionNotRequired
 
 - No government has the right to decide on the truth of scientific principles, nor the character of questions investigated. Instead it has a duty to maintain the freedom, to let those citizens contribute to the further advancement  of the human race.
 
@@ -44,3 +48,5 @@
 - How do you get new ideas? Mostly by analogy, but with analogy you often make very great errors.
 
 - Who are the witch doctors today ? Psychoanalysts and psychiatrists.
+
+#WrongIn20Years
