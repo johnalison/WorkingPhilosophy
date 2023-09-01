@@ -1,7 +1,7 @@
 # Viral (Alina Chan and Matt Ridley)
 
 - Learned a lot.  Clear that China covered up, whether or not there was actually a lab leak
-
+ 
 - At the onset of the outbreak Covid was evolving much more slowly than one that had newly arrived from a different species. Implies it was already well-adapted to humans before Wuhan outbreak
 
 - How Covid-19 started may be the biggest mystery of our lifetime (BOLD!) If we dont know how this pandemic began, we are not equipped to prevent the next one.
@@ -22,9 +22,9 @@
   Diseases that spread by sex will become good at hiding in the body.
   Attendant-bore illness --  which are spread by care givers -- will become highly virulent. (The sicker the patient the more visits from the nurse)
 
-- On Jan 3 China ordered all labs to destroy all Covid-19 samples or transfer them to designated institutions.
+- On Jan 3, China ordered all labs to destroy all Covid-19 samples or transfer them to designated institutions.
 
-- In 2003, the WHO was severely critical of the CHinese government for its lack of openness.
+- In 2003, the WHO was severely critical of the Chinese government for its lack of openness.
 
 - The summary of the Hunnan market is that all the evidence is consistent with a sick person bringing COVID to the market where it became amplified in a crowded space.
    No pangolins or bats had been found to be traded in the markets between May 2017 and November 2019
@@ -55,18 +55,17 @@
   No one mentioned these viruses them until then, despite international searches for viruses that were similar to COVID.
   Even in the short addendum to the RaTG13 paper that mentioned them, the authors didn't give their sequences or describe what they did with them; they failed to draw attention to them.
 
-
 - When the genetic sequence of COVID was first published, by scientist associated with the Wuhan lab, the critical, never-before-seen Furin cleavage site was not mentioned.
   Despite the fact that the same authors discovered this site in other virus and made a big deal about how important it is to starting a pandemic.
   It is a suspicious omission.
 
 - "Imagine how differently the world would have reacted if in Jan 2020, the WIV had announced that the closest relatives of the novel coronavirus came from a place where half of the infected people had died from a mysterious respiratory disease -- and that the nine closest relative to SARS-CoV-2 had been under study a the WIV long before the Covid-19 outbreak."
 
-- The fact the pandemic did not cause the release of the Moijan mine accident and the viruses collected from them is inexplicable. This was the who point of this work.
+- The fact the pandemic did not cause the release of the Moijan mine accident and the viruses collected from them is inexplicable. This was the whole point of this work.
 
 - "That which can be asserted without evidence, can be dismissed without evidence" - Hitch
 
-- The WHO decided (after intense lobbying by the Chinese government) not to declare an international emergency; This was reverse a week later, with only the Chinese delegate voting against.
+- The WHO decided (after intense lobbying by the Chinese government) not to declare an international emergency; This was reversed a week later, with only the Chinese delegate voting against.
 
 - The case for the lab leak:
    - Makes the assumption that the scientists at WIV were doing exactly what they said they were doing; collecting and studying bat viruses with a view to predict pandemics.
