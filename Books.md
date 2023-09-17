@@ -1,5 +1,7 @@
 # 2023
 
+## [Conquest of Happiness](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ConquestOfHappiness.md) (Bertrand Russell)
+
 ## [A Matter of Degrees](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AMatterOfDegrees.md) (Gino Segre)
 
 ## [More From Less](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MoreFromLess.md) (Andrew McAfee)
