@@ -1,5 +1,7 @@
 # 2023
 
+## [Reframe Your Brain](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ReframeYourBrain.md) (Scott Adams)
+
 ## [Conquest of Happiness](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ConquestOfHappiness.md) (Bertrand Russell)
 
 ## [A Matter of Degrees](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/AMatterOfDegrees.md) (Gino Segre)
