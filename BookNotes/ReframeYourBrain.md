@@ -132,6 +132,42 @@
 - People love to hear their own names. Its an easy and instant bonding technique Be a name-user.
   Make it your superpower to remember names. All it takes is focus and effort.
 
-- p101
+- The worst thing you can do when you meet a stranger is talk about yourself for too long while trying to be interesting.
+  Instead ask questions and show interet. You might need to fake your interest for a few questions until you find a topic you both like.
+
+- Once you accept that we are all "acting" to some degree when we communicate, you can go all-in and turn it into technique.
+
+  Dont deny the show. If you can call on your acting skills and create an interesting verion of yourself that isnt a lie.
+
+- Telling good stories:
+
+    Have an intersting payoff at the end.
+    Practice saying the punchline, the big reveal, or the shocking ending in one clean sentance.
+    The body of the story can be variable each time you tell it, but make sure the "payoff line" is tight and simple.
+
+- Stress comes with your job --> Reducing stress is your job
+
+- There are good days and bad days ---> All days are useful in different ways
+
+- Your mind includes your brain, body, and physical environment. Any change to one changes the others.
+
+- Be yourself --> Become a better version of yourself.
+
+- Dress for the impact you want to have on others.
+
+- "Strong personality" is usually a way to say that a person is toxic.
+
+- Giving a compliment is an easy way to improve your life experience.
+  When you offer a sincere, unsolicited compliment, people remember it.
+
+- Giving compliments is awkward, creepy, or manipulative --> Withholding a compliment is almost immoral.
+
+  If you have a positive thought about someone, let it out.
+
+  Drop and leave approach: dropping a thick compliment and immediately changing the subject before your target has a chance to feel awkward or even respond.
+
+- Minor Decisions:  Never say you dont care, just choose. Everyone will be glad you did, and you will appear to be a leader.
+
+- p156
 
 
