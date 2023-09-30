@@ -168,6 +168,51 @@
 
 - Minor Decisions:  Never say you dont care, just choose. Everyone will be glad you did, and you will appear to be a leader.
 
-- p156
+- The experts are in charge --> The best communicators are in charge
+
+- The boss is in charge  --->  The most capable people are in charge.
+
+- Everyone is a basketcase once you get to know them.
+
+- Judge people by how they respond to their mistakes.
+
+- There are no small acts of kindness.
+
+- Some food is fuel and some food in entertainment
+
+- Many words carry a little package of power that influences you independently from the context of the sentance
+
+- Being good at selecting words is gthe difference between being persuasive and being annoying.
+
+- Use repetition to brand yourself as a certain type of person  and all of your other decisions will become simpler.
+  One of our strongest motivations is be seen as consistent.
+
+- The best excersises are the ones youre willing to do.
+
+- Humans are not rational creatures, they are creatures who rationalize decisions after they make them.
+
+- People might not say they are motivated by money, but watch how their ethics-based preferences match their ecomomic interests.
+
+- Everyone is innocent until proven guilty  --> Citizens are innocent until proven guilty. Comporations and governments are presumed guilty until proven innocent.
+
+- Logic and facts wont help you change many minds. If people did not arrive at their opinions by rational means, a rational argument isnt going to talk them out of it.
+  Instead ask them to repeat back your argument to demonstrate that they understand it. If they can, they can be persuaded.
+
+- Your bring is programmable if you learn how to access the user interface. This book teachers you how to write and insert code into your brain.
+  Reframses are software upgrades to your brain.
+
+- Freedom is a huge button on the human interface, and its easy to push. Consider it in every decision you make and remember to consider it when trying to persuade others.
+
+- Dont bring up ugly topics when making a first impression or at any other time during the getting-to-know-each-other phase.
+
+- Stick to communication that is funny, interesting, useful, optimistic, and even inspirational. It makes you far more fun to be around.
+  The people who are not lucky enough to read this book will communicate the tragic stuff to other people for you, at their own social expense.
+
+- A good way to brainstorm reframes is to imagine how the smartest and most aware people you know would approach a given situation.
+  Assemble an imaginary advisory board of people you know and them imagine them giving you advice on the topic.
+
+
+
+
 
 
