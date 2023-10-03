@@ -34,8 +34,10 @@
 
 - Its incomprehensibly miraculous that we have been granted anytime at all.
 
-- Minor frustrations have an out sized negative effect on your live and happiness over the years
+- Minor frustrations have an out sized negative effect on your life and happiness over the years
   You should slightly change your orientation, so that you see yourself as lucky to be in a position to have irritating experiences.
+
+#Happiness
 
 - The real measure of a good time management system is if it lets you neglect the right things
   - Pay yourself first
@@ -60,12 +62,17 @@
 
 - If you can endure the pain of not knowing, a solution will often present itself. (Applies almost everywhere in life)
 
+#Boredom
+
 - Patience is the least fashionable but perhaps most consequential superpower
   - Develop a taste for having problems: Life is a process of engaging with problem after problem
   - embrace radical incrementalism: be willing to stop when your day is up, even when on a roll. Strengthens the patience muscle that will allow you to return to a problem again and again
   - originality lies on the far side of unoriginality
 
+#Advice 
+
 - The next and most useful thing is all that any of us can aspire to do an any moment.
 
 - If you experience life with twice the usual intensity, and your experience of life will be twice as full. Meditation helps here.
 
+#AreWhatYouThink
