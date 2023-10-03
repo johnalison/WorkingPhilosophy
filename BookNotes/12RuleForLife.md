@@ -53,4 +53,54 @@
 - The realization that pleasure could be usefully forestalled dawned on us with great difficultly. It runs absolutely contrary to our ancient, fundamental animal instincts, which demand  immediate satisfaction.
   To complicate matters, such delay only becomes useful when civilization has stabilized itself enough to guarentee the existence of the delayed reward.
 
-- p187
+- Christianity has the sort of problems that emerge only after an entirely different set of more serious problems have been solved.
+  The society produced by Christianity was far less barbaric than the pagan -- even the Roman -- ones it replaced.
+
+  As the Christian revolution progressed the impossible problems that it had solved disappeared from view.
+  Thats what happens to problems that are solved. After the solution was implemented, even the fact that such problems had ever existed disappeared from view.
+
+- To have meaning in your life is better than to have what you want, because you may neither know what you want, no what you truly need.
+
+- What should you do, when you dont know what to do?  Tell the truth.
+
+- Taking the easy way out or telling the truth -- those are not merely two different choices. They are different pathways through life, two utterly different ways of existing.
+
+- Memory is not a description of the objective past. Memory is a tool.
+  Memory is pasts guide to the future. If you remember that something bad happened you can figure out why, then you can try to avoid that bad thing happening again.
+  Thats the purpose of memory. Not "to remember the past". But to stop the same damn thing from happening over and over.
+
+- Thinking is listening to yourself. Its difficult. To think, you have to be at least two people at the same time. Then you have to let those people disagree.
+  Thinking is an internal dialogue between two or more differnt view of the world. You have to have avatars of a simulated world.
+
+  Thinking is the process by which these intenal avatars imagine and articulate their worlds to one another. You cant set straw men against each other when you're thinking, because then you're not thinking.
+
+- You can be pretty smart if you can just shut up.
+
+- A good lecturer is talking with and not at or even to his or her listeners.
+
+  They speak directly to and watches the response of single, intentifiable people, instead of doing something cliched, such as "presenting a talk" to an audience.
+
+- We dont see valueless entities and attribute meaning to them. We percieve the meaning directly.
+  The world reveals itself to us as something to utilize and something to navigate through -- not as something that merely is.
+
+- The escape from tyranny is ofter followed not by Paradise, but by a sojourn in the desert, aimless, confused and deprived.
+
+- Dont hide baby monsters under the carpet. They will flourish. They will grow large in the dark.
+
+- Say what you mean, so you can find out waht you mean. Act out what you say, so you can find out what happens. Then pay attention. Note your errors.
+  Articulate them. Strive to correct them. That is how you discover the meaning of your life.
+
+- Competence is what makes people as safe as they can truly be.
+
+- If you cannot understand why someone did something, look at the consequences -- and infer the motivation.
+
+- Culture takes with one hand, but in some fortunate places it gives much more with the other.
+  To think about culture only as oppressive is ignorant and ungrateful, as well as dangerous.
+
+- Derrida's work is interpreted as "Everything is interpretation"
+
+- When worries associated with the crisis arise at other times, remind yourself that you will think them through, during the scheduled period.
+  This usually works. The parts of your brain that generate anxiety are more interested in the fact that there is a plan than in the details of the plan.
+
+
+
