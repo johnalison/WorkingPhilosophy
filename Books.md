@@ -1,6 +1,8 @@
 # 2023
 
-## [12 Rule for Life](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/12RuleForLife.md) (Jordan Peterson)
+## [Introduction to Linear Algebra](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroToLinearAlgebra.md) (Gilbert Strang)
+
+## [12 Rules for Life](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/12RuleForLife.md) (Jordan Peterson)
 
 ## [Reframe Your Brain](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ReframeYourBrain.md) (Scott Adams)
 
