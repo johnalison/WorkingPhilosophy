@@ -45,6 +45,39 @@
   R tells how to combine those columns to give all columns of A
     (R contains I b/c r columns of A are already in C)
 
-- p38
+- What makes this subject easy: All the equations are linear
+  What makes this subject hard: So many equations and unknowns and ideas
+
+- What to expect from a random m by n matrix A:
+  - m<n: Many solutions to the m equations Ax=b
+  - m=n: Probably one solution to the n equations Ax=b
+  - m>n Probably no solutions: too many equations with only n unknowns in x
+
+- The rank r tells us the real size of our problem.
+
+- Over and over -- for Ax, AB, and CR we write about linear combinations of columns of A or C.
+  Not about the dot products with the rows!
+
+- Permutation matrices have a 1 in every row and every column. All else is 0.
+  When it acts on a vector it changes the order of its components.
+
+- T is inside:  The dot product or inner product is x^T y (1xn)(nx1)  = 1 x 1
+  T is outside: The rank one product or outer product is x y^T (nx1)(1xn)  = n x n
+
+  x^T y is a number. x y^T is a matrix
+  In QM, <x|y> vs |x><y|
+
+- We defined A^T by flipping the matrix accross its main diagonal. Thats not mathematics.
+  There is a better definition. A^T is thematrix that makes these inner products equal.
+
+  (Ax)^T y = x^T(A^Ty)  Inner product of Ax with y = Inner product of x with A^Ty.
+
+- Change the matrix to a derivative A=d/dt.
+  Can find the transpose of d/dt form the above rule:  (Ax)^T y = x^T(A^Ty)
+    => integration by parts A^T = -A = - d/dt
+
+   The derivative is anti-symmetric
+
+- p70
 
   
