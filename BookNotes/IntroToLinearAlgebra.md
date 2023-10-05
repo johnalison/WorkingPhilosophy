@@ -78,6 +78,38 @@
 
    The derivative is anti-symmetric
 
-- p70
+- Most scientific problems that start with a rectangular matrix A end up with A^TA or AA^T or both.
+
+- The null spaces of invertiable matrices contain only the zero vector.
+
+- Now (Ch3) we allow every m x n matrix, there will surely be nonzero solutions to Ax=0 if n>m.
+  This is probably the most important chapter in the book.
+
+- A line in R^n is not a vector space unless it goes through the origin.
+
+- Invertible matrices are not a subspace of all 3x3 matricies. O not invertiable
+
+- You can also think about vector spaces of functions.
+
+  The line of functions y = ce^x (for any c)  would be a "line in function space"
+  That line contains all the solutions to the differential equation dy/dx = y.
+
+  Another function space would be y=a+bx+cx^2, solutions to d^3/dy^3 = 0.
+
+  Linear differential equations replace linear algebraic equaitons Ax=0 when we move into function space.
+
+- In some way the space of all 3x3 matricies is essentially the same space as R^9.
+  The space of function f(x) = a + bx + cx^3 is essentially the same as R^3
+
+- One of the most fundamental ideas in linear algebra: The plane going through 0 is a subspace of the full vector space R^3.
+
+- Every subspace contains the zero vector. Planes that dont contain the origin fail this test.
+
+- The column space is crucial to the whole book: To solve Ax=b is to express b as a combination of the columns.
+  The right side b had to be in the column space produced by A, or Ax=b has no solution!
+
+- The row space of A is the column space C(A^T) of the transpose matrix A^T.
+
+- p121
 
   
