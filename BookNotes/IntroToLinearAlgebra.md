@@ -110,6 +110,48 @@
 
 - The row space of A is the column space C(A^T) of the transpose matrix A^T.
 
-- p121
+- Bases for Function Spaces:
+   The space for y'' = 0 has x and 1 as bases. It is the "nullspace" of the second derivative!
+   The solutions of y'' = 2 dont form a subspace- the right side is not zero.
+   A particular solution is y(x) = x^2. The complete solution is y(x) = x^2 + cx +d.
+   All those functions satisfy y''=2. The particular solution plus any fucntion cx+d is in the nullspace.
+   A linear differential equation is like a linear matrix equation Ax=b.
 
+- A matrix multiplies a vector: A times x.
+    At the first level this is only numbers.
+    The second level Ax is a combination of column vectors
+    The third level shows subspaces. The fundamental subspaces are orthogonal.
+
+- Key idea projections: If b is outside the column space of A, find the closest point p that is inside.
+  The line from b to p shows th error e. That line is perpendicular to the column space.
+
+  The key to projection is orthogonality: The line from b to p is perpendicular to the vector a.
+
+- Fundamental Theorem of Linear Algebra:
+     N(A) is the orthogonal complement of the row space C(A^T)
+     N(A^T) is the orthogonal complement of the column space C(A)
+
+- Figure on 146!!!
+
+- Every vector Ax is in the column space! Multiplying by A cannot do anything else.
+  Every vector b in the column space comes from exactly one vector x_r in the row space.
+
+- There is an r by r invertible matrix hiding inside A, if we throw away the two nullspaces, A is invertible from row space to column space.
+
+- When P projects onto one subspace, I-P projects onto the perpendicular subspace.
+
+- A^T A is invertible if and only if A has linearly independent columns.
+
+- Fitting points by the best parabola is still a problem in linear algebra.
+
+- Fourier series is least squares in infinite dimensions -- approximating functions instead of vectors.
+  The function to be minimized changes from a sum of squared errors to an integral of the squared error.
+
+- Reflection: If u is any unit vector: Q = I - 2 u u^t is a reflection. they are symmetric and orthogonal.
+
+- The one and only idea of the Gram-Schmidt process: Subtract from every new vector its projections in teh directions already set.
+
+- Any m x n matrix A with independent columns can be factored into A=QR. The m x n matrix Q has orthonormal columns, and the square matrix R is upper triangular with positive diagonal.
+
+- p193
   
