@@ -153,5 +153,16 @@
 
 - Any m x n matrix A with independent columns can be factored into A=QR. The m x n matrix Q has orthonormal columns, and the square matrix R is upper triangular with positive diagonal.
 
-- p193
+- Two vectors x and X in teh row space cannot go to the same vector Ax=AX in the column space.
+  Every vector b = Ax in the column space comes from one and only one vector x in the row space.
+
+  Suppose the vectors x1 to xr are a basis for the row space of A. Then the vectors Ax1 to Axr are a basis for the column space of A.
+
+- Singular vectors of A are orthogonal unit vectors v1 to vr in the row space and Av1 to Avr are orthogonal in the column space. Perfection in applied linear algebra!
+
+- Every A in invertible from its row space to its column space: dimension r to r.
+
+p198
+
+
   
