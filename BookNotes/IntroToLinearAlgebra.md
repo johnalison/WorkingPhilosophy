@@ -162,7 +162,124 @@
 
 - Every A in invertible from its row space to its column space: dimension r to r.
 
-p198
+- The determinant of a square matrix is an astonishing number
+
+- There are three useful formulas for det A.
+  The product of pivots in U gives det A or - det A.
+  The i,j entry of A^-1 is the j,i cofactor divided by detA
+  The big formula for det A adds up n! terms -- one for every path down the matrix. Each path chooses one entry from every row and column, and we multiply the n entries on the path.
+
+- Determinants could tell us everything, if only they were not so hard to compute.
+
+- Determinants reverse sign when two rows are exchanged (or two columns are exchanged). This rule becomes a key to dterminants of all sizes.
+
+- The most powerful property of the determinant is that is is linear in each row separately. The terms in teh calculation of the determinant have one entry from each row and one entry from each column.
+
+- If you do more algebra, then you need less geometry.
+
+- Eigenvectors and eigenvalues have new information about a square matrix -- deeper than its rank or column space.
+
+- A symmetric matrix S has perpendicular eigenvectors -- and all its eigenvalues are real numbers. The kings of linear algebra are symmetric matrices with positive eigenvalues.
+  These "positive definite matrices" signal a minimum point for a function like the energy f(x) = 1/2 x^T S x. That is the n-dimensional form of the calculus test d2f/dx2 > 0 for a minimum of f(x).
+
+- For du/dt = Au we want "eigenvectors" x that dont change direction when you multiply by A.  The solution vector u(t) stays in the direction of that fixed vector x. Then we only look for the number (changing with time) that multiples x: a one dimensional problem.
+
+- Markov matrix: each column adds to one. The largest eigen value is 1, the coorisponding eigenvector is a steady state- - which all columns of A^k will approach.
+
+- If A is singular , the eigenvectors for \lambda=0 fill the nullspace: Ax=0x=0. If A is invertible, zero is not an eigenvalue.
+
+- The product of the n eigenvales equals the dterminant of A.
+  The sum of the n eigenvales equals the trace of A
+
+- A symmetric matrix S^T=S can be compared to a real number. A skew-symmetric matric (A^T = -A) can be compared to an imaginary number.
+  An orthogonal matrix Q^T Q = 1 corresponds to a complex number with |\lamba | = 1
+
+- Every matrix C = B^-1 A B has the same eigenvalues as A. C is "similar" to A.
+
+- When x is an eigenvector multiplication by A is just multiplication by a number. All the difficulties of matricies are swept away, and we can follow the eigenvalues seperately.
+
+- There is no connection between invertibility and diagonalizability
+  - Invertibility is concerned with the eigenvalues (we must have \lambda != 0)
+  - Diagonalizability is concerned with teh eigenvectors (n independent xs)
+
+- AB and BA have the same nonzero eigenvales
+
+- When a complex number is transposed, replace each entry with its complex conjugate.
+  Then complex matricies fit perfectly into linear algebra
+
+- IF Ax = \lambba x then u(t) will solve du/dt= Au. Each \lambba and x give a solution e^{\lambba t} x
+
+- Constant coefficient differential equations can be converted into linear algebra.
+
+- Singular Value Decomposition (SVD) applies to every matrix, square or rectangular. It is an extention of eigenvectors.
+  But now we need two sets of orthonormal vectors: input vectors v1 to vn and output vectors ui to um.
+  This is completely natural for an m-x-n matrix. The vectors v_i are a basis for the row space; u_i for the column space.
+
+     A=USV^T
+
+  The right singular vectors vi are eigenvectors of A^TA. They give a basis for the row and nullspace of A.
+  They left singular vectors ui are eigenvectors of AA^T. They give a basis for the column space and left nullspace of A.
+
+- Each u_i = v_i when A is a symmetric positive definite matrix S. Those singular vectors will eb the eigenvectors q_i.
+
+- PCA is totally base on the singular vectors of the data matrix A.
+
+- The SVD allows wonderful projcts, by separating a photograph - matrix of pixels into its rank-one components. Each time you include one more piece, the picture becomes clearer.
+
+- "The bible" 4th edition of Golub-Van Loan
+
+- The closest rank k matrix to A is A_k = sigma_1 u_1 v_1^T + ... + sigma_k u_k v_k^T. In statistics we are identifying the rank one pieces of A with largest variance.
+  This puts SVD at the center of data science.
+
+- The best line (in PCA) solves a problem in perpendicular least squares. This is also called orthogonal regression.
+  It is different from the standard least squares  fit to n data points, or the list squares solution to a linear system Ax=b.
+  That classical problem measures distances up and down to the best line. Our problem minimizes perpendicular distances.
+  The older problem leads to a linear equation:  A^TA = A^T b for the best x. Our problem leads to singular vectors u_i, eigenvectors of AA^T
+
+- PCA is a way to understand n sample points in m-dimensional space --  the data. The crucial connection to linear algebra is in the singular values and the left singular vectors u_i of A.
+  Those come from the eigenvalues and the eigenvectors of teh sample covariance matrix S=AA^T/(n-1)
+
+- The SVD is producing orthogonal singular vectors u_i that separate the data into uncorrelated pieces (with zero covariance). They come in order of decreasing variance, and the first pieces tell us what we need to know.
+  The trace of S connections the total variance to the sum of cariances of the priciple components.
+
+      Total variance T= sigma_1^2 + ... sigma_r^2
+
+  The first princple component accounts for (or "explains") a fraction sigma^2/T of the total variance.
+  Each singular vector is doing its best to capture the meaning in a matrix -- and all together they succeed.
+
+- k signular vectors (acting together) explain more of the data than any other set of k vectors.
+
+- The "effective rank" of A and S is the number of singular values above the point where noise drowns the true signal in the data.
+
+- The Legendre polynomials are the result of applying the Gram-Schmidt idea, they orthogonalize the powers 1, x, x^2 ...
+
+- Newtons methond is fast near the true solution, because it uses the second derivatives of F(x). But those can be too expensive to compute --- esp in high dimension.
+  Often Neural networks are simply too large to use all the second derivatives of F(x). Gradient descent is the algorithm of choice for deep learning.
+
+- In gradient decent when the minimum valley is narrow, we uselessly cross the valley instead of moving down to the bottom.
+  This zig-zag would not happen for a heavy ball roling downhill. Its momentum carries it through the narrow valley -- bumping the sides but moving mostly forward.
+  So we add momentum with coefficient \beta to teh gradient. This gives one of the most convenient and potentially useful ideas in deep learning.
+
+- Interpolation is an old problem. Deep learnign is a new approach -- much more successful than past approaches.
+  One of the worst approaches is to fit the data by a very high degree polynomial (The result is extremely unstable)
+
+- In deep learning the data-fitting computations are often heavily underdetermined. The art of deep learning is to find, among the many possible solutions, one that will generalize to new data.
+
+- Deep Learning: Linearity is far too limited.  Artistically, two zeros could make an 8. Images don't add.
+
+  The non-linear choice that has succeeded beyond expectation -- and has turning shallow learning into deep learning -- is continuous piecewise linear fucntions.
+  Linear for simplicity, continuous to madel an unknown but reasonable rule, and piecewise to achieve the non-linearity that is an absolute requirement for real data.
+
+- The best way to create complex functions from simple functions is by composition. (Ala wolfram)
+
+- The graph of the learning function is a surface made up of many many flat pieces -- they are place or hyperplanes that fit together along all the folds where the RuLU gives a change of slope.
+
+- It is easy to count entries in the weight matrices and the bias vectors. Those numbers determine the function F.
+  But it is farmore interesting to count the number of flat pieces in the graph of F.  This number measures the expressivity of the neural network.
+
+- One big lesson of deep learning: Dont code every grammatical rule and exception. Let the computer discover the rules. If you are teaching your friend a game, just start to play.
+  
+  
 
 
   
