@@ -1,5 +1,7 @@
 # 2023
 
+## [The ONE Thing](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheONEThing.md) (Gary Keller)
+
 ## [Introduction to Linear Algebra](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroToLinearAlgebra.md) (Gilbert Strang)
 
 ## [12 Rules for Life](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/12RuleForLife.md) (Jordan Peterson)
