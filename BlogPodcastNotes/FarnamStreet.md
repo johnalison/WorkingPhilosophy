@@ -26,3 +26,5 @@ https://fs.blog/how-to-think/
 
    Anyone can say no to crappy opportunities. Only a master will say no to good opportunities.
 
+- A sign of character is the ability to learn from people you might not like.
+

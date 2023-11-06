@@ -1,5 +1,7 @@
 # 2023
 
+## [The Master and His Emissary](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MasterAndHisEmissary.md) (Iain McGilchrist)
+
 ## [The ONE Thing](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheONEThing.md) (Gary Keller)
 
 ## [Introduction to Linear Algebra](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroToLinearAlgebra.md) (Gilbert Strang)
