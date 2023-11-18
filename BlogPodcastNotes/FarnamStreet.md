@@ -28,3 +28,8 @@ https://fs.blog/how-to-think/
 
 - A sign of character is the ability to learn from people you might not like.
 
+
+- Before you work harder on something, identify the leverage point.
+  Working smarter is the most valuable form of working harder.
+
+- "Few things are as important to your quality of life as your choices about how to spend the precious resource of your free time."
