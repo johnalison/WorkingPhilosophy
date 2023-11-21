@@ -1,5 +1,7 @@
 # 2023
 
+## [The Hitchhiker's Guide to the Galaxy](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HitchHikersGuideToGalaxy.md) (Douglas Adams)
+
 ## [Enchiridion](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Enchiridion.md) (Epictetus)
 
 ## [The Master and His Emissary](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/MasterAndHisEmissary.md) (Iain McGilchrist)
