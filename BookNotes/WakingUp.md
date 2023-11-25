@@ -4,16 +4,26 @@
 
 - Our minds are all we have, they are the only things we will ever have and they are all we can give others.
 
+  #WhoWeAre
+
 - Each of us is looking for a path back to the presence: we are trying to find reasons to be satisfied NOW.
+
+  #Happiness
 
 - How we pay attention to the present moment largely determines the character of our experience an the quality of our lives.
 
+  #Happiness #AreWhatYouThink
+
 - There is more to understanding the human condition than science and secular culture generally admit.
+
+  #UnpopularTruth
 
 - Some well-established truths about the human mind:
   - our conventional sense of self is an illusion
   - positive illusions (compassion and patience) are teachable skills
   - the way we think directly influences our experiences of the world
+
+  #UnpopularTruth #ShouldTeachKids
 
 - The sense of being perched somewhere behind your eyes looking out at the world can be altered or entirely extinguished.
 
@@ -21,20 +31,26 @@
 
 - There is an alternative to being continuously spellbound by the conversation we are having with ourselves; There is an alternative to simply identifying with the next thought that pops into consciousness. And glimpsing this alternative dispels the conventional illusion of the self.
 
+  #WhoWeAre
+
 - Wisdom is nothing more profound than an ability to follow ones own advice.
 
 - Cognition and emotion are not separate. The way we think about experience can completely determine how we feel about it. (see: lifting weights)
 
 - It is possible to be at ease in the world for no reason, if only for a few moments at a time, such ease is synonymous with transcending the apparent boundaries of the self.
 
+  #Happiness #WhoWeAre
+
 - Unlike Buddhism, as manuals for contemplative understanding, the Bible and Koran are worse than useless.
 
-- The purpose of the book is to encourage your to investigate certain contemplative  insights for yourself, without accepting the metaphysical ideas that they inspired in ignorant and isolated peoples of the past.
+- The purpose of the book is to encourage your to investigate certain contemplative insights for yourself, without accepting the metaphysical ideas that they inspired in ignorant and isolated peoples of the past.
 
 - It is always now. To realize this is liberating, there is nothing more important to understand if you want to be happy in the world.
   - We spend most of our lives forgetting this truth -- overlooking it, fleeing it, repudiating it. And the horror is that we succeed. We manage to avoid being happy while struggling to become happy.
 
-- there is nothing passive about mindfulness. Being mindful is not a matter of thinking more clearly about experience; it is the act of experiencing more clearly, including the arising of thoughts themselves.
+  #Happiness
+
+- There is nothing passive about mindfulness. Being mindful is not a matter of thinking more clearly about experience; it is the act of experiencing more clearly, including the arising of thoughts themselves.
 
 - The problem is not thoughts themselves but the state of thinking without knowing that we are thinking.
 
@@ -44,7 +60,11 @@
 
 - Conventional sources of happiness are unreliable, being dependent upon changing conditions.
 
+  #Happiness
+
 - According to Buddhist teachings, humans have a distorted view of reality that leads them to suffer unnecessarily. We grasp at transitory pleasures. We brood about the past and worry about the future. We continually try to prop up and defend the ego that doesn't exist.  By seeing things as they, are we cease to suffer in the usual ways and our minds can open to states of well-being that are intrinsic to the nature of consciousness.
+
+  #WhoWeAre
 
 - Investigating the nature of consciousness itself and transforming its contents through deliberate training is the basis of spiritual life.
 
@@ -60,9 +80,13 @@
 
 - An empirical claim: look closely enough at your own mind in the present moment, and you will discover that the self is an illusion.
 
+  #WhoWeAre
+
 - We must build our own telescopes to judge the empirical claims of contemplatives
 
 - Taking oneself to be the thinker of ones thoughts -- that is not recognizing the present thought to be a transitory appearance in consciousness --  is a delusion that produces nearly every species of human conflict and unhappiness.
+
+  #Happiness
 
 - It is not enough to know, in the abstract, that thoughts continually arise or that one is thinking at this moment, for such knowledge is itself mediated by thoughts that are arising unrecognized. It is th e arising of these thoughts that produces the feeling of "I".  One must pay attention closely to glimpse what consciousness is like between thoughts -- Consciousness does not feel like a self.
 
@@ -78,7 +102,9 @@
       	 - The path of gradual ascent is typical of Theravada Buddhism (and the Indian tradition) it is easy to teach.
       -) Fully acknowledge it and concede that all efforts are doomed. 
          - The path of "sudden realization" appears impossibly steep. "non-dualistic" in that it refuses to validate the POV from which one would meditate or practice any spiritual discipline.
-	 
+
+  #Buddhism
+
 - Peak experiences are fine, but real freedom must be present in normal waking life.
 
 - Gradualism says that one must climb the mountain so that freedom can be found at the top. However the self is ALREADY an illusion, and truth can be glimpsed directly at any point along the path.
@@ -105,4 +131,4 @@
 
 - We can directly experience that consciousness is never improved or harmed by what it knows. Making this discovery, again and again, is the basis of spiritual life.
 
-- We need not away any data from the lab to say that self-transcendence is possible. And we need not become masters of meditation to realize its benefits. It is within our capacity to recognize the nature of thoughts, to awaken from the dream of being merely ourselves, and to become better able to contribute to the well-being of others.
+- We need not await any data from the lab to say that self-transcendence is possible. And we need not become masters of meditation to realize its benefits. It is within our capacity to recognize the nature of thoughts, to awaken from the dream of being merely ourselves, and to become better able to contribute to the well-being of others.
