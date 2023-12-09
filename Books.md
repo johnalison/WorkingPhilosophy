@@ -1,5 +1,7 @@
 # 2023
 
+## [GOAT: Who is the Greatest Economist of all Time and Why Does it Matter?](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GOAT.md) (Tyler Cowen)
+
 ## [The Hitchhiker's Guide to the Galaxy](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HitchHikersGuideToGalaxy.md) (Douglas Adams)
 
 ## [Enchiridion](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Enchiridion.md) (Epictetus)
