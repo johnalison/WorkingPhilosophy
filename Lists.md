@@ -38,6 +38,7 @@
    - going to mars
    - cryonics
    - Never talk to the cops
+   - Peer review
 
 # Why Now is interesting
 
