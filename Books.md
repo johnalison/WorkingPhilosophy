@@ -1,5 +1,7 @@
 # 2023
 
+## [This is Water](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThisIsWater.md) (David Foster Wallace)
+
 ## [The Second Kine of Impossible](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SecondKindOfImpossible.md) (Paul Steinhardt)
 
 ## [GOAT: Who is the Greatest Economist of all Time and Why Does it Matter?](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/GOAT.md) (Tyler Cowen)
