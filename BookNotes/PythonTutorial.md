@@ -62,3 +62,29 @@ https://docs.python.org/3/tutorial/appetite.html
 - FIFOs: It is also possible to use a list as a queue, where the first element added is the first element retrieved (“first-in, first-out”); however, lists are not efficient for this purpose. While appends and pops from the end of list are fast, doing inserts or pops from the beginning of a list is slow (because all of the other elements have to be shifted by one).
 
   To implement a queue, use collections.deque which was designed to have fast appends and pops from both ends.
+
+- Though tuples may seem similar to lists, they are often used in different situations and for different purposes.
+  Tuples are immutable, and usually contain a heterogeneous sequence of elements that are accessed via unpacking
+  Lists are mutable, and their elements are usually homogeneous and are accessed by iterating over the list.
+
+- dictionaries are indexed by keys, which can be any immutable type; strings and numbers can always be keys. Tuples can be used as keys if they contain only strings, numbers, or tuples; if a tuple contains any mutable object either directly or indirectly, it cannot be used as a key. You can’t use lists as keys, since lists can be modified in place using index assignments
+
+- Performing list(d) on a dictionary returns a list of all the keys used in the dictionary, in insertion order (if you want it sorted, just use sorted(d) instead).
+
+- To loop over two or more sequences at the same time, the entries can be paired with the zip() function.
+
+
+```
+  questions = ['name', 'quest', 'favorite color']
+  answers = ['lancelot', 'the holy grail', 'blue']
+  for q, a in zip(questions, answers):
+    print('What is your {0}?  It is {1}.'.format(q, a))
+```
+
+- To loop over a sequence in sorted order, use the sorted() function which returns a new sorted list while leaving the source unaltered.
+
+- Using set() on a sequence eliminates duplicate elements. The use of sorted() in combination with set() over a sequence is an idiomatic way to loop over unique elements of the sequence in sorted order.
+
+
+Chapter 6
+https://docs.python.org/3/tutorial/modules.html

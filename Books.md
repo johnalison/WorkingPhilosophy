@@ -1,5 +1,9 @@
 # 2023
 
+## [The Stranger](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStranger.md) (Albert Camus)
+
+## [Gratitude](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Gratitude.md) (Oliver Sacks)
+
 ## [This is Water](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ThisIsWater.md) (David Foster Wallace)
 
 ## [The Second Kine of Impossible](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/SecondKindOfImpossible.md) (Paul Steinhardt)
