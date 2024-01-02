@@ -1,5 +1,7 @@
 # 2023
 
+## [John Stuart Mill Autobiography](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/JohnStuartMill.md) (John Stuart Mill)
+
 ## [The Stranger](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TheStranger.md) (Albert Camus)
 
 ## [Gratitude](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Gratitude.md) (Oliver Sacks)
