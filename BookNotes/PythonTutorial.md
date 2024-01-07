@@ -175,6 +175,32 @@ https://docs.python.org/3/tutorial/appetite.html
   They also automatically raise StopIteration. 
 
 
+- One approach for developing high quality software is to write tests for each function as it is developed and to run those tests frequently during the development process.
 
-ch 10
-https://docs.python.org/3/tutorial/stdlib.html
+
+- Some Python users develop a deep interest in knowing the relative performance of different approaches to the same problem. Python provides a measurement tool that answers those questions immediately.
+
+  For example, it may be tempting to use the tuple packing and unpacking feature instead of the traditional approach to swapping arguments. The timeit module quickly demonstrates a modest performance advantage:
+
+   >>> from timeit import Timer
+   >>> Timer('t=a; a=b; b=t', 'a=1; b=2').timeit()
+   0.57535828626024577
+   >>> Timer('a,b = b,a', 'a=1; b=2').timeit()
+   0.54962537085770791
+
+
+
+- A virtual environment, a self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages.
+
+- To create a virtual environment, decide upon a directory where you want to place it, and run the venv module as a script with the directory path:
+
+   > python -m venv tutorial-env
+
+- python -m pip list will display all of the packages installed in the virtual environment:
+
+- python -m pip freeze will produce a similar list of the installed packages, but the output uses the format that python -m pip install expects.
+  A common convention is to put this list in a requirements.txt file:
+
+  Users can then install all the necessary packages with install -r:
+  python -m pip install -r requirements.txt
+

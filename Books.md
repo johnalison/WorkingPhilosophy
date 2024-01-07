@@ -1,3 +1,9 @@
+# 2024
+
+## [The Book of Charlie](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BookOfCharlie.md) (David von Drehle)
+
+## [Python Tutorial](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/PythonTutorial.md) (docs.python.org)
+
 # 2023
 
 ## [John Stuart Mill Autobiography](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/JohnStuartMill.md) (John Stuart Mill)
