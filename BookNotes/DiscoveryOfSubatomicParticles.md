@@ -93,7 +93,7 @@
 
 - For 20 years after the discovery of the atomic nucleus, physicists generally thought that the nuclei of all elements consisted of protons and electrons.
 
-- Stable nuclear valley: (nuclear energies platted against the number of protons and neutrons in the nucleus)
+- Stable nuclear valley: (nuclear energies plotted against the number of protons and neutrons in the nucleus)
 
   The stable valley grows steadily deeper as we move toward heavier elements, this is because the attraction caused by the nuclear forces increase with increasing numbers of protons and neutrons.
   Because of this, energy will be released if the nuclei of light elements fuse to form heavier nuclei; this is the source of the energy of stars like our sun.
