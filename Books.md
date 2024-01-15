@@ -1,5 +1,7 @@
 # 2024
 
+## [Conscious](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Conscious.md) (Annaka Harris)
+
 ## [Experiments in Modern Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ExperimentsInModernPhysics.md) (Melissinos and Napolitano)
 
 ## [The Book of Charlie](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/BookOfCharlie.md) (David von Drehle)
