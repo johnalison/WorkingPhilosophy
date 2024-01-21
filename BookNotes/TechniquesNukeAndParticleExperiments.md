@@ -181,8 +181,75 @@
 - PMTs: the output signal at the anode is a current or charge pulse whose total charge is proportional to the initial number of electrons emitted by the photocathode.
   In fact, more than any other device, the photomultiplier satisfies the requirements of an ideal current generator.
 
-- The advantage of the semiconductor device is that the average energy required to create an electron-hole pair is some 10 times smaller than that required for gas ionization.
+
+- While work on crystal detectors was performed as early as the 1930's [10.1], real development of these instruments first began in the late 1950's.
+  The first prototypes quickly progressed to working status and commercial availability in the 1960's
+
+- The basic operating principle of semiconductor detectors is analogous to gas ionization devices.
+  Instead of a gas, however, the medium is now a solid semiconductor material.
+  The passage of ionizing radiation creates electron-hole pairs (instead of electron-ion pairs) which are then collected by an electric field.
+  The advantage of the semiconductor device is that the average energy required to create an electron-hole pair is some 10 times smaller than that required for gas ionization.
   Thus the amount of ionization produced for a given energy is an order of magnitude greater resulting in increased energy resolution.
+
+
+- Unlike recombination and trapping states, this level is extremely close to the conduction band being separated by only 0.01 eV in germanium and 0.05 eV in silicon.
+  At normal temperatures, therefore, the extra electron is easily excited into the conduction band where it will enhance the conductivity of the semiconductor.
+
+- The amount of dopant used is gen- erally very small with typical concentrations being on the order of a few times 1e13 atoms/cm3.
+  Since the densities of germanium and silicon are on the order of 1e22 atoms/cm3, this implies impurity concentrations of only a few parts per billion!
+
+- Great use is also made of heavily doped semiconductors particularly as the electrical contacts for semiconductors.
+  Impurity concentrations in these materials can be as high as 1e20 atoms/cm3, so that they are highly conductive. 
+
+- This characteristic of the depletion zone is particularly attractive for radiation detection.
+  Ionizing radiation entering this zone will liberate electron-hole pairs which are then swept out by the electric field.
+  If electrical contacts are placed on either end of the junction device, a current signal proportional to the ionization will then be detected.
+  The analogy to an ionization chamber thus becomes apparent.
+
+- While the pn-junction described above will work as a detector, it does not present the best operating characteristics.
+  In general, the intrinsic electric field will not be intense enough to provide efficient charge collection and the thickness of the depletion zone will be sufficient for stopping only the lowest energy particles.
+  As we will see later, this small thickness also presents a large capacitance to the electronics and increases noise in the signal output.
+  Better results can be obtained by applying a reverse-bias voltage to the junction, i.e., a negative voltage to the p-side, as shown in Fig. 10.7.
+
+  The net effect is to enlarge the depletion zone and thus the sensitive volume for radiation detection - the higher the external voltage, the wider the depletion zone.
+  Moreover, the higher external voltage will also provide a more efficient charge collection.
+  The maximum voltage which can be applied, however, is limited by the resistance of the semiconductor.
+  At some point, the junction will breakdown and begin conducting.
+
+- For the same radiation energy, the number of charge carriers created will therefore be almost an order of magnitude greater in these materials than in gases.
+  Compared to the number of photoelectrons created in a scintillation counter, this increase approaches two orders of magnitude.
+  Not surprisingly, semiconductors should provide a greatly improved energy resolution.
+
+- Since the gaps are only on the order 1 eV wide, it is clear that less than a third of the energy deposited by passing radiation is actually spent on the production of electron-hole pairs.
+  The other two thirds, in fact, go into exciting lattice vibrations.
+
+- The third and by far the largest source of leakage current is through surface channels.
+  This component is complex and depends on very many factors including the surface chemistry, the existence of contaminants, the surrounding atmosphere, the type of mounting, etc.
+  Clean encapsulation is generally required here to minimize this component.
+
+- The obvious disadvantage of discrete detectors is the quantity of electronics required.
+  Since each electrode is a separate detector, preamplifiers and other units must be provided for each strip.
+
+- Charged-coupled devices (CCD) are silicon devices consisting of a two-dimensional array of tiny potential wells each covering a surface area of a few square microns.
+  One chip contains tens of thousands of elements.
+  When struck by radiation, electrons are released which are then trapped in these wells.
+  This charge information is then readout by successively shifting the charge from one well to the next until it reaches the output electronics.
+  CCD's have been mainly used for light imaging purposes and are extremely sensitive, low noise devices.
+  As a detector, spatial resolutions for these instruments are expected to be better than 2 mum.
+  However, they are very limited in counting rate.
+
+- Higher voltages thus reduce the noise by increasing the depletion thickness; however, a greater risk of breakdown is also incurred.
+
+- For silicon detectors, increasing temperature will also result in higher leakage currents and greater noise.
+  For each 10°C rise in temperature, there is roughly a three-fold increase in the leakage current.
+
+- As we have mentioned, semiconductor detectors are relatively sensitive to radiation damage.
+  Incident particles colliding with lattice atoms cause point defects by "knocking" them out of their normal positions.
+  These structural defects then give rise to discrete trapping levels in the forbidden band gap which reduce the number of charge carriers in the semiconductor.
+  There also appears to be changes in the resistivity of the base material as well. 
+
+  The main effects of radiation damage on detector performance are an increased leakage current and a degradation of energy resolution.
+  If the damage is not too great, however, an increase in the bias voltage can compensate resolution loss to some extent by decreasing the collection time.
 
 - Distortion from reflections in the interconnecting cables can be a problem.
   This arises because of the short duration of fast pulses relative to their time of transit in the interconnection.
