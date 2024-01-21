@@ -1,5 +1,7 @@
 # 2024
 
+## [Techinques for Nuclear and Particle Physics Experiments](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TechniquesNukeAndParticleExperiments.md) (W. R. Leo)
+
 ## [Conscious](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Conscious.md) (Annaka Harris)
 
 ## [Experiments in Modern Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ExperimentsInModernPhysics.md) (Melissinos and Napolitano)
