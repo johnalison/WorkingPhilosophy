@@ -33,3 +33,10 @@ https://fs.blog/how-to-think/
   Working smarter is the most valuable form of working harder.
 
 - "Few things are as important to your quality of life as your choices about how to spend the precious resource of your free time."
+
+- The best people are the least likely to jump through hoops to earn trust. And they're the first to vote with their feet and avoid people they don't think are trustworthy.
+
+- “There are two cardinal sins from which all others spring: Impatience and Laziness.” — Franz Kafka
+    The middle Way
+
+

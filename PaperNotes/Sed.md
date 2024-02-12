@@ -1,5 +1,14 @@
 https://www.gnu.org/software/sed/manual/sed.html
 
+- Test a replacement
+
+  > sed -n 's/* %GREEN%/--->/p' CWR_AlbertDeRoeck.twiki
+
+- Do the replacement in line
+
+  > sed -i 's/* %GREEN%/--->/g' CWR_AlbertDeRoeck.twiki
+  (On mac)    > sed -i ''  's/* %GREEN%/--->/g' CWR_AlbertDeRoeck.twiki
+
 - By default sed prints all processed input
   Use -n to suppress output, and the p command to print specific lines. The following command prints only line 45 of the input file:
 
@@ -48,3 +57,4 @@ https://www.gnu.org/software/sed/manual/sed.html
   The above example is equivalent to this grep command:
 
     > grep 'hello'
+
