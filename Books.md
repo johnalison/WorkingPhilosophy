@@ -1,5 +1,7 @@
 # 2024
 
+## [Science and Cooking](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ScienceAndCooking.md) (Brenner, Sorensen, and Weitz)
+
 ## [Quantum Field Theory and the Standard Model](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/QFTAndTheSM.md) (Matt Schwartz)
 
 ## [Techinques for Nuclear and Particle Physics Experiments](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/TechniquesNukeAndParticleExperiments.md) (W. R. Leo)
