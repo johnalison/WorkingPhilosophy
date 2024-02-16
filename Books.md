@@ -1,5 +1,7 @@
 # 2024
 
+## [Data Reduction and Error Analysis](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DataReductionAndErrorAnalysis.md) (Bevington and Robinson)
+
 ## [Science and Cooking](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/ScienceAndCooking.md) (Brenner, Sorensen, and Weitz)
 
 ## [Quantum Field Theory and the Standard Model](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/QFTAndTheSM.md) (Matt Schwartz)
