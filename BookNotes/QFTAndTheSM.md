@@ -184,4 +184,72 @@
 - all of the physics of the electromagnetic field is not entirely contained in Fμν.
   There are global topological properties of Aμ that are not contained in Fμν but have physical consequences.
 
-ch9
+- So a global symmetry under phase rotations implies charge, which implies complex fields, which implies antiparticles.
+  That is, Matter coupled to massless spin-1 particles automatically implies the existence of antiparticles, which are particles of identical mass and opposite charge.
+
+- To recap, we saw that to have a consistent theory with a massless spin-1 particle we needed gauge invariance.
+  This required a conserved current, which in turn required that charge be conserved.
+  To couple the photon to matter, we needed more than one degree of freedom so we were led to φ and φ⋆.
+  Upon quantization, complex scalar fields imply antiparticles.
+  Thus, there are many profound consequences of consistent theories of massless spin-1 particles.
+
+- As far as free states are concerned, which is all we need for S-matrix elements, the pho- ton is just a bunch of scalar fields integrated against some polarization vectors εiμ(k).
+  This leads to LSZ being modified only by adding a factor of the photon polarization for each external state: εμ if it is incoming and ε⋆μ if it is outgoing.
+
+- There is a beautiful and direct connection between Lorentz invariance and charge con- servation that bypasses gauge invariance completely.
+  it only uses little-group invariance and the fact that for a massless field one can take the soft limit [Weinberg, 1964].
+
+- Note that photons attached to loop momenta in the blob in M0 are subdominant to photons attached to external legs, since the loop momenta are off-shell and hence the associated propagators are not singular as q → 0.
+  That is, photons coming off loops cannot give 1/(pq) factors.
+
+-  momentum is not a good quantum number for characterizing particles since it is frame dependent.
+   If we choose a frame in which the momentum has some canonical form, for example pμ = (m,0,0,0) for m > 0, then the particles are characterized by the group that holds this momentum fixed, known as the little group.
+
+- As we saw for spin 1, a lot of trouble comes from having to embed particles of fixed mass and spin into these fields.
+  The problem is that, except for φ(x), these fields describe reducible and non-unitary representations. For example, Vμ(x) has four degrees of freedom, which describes spin 0 and spin 1.
+  We found that we could construct a unitary theory for massive spin 1 by carefully choosing the Lagrangian so that the physical theory never excites the spin-0 component.
+  For massless spin 1, we could also choose a Lagrangian that only propagated the spin-1 component, but only by introducing gauge invariance.
+  This led directly to charge conservation.
+  The next logical step to make these embeddings more systematic is to determine all possible Lorentz-invariant fields we can write down.
+  This will reveal the existence of the spin-1/2 states, and help us characterize their embeddings into fields.
+
+- Lagrangians are constructed out of fields, Vμ(x) and ψ(x), which transform under the Lorentz group.
+  However, particles transform under irreducible unitary representations of the Poincare ́ group, which have spins associated with the little group (as discussed in Chapter 8).
+  So, the decomposition of Lorentz representations as in Table 10.1 determines the spins of particles that might be described by given fields.
+
+- the Dirac representation of the Lorentz group is reducible; it is the direct sum of a left-handed and a right-handed spinor representation.
+  The Weyl spinors, ψL and ψR, are in a way more fundamental than Dirac spinors such as ψ because they correspond to irreducible representations of the Lorentz group.
+  But the electron is a Dirac spinor.
+  More importantly, QED is symmetric under L ↔ R.
+  Thus, for QED the γ-matrices make calculations a lot easier than separating out the ψL and ψR components.
+  In fact, we will develop such efficient machinery for manipulating the γ-matrices that even in theories which are not symmetric to L ↔ R, such as the theory of weak interactions (Chapter 29), it will be convenient to embed the Weyl spinors into Dirac spinors and add projectors to remove the unphysical components.
+  These projections are discussed in Section 11.1.
+
+- We have just been re-deriving from the Dirac algebra point of view what we found by hand from the Weyl point of view.
+  We have seen that the natural conjugate for ψ out of which real Lorentz-invariant expressions are constructed is not ψ† but ψ ̄ ≡ ψ†γ0. (10.88)
+  The point is that ψ ̄ transforms according to Λ−1.
+  Thus ψ ̄ψ is Lorentz invariant.
+  In contrast,  ψ†ψ is not Lorentz invariant, since ψ†ψ → (ψ†Λ†s)(Λsψ).
+  For this to be invariant, we would need Λ† = Λ−1, that is, for the representation of the Lorentz group to be unitary.
+
+- So the Dirac equation makes a testable prediction: charged fermions should have magnetic dipole moments with size given by μB = e .
+  Experimentally, the moment is ∼1.002μB.
+  The 0.002 will be calculated later.
+
+- To summarize, we found that while free spinors satisfy the equation of motion for a scalar field, when spinors are coupled to the photon, an additional interaction appears which corresponds to a magnetic dipole moment.
+  The size of the electron’s magnetic moment can be read off as the coefficient of this additional interaction.
+  That the correct magnetic moment comes out of the Dirac equation is a remarkable physical prediction of Dirac’s equation.
+
+- If we rotate by 4π it would, but with a 2π rotation we pick up a −1.
+  By the way, this odd factor of −1 is the origin of the connection between spin and statistics.
+
+- However, we can still have the fields change by a phase without upsetting their norms.
+  Thus, for physical purposes what we are looking for is not exactly representations of the Lorentz group, but projective representations of the Lorentz group,
+
+- Using objects that have properties that are not directly observable is not new.
+  For exam-ple, in quantum mechanics we learned that wavefunctions are complex.
+  There are plenty of implications of the complexity, but you do not actually measure complex things.
+  In the same way, although we only measure Lorentz-invariant things (matrix elements), the most general theory can have objects, spinors, that are a little bit more complicated than the Lorentz group alone would naively suggest.
+  Although spinors transform in representations of SL(2, C), the Poincare ́ group is still the symmetry group of observables.
+
+- ch11
