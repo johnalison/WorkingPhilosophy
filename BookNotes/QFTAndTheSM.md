@@ -252,4 +252,81 @@
   In the same way, although we only measure Lorentz-invariant things (matrix elements), the most general theory can have objects, spinors, that are a little bit more complicated than the Lorentz group alone would naively suggest.
   Although spinors transform in representations of SL(2, C), the Poincare ́ group is still the symmetry group of observables.
 
-- ch11
+- We also found Lorentz-invariant Lagrangians for spinor fields, ψ(x).
+  The next step towards quantizing a theory with spinors is to use these Lorentz group representations to generate irreducible unitary representations of the Poincare ́ group.
+  We discussed how unitary representations of the Poincare ́ group are induced from rep- resentations of its little group.
+
+- In the spin-1 case, we found that there were ambiguities in what the free Lagrangian was (it could have been aAμ[]Aμ + bAμ∂μ∂νAν for any a and b), but we found that there was a unique Lagrangian that propagated the correct degrees of freedom.
+  We then solved the free equations of motion for a fixed momentum pμ generating two or three polarizations εiμ(p).
+  These solutions, which were representations of the little group, if known for every value of pμ, induce representations of the full Poincare ́ group.
+
+- For the spin-1/2 case, there is a unique free Lagrangian (up to Majorana masses) that automatically propagates the right degrees of freedom.
+  In this sense, spin 1/2 is easier than spin 1, since there are no unphysical degrees of freedom.
+  The mass term couples left- and right-handed spinors, so it is natural to use the Dirac representation.
+  As in the spin-1 case, we will solve the free equations of motion to find basis spinors, us(p) and vs(p) (analogs of εiμ), which we will use to define our quantum fields.
+  As with complex scalars, we will naturally find both particles and antiparticles in the spectrum with the same mass and opposite charge: these properties fall out of the unique Lagrangian we can write down.
+
+- There are actually three concepts associated with spin: spin, helicity and chirality.
+
+- Here left-handed and right-handed refer to the (1/2, 0) or (0, 1/2) representations of the Lorentz group.
+  The handedness of a spinor is also known as its chirality.
+
+- the mass mixes the left- and right-handed states.
+
+- The QED interactions do not preserve spin, however; only a strong magnetic field can flip an electron’s spin.
+  So, as long as magnetic fields are weak, spin is a good quantum number.
+  That is why spin is used in quantum mechanics.
+
+- The transformation Aμ → −Aμ under C may seem strange, since a vector field is real, so it should not transform under an operation that switches particles with antiparticles.
+  Since particles and antiparticles have opposite charge and Aμ couples proportionally to charge, this transformation is needed to compensate for the transformation of the charged fields.
+
+  There is an important lesson here: you could take C : Aμ → Aμ, but then the Lagrangian would not be invariant.
+  Thus, rather than trying to figure out how C acts, the right question is:
+  How can we enlarge the action of the transformation C, which we know for Dirac spinors, to a full interacting theory so that the symmetry is preserved?
+  Whether we interpret C with the words “takes particles to antiparticles,” has no physical implications.
+  In contrast, a symmetry of a theory does have physical implications: preservation of the symmetry gives a superselection rule – certain transitions cannot happen.
+  An important example is that C invariance forces matrix elements involving an odd number of photons to vanish,
+
+- In the SM, there are three continuous global symmetries: Lepton number, baryon number and electric charge.
+
+- We take it for granted that light particles cannot decay to heavier particles, but this is actually a non-trivial consequence of the spin-statistics theorem.
+
+- Note that it is pretty crazy to imagine that a theory which involves generally smooth functions could produce objects that vanish in a compact region but do not vanish everywhere. (ie: outside the lightcode)
+  This would be mathematically impossible if [O1(x),O2(y)] were an analytic function of x and y.
+  Quantum field theory can get away with this because operator products give distributions, not functions.
+
+- causality can only be used to prove that integer spin particles commute, but not that half-integer spin particles anticommute.
+  The reason is that observables are bilinear in spinors, and hence have integer spin
+
+- Causality actually follows directly from Lorentz invariance of the S-matrix: time ordering is only Lorentz invariant for timelike separations.
+  That is, the inequality ti < tj is Lorentz invariant as long as xμi −xμj is timelike.
+  If two points are spacelike separated, then one can boost to a frame where tj < ti.
+  Thus, for spacelike separation, time ordering of a pair of fields is an ambiguous operation unless the fields commute.
+  So causality follows from Lorentz invariance of the S-matrix. The converse is not true: Eq. (12.1) is a necessary condition, but not sufficient, for Lorentz invariance of the S-matrix.
+
+- By the way, that identical particles must exist is an automatic consequence of using creation and annihilation operators in quantum field theory.
+  You might wonder why we have to consider states produced with creation operators at all.
+  If we demand that all operators are constructed out of creation and annihilation operators we are guaranteed that the cluster decomposition principle holds.
+
+- spin-statistics follows from having a positive-definite energy density. More precisely, we need the total energy to be bounded from below, since a constant shift has no physical consequences.
+
+- Now we can see that the problem is that \slash{p} is odd under the rotation that takes p → −p, so that an extra −1 is generated when we try to combine the time-ordered sum for the fermion.
+  A particle of spin n + 1/2 for integer n will have a field with n vector indices and a spinor index, ψμ1···μn.
+  So the corresponding polarization sum must have a factor of γμ and the only thing around to contract γμ with is its momentum pμ. 
+
+
+- Note that for fermions the zero-point energy is negative.
+
+- More generally, every integer spin particle will be embedded in a tensor (Aμ,hμν,Zμνα,...).
+  The terms quadratic in these fields will have an even number of indices to contract, forcing an even number of derivatives in the kinetic terms.
+  In contrast, every half-integer spin particle will be embedded in a spinor field, with tensor indices (ψ,χμ,ημν,...).
+  They must be contracted with barred spinors (ψ ̄,χμ,η ̄μν,...), which transform in complex conjugate representations of the Lorentz group.
+  To contract these, we must insert a γμ matrix, which must be contracted with a single ∂μ.
+  Thus, all kinetic terms for integer spin fields will have an even number of derivatives and kinetic terms for half-integer spin fields will have an odd number of derivatives.
+  This will lead to the same minus signs in the derivation of the Hamiltonian.
+  Thus, all integer (half-integer) spin particles must be bosons (fermions).
+
+- Unfortunately, spinors appear not to be observables.
+  The only things we ever measure are numbers, which are constructed out of bilinears in spinors
+
+- ch13
