@@ -329,4 +329,122 @@
 - Unfortunately, spinors appear not to be observables.
   The only things we ever measure are numbers, which are constructed out of bilinears in spinors
 
-- ch13
+- These formulas characterize the scattering of pointlike particles from other pointlike particles.
+  Note that the final forms in which we have written these cross sections depend only on properties of the initial and final electrons.
+  Thus, they are suited to experimen- tal situations in which electrons are scattered by hydrogen gas and the final state proton momenta are not measured.
+  Such experiments were carried out in the 1950s, notably at Stanford, and deviations of the measured cross section from the form of Eq. (13.103) led to the conclusion that the proton must have substructure.
+  More shockingly, at very high energy, this pointlike scattering form was once again observed, indicating the presence of pointlike constituents within the proton, now known as quarks.
+  We will discuss these important e−p+ scattering experiments and their theoretical interpretation in great detail in Chapter 32.
+
+- Although QED had great successes at tree-level, that is at leading-order in the fine-structure constant α, it appeared in the 1930s incapable of making quantitative predictions at higher orders.
+  For example, the infinite contribution of the Coulomb potential to the electron mass in the classically theory was still infinite in QED; and QED could not be used to compute corrections to the energy levels of the hydrogen atom.
+  By the late 1930s, the experts generally believed that QED was incomplete, if not wrong.
+
+  As we will see in Part III, the key to performing calculations in QED beyond leading order in α is to carefully relate observable quantities to other observable quantities.
+
+
+- There are a number of amazing things about path integrals.
+  For example, they imply that by dealing with only classical field configurations you can get the quantum amplitude.
+  This is really crazy if you think about it – these classical fields all commute, so you are also getting the non-commutativity for free somehow.
+  Time ordering also just seems to pop out.
+  And where are the particles?
+  What happened to second quantization?
+
+- One way to think about path integrals is that they take the wave nature of matter to be primary, in contrast to the canonical method which is all about particles.
+
+- Another important contrast between path integrals and the canonical approach is which symmetries they take to be primary.
+  In the canonical approach, with the Hilbert space defined on spatial slices, matrix elements came out Lorentz invariant almost magically.
+  With path integrals, Lorentz invariance is manifest the whole way through and Feynman diagrams appear very natural, as we will see.
+  On the other hand, the Hamiltonian and Hilbert space are obscure in the path integral.
+  That the Hamiltonian should be Hermitian and have positive definite eigenvalues on the Hilbert space (implying unitarity) is very hard to see with path integrals
+  So manifest unitarity is traded for manifest Lorentz invariance.
+
+- So this is a nice way of calculating time-ordered products – we can calculate Z[J] once and for all, and then to get time-ordered products all we have to do is take derivatives.
+  The generating functional is the quantum field theory analog of the partition function in statistical mechanics – it tells us everything we could possibly want to know about a system.
+  The generating functional is the holy grail of any particular field theory: if you have an exact closed-form expression for Z[J] for a particular theory, you have solved it completely.
+
+- we do not know if any field theory exists, in a mathematically precise way, in four dimensions.
+
+- The Schwinger–Dyson equations assert that vacuum matrix elements of time-ordered products satisfy the classical equations of motion up to contact terms.
+  They specify non-perturbative relations among correlation functions.
+  In fact, as we will see in this section, they are enough to completely specify the quantum theory.
+
+- An amazing thing about the Schwinger–Dyson differential equation is that, since it  encodes the difference between the classical and quantum theories, it can be used to define the quantum theory.
+
+- By the way, you often hear that the canonical approach is purely perturbative.
+  That is not true, since Z^[J] is identical to Z[J].
+  Although non-perturbative statements can be made with the canonical approach, they are generally easier to make with path integrals, which is a practical distinction, not one of principle.
+
+- The Ward–Takahashi identity not only implies the usual Ward identity and gauge invariance, but since it is non-perturbative it will also play an important role in the renormalization of QED.
+
+  It has important implications.
+  In Section 19.5, we will show that it implies that charge conservation survives renormalization, which is highly non-trivial.
+  The reason it is so powerful is that it applies not just to S-matrix elements, but to general correlation functions.
+  It also implies the regular Ward identity, as we will show below.
+
+- Now we come to the real heart of quantum field theory: loops. Loops generically are infinite
+  So what are we supposed to do about these divergences?
+  The basic answer is very simple: this loop is not by itself measurable.
+  As long as we are always computing measurable quantities, the answer will come out finite.
+
+-  On physical grounds, only modes of size a1 can reach both walls of the box to transmit the force, thus our deformation should not affect those modes.
+   The Casimir force is independent of any regulator.
+   The Casimir force is an infrared effect.
+
+- The point is that since ρc is unmeasurable we can choose it to be whatever is convenient.
+  ρc is called a counterterm.
+  Counterterms give purely infinite contributions to intermediate steps in calculations, but when we compute physical quantities they drop out.
+  Counterterms are an important tool in renormalization in quantum field theory.
+
+- You can show in string theory that the j = 1 excitations comprise spin-1 particles with two polarizations.
+  So they must be massless.
+  Then, solving for m = 0 you find d = 26.
+  That is why string theory takes place in 26 dimensions.
+  If you do the same calculation for the superstring, you find d = 10.
+
+- this matrix element is not just proportional to λ but also has the λ2 correction above.
+  Thus, it is impossible to simply extract λ from this scattering process.
+  Instead, let us just define a renormalized coupling λR as the value of the matrix element at a particular s = s0.
+  This equation relates the parameter λ of the Lagrangian to the value of the observed scattering amplitude λR at a particular center-of-mass energy s0.
+  We can also conclude that since λR is observable and hence finite, λ must be infinite, to cancel the infinity from ln Λ2 .
+
+- The φ4 cross section with s = s1 differs from the cross section with s = s0 by logarithmic terms.
+  we are predicting one observable (cross section at s) in terms of another (cross section at s0).
+  By the way, the logarithmic behavior is a characteristic of loop effects – tree-level graphs only give you rational polynomials in momenta and couplings, never logarithms.
+
+- Doing things this way, with counterterms but as a perturbative expansion in the physical coupling λR, is known as renormalized perturbation theory.
+  The previous way, where we compute physical quantities such as M(s1)−M(s2) directly, is sometimes called physical or on-shell perturbation theory.
+  The two are equivalent, but for complicated calculations, renormalized perturbation theory is often much easier.
+
+- although the energy of a system involving two plates is infinite, the force between the plates (the Casimir force), which is what is actually observable, is finite.
+  At an intermediate step in the calculation, we needed to model the inability of the plates to restrict ultra-high-frequency radiation.
+  We found that the force was independent of the model and only determined by radiation with wavelengths of the plate separation, exactly as physical intuition would suggest.
+  More precisely, we proved the force was independent of how we modeled the interactions of the fields with the plates as long as the very short wavelength modes were effectively removed and the longest wave- length modes were not affected.
+
+- The program of systematically making testable predictions about long-distance physics in spite of formally infinite short-distance fluctuations is known as renormalization.
+  Because physics at short and long distance decouples, we can deform the theory at short distance any way we like to get finite answers – we are unconstrained by physically justifiable models.
+  In fact, our most calculationally efficient deformation will be analytic continuation to d = 4 − ε dimensions with ε → 0.
+  The beauty of renormalization is that the existence of a physical cutoff is totally irrelevant: quantitative predictions about long-distance physics do not care what the short-distance cutoff really is, or even whether or not it exists.
+
+  Observables are finite and in-principle calculable functions of other observables.
+
+-  loops can produce behavior different from anything possible at tree-level.
+   In particular, non-analytic behavior, such as ln(s) , is characteristic of loop effects.
+
+   In many cases, the non-analytic behavior will comprise the entire physical prediction associated with the loop.
+
+- With the Pauli–Villars regulator we are using here, Λ is the mass of some heavy fictitious particle.
+  It corresponds to a deformation of the theory at very high energies/short distances, like the modeling of the wall in the Casimir force.
+  On the other hand, Q is a physical scale, like the plate separation in the Casimir force.
+  Thus, Λ cannot depend on Q.
+  In particular, the ln Q2 dependence cannot be removed by a redefinition of Λ like the 2 in Eq. (16.11) was.
+  This point is so important it is worth repeating: the short-distance deformation (Λ) cannot depend on long-distance physical quantities (Q).
+  This separation of scales is critical to being able to take Λ → ∞ to make predictions by relating observables at different long-distance scales such as Q and Q0.
+  The coefficient of lnQ2 is in fact regulator independent and will generate the physical prediction from the loop.
+
+- The renormalization condition defines the coupling in terms of an observable.
+  Therefore, you can only have one renormalization condition for each parameter in the theory.
+  This is critical to the predictive power of quantum field theory.
+
+p312
+
