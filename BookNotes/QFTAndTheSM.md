@@ -446,5 +446,73 @@
   Therefore, you can only have one renormalization condition for each parameter in the theory.
   This is critical to the predictive power of quantum field theory.
 
-p312
+- Despite the difficulty of probing extremely high energies in QED experimentally, one can at least ask what would happen if we attempted scattering at Q ≫ m.
+  From Eq. (16.66) we can see that at some extraordinarily high energies, Q ∼ 10^286 eV, the loop correction, the logarithm, is as important as the tree-level value, the 1.
+  Thus, perturbation theory is breaking down.
+  At these scales, the 2-loop value will also be as large as the 1-loop and tree-level values, and so on.
+  The scale where this happens is known as a Landau pole.
 
+  QED has a Landau pole: perturbation theory breaks down at short distances.
+
+  This means that QED is not a complete theory in the sense that it does not tell us how to compute scattering amplitudes at all energies.
+
+
+- The coupling g is the g-factor of the electron, representing the relative strength of its intrinsic magnetic dipole moment to the strength of the spin-orbit coupling.
+  From the point of view of the Schrodinger equation, g is a free parameter and could be anything.
+  However, the Dirac equation implies that g = 2, which was a historically important postdiction in excellent agreement with data when Dirac presented his equation in 1932.
+  A natural question is then: is g = 2 exactly, or does g receive quantum corrections?
+  The answer should not be obvious.
+  For example, the charge of the electron is exactly opposite to the charge of the proton, receiving no radiative corrections (we will prove this in Section 19.5), so perhaps the magnetic moment is exact as well.
+
+- The current best measurement is g=2.0023193043617±(3×10−13).
+  The theory calculation has been performed up to 4-loop level.
+  One cannot compare theory to experiment directly, since the theory is expressed as a function of α, which cannot be measured more precisely any other way.
+  Therefore g − 2 is now used to define the renormalized value of the fine-structure constant, which comes out to α−1 =137.035999070± (9.8×10−10).
+
+- it is helpful to navigate away from observables such as the Lamb shift or the Coulomb potential, which are particular to one type of correction, to thinking of general observables.
+  Unfortunately, the question of what is observable and what is not is extremely subtle and has no precise definition in quantum field theory.
+  For example, one might imagine that S-matrix elements are observable; in many cases they are actually infinite due to IR divergences,
+
+  In particular, we will find that in QED, while there are an infinite number of divergent graphs contributing to the S-matrix, the divergences can be efficiently categorized and renormalized through the one-particle irreducible subgraphs
+
+- The bare free field is canonically normalized to give all the tree-level scattering results we have already calculated.
+  We then define the renormalized field as:
+     1/sqrt(Z) \psi
+  for some (formally infinite) number Z.
+  This is the origin of the term renormalization.
+
+- We can choose different values for the counterterms which differ from these by finite numbers and GR(p/) will still be finite.
+  Any prescription for choosing the finite parts of the counterterms is known as a subtraction scheme.
+  Not only must observables in a renormalized theory be finite, but they also must be independent of the subtraction scheme, as we will see.
+  Nevertheless, there are some smart choices for subtraction schemes and some not-so-smart choices.
+
+ The two subtraction schemes most often used in quantum field theory are the on-shell subtraction scheme and the minimal subtraction (MS) scheme.
+ Minimal subtraction is by far the simplest scheme and the one used in almost all modern quantum field theory calculations.
+
+- The location of the pole is a definition of mass, known as the pole mass.
+  It is important to keep in mind that the pole mass is physical and independent of any subtraction scheme used to set the finite parts of the counterterms.
+  In the on-shell subtraction scheme, the finite parts of the counterterms are chosen so that mR = mP . In minimal subtraction, mR != mP .
+  In either case the 2-point Green’s function still has a pole at mP .
+
+- the electron self-energy graph contributes loop corrections to the electron propagator.
+  This loop was divergent, but the divergence could be removed by renormalizing the electron’s quantum field, ψ0 = √Z2ψR, and redefining the electron mass, m0 = ZmmR.
+  In these equations, ψ0 and m0 refer to bare quantities that are formally infinite, while ψR and mR are finite renormalized quantities.
+  The quantities δm and δ2 defined by expanding the renormalization factors around the classical values, e.g. Z2 = 1 + δ2, are known as counterterms.
+  These counterterms can be chosen to cancel the infinite contribution of the electron self-energy graph to the renormalized electron propagator.
+  While the cancellation fixes the infinite parts of the counterterms, the finite parts are arbitrary.
+  Conventions for fixing the finite parts are known as subtraction schemes.
+
+- You might wonder why on earth anyone would use an unphysical and arbitrary MS mass rather than the physical pole mass.
+  The basic answer is that MS is a much simpler subtraction scheme than the on-shell scheme.
+  It is often easier to compute loops in MS and then convert the masses back to the pole mass at the end rather than to do the computations in terms of the pole mass from the beginning.
+  Numerically, the differences between pole masses and MS are often quite small for μ chosen of order mP .
+  One important exception is the top-quark mass, where mP ∼ 175 GeV but mR ∼ 163 GeV.
+  This 5% difference is important for precision physics,
+  For particles such as quarks, which can never be seen as asymptotic states, there is not actually a pole in the S-matrix, so the pole mass is not always a useful mass definition.
+
+-  In minimal subtraction, the electron mass mR does get radiative corrections, as Eq. (18.70) shows.
+   A physical effect of these radiative corrections can be seen, in principle, in logarithmic corrections to the Yukawa potential, which is easiest to understand using renormalization group methods.
+
+
+- ch19
+ 
