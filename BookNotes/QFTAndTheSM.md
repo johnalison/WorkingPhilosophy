@@ -514,5 +514,56 @@
    A physical effect of these radiative corrections can be seen, in principle, in logarithmic corrections to the Yukawa potential, which is easiest to understand using renormalization group methods.
 
 
-- ch19
- 
+- The idea behind renormalization is that for every infinity there should be a free parameter to absorb it.
+  An important point is that all we have are these five parameters, and they must be sufficient to absorb every infinity.
+  an efficient organizational framework for keeping track of the various infinities called renormalized perturbation theory.
+  This will let us understand why it is not unnatural for the proton and electron to have exactly opposite charges.
+
+- In renormalized perturbation theory, the counterterms appear as interactions in the Lagrangian and can be used in Feynman diagrams, just like any other interactions.
+
+- Given that δ1 and δ2 came from entirely different loop calculations (the vertex correction and the electron self-energy graph), it appears almost magical that δ1 = δ2.
+  So their equality, if not just a coincidence, would imply something highly non-trivial about QED.
+  In fact, δ1 = δ2 exactly, as we will prove in Section 19.5.
+  This result is equivalent to the QED charge current, Jμ = ψ ̄γμψ, not getting renormalized.
+
+- An important point, which is often confused, is that there are two scales involved in any renormalization: the cutoff scale Λ, which is taken to infinity, and a finite low-energy scale μ, the subtraction point. 
+  
+- Thus, Z1 = Z2 implies that the relationship between the coefficient of i∂/ and of eRA/ does not receive radiative corrections.
+  In other words, the ratio of charges of the electron and the quark is the same in the quantum theory as they would be classically.
+  This is pretty remarkable.
+  It explains why the observed charge of the proton and the charge of the electron can be exactly opposite, even in the presence of vastly different interactions of the two particles.
+  A priori, we might have suspected that, because of strong interactions and virtual mesons surrounding the proton, the types of radiative corrections for the proton would be vastly more complicated than for the electron.
+  But, as it turns out, this does not happen – the renormalization of the photon field strength rescales the electric charge, but the corrections to the relative charges of the proton and the electron cancel.
+
+- The general principle by which IR divergences cancel is the same as the principle by which UV divergences cancel: only physical, observable quantities are guaranteed to be finite.
+  For UV divergences, it turns out that a simple proxy for the set of observables is the set of Green’s functions of renormalized fields ⟨φ1(x1)φ2(x2) · · · ⟩.
+  These Green’s functions are not observable, and often not gauge invariant, but are still UV finite.
+  For IR divergences, Green’s functions are not good enough.
+  In fact, S-matrix elements or even differences of S-matrix elements at different scales are not good enough.
+  As we will see, IR divergences only generally cancel after cross sections for processes involving different initial or final states are combined.
+
+-  we perform one of the most important calculations in QED.
+   We will show that although the cross section for the 2→ 2process e+e− → μ+μ− is IR divergent at order e4R, as is the cross section for the related 2→ 3 process e+e− → μ+μ−γ, their sum is IR finite.
+   We will see how having to sum over final states (and sometimes initial states) with different particle multiplicities is related to a muon not being physically separable from its surrounding cloud of soft photons.
+   Trying to make this photon cloud more precise leads naturally to the notion of jets.
+   Similarly, trying to understand the initial state radiation contribution leads naturally to the notion of parton distribution functions.
+
+- The explanation of why one has to include final state radiation to get a finite cross section is that it is impossible to tell whether the final state in a scattering process is just a muon or a muon plus an arbitrary number of soft or collinear photons.
+  Trying to make this more precise leads naturally to the notion of jets.
+
+- In physical cross sections, an experimental resolution parameter acts as an IR regulator.
+
+- An important qualitative feature of results such as the two- or three-jet rates is that for very small resolution parameters, M ≪ Q, it can happen that (e_R^2/8pi^2 ln^2 (M_J^2/Q^2) > 1.
+  In this limit, the perturbation expansion breaks down, since an order e4R correction of the form (e_R^2/8pi^2 ln^2 (M_J^2/Q^2))^2 would be of the same order.
+  Thus, to be able to compare to experiment, one should not take MJ too small.
+  As a concrete example, the experiment BABAR at SLAC measured the decay of B mesons to kaons and photons (B → Kγ).
+  This experiment was sensitive only to photons harder than Eres = 1.8 GeV.
+  In other words, it could not distinguish a kaon in the final state from a kaon plus a photon softer than this energy.
+
+-  Jets are a very real and characteristic phenomenon of all high-energy collisions.
+   We have explained their existence by studying the infrared singularity structure of Feynman diagrams in quantum field theory.
+
+- The entire effect of the vacuum polarization graph is encapsulated in the scale-dependent effective charge.
+  This is true quite generally (as long as the electron mass can be neglected) and explains why an effective charge is such a useful concept.
+
+- ch21
