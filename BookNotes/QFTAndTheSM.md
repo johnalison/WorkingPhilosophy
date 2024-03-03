@@ -566,4 +566,101 @@
 - The entire effect of the vacuum polarization graph is encapsulated in the scale-dependent effective charge.
   This is true quite generally (as long as the electron mass can be neglected) and explains why an effective charge is such a useful concept.
 
-- ch21
+- We saw that UV divergences were artifacts of not computing something physical, since the UV-divergent answer was calculated using parameters in a Lagrangian that were not defined based on observables.
+  More precisely, we saw that the normalizations of the electron and photon fields were not observable, and so these fields could be rescaled by wavefunction renormalization factors Z2 = 1 + δ2 and Z3 = 1 + δ3, with the counterterms δ3 and δ2 dependent on the UV regularization and subtraction scheme.
+  We also saw that the bare electric charge parameter e0 appearing in the Lagrangian and the bare Lagrangian electron mass parameter m0 could be redefined keeping physical quantities (such as the charge measured by Coulomb’s law at large distances and the location of the pole in the electron propagator) finite.
+  This introduced two new counterterms, δ1 and δm.
+  We found that these same counterterms, and the four associated renormalization conditions that define them to all orders in perturbation theory, made all the 2-, 3- and 4-point functions we have so far considered finite.
+
+  The next question we will address is: Will this always be the case?
+                                        Can these same four counterterms remove all of the infinities in QED?
+	If so, QED is renormalizable. In a renormalizable theory, all UV divergences can be canceled with a finite number of counterterms.
+
+- because all propagators have some factor of loop momentum in them (by definition of 1PI), a 1-loop diagram can never be more divergent than its superficial degree of divergence.
+
+  the superficial degree of divergence depends only on the external particles in the process (this is essentially just dimensional analysis since the only scale available is Λ).
+
+  All divergences can be removed by counterterms corresponding to superficially divergent 1PI amplitudes.
+
+- Renormalizability in QED means that all the UV divergences are canceled by the same four counterterms we introduced at 1-loop.
+  These are fit by two numbers: the physical value of the electric charge eR (measured in Coulomb’s law at long distance) and the physical value of the electron mass, mP.
+  The other two counterterms are fixed by normalizing the electron and photon fields.
+  This is actually a pretty amazing conclusion: QED is completely specified once eR and mP are measured; after that, we can make an infinite number of arbitrarily precise predictions.
+  The two initial measurements are needed to define even the classical theory.
+  In the quantum theory, both logarithmic corrections can be calculated, such as to the scale-dependent effective charge (Chapter 16), as well as finite corrections, such as to the value of the anomalous magnetic moment (Chapter 17) or the e+e− → μ+μ− total cross section (Chapter 20).
+
+- we cannot predict every observable just because we can cancel all the UV divergences.
+  A more modern view is that if one is interested in actually making physical predictions, renormalizability (or finiteness in the case of string theory) is somewhat irrelevant.
+  In many contexts, non-renormalizable theories are in fact much more useful than renormalizable ones, despite the fact that renormalizable theories have fewer parameters.
+
+-  there are an infinite number of superficially divergent Feynman diagrams for a theory with a massive vector boson, and hence such theories are not renormalizable.
+   That is not to say that they cannot be renormalized (they can!), but only that all of the UV divergences cannot be canceled with a finite number of counterterms.
+   non-renormalizable theories can be renormalized, but only by continually adding terms to the Lagrangian to provide counterterms to cancel divergences.
+   While such a procedure seems like it would destroy the predictivity of a theory, in fact non-renormalizable theories are still extremely predictive.
+
+   A remarkable and important fact is that non-renormalizable theories are predictive not just at tree-level but also at loop-level, through calculable quantum corrections.
+
+- Renormalizable theories are simple and beautiful: with just a handful of measurements, an infinite number of predictions can be made.
+  These theories are surpassed in their mathematical beauty only by finite theories (which are free of UV divergences) such as string theory or certain supersymmetric gauge theories.
+
+  In some sense, the merit of renormalizability also limits its usefulness: to predict an infinite number of observables in perturbation theory with a finite number of parameters one must actually evaluate the loops!
+
+  Luckily, however, not all of quantum field theory consists of computing loops in renormalizable theories.
+  If one’s goal is to make predictions that can be compared to experiment, it is often better to use a non-renormalizable theory rather than a renormalizable one.
+  By isolating the relevant degrees of freedom for a physical problem, one can construct an appropriate effective theory which has a limited range of applicability, but is much more predictive in that range than the corresponding renormalizable theory on which it is based.
+  These effective theories are generally non-renormalizable, but they are still predictive at the quantum level.
+
+- we will see how the non-renormalizable theory is predictive despite the need for an infinite number of counterterms.
+  We will also discuss the radiative corrections to mass terms, which are super-renormalizable.
+  This leads to the idea of naturalness and custodial symmetries.
+
+- the Schro ̈dinger equation is useful even if we do not know about Lorentz invariance.
+  The reason is that in the non-relativistic limit |p⃗| ≪ m, the higher-order terms generally have a very small effect.
+  Nevertheless, through specially designed experiments, these coefficients can in fact be measured.
+  For example, a1 contributes to the fine structure of the hydrogen atom, and a2 contributes to the hyperfine structure.
+  So even if a1 and a2 were not known from the Dirac equation, they could be measured from the hydrogen atom.
+  Once measured, they could then be used to make predictions: the fine structure of helium, for example, or lots of other things.
+
+  the Schro ̈dinger equation made quantum predictions many years before the Dirac equation was discovered.
+
+  It is also important to note that the Schro ̈dinger equation is not predictive for momenta |p⃗| >~ m, since all of the higher-order terms are then important.
+  Thus, the Schro ̈dinger equation is predictive at low energy, but also indicates the scale at which perturbation theory breaks down.
+
+- it is very difficult to use QCD to study nuclear physics.
+  Even the simple explanation of why the strong force is short-ranged had to wait until asymptotic freedom was understood in the 1970s, 40 years after Yukawa’s phenomenological explanation.
+  From the 1940s through the 1980s theorists were using a variety of methods, most notably current algebra, to make phenomenological predictions about strong interactions.
+  Today, current algebra has been superseded by effective field theory techniques that combine the insights of current algebra with quantum field theory.
+  The result is a powerful low-energy non-renormalizable theory of nuclear interactions known as the Chiral Lagrangian.
+
+- As with any non-renormalizable theory, the Chiral Lagrangian points to its own demise – it becomes non-perturbative at a scale √s ∼ 4πFπ ≈ 1200 MeV.
+  Above this scale, all the higher-order interactions become relevant and the theory is not predictive.
+  A UV completion of the Chiral Lagrangian is QCD, the theory of quarks and gluons.
+  This is a completely different type of UV completion than the electroweak theory which UV-completed the 4-Fermi theory or the Dirac equation which UV-completed the Schro ̈dinger equation.
+  For both of these theories, the fermions in the low-energy theory were present in the UV completion, but with different interactions.
+
+- The reason gravity is predictive is because MPl ≈ 1019 GeV, so E ≪ MPl for any reasonable experimentally accessible energy E.
+
+- There is nothing inconsistent about general relativity and quantum mechanics.
+  General relativity is the only consistent theory of an interacting massless spin-2 particle.
+  It is a quantum theory, just as solid and calculable as the 4-Fermi theory.
+  It is non-renormalizable, and therefore non-perturbative for energies E >MPl, but it is not inconsistent.
+
+-  for many physical applications, the non-renormalizable theory is more useful than the renormalizable one.
+   Renormalizable just means there are a finite number of counterterms; it does not mean that you can calculate every observable perturbatively.
+
+- FineTuning The differfence between the MS-bar mass and the pole mass (p410) is an intriguing result.
+  Although the difference is finite, as M → ∞ the difference grows very large.
+  Indeed, the difference is sensitive to particles much heavier than the mass of the scalar.
+  Although the result is finite, heavy particles are not decoupling.
+  In this way, the scalar mass is UV sensitive. 
+
+- We saw that although the scalar mass gets quadratically divergent corrections, for example from a fermion loop, these divergences can be removed with counterterms.
+  The resulting physical pole mass must be determined from experiment as a renormalization condition.
+  we saw that there can be a large difference between the pole mass and the MS mass for a scalar.
+
+  to have a scalar whose mass m2P ≪ Λ2 requires that the bare mass parameter m2 in the Lagrangian must be m2 ≈ Λ2 + m2P .
+
+  Much of our intuition for fine-tuning and naturalness comes from condensed matter physics.
+
+- ch23
+
