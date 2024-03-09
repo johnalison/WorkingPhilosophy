@@ -662,5 +662,182 @@
 
   Much of our intuition for fine-tuning and naturalness comes from condensed matter physics.
 
-- ch23
+- The renormalization group is one of those brilliant ideas that lets you get something for nothing through clever reorganization of things you already know.
+  It is hard to under-estimate the importance of the renormalization group in shaping the way we think about quantum field theory.
+  The phrase renormalization group refers to an invariance of observables under changes in the way things are calculated.
+
+  the fact that the theory is independent of something means one can set up differential equations such as dX/dL=0, where X is some observable.
+  Solving these differential equations leads to a trajectory in the space of theories.
+  The term renormalization group (RG) or renormalization group evolution refers to the flow along these trajectories.
+
+- The continuum RG is an extremely practical tool for getting partial results for high-order loops from low-order loops.
+
+- The key to systematizing the above QED calculation is to first observe that the problem we are trying to solve is one of large logarithms.
+  If there were no large logarithms, we would not need the RG – fixed-order perturbation theory would be fine.
+  For the Coulomb potential, the large logarithms related the physical scale p2 where the potential was to be measured to an arbitrary scale p20 where the coupling was defined.
+
+- the RG efficiently encodes information about some higher-order Feynman diagrams without having to be explicit about which diagrams are included.
+
+- the logarithmic, non-analytic dependence on momentum is characteristic of a loop effect and a true quantum prediction.
+  The RG focuses in on these logarithmic terms, which give the dominant quantum effects in certain limits.
+
+- In practical applications of the RG, dimensional regularization is almost exclusively used.
+  It is therefore important to understand the roles of ε = 4−d, the arbitrary scale μ2 and scales such as p20 where couplings are defined.
+  Ultraviolet divergences show up as poles of the form 1/ε .
+  Do not confuse the scale μ, which was added to make quantities dimensionally correct, with a UV cutoff!
+  Removing the cutoff is taking ε → 0, not μ → ∞.
+  In minimal subtraction, renormalized amplitudes depend on μ.
+  we usually think of μ as a physical scale where amplitudes are renormalized and μ is often called the renormalization scale.
+
+- In writing the solution to the RGE in Eq. (23.32) we have swapped a dimensionless number, 1/137 , for a dimensionful scale ΛQED.
+  This is known as dimensional transmutation.
+  When we introduced the effective charge, we specified a scale and the value of α measured at that scale.
+  But now we see that only a scale is needed.
+  This uncovers a very profound misconception about nature: electrodynamics is fundamentally not defined by the electric charge, as you learned classically, but by a dimensionful scale ΛQED.
+  More-over, this scale only has meaning if there is another scale in the theory, such as the electron mass, so really it is the ratio me/ΛQED that specifies QED completely.
+
+-  there is a close connection between unitarity of the S-matrix and having all the states included in the theory.
+
+- The optical theorem gives a powerful, non-perturbative relationship between cross sections and the imaginary part of scattering amplitudes.
+  In perturbation theory, the optical theorem relates loop amplitudes to tree-level cross sections.
+  To the extent that trees represent classical physics and loops represent quantum effects, the optical theorem implies that the quantum theory is uniquely determined by the classical theory because of unitarity.
+
+- having states in a theory corresponding to every pole in Green’s functions is a requirement of unitarity
+
+-  The generalized optical theorem must hold order-by-order in perturbation theory.
+   But while its left-hand side has matrix elements, the right-hand side has matrix elements squared.
+   This means that at order λ2 in some coupling the left-hand side must be a loop to match a tree-level calculation on the right-hand side.
+   Thus, the imaginary parts of loop amplitudes are determined by tree-level amplitudes.
+   In particular, we must have loops – an interacting classical theory by itself, without loops, violates unitarity.
+
+- Imaginary parts of loop amplitudes come from intermediate particles going on-shell.
+
+- for the optical theorem to hold in general:
+  The numerator of a propagator must be equal to the sum over physical spin states.
+  This is a consequence of unitarity.
+
+-  The Narrow width approximation says that near a resonance we can treat the resonant particle as being on-shell.
+   In the narrow-width approximation, the production and decay of the resonance can be treated separately – there can be no interference between production and decay.
+
+   Factorization when intermediate particles go on-shell is a gen- eral consequence of unitarity
+
+- consider the process e+e− → Z → ν ̄ν in a simplified model where the Z is a vector boson of mass mZ that couples only to the electron, e−, and the neutrino, ν, with strength g.
+  At center-of-mass energies ECM ≪ mZ, the total cross section for this process is proportional to g4.
+  However, for ECM ∼ mZ, there is resonant enhancement and σ is proportional only to g2.
+  Indeed, the total decay rate Γ of the Z is proportional to g2 (since Γ ∼ Im(iΣ) ∼ g2) and thus a factor g^2 cancels near resonance
+
+- A much more important mass definition is the MS mass, mR, discussed in Section 18.4.
+  The MS mass is not defined by any pole prescription.
+  Instead, it is a renormalized quantity which must be extracted from scattering processes that depend on it.
+  Recall from Chapter 18 that a mass definition is equivalent to a subtraction scheme that is a prescription for determining the finite parts of counterterms.
+  For the MS mass, one simply sets the finite parts of the counterterms to zero.
+
+  MS masses are particularly useful for particles that do not form asymptotic states and cannot be identified as resonances, such as quarks.
+  For example, there is no way to extract the bottom-quark mass from a Breit– Wigner distribution.
+  MS masses are also important for precision physics, as we will see in Chapter 31.
+
+- Propagators cannot decrease faster than 1/p2 at large p2.
+
+- Green’s functions always have poles when on-shell intermediate particles can be produced.
+   For example, positronium (an e+e− bound state) would appear as a pole in a Green’s function corresponding to e+e− scattering.
+   In deriving thie, the only thing we used was that the state |Ψ⟩ is a one-particle state with overlap with the state with r fields φ1 · · · φr .
+   We never needed to associate Ψ with a field in a Lagrangian.
+   This does not distinguish elementary particles (those with corresponding fields in a Lagrangian) from composite particles.
+
+- We have seen that we do not need to have fields in the Lagrangian corresponding to every particle.
+  Green’s functions will always have poles at the mass of any particle that has non-zero overlap with some subset of the fields in the Green’s functions.
+  However, if one wants to calculate S-matrix elements involving some particle, it is extremely helpful to have an associated field.
+  In fact, it is often extremely useful to go from one description in which a pole is emergent as a bound state to a description in which that bound state has a corresponding field.
+  For example, we go from a theory (QCD) in which a pion is a pole in a Green’s function to a theory (the Chiral Lagrangian) with a field corresponding to the pion.
+  The two descriptions have their own Lagrangians.
+  The QCD Lagrangian is useful for calculating the pion mass, while the Chiral Lagrangian is useful if one wants to calculate the ππ → ππ cross section, taking the pion mass from data.
+  A great virtue of quantum field theory is its flexibility: one can use different Lagrangians for different processes.
+  A number of examples of effective field theories, such as the Chiral Lagrangian, were given in Chapter 22. More will be discussed in Parts IV and V.
+
+- There is an interesting connection between the emergence of particles as poles in Green’s functions and locality.
+  Informally, locality means that physics over here is independent of physics over there – we do not have to have the wavefunction of the universe to see what happens in our lab.
+  However, defining locality in terms of observables is not straightforward – there are a number of different definitions we can give.
+  For example, we could identify locality with the cluster decomposition principle (mentioned in Section 7.3.2), which requires the connected S-matrix not to be more singular than having poles or branch cuts (see [Weinberg, 1995, Chapter 4]).
+  Alternatively, we could associate locality with commutators vanishing outside the light cone (a property we called causality in Chapter 12).
+  There are many related ways to define locality.
+
+- we will define locality in terms of a Lagrangian.
+  We take locality to mean that the Lagrangian is an integral over a Lagrangian density that is a functional of fields and their derivatives evaluated at the same space-time point. 
+  To be clear, this definition is mathematical, not physical: it is a property of our calculational framework, not of observables.
+
+- What goes wrong with the apparently local (but really non-local) Lagrangian, L local?
+  At energies p2 ∼ M 2 we will see the apparent pole where the φ particle should have been, but had been integrated out.
+  If the particle φ has really been removed from the Hilbert space when we integrated it out, unitarity would be violated.
+  Indeed, the pole would give a non-vanishing imaginary part to an appropriate amplitude, but there would be no corresponding on-shell state so the optical theorem would be violated.
+  Thus, the non-local theory suggests that one should use a different effective description for energies greater than M in which the particle in the Hilbert space corresponding to the pole (present even in L local ) is given its own field.
+
+- Yang–Mills theories are the unique generalizations of QED in which renormalizable self-interactions among massless spin-1 particles are possible.
+
+- The algebras for SU(N ), SO(N ), Sp(N ) and the exceptional groups are the only finite-dimensional simple Lie algebras [Cartan, 1894].
+
+- SU(N) groups play an essential role in quantum field theory due to the simple observation that the free theory of N complex fields is automatically invariant under U(1) × SU(N ).
+
+- The next important representation is the adjoint representation, which acts on the vector space spanned by the generators themselves.
+   As we will soon see, gauge fields must transform in the adjoint representation.
+
+- , it is impossible to come up with a convention-independent way to compare these fields at different points.
+  Moreover, it is also impossible to compute ∂μφ(x), since the derivative is a difference, and the difference depends on the phase choices.
+  This motivates defining a new field W (x, y) called a Wilson line.
+  It is a kind of bi-local field that depends on two points.
+
+  The point of this is that now |W(x, y) φ(y) − φ(x)| is independent of our choice of a local phase convention.
+
+   In this way, the gauge field is introduced as a connection, allowing us to compare field values at different points, despite their arbitrary phases
+
+- A theory with a conserved and Lorentz-covariant energy-momentum tensor can never have a massless particle of spin 2.
+
+  The Weinberg–Witten theorem does not say anything useful about the Standard Model,
+  But it does say that if you started with a theory without gravity, say only with scalars, spinors and gauge fields, which does have a conserved energy-momentum tensor, you would never have some kind of phase transition that gives you a massless graviton,
+  String theory and the anti de Sitter/conformal field theory (AdS/CFT) correspondence get around this by having gravity emerge in a different space-time
+
+- ghosts are also unphysical.
+  They arise as an artifact of insisting on a gauge in which the gluon propagator is Lorentz covariant.
+  If we never tried to embed the two physical polarizations of a massless spin-1 particle into a field Aμ(x) we would never have had to deal with ghosts.
+  Or, if we restricted to gauge-invariant objects, such as the field strength Fμν (as is done on the lattice), we also would not have to deal with ghosts.
+
+-  Yang–Mills theory is the natural generalization of electrodynamics to systems with many fields.
+   If we have N fields φi, then the Lagrangian L = −φ⋆i []φi is invariant under a global SU(N ) symmetry, under which φi → Uij φj for U ∈ SU(N).
+
+   It is perhaps worth emphasizing that the important feature of these theories is not gauge invariance (which is an unphysical feature of Lagrangians) but the existence of massless spin-1 particles that are charged, that is, they carry quantum numbers.
+
+   In Chapter 25, gauge invariance was motivated as allowing us to choose a different SU(N) convention at different points.
+   We saw that we could compare field values at different points in a convention-independent way if we used Wilson lines W (x, y) defined so that W (x, y) φ (y) transforms as φ(x).
+   Expanding such a Wilson line out for small deviationsled to W(x,x+δx)=1−igδxμAaμTa, where Ta are the generators of SU(N) in the fundamental representation.
+   In this way, we found that a local theory needs one gauge field Aaμ for each generator, and thus the gauge fields Aaμ transform in the adjoint representation of SU(N).
+
+   Next, we found that, in computing the propagator for the gauge boson, we had to gauge-fix, as in QED.
+   But in the non-Abelian case, the covariant gauge-fixing (Rξ gauges), when done properly through the path integral, generated new particles called Faddeev–Popov ghosts, which have spin-0 but fermionic statistics.
+   These particles never appear as external states but must be included in internal lines for consistency.
+   That we need these ghosts is a horrible consequence of the Lagrangian formulation of field theory.
+   There is no observable consequence of ghosts, we just need them to describe an interacting theory of massless spin-1 particles using a local manifestly Lorentz-invariant Lagrangian.
+
+   to maintain manifest Lorentz invariance in a perturbative gauge theory, it seems ghosts are unavoidable.
+
+- Due to the many possible contractions in each vertex, calculations in non-Abelian gauge theories quickly get intractably complicated.
+  For example, the process gg → ggg even at tree-level contains around 10 000 terms.
+  Part of the reason things are so complicated is because there is a huge redundancy when we sum over off-shell intermediate states.
+
+- Note that in the first generation, the charge 2/3 quark (the up) is lighter than the charge − 1/3 quark (the down), while in the second and third generations the opposite is true.
+  There are many subtleties with quark-mass definitions, since quarks do not appear as asymptotic states and therefore do not have well-defined pole masses.
+
+- By the way it is very convenient, and non-trivial, that we can sum over quarks in the theory calculation and compare to a measurement made on hadrons.
+  The reason this works is that the quarks are produced at short distance and hadronization occurs at long distance.
+  Because the long-distance physics is too slow to affect the short-distance physics, the total rate gets frozen-in well before hadronization, a process known as factorization.
+  Factorization is one of the most profound, important, and subtle concepts in QCD.
+
+- Recall that in QED Z1 = Z2 exactly in the on-shell scheme (as we proved in Section 19.5).
+  This is not the case in QCD, as can be seen explicitly from the 1-loop counterterms.
+  In QED, Z1 = Z2 had a number of implications.
+  For example, it implied that there is a universal electric charge, even after radiative corrections.
+  That is, the electron charge and the proton charge get renormalized in the same way, despite the fact that beyond 1-loop the radiative corrections are very different for the two objects.
+  We also understood Z1 = Z2 as a consequence of the non-renormalization of charge.
+  In particular, we found in Section 23.4.1 that the QED current, Jμ = ψ ̄γμψ, was not renormalized.
+
+- 
+
 
