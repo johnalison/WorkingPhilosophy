@@ -838,6 +838,82 @@
   We also understood Z1 = Z2 as a consequence of the non-renormalization of charge.
   In particular, we found in Section 23.4.1 that the QED current, Jμ = ψ ̄γμψ, was not renormalized.
 
-- 
+- Why are the matrix elements for gluon scattering such a mess and the final answer so simple?
+  The root of the problem is our insistence on manifest locality.
+  In fact, the entire formalism of quantum field theory that we have developed so far is based on describing interactions among particles in terms of local Lagrangians.
+
+  While the local Lagrangian description has its advantages, such as manifest Lorentz invariance, it also has disadvantages.
+  In Chapter 8, we encountered subtleties in trying to write a Lagrangian for a massless spin-1 particle that would only propagate the two physical degrees of freedom.
+  We needed to have a redundancy of description, called gauge invariance,
+
+- we describe an alternative approach to constructing amplitudes, using only physical on-shell external states.
+  This approach exploits the spinor-helicity formalism.
+  This formalism is based on the simple observation that spin-1 fields transform in the (1/2, 1/2) representation of the Lorentz group, so that they are naturally represented as bispinors,
+  In this way, the redundancy of embedding a massless spin-1 particle into a vector field Aμ(x) can be avoided.
+
+- In this sense, spinor inner products are a type of square root of the Lorentzian inner product.
+
+- the little-group scaling of any amplitude is determined solely by the external polarizations.
+  This strongly constrains the form that a scattering amplitude can have, to all orders in perturbation theory.
+
+- The amazing thing about spontaneous symmetry breaking is that one can say a tremendous amount about the broken phase with an effective field theory whose only input is the symmetry that was broken – no detailed microscopic description is needed.
+
+- If the quark masses were equal, this theory would have a global SU(2) symmetry that rotates the up and down quarks into each other.
+  In reality, the masses of the up and down quarks are close but not equal;
+  So let us just set the masses to zero for now.
+  With mu = md = 0 , the theory actually has two independent SU(2) symmetries, since the left-handed quarks and the right-handed quarks are completely decoupled.
+
+- By a lucky coincidence, the chiral symmetry that is spontaneously broken by QCD is connected to weak interactions in the Standard Model.
+
+- Gell-Mann worked out these representations in 1962, when everything but the Ω− had been seen.
+  He was therefore able to predict that the Ω− should exist, and, using symmetry, its mass and quantum numbers.
+  The Ω− was discovered in 1964 with exactly the properties Gell-Mann predicted.
+  The Ω− was historically important as a true theoretical prediction and helped people believe in quarks.
+
+- In summary, we have seen that spontaneous symmetry breaking of chiral SU(2) × SU(2) leads to a triplet of pions (or the meson octet of pseudo-Goldstone bosons for the three-flavor case).
+  The pions can be studied through a nonlinear sigma model with a field U(x) = exp(2iπaτa/Fπ).
+  The Lagrangian written in terms of U(x) must be invariant under the full SU(2) × SU(2) symmetry.
+  This strongly constrains the terms that can be written down.
+
+-  the Higgs doublet, has charges under the weak and hypercharge gauge groups, the Higgs boson h does not.
+
+- Note that not every possible term you could think of is here: there are no interactions with derivatives acting on h and no hh∂μZμ interaction.
+
+- If the hypercharges could have been arbitrary real numbers, why did they turn out to have simple rational number ratios?
+  Even such a small deviation would have important consequences for our universe, since atoms would not be exactly neutral and there are a lot of atoms!
+  The answer is another profound and beautiful result of quantum field theory: electric charges must be quantized to guarantee consistency of the quantum theory.
+  It turns out that, given the particle content of the Standard Model, the hypercharges must satisfy certain constraints.
+  In particular, YL + 3YQ = 0 , a result we prove in Section 30.4.
+  This forces the electric charge of the electron to be exactly three times the electric charge of the down quark and exactly opposite to the charge of the proton.
+
+-  there are two 3×3 Yukawa matrices, which contain a lot of parameters for just a few masses.
+   In fact, if it were not for the gauge interactions, we could just diagonalize these matrices and the masses would be the only physical parameters.
+
+- If neutrinos have any quantum numbers at all, then Majorana mass terms are forbidden.
+  The most natural quantum number for right-handed neutrinos to have is lepton number
+
+- Why should the Majorana masses Mij be so large?
+  On the one hand, the Majorana mass terms are dimension 3 and hence super-renormalizable.
+  So, following the Wilsonian RG picture (Section 25.2) one expects them to be UV sensitive.
+  On the other hand, in the limit that Mij = 0, the Lagrangian has a custodial symmetry, lepton number (or its non- anomalous cousin B − L, see Section 30.5.1).
+  Thus, radiative corrections to the Majorana masses will be proportional to the Majorana masses themselves.
+  In other words, in a theory with right-handed neutrinos, it is technically natural (see Box 22.1) for the Majorana masses to be small.
+
+- To understand the largeness of the see-saw scale, an important observation is that one does not need right-handed neutrinos at all to give neutrinos mass.
+  Since right-handed neutrinos have never been observed, a model without them is in a sense simpler.
+  In a theory without right-handed neutrinos, the left-handed neutrinos naturally have masses parametrically smaller than the weak scale due to the see-saw mechanism.
+
+- Note that since det C has many factors of masses mi ≪ v, it is in general quite small.
+  Thus, even if the CP phase is large, the physical manifestations of CP violation are bound to be small.
+  Another way to see this is to observe that if there were only two generations, then one could remove all the phases completely.
+  Thus, any CP-violating effect in the Standard Model must involve all three generations.
+
+- One of the great mysteries of the Standard Model is why weak CP violation is nearly maximal (δ ∼ π) while strong CP violation is so small theta ≪ 1.
+  Another important fact about CP violation is that it is also necessary to explain the abundance of matter over antimatter in the universe.
+  It turns out that there is not enough CP violation in the Standard Model to explain this abundance.
+  Thus, there is good reason to think that there is more to be learned about CP violation.
+
+- ch30
+
 
 
