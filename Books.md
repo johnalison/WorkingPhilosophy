@@ -1,5 +1,7 @@
 # 2024
 
+## [How to Know an Person](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToKnowAPerson.md) (David Brooks)
+
 ## [Determined](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Determined.md) (Robert Sapolsky)
 
 ## [Data Reduction and Error Analysis](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/DataReductionAndErrorAnalysis.md) (Bevington and Robinson)
