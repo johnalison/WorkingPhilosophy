@@ -913,7 +913,155 @@
   It turns out that there is not enough CP violation in the Standard Model to explain this abundance.
   Thus, there is good reason to think that there is more to be learned about CP violation.
 
-- ch30
+- If a symmetry is anomalous then it is not actually a symmetry and the associated current will not be conserved.
+  Such a situation has dire consequences for theories in which the current couples to a massless spin-1 particle, such as QED or Yang– Mills theory.
+  If the current to which a massless spin-1 particle couples is not conserved, the Ward identity will be violated, unphysical longitudinal polarizations can be produced, and unitarity will be violated.
+  Thus, in a unitary quantum theory, gauged symmetries (those with associated massless spin-1 particles) must be anomaly free.
+  in the Standard Model, it forces electric charge to be quantized, and the quark and lepton charges to be related, as we will see in Section 30.4.
+
+- Anomalies of symmetries associated with gauge bosons are called gauge anomalies.
+  If a symmetry is not gauged, nothing goes terribly wrong if it is anomalous.
+  That is, global anomalies do not lead to inconsistencies (the phrase anomaly free refers to the absence of gauge anomalies only).
+  There are actually many global anomalies in the Standard Model.
+
+- An important fact about anomalies is that they are infrared effects, from having mass-less particles in the spectrum.
+  This leads to the idea of anomaly matching: the spectrum of massless particles in a theory below a phase transition is strongly constrained by the spectrum above the transition.
+  For example, we will show in Section 30.6 that anomaly matching implies that the SU(3)L × SU(3)R flavor symmetry of QCD must be spontaneously broken,
+
+- π0 → γγ, provides an important way to measure the number of colors of quarks.
+  Historically, this was one of first constraints on QCD [Adler, 1969], and it remains one of the easiest ways to measure the number of colors.
+
+  the π0 → γγ rate calculation has a tumultuous history:
+
+   In the 1940s, when π0 → γγ was of particular interest, neither quantum field theory nor the profound importance of symmetries were well understood.
+   Early attempts at this decay rate were producing non-gauge invariant amplitudes.
+
+- Note that the anomaly would vanish for any number of generations, but that it does not vanish for the quarks or leptons alone.
+
+- Notice that any solution of Eq. (30.85) or Eq. (30.86) has YL + 3YQ = 0 exactly.
+  As a consequence, the electron must have exactly the same electric charge as the proton.
+  Without anomaly considerations, one might have imagined that the electron could have had say 3.0001 times the quark charge, giving a small residual charge to the atom.
+  Anomaly cancellation says this cannot be true.
+  Charge is quantized!
+
+-  Can there be another U(1) force acting on the Standard Model particles that we do not know about?
+   Let us call this force U(1)′Y and the charges under this new group Yi′.
+   For anomalies to cancel, all the conditions in Table 30.1 must hold with Yi → Yi′.
+   In addition, U(1)2Y U(1)Y ′ and U(1)Y U(1)2Y ′ anomalies must cancel.
+   As you can easily check, the only possibility is that Yi′ satisfy Eq. (30.85) with Yi → Yi′.
+   The only options are the SM charges or These charges are −1 for the leptons and 13 for quarks, or equivalently +1 for baryons.
+   We call this new group U(1)B−L and will discuss it more in the next section.
+
+- We have argued that anomalies must vanish for symmetries associated with gauge fields.
+  If this were not true, the Ward identity would be violated and we could no longer guarantee that only the two physical polarizations of a massless spin-1 particle would propagate.
+  On the other hand, if the symmetry is a global symmetry not associated with a gauge field, it can be anomalous.
+  For example, the π0 → γγ decay is due to an anomalous axial current as we discussed in Section 30.1.
+
+- while it is not possible to have a gauge boson associated with B or L, it is possible to have one associated with B − L.
+  In fact, such gauge bosons are common in grand unified theories.
+
+- Intriguingly, all of these conditions are in fact satisfied in the Standard Model: baryon number is violated by the anomaly, CP is violated because there are three generations and hence a phase in the CKM matrix, and as the universe cools it is out of equilibrium.
+  In particular, as it cools through the electroweak phase transition, a matter–antimatter asymmetry can be produced.
+  Unfortunately, to explain the matter–antimatter asymmetry quantitatively, we need more baryon number violation, more CP violation, and a phase transition that is not as smooth as in the Standard Model (it should be strongly first order).
+  That baryogenesis cannot be explained in the Standard Model remains an important motivation for beyond-the-Standard-Model physics.
+
+- Why the η′ is so heavy is known as the U(1) problem.
+  It is called that because the Goldstone boson corresponding to the axial diagonal U(1) is apparently missing.
+
+  Since the symmetry is anomalous, it is not a symmetry.
+  If there is no symmetry, it cannot be spontaneously broken and there can be no Goldstone boson.
+
+  the heavy η′ tells us that non-perturbative configurations must be important.
+
+  Anomaly matching is one the few tools we have for making concrete statements about non-perturbative theories.
+
+- First we will discuss constraints on the gauge sector of the electroweak theory.
+  At tree- level, many observables depend only on the three parameters g, g′ and v (or equivalently αe, sin2θw and the Fermi constant GF ).
+  The dominant radiative corrections to many of these observables are from virtual top-quark- and Higgs-boson-loop contributions to the W-boson, Z-boson and photon propagators.
+  Corrections to the gauge boson propagators are called oblique corrections.
+  Oblique corrections provided important indirect information about the mass of the top quark and Higgs boson before these particles were seen directly, and they continue to provide important constraints on beyond-the-Standard-Model physics.
+
+  Thus, if you propose a model of physics beyond the Standard Model, you can calculate S and T as a shortcut to comparing with electroweak precision data.
+
+- One of the most remarkable results in all of physics is that the existence and properties of the proton can be explained by a local quantum field theory based on the gauge group SU(3).
+  This result is additionally remarkable because, although we know QCD predicts the proton, we cannot prove it.
+  we only know how to apply QCD to particles that are colored, not color-neutral particles such as hadrons.
+
+- We have discussed two methods for studying hadrons so far.
+  The first, chiral perturbation theory (Section 28.2), takes from QCD only its symmetries.
+  The other method is lattice QCD
+  To calculate what happens when we collide two protons, neither of these methods are adequate.
+
+- For the proton, we know its magnetic moment corresponds to a g-factor of gp = 5.58, which is not close to 2.
+  This suggests that the proton is not just a point particle like the electron.
+  (The neutron’s g-factor is gn = −3.82, which also seems very strange in perturbation theory, considering that the neutron is neutral.)
+
+
+- The conclusion is that the proton has a characteristic size of order 1 fm.
+  The value of this size is not surprising, since it is of the order of the proton’s Compton wavelength.
+  What is surprising is that there is a scale at all! In scattering electrons off tauons, all we would ever see is a form factor with logarithmic dependence on energy.
+  The tauon’s size is not of order m−1; if it has a finite size at all, it is much, much smaller than m−1.
+
+
+-  The physical justification of PDFs is that the momentum sloshes around among proton constituents at time scales ∼Λ−1 ∼m−1.
+   These time scales are much slower than the time scales ∼Q−1 that the photon probes.
+   The separation of scales Q ≫ ΛQCD allows us to treat the parton wavefunctions within the proton as being decoherent, giving the probabilistic interpretation.
+
+- One important use of the universality of the collinear limit is that it leads to an efficient semi-classical approximation used in Monte Carlo simulations.
+  One can interpret the splitting functions as probabilities for off-shell partons to branch.
+  These probabilities grow as 1/t and are largest for very collinear emissions.
+  Since very collinear emissions are often not measurable, the simulations work by first picking a momentum for the hardest gluon to be emitted, then picking the next hardest and so on, evolving as a Markov process in a virtuality scale t.
+  One can think of evolution in t as evolution in time from the moment of the collision, or evolution in distance from the collision point.
+
+- For practical purposes, the parton model is all one needs to perform perturbative QCD calculations relevant for high-energy scattering involving hadrons.
+  This phenomenological approach assumes factorization: that PDFs are universal objects, and any scattering process involving protons can be computed using the same PDFs with a different perturbative calculation.
+  It is remarkable that this procedure works so well, and it is therefore desirable to have a precise derivation of factorization.
+
+- The first step to proving factorization is to define what exactly we mean by it.
+  Intuitively, factorization says that the same universal non-perturbative objects (the PDFs), representing the long-distance physics, can be combined with many short-distance calculations in QCD.
+  Roughly, σ = f ⊗ H, where f are the PDFs, H is the perturbative hard calculation, and ⊗ denotes a convolution.
+
+- if we can get the results of the full quantum theory with classical physics, why bother with loops at all?
+  That is, why not just start from the effective action?
+  The answer is that effective actions are in general highly non-local and hopelessly unconstrained. 
+
+   If we start with a local classical action and then perform the loops, things such as locality, Lorentz invariance and causality are easier to check and confirm.
+
+   a construction of an effective action from first principles (unitarity, analyticity etc.) is essentially equivalent to the S-matrix program of the 1950s and 1960s.
+   This approach may eventually prove predictive, but at this point only effective actions derived from local classical Lagrangians are known to be consistent.
+
+- An important application of the Coleman–Weinberg approach is to the effective potential for the Standard Model Higgs boson.
+  It will let us answer the very important question: Is the Standard Model vacuum stable?
+  If not, there must be physics beyond the standard model coming in to make it stable.
+
+  For our vacuum to be absolutely stable, this potential should be positive for all h, which means the coefficient of the logarithm should be positive.
+
+  we find absolute stability holds if mh > 247.7 GeV.
+  This bound assumes the potential can be trusted for all h; however, for mh = 247.7 GeV, the potential only goes negative at a value well above the Planck scale where quantum gravity becomes strong.
+  Asking that the potential be positive up to MPl ≈ 1019 GeV gives a weaker bound, mh > 221 GeV.
+  For h<= MPl, we do not have to worry about quantum gravity; however, we do have to worry about large logarithms.
+
+  In other words, if mh < 125.8 GeV we are 95% confident that our patch of the universe will eventually tunnel into a more stable vacuum.
+
+  That the real Higgs boson mass is close to the bound of instability is an intriguing and unexplained fact.
+
+- There are only six quarks.
+  Three of them (up, down and strange) are light with masses mq L_QCD.
+  Hadrons containing these quarks only, for example the pions and kaons, can be studied by expanding around the mq = 0 limit.
+  Expanding around mq = 0 leads to the Chiral Lagrangian (Chapter 28), which is a low-energy effective theory, perturbative when and mq are small, with E a typical energy scale and 4πFπ ∼ 1200 MeV.
+  The 4πFπ 4πFπ heaviest quark, the top, does not hadronize.
+  Since mt ≫ ΛQCD, one can make accurate predictions about top physics using perturbation theory in αs
+
+- Is there any way to study charm and bottom physics in perturbation theory? Yes, by expanding in ΛQCD/mb or ΛQCD/mc .
+
+- some properties of jets, such as their mass, are not described well at any fixed order in αs.
+
+- Quantities with positive mass dimension (e.g. momentum p) can be thought of as energies, and quantities with negative mass dimension (e.g. position x) can be thought of as lengths.
+
+- GeV^-2 = 3e8pb = 3e-4b = 0.3mb
+
+
+
 
 
 
