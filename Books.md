@@ -1,5 +1,7 @@
 # 2024
 
+## [History of God](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HistoryOfGod.md) (Karen Armstrong)
+
 ## [How to Know an Person](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToKnowAPerson.md) (David Brooks)
 
 ## [Determined](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Determined.md) (Robert Sapolsky)
