@@ -1,5 +1,9 @@
 # 2024
 
+## [A Heart Breaking Work of Staggering Genius](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StaggeringGenius.md) (Dave Eggers)
+
+## [I Never Met a Story I Didnt Like](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StoryIDidntLike.md) (Todd Snider)
+
 ## [History of God](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HistoryOfGod.md) (Karen Armstrong)
 
 ## [How to Know an Person](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/HowToKnowAPerson.md) (David Brooks)
