@@ -333,7 +333,42 @@
 
 - Nonstarchy veggies such as spinach or broccoli have virtually no impact on blood sugar. Have at them.
 
-- p330
+- Protein and amino acids are the essential building blocks of life.
+  Without them we simply cannot build or maintain the lean muscle mass that we need.
+
+- Unlike carbs and fat, protein is not a primary source of energy.
+  If you consume more protein than you can synthesize into lean mass, you will simply excrete the excess in you urine as urea.
+
+- The first think you need to know about protien is that the standard recommendation for daily consumption are a joke.
+  IF someone weighs 180 pounds, they really need to consume 130g grams of protein/day ideally closer to 180g.
+
+  THis is a lot of protein to eat, and the added challenge is that it should not be taken in one sitting but rather spread out over the day to avoid losing amino acids to oxidation
+
+- Multilple studies suggest that the more protein we consume the better.
+
+- Fasting triggers many of the physiolocgicaland cellular mechanisms that we want to see.
+
+- Most people cant safely lose muscle mass, so fasting is a tool that we can only really use in extremis, when there are no other viable options.
+
+- Bad nutrition can hurt us more than good nutrition can help.Protein is the most important macronutrient, the one that should not be compromised
+  Most people will be overnourished -- but also under muscled.
+  It is counterproductive for them to limit calories a tthe expense of protein and hence muscle.
+
+- Poor sleep dramatically increases ones propensity for metabolic dysfunction.
+
+- Good sleep is like a performance enhancing drug.
+
+- Do NOT bring your laptop or phone into bed with you.
+
+- Most of male rage is helplessness masquerading as frustration.
+
+- "Resume virtues vs eulogy virtues"
+
+- Try to find joy in being rather than doing.
+
+- Longevity is meaningless if your life sucks
+
+
   
   
 
