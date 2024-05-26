@@ -1,5 +1,7 @@
 # 2024
 
+## [Outlive: The science and art of longevity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Outlive.md) (Peter Attia)
+
 ## [A Heart Breaking Work of Staggering Genius](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StaggeringGenius.md) (Dave Eggers)
 
 ## [I Never Met a Story I Didnt Like](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StoryIDidntLike.md) (Todd Snider)
