@@ -1,5 +1,7 @@
 # 2024
 
+## [Introductory Nuclear Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroductoryNuclearPhysics.md) (Kenneth Krane)
+
 ## [Outlive: The science and art of longevity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Outlive.md) (Peter Attia)
 
 ## [A Heart Breaking Work of Staggering Genius](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/StaggeringGenius.md) (Dave Eggers)
