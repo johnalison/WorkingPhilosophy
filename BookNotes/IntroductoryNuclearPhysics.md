@@ -52,4 +52,53 @@
       (1) some odd-2, odd-N nuclei can decay in either direction, converting a neutron to a proton or a proton to a neutron;
       (2) certain double beta decays can become energetically possible, in which the decay may change 2 protons to 2 neutrons.
 
-71M
+- of the hundreds of known (stable and radioactive) even-2, even-N nuclei, all have spin-0 ground states.
+
+- Thus all odd-parity static multipole moments must uanish electric dipole, magnetic quadrupole, electric octupole ( L = 3), and so on.
+
+- Ordinary magnetic interactions of matter (ferromagnetism, for instance) are determined by atomic magnetism; only in very special circumstances can we observe the effects of nuclear magnetism
+
+-  Not only is the proton value (for magnetic moments) far from the expected value of 2 for a point particle, but the uncharged neutron has a nonzero magnetic moment!
+
+- In nuclei, the pairing force favors the coupling of nucleons so that their orbital angular momentum and spin angular momentum each add to zero.
+
+- The nucleon-nucleon force includes a repulsive term, which keeps the nucleons at a certain average separation.
+
+- the deuteron should be what the hydrogen atom is for atomic physicists.
+   Just as the measured Balmer series of electromagnetic transitions between the excited states of hydrogen led to an understanding of the structure of hydrogen, so should the electromagnetic transitions between the excited states of the deuteron lead to an understanding of its structure.
+   Unfortunately, there are no excited states of the deuteron- it is such a weakly bound system that the only “excited states” are unbound systems consisting of a free proton and neutron.
+
+- though beams of neutrons are readily available, targets of free neutrons are not.
+
+- The Interaction between Two Nucleons Consists to Lowest Order of an Attractive Central Potential
+  The Nucleon - Nucleon Interaction is Strongly Spin Dependent
+  This observation follows from the failure to observe a singlet bound state of the deuteron and also from the measured differences between the singlet and triplet cross sections.
+
+  The Nucleon- Nucleon Interaction Becomes Repulsive at Short Distances
+
+-  We postulate a physical mechanism for the nucleon-nucleon force that will yield potentials similar to those that have already proven to be successful in calculations.
+   A successful mechanism is that of the exchange force.
+   There are two principal arguments in support of the presence of exchange forces in nuclei.
+   The first comes from the saturation of nuclear forces.
+   The experimental support for saturation comes from the relatively constant nuclear density and binding energy per nucleon as we go to heavier nuclei.
+   A given nucleon seems to attract only a small number of near neighbors, but it also repels at small distances to keep those neighbors from getting too close.
+    We encounter exactly the same sort of behavior in molecules.
+    When we bring two atoms together to form a diatomic molecule, such as one with covalent bonding, electrons are shared or exchanged between the two atoms, and a stable molecule forms with the atoms in equilibrium separated by a certain
+
+- In summary, both the saturation of nuclear forces and the strong backward peak in np scattering are explained by exchange forces.
+  In the former case, “something” is exchanged between nucleons to produce a sort of saturated bond.
+  In the second case, “something” is exchanged between nucleons and actually changes their character.
+
+- In the early development of classical physics, objects were said to interact by means of ‘‘action at a distance.”
+  Somehow one object mysteriously transmitted through space its force on the other object.
+  The great development in nineteenth-century theoretical physics was the introduction of the concept of fields, according to which one object establishes throughout space a force field (electro-magnetic and gravitational fields are examples) and the second object interacts only with the field, not directly with the first object.
+  Maxwell showed in the case of electromagnetism how the fields were transmitted through space.
+  The major development of twentieth-century physics is quantum mechanics, according to which all exchanges of energy must occur in bundles of a discrete size.
+  The classical field is smooth and continuous, and to bring classical field theory into agreement with quantum theory, the field itself must be quantized.
+  That is, according to quantum field theory, the first object does not set up a classical field throughout space but instead emits field quanta.
+  The second object can then absorb those field quanta (and reemit them back to the first object).
+  The two objects interact directly with the exchanged field quanta and therefore indirectly with each other.
+
+- For a spin-1/2 neutron to turn into a spin-1.2 proton, it is clear that the exchanged particle must have integral spin (0 or 1) and must carry electric charge.
+
+111m
