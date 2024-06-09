@@ -1,5 +1,7 @@
 # 2024
 
+## [Statistical Consequences of Fat Tails](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FatTails.md) (Nassim Nicholas Taleb)
+
 ## [Introductory Nuclear Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroductoryNuclearPhysics.md) (Kenneth Krane)
 
 ## [Outlive: The science and art of longevity](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/Outlive.md) (Peter Attia)
