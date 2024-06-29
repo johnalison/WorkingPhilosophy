@@ -1,5 +1,7 @@
 # 2024
 
+## [Waves In an Impossible Sea](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/WavesInImpossibleSea.md) (Matt Strassler)
+
 ## [Statistical Consequences of Fat Tails](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/FatTails.md) (Nassim Nicholas Taleb)
 
 ## [Introductory Nuclear Physics](https://github.com/johnalison/WorkingPhilosophy/blob/master/BookNotes/IntroductoryNuclearPhysics.md) (Kenneth Krane)
